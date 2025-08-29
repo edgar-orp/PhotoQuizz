@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2a8d69831430e3a48a89896fdaef492d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225712
+  packageName: Printer Plugin
+  packageVersion: v1.2.4
+  assetPath: Assets/BrnPrinterPlugin/Scripts/PrintDemo.cs
+  uploadId: 719128

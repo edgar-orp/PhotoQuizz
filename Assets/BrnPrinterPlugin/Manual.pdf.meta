@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec62dec71e6a6d947bd10e9ae5be68c4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225712
+  packageName: Printer Plugin
+  packageVersion: v1.2.4
+  assetPath: Assets/BrnPrinterPlugin/Manual.pdf
+  uploadId: 719128

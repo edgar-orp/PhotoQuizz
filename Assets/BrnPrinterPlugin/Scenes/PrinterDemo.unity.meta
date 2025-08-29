@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1e35e45fff40a34aaf689304bc533b4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225712
+  packageName: Printer Plugin
+  packageVersion: v1.2.4
+  assetPath: Assets/BrnPrinterPlugin/Scenes/PrinterDemo.unity
+  uploadId: 719128

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f03a5ea733c44848a116372927c3b7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225712
+  packageName: Printer Plugin
+  packageVersion: v1.2.4
+  assetPath: Assets/BrnPrinterPlugin/Scenes/PrinterDemoSettings.lighting
+  uploadId: 719128
