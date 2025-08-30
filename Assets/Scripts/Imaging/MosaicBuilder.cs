@@ -5,9 +5,17 @@ namespace dev.xrlab.photoquizz.Imaging
 {
     public class MosaicBuilder
     {
-        // 6x4" @ 300dpi → 1800x1200 (si prefieres retrato 4x6, invierte estas constantes)
-        public const int WIDTH = 1800;
-        public const int HEIGHT = 1200;
+        private readonly PhotoLayoutOrientation _layout;
+
+        // Constructor: por defecto Landscape
+        public MosaicBuilder(PhotoLayoutOrientation layout = PhotoLayoutOrientation.Landscape)
+        {
+            _layout = layout;
+        }
+
+        // Dimensiones según orientación
+        public int WIDTH => _layout == PhotoLayoutOrientation.Landscape ? 1800 : 1200;
+        public int HEIGHT => _layout == PhotoLayoutOrientation.Landscape ? 1200 : 1800;
 
         public Texture2D Build(List<Texture2D> photos)
         {
@@ -16,8 +24,8 @@ namespace dev.xrlab.photoquizz.Imaging
             for (int i = 0; i < clear.Length; i++) clear[i] = Color.white;
             canvas.SetPixels(clear);
 
-            int cw = WIDTH / 2;   // 900
-            int ch = HEIGHT / 2;  // 600
+            int cw = WIDTH / 2;   // tile width
+            int ch = HEIGHT / 2;  // tile height  -> en Portrait esto es 600x900 (aspect 2:3)
 
             for (int i = 0; i < 4; i++)
             {
@@ -27,7 +35,7 @@ namespace dev.xrlab.photoquizz.Imaging
 
                 if (src == null) continue;
 
-                // >>> NUEVO: recorta a 3:2 antes de escalar, para evitar deformar
+                // Recorta al aspect del tile antes de redimensionar (3:2 en Landscape, 2:3 en Portrait)
                 var cropped = TextureUtils.CropToAspect(src, cw, ch);
                 var resized = TextureUtils.Resize(cropped, cw, ch);
 
