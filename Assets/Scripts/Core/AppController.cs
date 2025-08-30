@@ -61,8 +61,9 @@ namespace dev.xrlab.photoquizz.Core
             bool ok = _printer.TryPrint(finalImg, out string savedPath);
             if (!ok)
             {
-                Debug.LogWarning($"[Print] Falló la impresión. Guardado en: {savedPath}");
-                // TODO: mostrar UIErrorModal
+                Debug.Log("[UI] TODO: Mostrar botón 'Retry' y reutilizar 'final' para reintentar.");
+                // Ejemplo posterior de retry:
+                // ok = _printer.TryPrint(finalImg, out savedPath);
             }
             else
             {
