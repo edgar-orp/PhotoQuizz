@@ -1,0 +1,4823 @@
+fileFormatVersion: 2
+guid: 6f2015940f0570046a332e8069fe91db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3871500622908681622
+    second: Emprendedor03_Diagnostico_0
+  - first:
+      213: -3135732309542078211
+    second: Emprendedor03_Diagnostico_1
+  - first:
+      213: 3239934470990100529
+    second: Emprendedor03_Diagnostico_2
+  - first:
+      213: 6555794061364521272
+    second: Emprendedor03_Diagnostico_3
+  - first:
+      213: 7342031418704846266
+    second: Emprendedor03_Diagnostico_4
+  - first:
+      213: 3378528851021863410
+    second: Emprendedor03_Diagnostico_5
+  - first:
+      213: 5419395365143620354
+    second: Emprendedor03_Diagnostico_6
+  - first:
+      213: 160572326349326123
+    second: Emprendedor03_Diagnostico_7
+  - first:
+      213: -4358142292620062147
+    second: Emprendedor03_Diagnostico_8
+  - first:
+      213: -6087679980381799348
+    second: Emprendedor03_Diagnostico_9
+  - first:
+      213: -1742549752125322592
+    second: Emprendedor03_Diagnostico_10
+  - first:
+      213: -6605920545905080700
+    second: Emprendedor03_Diagnostico_11
+  - first:
+      213: -2901273457507247899
+    second: Emprendedor03_Diagnostico_12
+  - first:
+      213: 3290058954271320907
+    second: Emprendedor03_Diagnostico_13
+  - first:
+      213: 2222973279348873344
+    second: Emprendedor03_Diagnostico_14
+  - first:
+      213: 4281544217929894898
+    second: Emprendedor03_Diagnostico_15
+  - first:
+      213: 8673864328631721230
+    second: Emprendedor03_Diagnostico_16
+  - first:
+      213: -4179574858320722181
+    second: Emprendedor03_Diagnostico_17
+  - first:
+      213: 101922758600758362
+    second: Emprendedor03_Diagnostico_18
+  - first:
+      213: 3668978699929458885
+    second: Emprendedor03_Diagnostico_19
+  - first:
+      213: 2020452505311484134
+    second: Emprendedor03_Diagnostico_20
+  - first:
+      213: 6350036353266207540
+    second: Emprendedor03_Diagnostico_21
+  - first:
+      213: 2577314944846968868
+    second: Emprendedor03_Diagnostico_22
+  - first:
+      213: 1588124199952881080
+    second: Emprendedor03_Diagnostico_23
+  - first:
+      213: 3937200028645968315
+    second: Emprendedor03_Diagnostico_24
+  - first:
+      213: 8041854091961731928
+    second: Emprendedor03_Diagnostico_25
+  - first:
+      213: -8474704620269357
+    second: Emprendedor03_Diagnostico_26
+  - first:
+      213: -4932902235149191872
+    second: Emprendedor03_Diagnostico_27
+  - first:
+      213: -4465459413742678724
+    second: Emprendedor03_Diagnostico_28
+  - first:
+      213: -4420344493311599033
+    second: Emprendedor03_Diagnostico_29
+  - first:
+      213: 7856284092436635122
+    second: Emprendedor03_Diagnostico_30
+  - first:
+      213: -1424804509693368053
+    second: Emprendedor03_Diagnostico_31
+  - first:
+      213: 551788867925195734
+    second: Emprendedor03_Diagnostico_32
+  - first:
+      213: 4835741651671911774
+    second: Emprendedor03_Diagnostico_33
+  - first:
+      213: 754908848726871092
+    second: Emprendedor03_Diagnostico_34
+  - first:
+      213: 7336284392279630454
+    second: Emprendedor03_Diagnostico_35
+  - first:
+      213: 2342069133386776990
+    second: Emprendedor03_Diagnostico_36
+  - first:
+      213: -6021679183923364682
+    second: Emprendedor03_Diagnostico_37
+  - first:
+      213: 5100470950594861211
+    second: Emprendedor03_Diagnostico_38
+  - first:
+      213: -4105444066164905056
+    second: Emprendedor03_Diagnostico_39
+  - first:
+      213: -1072111426927675875
+    second: Emprendedor03_Diagnostico_40
+  - first:
+      213: -5261642896394158716
+    second: Emprendedor03_Diagnostico_41
+  - first:
+      213: -7564857064717162863
+    second: Emprendedor03_Diagnostico_42
+  - first:
+      213: -3681533378911984686
+    second: Emprendedor03_Diagnostico_43
+  - first:
+      213: -7734641788549544355
+    second: Emprendedor03_Diagnostico_44
+  - first:
+      213: -7424540777774732998
+    second: Emprendedor03_Diagnostico_45
+  - first:
+      213: 1908207406368309559
+    second: Emprendedor03_Diagnostico_46
+  - first:
+      213: 2922473832479451010
+    second: Emprendedor03_Diagnostico_47
+  - first:
+      213: -6822582328789843803
+    second: Emprendedor03_Diagnostico_48
+  - first:
+      213: 6315201651378576683
+    second: Emprendedor03_Diagnostico_49
+  - first:
+      213: -3510285422114834417
+    second: Emprendedor03_Diagnostico_50
+  - first:
+      213: 7091783965708473978
+    second: Emprendedor03_Diagnostico_51
+  - first:
+      213: -5312597981118325646
+    second: Emprendedor03_Diagnostico_52
+  - first:
+      213: -9023695836495052990
+    second: Emprendedor03_Diagnostico_53
+  - first:
+      213: 5113437796531260510
+    second: Emprendedor03_Diagnostico_54
+  - first:
+      213: 5641965292297055693
+    second: Emprendedor03_Diagnostico_55
+  - first:
+      213: 1886610635915414728
+    second: Emprendedor03_Diagnostico_56
+  - first:
+      213: 2161810400055286302
+    second: Emprendedor03_Diagnostico_57
+  - first:
+      213: 755255940388498238
+    second: Emprendedor03_Diagnostico_58
+  - first:
+      213: -3369969237876656301
+    second: Emprendedor03_Diagnostico_59
+  - first:
+      213: 2993395262883610698
+    second: Emprendedor03_Diagnostico_60
+  - first:
+      213: -868953988979778974
+    second: Emprendedor03_Diagnostico_61
+  - first:
+      213: 1121151096169536221
+    second: Emprendedor03_Diagnostico_62
+  - first:
+      213: -6269967244769105234
+    second: Emprendedor03_Diagnostico_63
+  - first:
+      213: -3315151049290181927
+    second: Emprendedor03_Diagnostico_64
+  - first:
+      213: 2687226663450270533
+    second: Emprendedor03_Diagnostico_65
+  - first:
+      213: -4298686907893909601
+    second: Emprendedor03_Diagnostico_66
+  - first:
+      213: 149801956667371772
+    second: Emprendedor03_Diagnostico_67
+  - first:
+      213: -3579336087147257743
+    second: Emprendedor03_Diagnostico_68
+  - first:
+      213: 3134954513815801512
+    second: Emprendedor03_Diagnostico_69
+  - first:
+      213: -5810591285064452894
+    second: Emprendedor03_Diagnostico_70
+  - first:
+      213: 3804808974153834410
+    second: Emprendedor03_Diagnostico_71
+  - first:
+      213: -8389788217148850486
+    second: Emprendedor03_Diagnostico_72
+  - first:
+      213: 3586066006852665145
+    second: Emprendedor03_Diagnostico_73
+  - first:
+      213: 839568980055219926
+    second: Emprendedor03_Diagnostico_74
+  - first:
+      213: -8099509950214898697
+    second: Emprendedor03_Diagnostico_75
+  - first:
+      213: -4384406914021244463
+    second: Emprendedor03_Diagnostico_76
+  - first:
+      213: 3101807627383605195
+    second: Emprendedor03_Diagnostico_77
+  - first:
+      213: -8397767283413058658
+    second: Emprendedor03_Diagnostico_78
+  - first:
+      213: 5202350011227507894
+    second: Emprendedor03_Diagnostico_79
+  - first:
+      213: -4161649258209070260
+    second: Emprendedor03_Diagnostico_80
+  - first:
+      213: -5933587079126031537
+    second: Emprendedor03_Diagnostico_81
+  - first:
+      213: -4390406078396891770
+    second: Emprendedor03_Diagnostico_82
+  - first:
+      213: -4612241449986047804
+    second: Emprendedor03_Diagnostico_83
+  - first:
+      213: -3070731914678474499
+    second: Emprendedor03_Diagnostico_84
+  - first:
+      213: -1020322516329097974
+    second: Emprendedor03_Diagnostico_85
+  - first:
+      213: 5380179373840113367
+    second: Emprendedor03_Diagnostico_86
+  - first:
+      213: 3015363521156736639
+    second: Emprendedor03_Diagnostico_87
+  - first:
+      213: 324985671900769192
+    second: Emprendedor03_Diagnostico_88
+  - first:
+      213: -5958567634830256947
+    second: Emprendedor03_Diagnostico_89
+  - first:
+      213: -5192760218676960561
+    second: Emprendedor03_Diagnostico_90
+  - first:
+      213: -6723816327671611775
+    second: Emprendedor03_Diagnostico_91
+  - first:
+      213: -217560239588617872
+    second: Emprendedor03_Diagnostico_92
+  - first:
+      213: -7348111402702531117
+    second: Emprendedor03_Diagnostico_93
+  - first:
+      213: -3118303303557948157
+    second: Emprendedor03_Diagnostico_94
+  - first:
+      213: 6650372294875821226
+    second: Emprendedor03_Diagnostico_95
+  - first:
+      213: -2817547175303569009
+    second: Emprendedor03_Diagnostico_96
+  - first:
+      213: 8327914052014947768
+    second: Emprendedor03_Diagnostico_97
+  - first:
+      213: -663013495537600606
+    second: Emprendedor03_Diagnostico_98
+  - first:
+      213: -2117666836883053457
+    second: Emprendedor03_Diagnostico_99
+  - first:
+      213: -4682783716964530191
+    second: Emprendedor03_Diagnostico_100
+  - first:
+      213: 2583890943594744775
+    second: Emprendedor03_Diagnostico_101
+  - first:
+      213: -7681564305495685385
+    second: Emprendedor03_Diagnostico_102
+  - first:
+      213: -2241253619968848168
+    second: Emprendedor03_Diagnostico_103
+  - first:
+      213: -2099011820827402195
+    second: Emprendedor03_Diagnostico_104
+  - first:
+      213: 4417000345166854605
+    second: Emprendedor03_Diagnostico_105
+  - first:
+      213: -4000235072096120573
+    second: Emprendedor03_Diagnostico_106
+  - first:
+      213: -4597216604489845304
+    second: Emprendedor03_Diagnostico_107
+  - first:
+      213: 8666305013459018179
+    second: Emprendedor03_Diagnostico_108
+  - first:
+      213: 6064432295595084392
+    second: Emprendedor03_Diagnostico_109
+  - first:
+      213: -1649223740205352013
+    second: Emprendedor03_Diagnostico_110
+  - first:
+      213: 6239122497531974634
+    second: Emprendedor03_Diagnostico_111
+  - first:
+      213: -157983524995923543
+    second: Emprendedor03_Diagnostico_112
+  - first:
+      213: 3393747526233386690
+    second: Emprendedor03_Diagnostico_113
+  - first:
+      213: -860325703438157283
+    second: Emprendedor03_Diagnostico_114
+  - first:
+      213: 3407740383081133299
+    second: Emprendedor03_Diagnostico_115
+  - first:
+      213: -5855687681719512203
+    second: Emprendedor03_Diagnostico_116
+  - first:
+      213: 8640961117357396486
+    second: Emprendedor03_Diagnostico_117
+  - first:
+      213: 8025202669174654824
+    second: Emprendedor03_Diagnostico_118
+  - first:
+      213: -8733450977603219933
+    second: Emprendedor03_Diagnostico_119
+  - first:
+      213: 185076514198533344
+    second: Emprendedor03_Diagnostico_120
+  - first:
+      213: 9099677241934548992
+    second: Emprendedor03_Diagnostico_121
+  - first:
+      213: 2203004652685105970
+    second: Emprendedor03_Diagnostico_122
+  - first:
+      213: 217428020768123732
+    second: Emprendedor03_Diagnostico_123
+  - first:
+      213: -85269535821600005
+    second: Emprendedor03_Diagnostico_124
+  - first:
+      213: 6418307289923713306
+    second: Emprendedor03_Diagnostico_125
+  - first:
+      213: 8496290157846285214
+    second: Emprendedor03_Diagnostico_126
+  - first:
+      213: 7773822177303369454
+    second: Emprendedor03_Diagnostico_127
+  - first:
+      213: -4614987743490728047
+    second: Emprendedor03_Diagnostico_128
+  - first:
+      213: -7379992164523154141
+    second: Emprendedor03_Diagnostico_129
+  - first:
+      213: 2446315474832950100
+    second: Emprendedor03_Diagnostico_130
+  - first:
+      213: 3756418276518771451
+    second: Emprendedor03_Diagnostico_131
+  - first:
+      213: 6000385833983579574
+    second: Emprendedor03_Diagnostico_132
+  - first:
+      213: 7047867082840124997
+    second: Emprendedor03_Diagnostico_133
+  - first:
+      213: 6521871748583882762
+    second: Emprendedor03_Diagnostico_134
+  - first:
+      213: -7465339198360043960
+    second: Emprendedor03_Diagnostico_135
+  - first:
+      213: 1847319598462104639
+    second: Emprendedor03_Diagnostico_136
+  - first:
+      213: -8041595207960169775
+    second: Emprendedor03_Diagnostico_137
+  - first:
+      213: -5017013695880560312
+    second: Emprendedor03_Diagnostico_138
+  - first:
+      213: 7159559907129702610
+    second: Emprendedor03_Diagnostico_139
+  - first:
+      213: 8228252335860490002
+    second: Emprendedor03_Diagnostico_140
+  - first:
+      213: 2365111949263988302
+    second: Emprendedor03_Diagnostico_141
+  - first:
+      213: -6452250242078636665
+    second: Emprendedor03_Diagnostico_142
+  - first:
+      213: 2865299955753288753
+    second: Emprendedor03_Diagnostico_143
+  - first:
+      213: 6690662649569751018
+    second: Emprendedor03_Diagnostico_144
+  - first:
+      213: -5201255275860016331
+    second: Emprendedor03_Diagnostico_145
+  - first:
+      213: 3032323205873418704
+    second: Emprendedor03_Diagnostico_146
+  - first:
+      213: -4683001005246006941
+    second: Emprendedor03_Diagnostico_147
+  - first:
+      213: 1545599305779785190
+    second: Emprendedor03_Diagnostico_148
+  - first:
+      213: -8721130951729129924
+    second: Emprendedor03_Diagnostico_149
+  - first:
+      213: -4861517232263327902
+    second: Emprendedor03_Diagnostico_150
+  - first:
+      213: -6304403816209938549
+    second: Emprendedor03_Diagnostico_151
+  - first:
+      213: -79968710601859982
+    second: Emprendedor03_Diagnostico_152
+  - first:
+      213: -4384636516122401910
+    second: Emprendedor03_Diagnostico_153
+  - first:
+      213: -778328096138400448
+    second: Emprendedor03_Diagnostico_154
+  - first:
+      213: -6304816586178285687
+    second: Emprendedor03_Diagnostico_155
+  - first:
+      213: 1827746532814397544
+    second: Emprendedor03_Diagnostico_156
+  - first:
+      213: -1346606086426307602
+    second: Emprendedor03_Diagnostico_157
+  - first:
+      213: 5886833645152668744
+    second: Emprendedor03_Diagnostico_158
+  - first:
+      213: 3793731142764059474
+    second: Emprendedor03_Diagnostico_159
+  - first:
+      213: -4089096131638816091
+    second: Emprendedor03_Diagnostico_160
+  - first:
+      213: -106497212343296235
+    second: Emprendedor03_Diagnostico_161
+  - first:
+      213: 2830091463805143345
+    second: Emprendedor03_Diagnostico_162
+  - first:
+      213: 408339594089546247
+    second: Emprendedor03_Diagnostico_163
+  - first:
+      213: 8158813423359093466
+    second: Emprendedor03_Diagnostico_164
+  - first:
+      213: 1329551445909925673
+    second: Emprendedor03_Diagnostico_165
+  - first:
+      213: -3871303555377116947
+    second: Emprendedor03_Diagnostico_166
+  - first:
+      213: 5858107609768865553
+    second: Emprendedor03_Diagnostico_167
+  - first:
+      213: -4101883409306508650
+    second: Emprendedor03_Diagnostico_168
+  - first:
+      213: 5106471415605491215
+    second: Emprendedor03_Diagnostico_169
+  - first:
+      213: -3437776754565781203
+    second: Emprendedor03_Diagnostico_170
+  - first:
+      213: -1210938759619449765
+    second: Emprendedor03_Diagnostico_171
+  - first:
+      213: -692048428179502198
+    second: Emprendedor03_Diagnostico_172
+  - first:
+      213: 5156909175522322546
+    second: Emprendedor03_Diagnostico_173
+  - first:
+      213: 9056192987639064735
+    second: Emprendedor03_Diagnostico_174
+  - first:
+      213: -7783985788068451320
+    second: Emprendedor03_Diagnostico_175
+  - first:
+      213: -3570045986252177040
+    second: Emprendedor03_Diagnostico_176
+  - first:
+      213: 6703542629682759316
+    second: Emprendedor03_Diagnostico_177
+  - first:
+      213: -8926588019906644437
+    second: Emprendedor03_Diagnostico_178
+  - first:
+      213: -33185146811145251
+    second: Emprendedor03_Diagnostico_179
+  - first:
+      213: -486083482176688106
+    second: Emprendedor03_Diagnostico_180
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 360
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6213df02baa54ac0800000000000000
+      internalID: -3871500622908681622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 400
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8770b0414ab74d0800000000000000
+      internalID: -3135732309542078211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 400
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13878e64c3f86fc20800000000000000
+      internalID: 3239934470990100529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 360
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8396f38f6fbdafa50800000000000000
+      internalID: 6555794061364521272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 400
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdd8a1fca224e560800000000000000
+      internalID: 7342031418704846266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 361
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9119cf612f2ee20800000000000000
+      internalID: 3378528851021863410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 360
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ba8c41f5f853b40800000000000000
+      internalID: 5419395365143620354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 346
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b274fc81ea77a3200800000000000000
+      internalID: 160572326349326123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 361
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3256cfdca4c483c0800000000000000
+      internalID: -4358142292620062147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 360
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cf51fcf47348ba0800000000000000
+      internalID: -6087679980381799348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 360
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa002d9b3831d7e0800000000000000
+      internalID: -1742549752125322592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 361
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4868fde534e0354a0800000000000000
+      internalID: -6605920545905080700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 360
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8d209792b9cb7d0800000000000000
+      internalID: -2901273457507247899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 360
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b6f6bff23a8ad20800000000000000
+      internalID: 3290058954271320907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08856c47b6699de10800000000000000
+      internalID: 2222973279348873344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 219
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc6d718c91b6b30800000000000000
+      internalID: 4281544217929894898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d960a96a1cf5870800000000000000
+      internalID: 8673864328631721230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6c3a98fca2ff5c0800000000000000
+      internalID: -4179574858320722181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 219
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a541dec753a1a6100800000000000000
+      internalID: 101922758600758362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 220
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c815c140b4dae230800000000000000
+      internalID: 3668978699929458885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e893a849d61a0c10800000000000000
+      internalID: 2020452505311484134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bcf3b5b6cdf1850800000000000000
+      internalID: 6350036353266207540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428b8e1894674c320800000000000000
+      internalID: 2577314944846968868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5946dab862a0610800000000000000
+      internalID: 1588124199952881080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9c91dd09eb3a630800000000000000
+      internalID: 3937200028645968315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b86e660b76a9f60800000000000000
+      internalID: 8041854091961731928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d058811d44e1eff0800000000000000
+      internalID: -8474704620269357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 220
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045b3328d8fca8bb0800000000000000
+      internalID: -4932902235149191872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d81fc72508702c0800000000000000
+      internalID: -4465459413742678724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ede437a18c7a2c0800000000000000
+      internalID: -4420344493311599033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 219
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddc38f1c0270d60800000000000000
+      internalID: 7856284092436635122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 219
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092a5de8d31a3ce0800000000000000
+      internalID: -1424804509693368053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_32
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db32b74d0958a700800000000000000
+      internalID: 551788867925195734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 244
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d077d49610c1340800000000000000
+      internalID: 4835741651671911774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c0a262999f97a00800000000000000
+      internalID: 754908848726871092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_35
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 219
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e11519c7bfc560800000000000000
+      internalID: 7336284392279630454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e910deec773b08020800000000000000
+      internalID: 2342069133386776990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 220
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc32eabfa2be6ca0800000000000000
+      internalID: -6021679183923364682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_38
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d76d5e4388c640800000000000000
+      internalID: 5100470950594861211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_39
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 219
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab61079f588607c0800000000000000
+      internalID: -4105444066164905056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b65666581f11f0800000000000000
+      internalID: -1072111426927675875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_41
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df771c9a3eaf6b0800000000000000
+      internalID: -5261642896394158716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196ede8749a340790800000000000000
+      internalID: -7564857064717162863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_43
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 220
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d32531c5e098ecc0800000000000000
+      internalID: -3681533378911984686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56cc90f54809a490800000000000000
+      internalID: -7734641788549544355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39a550ef7bb6f890800000000000000
+      internalID: -7424540777774732998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 220
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7314a56a6805b7a10800000000000000
+      internalID: 1908207406368309559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_47
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 220
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287ef4a7776be8820800000000000000
+      internalID: 2922473832479451010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_48
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0cf9105815151a0800000000000000
+      internalID: -6822582328789843803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d516b417a14a750800000000000000
+      internalID: 6315201651378576683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 191
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08fc92c106f84fc0800000000000000
+      internalID: -3510285422114834417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a765dd361f31b6260800000000000000
+      internalID: 7091783965708473978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 167
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c1cf4984cd546b0800000000000000
+      internalID: -5312597981118325646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f7a80427465c280800000000000000
+      internalID: -9023695836495052990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 166
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4d43759496f640800000000000000
+      internalID: 5113437796531260510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcde27a7a894c4e40800000000000000
+      internalID: 5641965292297055693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc463fa0669e2a10800000000000000
+      internalID: 1886610635915414728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a5a07ea1b400e10800000000000000
+      internalID: 2161810400055286302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b2c59b6453b7a00800000000000000
+      internalID: 755255940388498238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3573e5045d67b31d0800000000000000
+      internalID: -3369969237876656301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c384c12daa8920800000000000000
+      internalID: 2993395262883610698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_61
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a93b073fad0f3f0800000000000000
+      internalID: -868953988979778974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 166
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda99ba5bf02f8f00800000000000000
+      internalID: 1121151096169536221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae336b20a9cf8a0800000000000000
+      internalID: -6269967244769105234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_64
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d29b426fa73ef1d0800000000000000
+      internalID: -3315151049290181927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 191
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b59e1b962fa4520800000000000000
+      internalID: 2687226663450270533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_66
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f977c5e580ff754c0800000000000000
+      internalID: -4298686907893909601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_67
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 166
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf031ddf514341200800000000000000
+      internalID: 149801956667371772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_68
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 166
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170e9d9fac4a35ec0800000000000000
+      internalID: -3579336087147257743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_69
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae8ff64588918b20800000000000000
+      internalID: 3134954513815801512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_70
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b0c61302ac5fa0800000000000000
+      internalID: -5810591285064452894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf58ae6a956dc430800000000000000
+      internalID: 3804808974153834410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_72
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceb518411c719b80800000000000000
+      internalID: -8389788217148850486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_73
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f7e8f880444c130800000000000000
+      internalID: 3586066006852665145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_74
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 166
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded0a40a8fb6ab00800000000000000
+      internalID: 839568980055219926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbf2b20d92c89f80800000000000000
+      internalID: -8099509950214898697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_76
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 167
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14ffa24257723c0800000000000000
+      internalID: -4384406914021244463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_77
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc70ccf5a95db0b20800000000000000
+      internalID: 3101807627383605195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_78
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 166
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b74c52623257b80800000000000000
+      internalID: -8397767283413058658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_79
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc0770a5c5723840800000000000000
+      internalID: 5202350011227507894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433eac8c0ade36c0800000000000000
+      internalID: -4161649258209070260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_81
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 167
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4368d03df9a7ada0800000000000000
+      internalID: -5933587079126031537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dff6ddee42213c0800000000000000
+      internalID: -4390406078396891770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_83
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0cf3386d60effb0800000000000000
+      internalID: -4612241449986047804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_84
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df86221d7919265d0800000000000000
+      internalID: -3070731914678474499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_85
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a051fd9c31617d1f0800000000000000
+      internalID: -1020322516329097974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_86
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de9f9592ac3aaa40800000000000000
+      internalID: 5380179373840113367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_87
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e73b7529b8d920800000000000000
+      internalID: 3015363521156736639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_88
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abacba2fb4928400800000000000000
+      internalID: 324985671900769192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49dc35e4aee4da0800000000000000
+      internalID: -5958567634830256947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_90
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2eaf1f71c9fe7b0800000000000000
+      internalID: -5192760218676960561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 113
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e792e9ca430b2a0800000000000000
+      internalID: -6723816327671611775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07152126d121bfcf0800000000000000
+      internalID: -217560239588617872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_93
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d51be77c93460a90800000000000000
+      internalID: -7348111402702531117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_94
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d5089baaf89b4d0800000000000000
+      internalID: -3118303303557948157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_95
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 113
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa43c24fd5eda4c50800000000000000
+      internalID: 6650372294875821226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_96
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f812026a5cf06e8d0800000000000000
+      internalID: -2817547175303569009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_97
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdb55605b1b29370800000000000000
+      internalID: 8327914052014947768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_98
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7f0351db08cc6f0800000000000000
+      internalID: -663013495537600606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_99
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e5f25b398c92e0800000000000000
+      internalID: -2117666836883053457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_100
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 138
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f788561509630fb0800000000000000
+      internalID: -4682783716964530191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_101
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 105
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb40578f13dbd320800000000000000
+      internalID: 2583890943594744775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_102
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f60c9b76f9956590800000000000000
+      internalID: -7681564305495685385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_103
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 113
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec23215b775e0e0800000000000000
+      internalID: -2241253619968848168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_104
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20ac38bedfced2e0800000000000000
+      internalID: -2099011820827402195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_105
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 113
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9b27269665c4d30800000000000000
+      internalID: 4417000345166854605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_106
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d6a5656f4c78c0800000000000000
+      internalID: -4000235072096120573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_107
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5fad5fad76330c0800000000000000
+      internalID: -4597216604489845304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_108
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c169626e76e44870800000000000000
+      internalID: 8666305013459018179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_109
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0a57ca01392450800000000000000
+      internalID: 6064432295595084392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_110
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb3be90fb7cc19e0800000000000000
+      internalID: -1649223740205352013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_111
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 113
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae39a8fead0d59650800000000000000
+      internalID: 6239122497531974634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_112
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 114
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1014032dabecdf0800000000000000
+      internalID: -157983524995923543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_113
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce608ee463091f20800000000000000
+      internalID: 3393747526233386690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_114
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 114
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3e67b4528f04f0800000000000000
+      internalID: -860325703438157283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_115
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4fd4cc2d9ba4f20800000000000000
+      internalID: 3407740383081133299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_116
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735a77041b6cbea0800000000000000
+      internalID: -5855687681719512203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_117
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602dc0eba5cdae770800000000000000
+      internalID: 8640961117357396486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_118
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 114
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8670caaee4f3f5f60800000000000000
+      internalID: 8025202669174654824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_119
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0ca09b9c8cc680800000000000000
+      internalID: -8733450977603219933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 61
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4321deb16819200800000000000000
+      internalID: 185076514198533344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00017384d3c884e70800000000000000
+      internalID: 9099677241934548992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 61
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b14d14f05a29e10800000000000000
+      internalID: 2203004652685105970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_123
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ba91602a5740300800000000000000
+      internalID: 217428020768123732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_124
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfae0371fcf01def0800000000000000
+      internalID: -85269535821600005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_125
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19f33b7978621950800000000000000
+      internalID: 6418307289923713306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_126
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b431f12e2e8e570800000000000000
+      internalID: 8496290157846285214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_127
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69831351a22eb60800000000000000
+      internalID: 7773822177303369454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_128
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f147a391544ffb0800000000000000
+      internalID: -4614987743490728047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_129
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3256e6c2a30059990800000000000000
+      internalID: -7379992164523154141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_130
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 52
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45385f596fe03f120800000000000000
+      internalID: 2446315474832950100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_131
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfabfa7258a712430800000000000000
+      internalID: 3756418276518771451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_132
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 61
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b590e5ef17a54350800000000000000
+      internalID: 6000385833983579574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_133
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 52
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eaad845cd0fc160800000000000000
+      internalID: 7047867082840124997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_134
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008ffc0dc7528a50800000000000000
+      internalID: 6521871748583882762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_135
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 60
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e33f95d89c56890800000000000000
+      internalID: -7465339198360043960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_136
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3473f4236ff2a910800000000000000
+      internalID: 1847319598462104639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_137
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 60
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2fc0ab3c3866090800000000000000
+      internalID: -8041595207960169775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_138
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84105c7ff9cff5ab0800000000000000
+      internalID: -5017013695880560312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_139
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 52
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d838947dcddb5360800000000000000
+      internalID: 7159559907129702610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_140
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1e3187ef903270800000000000000
+      internalID: 8228252335860490002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_141
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4669e579c092d020800000000000000
+      internalID: 2365111949263988302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_142
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78589fe17900576a0800000000000000
+      internalID: -6452250242078636665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_143
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1340e95f02793c720800000000000000
+      internalID: 2865299955753288753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_144
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef249b2b320adc50800000000000000
+      internalID: 6690662649569751018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_145
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 61
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533cc3052ed61d7b0800000000000000
+      internalID: -5201255275860016331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_146
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1424ac3e9f41a20800000000000000
+      internalID: 3032323205873418704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_147
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369b387b563a20fb0800000000000000
+      internalID: -4683001005246006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_148
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed28123162137510800000000000000
+      internalID: 1545599305779785190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_149
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36558e1b9158f680800000000000000
+      internalID: -8721130951729129924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_150
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f018da5db688cb0800000000000000
+      internalID: -4861517232263327902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_151
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87803e91224288a0800000000000000
+      internalID: -6304403816209938549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_152
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c1e63a1e4e3eef0800000000000000
+      internalID: -79968710601859982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_153
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a836153c154a623c0800000000000000
+      internalID: -4384636516122401910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_154
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de6f668b2d235f0800000000000000
+      internalID: -778328096138400448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_155
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f2ade18bac088a0800000000000000
+      internalID: -6304816586178285687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_156
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860aadba9c57d5910800000000000000
+      internalID: 1827746532814397544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_157
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee35e2626e4ef4de0800000000000000
+      internalID: -1346606086426307602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_158
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 8
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c842fa20c32b150800000000000000
+      internalID: 5886833645152668744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_159
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd9c1df5a06a430800000000000000
+      internalID: 3793731142764059474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_160
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 7
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a29e35bbbc9047c0800000000000000
+      internalID: -4089096131638816091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_161
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f55b08955a58ef0800000000000000
+      internalID: -106497212343296235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_162
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13988fd1131864720800000000000000
+      internalID: 2830091463805143345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_163
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 7
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024f6582b6baa500800000000000000
+      internalID: 408339594089546247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_164
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae100d49de93170800000000000000
+      internalID: 8158813423359093466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_165
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f611ceef3837210800000000000000
+      internalID: 1329551445909925673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_166
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de84a0c6ded564ac0800000000000000
+      internalID: -3871303555377116947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_167
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f294065dd2c4150800000000000000
+      internalID: 5858107609768865553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_168
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692a73e95ce2317c0800000000000000
+      internalID: -4101883409306508650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_169
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06f9de72b4ddd640800000000000000
+      internalID: 5106471415605491215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_170
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29e20f71409a40d0800000000000000
+      internalID: -3437776754565781203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_171
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c612c2d91e13fe0800000000000000
+      internalID: -1210938759619449765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_172
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b4ef60f995566f0800000000000000
+      internalID: -692048428179502198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_173
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 7
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278e5f99295019740800000000000000
+      internalID: 5156909175522322546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_174
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f982c9d5a8f0ead70800000000000000
+      internalID: 9056192987639064735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_175
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cad75ca2ab9f390800000000000000
+      internalID: -7783985788068451320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_176
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 8
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07141a52716a47ec0800000000000000
+      internalID: -3570045986252177040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_177
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496cdea3184c70d50800000000000000
+      internalID: 6703542629682759316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_178
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26f431bd736e1480800000000000000
+      internalID: -8926588019906644437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_179
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 8
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a088e84a1a8ff0800000000000000
+      internalID: -33185146811145251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Diagnostico_180
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6107ca9f5a51149f0800000000000000
+      internalID: -486083482176688106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emprendedor03_Diagnostico_0: -3871500622908681622
+      Emprendedor03_Diagnostico_1: -3135732309542078211
+      Emprendedor03_Diagnostico_10: -1742549752125322592
+      Emprendedor03_Diagnostico_100: -4682783716964530191
+      Emprendedor03_Diagnostico_101: 2583890943594744775
+      Emprendedor03_Diagnostico_102: -7681564305495685385
+      Emprendedor03_Diagnostico_103: -2241253619968848168
+      Emprendedor03_Diagnostico_104: -2099011820827402195
+      Emprendedor03_Diagnostico_105: 4417000345166854605
+      Emprendedor03_Diagnostico_106: -4000235072096120573
+      Emprendedor03_Diagnostico_107: -4597216604489845304
+      Emprendedor03_Diagnostico_108: 8666305013459018179
+      Emprendedor03_Diagnostico_109: 6064432295595084392
+      Emprendedor03_Diagnostico_11: -6605920545905080700
+      Emprendedor03_Diagnostico_110: -1649223740205352013
+      Emprendedor03_Diagnostico_111: 6239122497531974634
+      Emprendedor03_Diagnostico_112: -157983524995923543
+      Emprendedor03_Diagnostico_113: 3393747526233386690
+      Emprendedor03_Diagnostico_114: -860325703438157283
+      Emprendedor03_Diagnostico_115: 3407740383081133299
+      Emprendedor03_Diagnostico_116: -5855687681719512203
+      Emprendedor03_Diagnostico_117: 8640961117357396486
+      Emprendedor03_Diagnostico_118: 8025202669174654824
+      Emprendedor03_Diagnostico_119: -8733450977603219933
+      Emprendedor03_Diagnostico_12: -2901273457507247899
+      Emprendedor03_Diagnostico_120: 185076514198533344
+      Emprendedor03_Diagnostico_121: 9099677241934548992
+      Emprendedor03_Diagnostico_122: 2203004652685105970
+      Emprendedor03_Diagnostico_123: 217428020768123732
+      Emprendedor03_Diagnostico_124: -85269535821600005
+      Emprendedor03_Diagnostico_125: 6418307289923713306
+      Emprendedor03_Diagnostico_126: 8496290157846285214
+      Emprendedor03_Diagnostico_127: 7773822177303369454
+      Emprendedor03_Diagnostico_128: -4614987743490728047
+      Emprendedor03_Diagnostico_129: -7379992164523154141
+      Emprendedor03_Diagnostico_13: 3290058954271320907
+      Emprendedor03_Diagnostico_130: 2446315474832950100
+      Emprendedor03_Diagnostico_131: 3756418276518771451
+      Emprendedor03_Diagnostico_132: 6000385833983579574
+      Emprendedor03_Diagnostico_133: 7047867082840124997
+      Emprendedor03_Diagnostico_134: 6521871748583882762
+      Emprendedor03_Diagnostico_135: -7465339198360043960
+      Emprendedor03_Diagnostico_136: 1847319598462104639
+      Emprendedor03_Diagnostico_137: -8041595207960169775
+      Emprendedor03_Diagnostico_138: -5017013695880560312
+      Emprendedor03_Diagnostico_139: 7159559907129702610
+      Emprendedor03_Diagnostico_14: 2222973279348873344
+      Emprendedor03_Diagnostico_140: 8228252335860490002
+      Emprendedor03_Diagnostico_141: 2365111949263988302
+      Emprendedor03_Diagnostico_142: -6452250242078636665
+      Emprendedor03_Diagnostico_143: 2865299955753288753
+      Emprendedor03_Diagnostico_144: 6690662649569751018
+      Emprendedor03_Diagnostico_145: -5201255275860016331
+      Emprendedor03_Diagnostico_146: 3032323205873418704
+      Emprendedor03_Diagnostico_147: -4683001005246006941
+      Emprendedor03_Diagnostico_148: 1545599305779785190
+      Emprendedor03_Diagnostico_149: -8721130951729129924
+      Emprendedor03_Diagnostico_15: 4281544217929894898
+      Emprendedor03_Diagnostico_150: -4861517232263327902
+      Emprendedor03_Diagnostico_151: -6304403816209938549
+      Emprendedor03_Diagnostico_152: -79968710601859982
+      Emprendedor03_Diagnostico_153: -4384636516122401910
+      Emprendedor03_Diagnostico_154: -778328096138400448
+      Emprendedor03_Diagnostico_155: -6304816586178285687
+      Emprendedor03_Diagnostico_156: 1827746532814397544
+      Emprendedor03_Diagnostico_157: -1346606086426307602
+      Emprendedor03_Diagnostico_158: 5886833645152668744
+      Emprendedor03_Diagnostico_159: 3793731142764059474
+      Emprendedor03_Diagnostico_16: 8673864328631721230
+      Emprendedor03_Diagnostico_160: -4089096131638816091
+      Emprendedor03_Diagnostico_161: -106497212343296235
+      Emprendedor03_Diagnostico_162: 2830091463805143345
+      Emprendedor03_Diagnostico_163: 408339594089546247
+      Emprendedor03_Diagnostico_164: 8158813423359093466
+      Emprendedor03_Diagnostico_165: 1329551445909925673
+      Emprendedor03_Diagnostico_166: -3871303555377116947
+      Emprendedor03_Diagnostico_167: 5858107609768865553
+      Emprendedor03_Diagnostico_168: -4101883409306508650
+      Emprendedor03_Diagnostico_169: 5106471415605491215
+      Emprendedor03_Diagnostico_17: -4179574858320722181
+      Emprendedor03_Diagnostico_170: -3437776754565781203
+      Emprendedor03_Diagnostico_171: -1210938759619449765
+      Emprendedor03_Diagnostico_172: -692048428179502198
+      Emprendedor03_Diagnostico_173: 5156909175522322546
+      Emprendedor03_Diagnostico_174: 9056192987639064735
+      Emprendedor03_Diagnostico_175: -7783985788068451320
+      Emprendedor03_Diagnostico_176: -3570045986252177040
+      Emprendedor03_Diagnostico_177: 6703542629682759316
+      Emprendedor03_Diagnostico_178: -8926588019906644437
+      Emprendedor03_Diagnostico_179: -33185146811145251
+      Emprendedor03_Diagnostico_18: 101922758600758362
+      Emprendedor03_Diagnostico_180: -486083482176688106
+      Emprendedor03_Diagnostico_19: 3668978699929458885
+      Emprendedor03_Diagnostico_2: 3239934470990100529
+      Emprendedor03_Diagnostico_20: 2020452505311484134
+      Emprendedor03_Diagnostico_21: 6350036353266207540
+      Emprendedor03_Diagnostico_22: 2577314944846968868
+      Emprendedor03_Diagnostico_23: 1588124199952881080
+      Emprendedor03_Diagnostico_24: 3937200028645968315
+      Emprendedor03_Diagnostico_25: 8041854091961731928
+      Emprendedor03_Diagnostico_26: -8474704620269357
+      Emprendedor03_Diagnostico_27: -4932902235149191872
+      Emprendedor03_Diagnostico_28: -4465459413742678724
+      Emprendedor03_Diagnostico_29: -4420344493311599033
+      Emprendedor03_Diagnostico_3: 6555794061364521272
+      Emprendedor03_Diagnostico_30: 7856284092436635122
+      Emprendedor03_Diagnostico_31: -1424804509693368053
+      Emprendedor03_Diagnostico_32: 551788867925195734
+      Emprendedor03_Diagnostico_33: 4835741651671911774
+      Emprendedor03_Diagnostico_34: 754908848726871092
+      Emprendedor03_Diagnostico_35: 7336284392279630454
+      Emprendedor03_Diagnostico_36: 2342069133386776990
+      Emprendedor03_Diagnostico_37: -6021679183923364682
+      Emprendedor03_Diagnostico_38: 5100470950594861211
+      Emprendedor03_Diagnostico_39: -4105444066164905056
+      Emprendedor03_Diagnostico_4: 7342031418704846266
+      Emprendedor03_Diagnostico_40: -1072111426927675875
+      Emprendedor03_Diagnostico_41: -5261642896394158716
+      Emprendedor03_Diagnostico_42: -7564857064717162863
+      Emprendedor03_Diagnostico_43: -3681533378911984686
+      Emprendedor03_Diagnostico_44: -7734641788549544355
+      Emprendedor03_Diagnostico_45: -7424540777774732998
+      Emprendedor03_Diagnostico_46: 1908207406368309559
+      Emprendedor03_Diagnostico_47: 2922473832479451010
+      Emprendedor03_Diagnostico_48: -6822582328789843803
+      Emprendedor03_Diagnostico_49: 6315201651378576683
+      Emprendedor03_Diagnostico_5: 3378528851021863410
+      Emprendedor03_Diagnostico_50: -3510285422114834417
+      Emprendedor03_Diagnostico_51: 7091783965708473978
+      Emprendedor03_Diagnostico_52: -5312597981118325646
+      Emprendedor03_Diagnostico_53: -9023695836495052990
+      Emprendedor03_Diagnostico_54: 5113437796531260510
+      Emprendedor03_Diagnostico_55: 5641965292297055693
+      Emprendedor03_Diagnostico_56: 1886610635915414728
+      Emprendedor03_Diagnostico_57: 2161810400055286302
+      Emprendedor03_Diagnostico_58: 755255940388498238
+      Emprendedor03_Diagnostico_59: -3369969237876656301
+      Emprendedor03_Diagnostico_6: 5419395365143620354
+      Emprendedor03_Diagnostico_60: 2993395262883610698
+      Emprendedor03_Diagnostico_61: -868953988979778974
+      Emprendedor03_Diagnostico_62: 1121151096169536221
+      Emprendedor03_Diagnostico_63: -6269967244769105234
+      Emprendedor03_Diagnostico_64: -3315151049290181927
+      Emprendedor03_Diagnostico_65: 2687226663450270533
+      Emprendedor03_Diagnostico_66: -4298686907893909601
+      Emprendedor03_Diagnostico_67: 149801956667371772
+      Emprendedor03_Diagnostico_68: -3579336087147257743
+      Emprendedor03_Diagnostico_69: 3134954513815801512
+      Emprendedor03_Diagnostico_7: 160572326349326123
+      Emprendedor03_Diagnostico_70: -5810591285064452894
+      Emprendedor03_Diagnostico_71: 3804808974153834410
+      Emprendedor03_Diagnostico_72: -8389788217148850486
+      Emprendedor03_Diagnostico_73: 3586066006852665145
+      Emprendedor03_Diagnostico_74: 839568980055219926
+      Emprendedor03_Diagnostico_75: -8099509950214898697
+      Emprendedor03_Diagnostico_76: -4384406914021244463
+      Emprendedor03_Diagnostico_77: 3101807627383605195
+      Emprendedor03_Diagnostico_78: -8397767283413058658
+      Emprendedor03_Diagnostico_79: 5202350011227507894
+      Emprendedor03_Diagnostico_8: -4358142292620062147
+      Emprendedor03_Diagnostico_80: -4161649258209070260
+      Emprendedor03_Diagnostico_81: -5933587079126031537
+      Emprendedor03_Diagnostico_82: -4390406078396891770
+      Emprendedor03_Diagnostico_83: -4612241449986047804
+      Emprendedor03_Diagnostico_84: -3070731914678474499
+      Emprendedor03_Diagnostico_85: -1020322516329097974
+      Emprendedor03_Diagnostico_86: 5380179373840113367
+      Emprendedor03_Diagnostico_87: 3015363521156736639
+      Emprendedor03_Diagnostico_88: 324985671900769192
+      Emprendedor03_Diagnostico_89: -5958567634830256947
+      Emprendedor03_Diagnostico_9: -6087679980381799348
+      Emprendedor03_Diagnostico_90: -5192760218676960561
+      Emprendedor03_Diagnostico_91: -6723816327671611775
+      Emprendedor03_Diagnostico_92: -217560239588617872
+      Emprendedor03_Diagnostico_93: -7348111402702531117
+      Emprendedor03_Diagnostico_94: -3118303303557948157
+      Emprendedor03_Diagnostico_95: 6650372294875821226
+      Emprendedor03_Diagnostico_96: -2817547175303569009
+      Emprendedor03_Diagnostico_97: 8327914052014947768
+      Emprendedor03_Diagnostico_98: -663013495537600606
+      Emprendedor03_Diagnostico_99: -2117666836883053457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

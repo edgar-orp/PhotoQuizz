@@ -1,54 +1,48 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
 
 namespace dev.xrlab.photoquizz.Camera
 {
     public class CameraManager : MonoBehaviour
     {
         [Header("UI")]
-        public RawImage previewTarget;
-        public TMP_Text countdownText;  // TextMeshPro
+        [SerializeField] private RawImage previewImage;
 
         [Header("Settings")]
-        public float betweenShotsSeconds = 0.4f;
+        [SerializeField] private int Width = 1080;
+        [SerializeField] private int Height = 1920;
+        [SerializeField] private int Fps = 30;
+        [SerializeField] private int DeviceIndex = 0;
 
-        private ICameraAdapter _adapter;
+        private WebCamTexture camTex;
 
-        private void Awake()
+        public void StartPreview()
         {
-            _adapter = GetComponent<ICameraAdapter>();
-            if (_adapter == null)
-                _adapter = gameObject.AddComponent<UnityCameraAdapter>();
-        }
+            if (previewImage == null) return;
 
-        public void StartPreview() => _adapter.StartPreview(previewTarget);
-        public void StopPreview() => _adapter.StopPreview();
-
-        public IEnumerator TakePhotos(int count, System.Action<List<Texture2D>> onAllDone)
-        {
-            var photos = new List<Texture2D>(count);
-
-            for (int i = 0; i < count; i++)
+            if (camTex == null)
             {
-                yield return StartCoroutine(DoCountdown(3));
-                yield return StartCoroutine(_adapter.CapturePhoto(tex => { if (tex) photos.Add(tex); }));
-                yield return new WaitForSeconds(betweenShotsSeconds);
+                var devices = WebCamTexture.devices;
+                if (devices.Length > 0 && DeviceIndex < devices.Length)
+                    camTex = new WebCamTexture(devices[DeviceIndex].name, Width, Height, Fps);
+                else
+                    camTex = new WebCamTexture(Width, Height, Fps);
             }
 
-            onAllDone?.Invoke(photos);
+            previewImage.texture = camTex;
+            camTex.Play();
+
+            // Ajustar rotación y espejo en la UI
+            previewImage.rectTransform.localEulerAngles = new Vector3(0, 0, -camTex.videoRotationAngle);
+            previewImage.uvRect = camTex.videoVerticallyMirrored
+                ? new Rect(1, 0, -1, 1)
+                : new Rect(0, 0, 1, 1);
         }
 
-        private IEnumerator DoCountdown(int seconds)
+        public void StopPreview()
         {
-            for (int s = seconds; s >= 1; s--)
-            {
-                if (countdownText) countdownText.text = s.ToString();
-                yield return new WaitForSeconds(1f);
-            }
-            if (countdownText) countdownText.text = string.Empty;
+            if (camTex != null && camTex.isPlaying)
+                camTex.Stop();
         }
     }
 }

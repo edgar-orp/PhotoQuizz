@@ -1,0 +1,4927 @@
+fileFormatVersion: 2
+guid: 8d8ac95ce8cac914f8e7e6a1102ba744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3489123284619449467
+    second: Social03_Tip_0
+  - first:
+      213: -4123485568849541756
+    second: Social03_Tip_1
+  - first:
+      213: 7255190640319242455
+    second: Social03_Tip_2
+  - first:
+      213: 3399092113053851756
+    second: Social03_Tip_3
+  - first:
+      213: 5246715169487418555
+    second: Social03_Tip_4
+  - first:
+      213: 7113785068596682581
+    second: Social03_Tip_5
+  - first:
+      213: 1378578437055669312
+    second: Social03_Tip_6
+  - first:
+      213: -4734907585921722174
+    second: Social03_Tip_7
+  - first:
+      213: 4054975243858503632
+    second: Social03_Tip_8
+  - first:
+      213: 2838932895529297562
+    second: Social03_Tip_9
+  - first:
+      213: 1330140826401117807
+    second: Social03_Tip_10
+  - first:
+      213: 2978788296496921296
+    second: Social03_Tip_11
+  - first:
+      213: -8506094240306612535
+    second: Social03_Tip_12
+  - first:
+      213: 155450106925903368
+    second: Social03_Tip_13
+  - first:
+      213: -7128536073741781867
+    second: Social03_Tip_14
+  - first:
+      213: -3933799131457419056
+    second: Social03_Tip_15
+  - first:
+      213: -3698162672649609728
+    second: Social03_Tip_16
+  - first:
+      213: 2747384311460908397
+    second: Social03_Tip_17
+  - first:
+      213: 7182871676095724580
+    second: Social03_Tip_18
+  - first:
+      213: 3293346785038133312
+    second: Social03_Tip_19
+  - first:
+      213: -2837508909172221334
+    second: Social03_Tip_20
+  - first:
+      213: -4117626838398566751
+    second: Social03_Tip_21
+  - first:
+      213: 1696425446644324427
+    second: Social03_Tip_22
+  - first:
+      213: 4795481434583013039
+    second: Social03_Tip_23
+  - first:
+      213: -1906819128159760123
+    second: Social03_Tip_24
+  - first:
+      213: 8016335892104558866
+    second: Social03_Tip_25
+  - first:
+      213: 124620824185414001
+    second: Social03_Tip_26
+  - first:
+      213: 9104809638616814275
+    second: Social03_Tip_27
+  - first:
+      213: 6093045194827035742
+    second: Social03_Tip_28
+  - first:
+      213: -1779500648221242032
+    second: Social03_Tip_29
+  - first:
+      213: 3005429071560238790
+    second: Social03_Tip_30
+  - first:
+      213: 6873887842212222405
+    second: Social03_Tip_31
+  - first:
+      213: 2258030351815180200
+    second: Social03_Tip_32
+  - first:
+      213: 4988490826847107303
+    second: Social03_Tip_33
+  - first:
+      213: -2322824960260069177
+    second: Social03_Tip_34
+  - first:
+      213: -852153940210821390
+    second: Social03_Tip_35
+  - first:
+      213: 7067561197256685480
+    second: Social03_Tip_36
+  - first:
+      213: -4148476594566993181
+    second: Social03_Tip_37
+  - first:
+      213: 3301257642421929925
+    second: Social03_Tip_38
+  - first:
+      213: 4936496932499756185
+    second: Social03_Tip_39
+  - first:
+      213: -3814609303099970603
+    second: Social03_Tip_40
+  - first:
+      213: -1051790881858522636
+    second: Social03_Tip_41
+  - first:
+      213: 4831062650123224902
+    second: Social03_Tip_42
+  - first:
+      213: -5866045183277580154
+    second: Social03_Tip_43
+  - first:
+      213: -5932353226153157231
+    second: Social03_Tip_44
+  - first:
+      213: -396595338878770120
+    second: Social03_Tip_45
+  - first:
+      213: -1136419745120909526
+    second: Social03_Tip_46
+  - first:
+      213: 745076044288731519
+    second: Social03_Tip_47
+  - first:
+      213: 6509918606898555728
+    second: Social03_Tip_48
+  - first:
+      213: -8628454381410326945
+    second: Social03_Tip_49
+  - first:
+      213: 5966033951023105513
+    second: Social03_Tip_50
+  - first:
+      213: 2746202589986245762
+    second: Social03_Tip_51
+  - first:
+      213: 4442192934767892516
+    second: Social03_Tip_52
+  - first:
+      213: 7830931285294468681
+    second: Social03_Tip_53
+  - first:
+      213: 4380050866072770945
+    second: Social03_Tip_54
+  - first:
+      213: 3161372233061951840
+    second: Social03_Tip_55
+  - first:
+      213: 5575843866448018795
+    second: Social03_Tip_56
+  - first:
+      213: 2250008562468730403
+    second: Social03_Tip_57
+  - first:
+      213: -5876919614547239128
+    second: Social03_Tip_58
+  - first:
+      213: -3149721860408214096
+    second: Social03_Tip_59
+  - first:
+      213: -2383764312117633821
+    second: Social03_Tip_60
+  - first:
+      213: -2735462064338339403
+    second: Social03_Tip_61
+  - first:
+      213: 2024284352877234003
+    second: Social03_Tip_62
+  - first:
+      213: 2091769106103335051
+    second: Social03_Tip_63
+  - first:
+      213: -7361449778838133090
+    second: Social03_Tip_64
+  - first:
+      213: 1040015712056579719
+    second: Social03_Tip_65
+  - first:
+      213: -4366014126724459186
+    second: Social03_Tip_66
+  - first:
+      213: -5792622244880809383
+    second: Social03_Tip_67
+  - first:
+      213: -5935098104159224920
+    second: Social03_Tip_68
+  - first:
+      213: 9173647166671206408
+    second: Social03_Tip_69
+  - first:
+      213: 8625263706804333814
+    second: Social03_Tip_70
+  - first:
+      213: -1184342271246829101
+    second: Social03_Tip_71
+  - first:
+      213: 3468265879753242341
+    second: Social03_Tip_72
+  - first:
+      213: 1952725945662535399
+    second: Social03_Tip_73
+  - first:
+      213: -3583694305652112303
+    second: Social03_Tip_74
+  - first:
+      213: -2111448983014152094
+    second: Social03_Tip_75
+  - first:
+      213: -5389690071905098139
+    second: Social03_Tip_76
+  - first:
+      213: 1759795306494673606
+    second: Social03_Tip_77
+  - first:
+      213: 6846476286453564556
+    second: Social03_Tip_78
+  - first:
+      213: -4990203048040740590
+    second: Social03_Tip_79
+  - first:
+      213: 8718135126015175277
+    second: Social03_Tip_80
+  - first:
+      213: -4853954899188327901
+    second: Social03_Tip_81
+  - first:
+      213: -8655304519740948466
+    second: Social03_Tip_82
+  - first:
+      213: 4278075565604768819
+    second: Social03_Tip_83
+  - first:
+      213: -5792865925452810018
+    second: Social03_Tip_84
+  - first:
+      213: 8755064569909690437
+    second: Social03_Tip_85
+  - first:
+      213: 1596503591245527708
+    second: Social03_Tip_86
+  - first:
+      213: -5620132610516193310
+    second: Social03_Tip_87
+  - first:
+      213: 6980524084447622278
+    second: Social03_Tip_88
+  - first:
+      213: 4700719838386438718
+    second: Social03_Tip_89
+  - first:
+      213: -3652502982000515204
+    second: Social03_Tip_90
+  - first:
+      213: 8375053590632020692
+    second: Social03_Tip_91
+  - first:
+      213: -6472968147451837828
+    second: Social03_Tip_92
+  - first:
+      213: -8890010906349687782
+    second: Social03_Tip_93
+  - first:
+      213: 5714644773573840422
+    second: Social03_Tip_94
+  - first:
+      213: 6213057878316015838
+    second: Social03_Tip_95
+  - first:
+      213: 8125838163660572328
+    second: Social03_Tip_96
+  - first:
+      213: 8096252824764837670
+    second: Social03_Tip_97
+  - first:
+      213: -7584054898533543644
+    second: Social03_Tip_98
+  - first:
+      213: -448096505849374013
+    second: Social03_Tip_99
+  - first:
+      213: -8371285187591388008
+    second: Social03_Tip_100
+  - first:
+      213: -8694738411542244262
+    second: Social03_Tip_101
+  - first:
+      213: 6948025868181095857
+    second: Social03_Tip_102
+  - first:
+      213: -6071881908459739671
+    second: Social03_Tip_103
+  - first:
+      213: 3383813828615681161
+    second: Social03_Tip_104
+  - first:
+      213: 6263024252622120925
+    second: Social03_Tip_105
+  - first:
+      213: 1921778497908853450
+    second: Social03_Tip_106
+  - first:
+      213: -9168431527017959093
+    second: Social03_Tip_107
+  - first:
+      213: -4662244628030764394
+    second: Social03_Tip_108
+  - first:
+      213: -634901785025180947
+    second: Social03_Tip_109
+  - first:
+      213: 6095533299820041692
+    second: Social03_Tip_110
+  - first:
+      213: 4634568580871616237
+    second: Social03_Tip_111
+  - first:
+      213: -7802981469337210507
+    second: Social03_Tip_112
+  - first:
+      213: -8390917916324806290
+    second: Social03_Tip_113
+  - first:
+      213: 5989578782185837023
+    second: Social03_Tip_114
+  - first:
+      213: -5603977376419898317
+    second: Social03_Tip_115
+  - first:
+      213: -1478726821247246174
+    second: Social03_Tip_116
+  - first:
+      213: -3632711992339777353
+    second: Social03_Tip_117
+  - first:
+      213: -5595636192763005231
+    second: Social03_Tip_118
+  - first:
+      213: -5044343329808601074
+    second: Social03_Tip_119
+  - first:
+      213: -9044395072977559658
+    second: Social03_Tip_120
+  - first:
+      213: -4485178161242315944
+    second: Social03_Tip_121
+  - first:
+      213: -2424306270714518877
+    second: Social03_Tip_122
+  - first:
+      213: -4349189211719716960
+    second: Social03_Tip_123
+  - first:
+      213: 4523062079673942985
+    second: Social03_Tip_124
+  - first:
+      213: 8994277585773196830
+    second: Social03_Tip_125
+  - first:
+      213: 1388288161978183080
+    second: Social03_Tip_126
+  - first:
+      213: -7151799044698028983
+    second: Social03_Tip_127
+  - first:
+      213: -1203294813283650717
+    second: Social03_Tip_128
+  - first:
+      213: 6893722819774934503
+    second: Social03_Tip_129
+  - first:
+      213: 7658081578236223400
+    second: Social03_Tip_130
+  - first:
+      213: 3810361578346308492
+    second: Social03_Tip_131
+  - first:
+      213: -8832800487528203959
+    second: Social03_Tip_132
+  - first:
+      213: 7104082580467109667
+    second: Social03_Tip_133
+  - first:
+      213: -3059692650955085292
+    second: Social03_Tip_134
+  - first:
+      213: 2885345227489229583
+    second: Social03_Tip_135
+  - first:
+      213: 1305963256138798493
+    second: Social03_Tip_136
+  - first:
+      213: 998809819266815034
+    second: Social03_Tip_137
+  - first:
+      213: 1916485405324817978
+    second: Social03_Tip_138
+  - first:
+      213: -5017625575328278812
+    second: Social03_Tip_139
+  - first:
+      213: -31599270756380168
+    second: Social03_Tip_140
+  - first:
+      213: -2097859203265752843
+    second: Social03_Tip_141
+  - first:
+      213: 3329666512181726994
+    second: Social03_Tip_142
+  - first:
+      213: -4889076645642903503
+    second: Social03_Tip_143
+  - first:
+      213: -6793717833669722071
+    second: Social03_Tip_144
+  - first:
+      213: 8231917171166774572
+    second: Social03_Tip_145
+  - first:
+      213: -8681011192366922886
+    second: Social03_Tip_146
+  - first:
+      213: 5093628598234512825
+    second: Social03_Tip_147
+  - first:
+      213: -7191203091983627449
+    second: Social03_Tip_148
+  - first:
+      213: -275674832545073044
+    second: Social03_Tip_149
+  - first:
+      213: 5244023964132073558
+    second: Social03_Tip_150
+  - first:
+      213: -6183108781424557847
+    second: Social03_Tip_151
+  - first:
+      213: -6412521796821441397
+    second: Social03_Tip_152
+  - first:
+      213: 6104969816288018796
+    second: Social03_Tip_153
+  - first:
+      213: 830130586030891904
+    second: Social03_Tip_154
+  - first:
+      213: 8211196031308285210
+    second: Social03_Tip_155
+  - first:
+      213: -9033275438406776002
+    second: Social03_Tip_156
+  - first:
+      213: -4994989771849630877
+    second: Social03_Tip_157
+  - first:
+      213: 999733038118181085
+    second: Social03_Tip_158
+  - first:
+      213: -8356624297698816206
+    second: Social03_Tip_159
+  - first:
+      213: 889057325993162431
+    second: Social03_Tip_160
+  - first:
+      213: 2150564394282119564
+    second: Social03_Tip_161
+  - first:
+      213: -2346978971720729760
+    second: Social03_Tip_162
+  - first:
+      213: 2446123663497558464
+    second: Social03_Tip_163
+  - first:
+      213: -1308223911984879024
+    second: Social03_Tip_164
+  - first:
+      213: -2301909264684295697
+    second: Social03_Tip_165
+  - first:
+      213: -5320737915485243991
+    second: Social03_Tip_166
+  - first:
+      213: -5985116804711001188
+    second: Social03_Tip_167
+  - first:
+      213: 9083962905310187029
+    second: Social03_Tip_168
+  - first:
+      213: -6613364131470994187
+    second: Social03_Tip_169
+  - first:
+      213: 9111296769460380767
+    second: Social03_Tip_170
+  - first:
+      213: 7811536382144689598
+    second: Social03_Tip_171
+  - first:
+      213: -8947170938577395250
+    second: Social03_Tip_172
+  - first:
+      213: -425184066763689946
+    second: Social03_Tip_173
+  - first:
+      213: 7145618396637754080
+    second: Social03_Tip_174
+  - first:
+      213: -3597093567684600316
+    second: Social03_Tip_175
+  - first:
+      213: -8723163714315829743
+    second: Social03_Tip_176
+  - first:
+      213: 8662860751528043431
+    second: Social03_Tip_177
+  - first:
+      213: -6630683094957669129
+    second: Social03_Tip_178
+  - first:
+      213: 3460463955891222583
+    second: Social03_Tip_179
+  - first:
+      213: 373048453413928470
+    second: Social03_Tip_180
+  - first:
+      213: -2973984142882341117
+    second: Social03_Tip_181
+  - first:
+      213: -6792530274224518517
+    second: Social03_Tip_182
+  - first:
+      213: -933866035027701136
+    second: Social03_Tip_183
+  - first:
+      213: -6584750896786727114
+    second: Social03_Tip_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Social03_Tip_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 413
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba6badbd4249fc0800000000000000
+      internalID: -3489123284619449467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 452
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4850648e8bf66c6c0800000000000000
+      internalID: -4123485568849541756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 413
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0a7fd927d9fa460800000000000000
+      internalID: 7255190640319242455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 452
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60286584400c2f20800000000000000
+      internalID: 3399092113053851756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 452
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb473faf5a310d840800000000000000
+      internalID: 5246715169487418555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 413
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fde2654dd39b260800000000000000
+      internalID: 7113785068596682581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 399
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04467b3d8c1b12310800000000000000
+      internalID: 1378578437055669312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 413
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c855d023aa3a4eb0800000000000000
+      internalID: -4734907585921722174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 413
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d76037008a264830800000000000000
+      internalID: 4054975243858503632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 412
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96e13b5d6ae56720800000000000000
+      internalID: 2838932895529297562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 413
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6612e2c80c957210800000000000000
+      internalID: 1330140826401117807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 412
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da3ac16c28c65920800000000000000
+      internalID: 2978788296496921296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 413
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6378c0b5844f980800000000000000
+      internalID: -8506094240306612535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 412
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6d937c05482200800000000000000
+      internalID: 155450106925903368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 413
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943014a53a521d90800000000000000
+      internalID: -7128536073741781867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 412
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d88db738865869c0800000000000000
+      internalID: -3933799131457419056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e5c1794ac7dacc0800000000000000
+      internalID: -3698162672649609728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 272
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dcb1a997ba02620800000000000000
+      internalID: 2747384311460908397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 272
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c76e0abbfaea360800000000000000
+      internalID: 7182871676095724580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 272
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0486f5cb37154bd20800000000000000
+      internalID: 3293346785038133312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a98cd4ea42f98d0800000000000000
+      internalID: -2837508909172221334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae73a3e4304bd6c0800000000000000
+      internalID: -4117626838398566751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 272
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b481b27a4f9ea8710800000000000000
+      internalID: 1696425446644324427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 272
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa61d4b05f8fc8240800000000000000
+      internalID: 4795481434583013039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 272
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011e1f0b1e9985e0800000000000000
+      internalID: -1906819128159760123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_25
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 272
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193b11850fbf3f60800000000000000
+      internalID: 8016335892104558866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 272
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1712035bafdbab100800000000000000
+      internalID: 124620824185414001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 297
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2de418028ca5e70800000000000000
+      internalID: 9104809638616814275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 272
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f0168258de8450800000000000000
+      internalID: 6093045194827035742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 272
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d0231b691fd47e0800000000000000
+      internalID: -1779500648221242032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 297
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6eaff21dd65b920800000000000000
+      internalID: 3005429071560238790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c59fe4b294f46f50800000000000000
+      internalID: 6873887842212222405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_32
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 272
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af7ef334a2265f10800000000000000
+      internalID: 2258030351815180200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_33
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 272
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e834831afdaa3540800000000000000
+      internalID: 4988490826847107303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 237
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a948610ba3cfd0800000000000000
+      internalID: -2322824960260069177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 219
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6d8cb918a8c24f0800000000000000
+      internalID: -852153940210821390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7b1de9675051260800000000000000
+      internalID: 7067561197256685480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 219
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaefcd4486ad66c0800000000000000
+      internalID: -4148476594566993181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 219
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c74a90c55c60dd20800000000000000
+      internalID: 3301257642421929925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 219
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99414703ec5f18440800000000000000
+      internalID: 4936496932499756185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 219
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db63dbac09cf0bc0800000000000000
+      internalID: -3814609303099970603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f3dcf3c94761f0800000000000000
+      internalID: -1051790881858522636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647804c52e16b0340800000000000000
+      internalID: 4831062650123224902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_43
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 244
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68049564cfe979ea0800000000000000
+      internalID: -5866045183277580154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_44
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 219
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d9ff8fb2c0cada0800000000000000
+      internalID: -5932353226153157231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 219
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8342e8af3a20f7af0800000000000000
+      internalID: -396595338878770120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 244
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2704584340aa30f0800000000000000
+      internalID: -1136419745120909526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 219
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79ab76f6ba075a00800000000000000
+      internalID: 745076044288731519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be4e06b70e75a50800000000000000
+      internalID: 6509918606898555728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56ef53a472914880800000000000000
+      internalID: -8628454381410326945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 219
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e507a0e44c9bc250800000000000000
+      internalID: 5966033951023105513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4361a4b87c1620800000000000000
+      internalID: 2746202589986245762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_52
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 237
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428179c30f6d5ad30800000000000000
+      internalID: 4442192934767892516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_53
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 237
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e4870938e0dac60800000000000000
+      internalID: 7830931285294468681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 219
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d8626e0119cc30800000000000000
+      internalID: 4380050866072770945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069e07adb437fdb20800000000000000
+      internalID: 3161372233061951840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 219
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dbca65470616d40800000000000000
+      internalID: 5575843866448018795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263983ddd2a93f10800000000000000
+      internalID: 2250008562468730403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fd2617fbcf07ea0800000000000000
+      internalID: -5876919614547239128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 211
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf519e7a0f944d0800000000000000
+      internalID: -3149721860408214096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_60
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 211
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec99f3ecfa2beed0800000000000000
+      internalID: -2383764312117633821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_61
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 219
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b97e8edebfa90ad0800000000000000
+      internalID: -2735462064338339403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_62
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35701a1d4e3b71c10800000000000000
+      internalID: 2024284352877234003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_63
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 219
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88fc695be4770d10800000000000000
+      internalID: 2091769106103335051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_64
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 219
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96a974cd60e6d990800000000000000
+      internalID: -7361449778838133090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_65
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78615f5a7c0ee6e00800000000000000
+      internalID: 1040015712056579719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_66
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 219
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45504ca84dc863c0800000000000000
+      internalID: -4366014126724459186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 158
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9528ad742c87c9fa0800000000000000
+      internalID: -5792622244880809383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abbe7248bb42ada0800000000000000
+      internalID: -5935098104159224920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 166
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b4387e775f4f70800000000000000
+      internalID: 9173647166671206408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 166
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc242a84a713b770800000000000000
+      internalID: 8625263706804333814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 158
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d97addaafe509fe0800000000000000
+      internalID: -1184342271246829101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_72
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6bc452171c12030800000000000000
+      internalID: 3468265879753242341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e677eec6e9791b10800000000000000
+      internalID: 1952725945662535399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_74
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15404082409244ec0800000000000000
+      internalID: -3583694305652112303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_75
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 166
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268e41e3650a2b2e0800000000000000
+      internalID: -2111448983014152094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_76
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 166
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566a5a67f69f335b0800000000000000
+      internalID: -5389690071905098139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 166
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c309e18c0c6810800000000000000
+      internalID: 1759795306494673606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84433988e1930f50800000000000000
+      internalID: 6846476286453564556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 166
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219c57c54cc3fbab0800000000000000
+      internalID: -4990203048040740590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_80
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a6df9d4b90df870800000000000000
+      internalID: 8718135126015175277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32adc1e8cb943acb0800000000000000
+      internalID: -4853954899188327901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 166
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e000206a56e22e780800000000000000
+      internalID: -8655304519740948466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_83
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c862a8f07ce5b30800000000000000
+      internalID: 4278075565604768819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_84
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 166
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8bbe9f12b9b9fa0800000000000000
+      internalID: -5792865925452810018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_85
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 166
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540431b07dc308970800000000000000
+      internalID: 8755064569909690437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 166
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a33debe8be72610800000000000000
+      internalID: 1596503591245527708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_87
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 166
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efe79fda274102b0800000000000000
+      internalID: -5620132610516193310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_88
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843f8f9badcfd060800000000000000
+      internalID: 6980524084447622278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_89
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 157
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c7ab99cf4c3140800000000000000
+      internalID: 4700719838386438718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_90
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77edc0c3e3bf4dc0800000000000000
+      internalID: -3652502982000515204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_91
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da3b742eda2a3470800000000000000
+      internalID: 8375053590632020692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_92
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7207b0e3c56b26a0800000000000000
+      internalID: -6472968147451837828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_93
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 166
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cada59e2650a480800000000000000
+      internalID: -8890010906349687782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 166
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e4962e42f7e4f40800000000000000
+      internalID: 5714644773573840422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_95
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 113
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e7fdd837393650800000000000000
+      internalID: 6213057878316015838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_96
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a60d4fd1c6c4c070800000000000000
+      internalID: 8125838163660572328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f6cdf5c0bab5070800000000000000
+      internalID: 8096252824764837670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_98
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d8d7704600c690800000000000000
+      internalID: -7584054898533543644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_99
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 138
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca11cf1a9a08c9f0800000000000000
+      internalID: -448096505849374013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_100
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 113
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8944020997833db80800000000000000
+      internalID: -8371285187591388008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54941d3b75165780800000000000000
+      internalID: -8694738411542244262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_102
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5c82307b85c6060800000000000000
+      internalID: 6948025868181095857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_103
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 113
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5e22013975cbba0800000000000000
+      internalID: -6071881908459739671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_104
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98431b8bfb8b5fe20800000000000000
+      internalID: 3383813828615681161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_105
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7a235ff5bbae650800000000000000
+      internalID: 6263024252622120925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca47d0ac578baa10800000000000000
+      internalID: 1921778497908853450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413a944a1033c080800000000000000
+      internalID: -9168431527017959093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 113
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ac04266316c4fb0800000000000000
+      internalID: -4662244628030764394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_109
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 105
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea005cb0306037f0800000000000000
+      internalID: -634901785025180947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_110
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5965c9d3fa79450800000000000000
+      internalID: 6095533299820041692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_111
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 113
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f90eb19b415040800000000000000
+      internalID: 4634568580871616237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_112
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571333312bd36b390800000000000000
+      internalID: -7802981469337210507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 113
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61cff1bc987d8b80800000000000000
+      internalID: -8390917916324806290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_114
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd157621b224f1350800000000000000
+      internalID: 5989578782185837023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_115
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 113
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c9a2d644caa32b0800000000000000
+      internalID: -5603977376419898317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_116
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a027bb6ac18a7be0800000000000000
+      internalID: -1478726821247246174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_117
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 113
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8394d90b3069dc0800000000000000
+      internalID: -3632711992339777353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_118
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 105
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ba06978e4852b0800000000000000
+      internalID: -5595636192763005231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_119
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 138
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00b5a5b774eef9b0800000000000000
+      internalID: -5044343329808601074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_120
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f11e2b99adb7280800000000000000
+      internalID: -9044395072977559658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_121
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 113
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853efc0d93271c1c0800000000000000
+      internalID: -4485178161242315944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_122
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a22f439a422b5ed0800000000000000
+      internalID: -2424306270714518877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_123
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 105
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af2c76747394a3c0800000000000000
+      internalID: -4349189211719716960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_124
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3410c4ff425ce30800000000000000
+      internalID: 4523062079673942985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_125
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 113
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16f44f7fc712dc70800000000000000
+      internalID: 8994277585773196830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_126
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ade6945ab0344310800000000000000
+      internalID: 1388288161978183080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944cbc329a4bfbc90800000000000000
+      internalID: -7151799044698028983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363782e1eb90d4fe0800000000000000
+      internalID: -1203294813283650717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_129
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed60bc416c6baf50800000000000000
+      internalID: 6893722819774934503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_130
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af9bb30f98f64a60800000000000000
+      internalID: 7658081578236223400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 60
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83e027daaf11e430800000000000000
+      internalID: 3810361578346308492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949fbf831c69b6580800000000000000
+      internalID: -8832800487528203959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_133
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f48c7c775c69260800000000000000
+      internalID: 7104082580467109667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_134
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae2f1beb9c985d0800000000000000
+      internalID: -3059692650955085292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_135
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b3dda723eca0820800000000000000
+      internalID: 2885345227489229583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_136
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 51
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d959dd389a6bf1210800000000000000
+      internalID: 1305963256138798493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34129b1d3c7cdd00800000000000000
+      internalID: 998809819266815034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_138
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 60
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363b997259b89a10800000000000000
+      internalID: 1916485405324817978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_139
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 60
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e694aeaf10dd5ab0800000000000000
+      internalID: -5017625575328278812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_140
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1976371acbf8ff0800000000000000
+      internalID: -31599270756380168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_141
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f09f886b28e2e2e0800000000000000
+      internalID: -2097859203265752843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_142
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f0b1f2d0a553e20800000000000000
+      internalID: 3329666512181726994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_143
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ebc8b1b2862cb0800000000000000
+      internalID: -4889076645642903503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_144
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 85
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92041ebff9dd7b1a0800000000000000
+      internalID: -6793717833669722071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_145
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 60
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2585d77d05ad3270800000000000000
+      internalID: 8231917171166774572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_146
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7387c3805ad68780800000000000000
+      internalID: -8681011192366922886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_147
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 60
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf98f093430b640800000000000000
+      internalID: 5093628598234512825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_148
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b00a273e6b33c90800000000000000
+      internalID: -7191203091983627449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_149
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 52
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68b2ac433b9c2cf0800000000000000
+      internalID: -275674832545073044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_150
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 60
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6506ab7e20486c840800000000000000
+      internalID: 5244023964132073558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_151
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e04793a25f213aa0800000000000000
+      internalID: -6183108781424557847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_152
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 60
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84220a96652207a0800000000000000
+      internalID: -6412521796821441397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_153
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c614450d3b539b450800000000000000
+      internalID: 6104969816288018796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_154
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083ee89ae57358b00800000000000000
+      internalID: 830130586030891904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_155
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 60
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a154a33294704f170800000000000000
+      internalID: 8211196031308285210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_156
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc08f59db53a280800000000000000
+      internalID: -9033275438406776002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_157
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b7130644b3eaab0800000000000000
+      internalID: -4994989771849630877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_158
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 60
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8914fb6e3cfdd00800000000000000
+      internalID: 999733038118181085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_159
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 54
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f834ef97e470c80800000000000000
+      internalID: -8356624297698816206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_160
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6f7c47de0965c00800000000000000
+      internalID: 889057325993162431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_161
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f9c32ce658dd10800000000000000
+      internalID: 2150564394282119564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_162
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b364f5f0bdd6fd0800000000000000
+      internalID: -2346978971720729760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_163
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f277038062f120800000000000000
+      internalID: 2446123663497558464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_164
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a2877884148dde0800000000000000
+      internalID: -1308223911984879024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_165
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9df4548b9fd00e0800000000000000
+      internalID: -2301909264684295697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_166
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5bc8c6e01f826b0800000000000000
+      internalID: -5320737915485243991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93daf30af790fca0800000000000000
+      internalID: -5985116804711001188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ec6db2228b01e70800000000000000
+      internalID: 9083962905310187029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_169
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f49c5d8c5c9834a0800000000000000
+      internalID: -6613364131470994187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_170
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54a9da5324d17e70800000000000000
+      internalID: 9111296769460380767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_171
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 7
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb536c7c3f6286c60800000000000000
+      internalID: 7811536382144689598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_172
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1656d7f6345d380800000000000000
+      internalID: -8947170938577395250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_173
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 7
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620f4601851791af0800000000000000
+      internalID: -425184066763689946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_174
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 7
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f61892165a2360800000000000000
+      internalID: 7145618396637754080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_175
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e115a557e841ec0800000000000000
+      internalID: -3597093567684600316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_176
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eb0a2b1d811f680800000000000000
+      internalID: -8723163714315829743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_177
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a089a4f9a83870800000000000000
+      internalID: 8662860751528043431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_178
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44cd22bd41bf3a0800000000000000
+      internalID: -6630683094957669129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_179
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 7
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73870f032a9060030800000000000000
+      internalID: 3460463955891222583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_180
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efeb587955d2500800000000000000
+      internalID: 373048453413928470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_181
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 7
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f7adbcd294ab6d0800000000000000
+      internalID: -2973984142882341117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_182
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ac2c634b51cb1a0800000000000000
+      internalID: -6792530274224518517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_183
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 7
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0721f5af9cd3a03f0800000000000000
+      internalID: -933866035027701136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Tip_184
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f979662f34e94a0800000000000000
+      internalID: -6584750896786727114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Social03_Tip_0: -3489123284619449467
+      Social03_Tip_1: -4123485568849541756
+      Social03_Tip_10: 1330140826401117807
+      Social03_Tip_100: -8371285187591388008
+      Social03_Tip_101: -8694738411542244262
+      Social03_Tip_102: 6948025868181095857
+      Social03_Tip_103: -6071881908459739671
+      Social03_Tip_104: 3383813828615681161
+      Social03_Tip_105: 6263024252622120925
+      Social03_Tip_106: 1921778497908853450
+      Social03_Tip_107: -9168431527017959093
+      Social03_Tip_108: -4662244628030764394
+      Social03_Tip_109: -634901785025180947
+      Social03_Tip_11: 2978788296496921296
+      Social03_Tip_110: 6095533299820041692
+      Social03_Tip_111: 4634568580871616237
+      Social03_Tip_112: -7802981469337210507
+      Social03_Tip_113: -8390917916324806290
+      Social03_Tip_114: 5989578782185837023
+      Social03_Tip_115: -5603977376419898317
+      Social03_Tip_116: -1478726821247246174
+      Social03_Tip_117: -3632711992339777353
+      Social03_Tip_118: -5595636192763005231
+      Social03_Tip_119: -5044343329808601074
+      Social03_Tip_12: -8506094240306612535
+      Social03_Tip_120: -9044395072977559658
+      Social03_Tip_121: -4485178161242315944
+      Social03_Tip_122: -2424306270714518877
+      Social03_Tip_123: -4349189211719716960
+      Social03_Tip_124: 4523062079673942985
+      Social03_Tip_125: 8994277585773196830
+      Social03_Tip_126: 1388288161978183080
+      Social03_Tip_127: -7151799044698028983
+      Social03_Tip_128: -1203294813283650717
+      Social03_Tip_129: 6893722819774934503
+      Social03_Tip_13: 155450106925903368
+      Social03_Tip_130: 7658081578236223400
+      Social03_Tip_131: 3810361578346308492
+      Social03_Tip_132: -8832800487528203959
+      Social03_Tip_133: 7104082580467109667
+      Social03_Tip_134: -3059692650955085292
+      Social03_Tip_135: 2885345227489229583
+      Social03_Tip_136: 1305963256138798493
+      Social03_Tip_137: 998809819266815034
+      Social03_Tip_138: 1916485405324817978
+      Social03_Tip_139: -5017625575328278812
+      Social03_Tip_14: -7128536073741781867
+      Social03_Tip_140: -31599270756380168
+      Social03_Tip_141: -2097859203265752843
+      Social03_Tip_142: 3329666512181726994
+      Social03_Tip_143: -4889076645642903503
+      Social03_Tip_144: -6793717833669722071
+      Social03_Tip_145: 8231917171166774572
+      Social03_Tip_146: -8681011192366922886
+      Social03_Tip_147: 5093628598234512825
+      Social03_Tip_148: -7191203091983627449
+      Social03_Tip_149: -275674832545073044
+      Social03_Tip_15: -3933799131457419056
+      Social03_Tip_150: 5244023964132073558
+      Social03_Tip_151: -6183108781424557847
+      Social03_Tip_152: -6412521796821441397
+      Social03_Tip_153: 6104969816288018796
+      Social03_Tip_154: 830130586030891904
+      Social03_Tip_155: 8211196031308285210
+      Social03_Tip_156: -9033275438406776002
+      Social03_Tip_157: -4994989771849630877
+      Social03_Tip_158: 999733038118181085
+      Social03_Tip_159: -8356624297698816206
+      Social03_Tip_16: -3698162672649609728
+      Social03_Tip_160: 889057325993162431
+      Social03_Tip_161: 2150564394282119564
+      Social03_Tip_162: -2346978971720729760
+      Social03_Tip_163: 2446123663497558464
+      Social03_Tip_164: -1308223911984879024
+      Social03_Tip_165: -2301909264684295697
+      Social03_Tip_166: -5320737915485243991
+      Social03_Tip_167: -5985116804711001188
+      Social03_Tip_168: 9083962905310187029
+      Social03_Tip_169: -6613364131470994187
+      Social03_Tip_17: 2747384311460908397
+      Social03_Tip_170: 9111296769460380767
+      Social03_Tip_171: 7811536382144689598
+      Social03_Tip_172: -8947170938577395250
+      Social03_Tip_173: -425184066763689946
+      Social03_Tip_174: 7145618396637754080
+      Social03_Tip_175: -3597093567684600316
+      Social03_Tip_176: -8723163714315829743
+      Social03_Tip_177: 8662860751528043431
+      Social03_Tip_178: -6630683094957669129
+      Social03_Tip_179: 3460463955891222583
+      Social03_Tip_18: 7182871676095724580
+      Social03_Tip_180: 373048453413928470
+      Social03_Tip_181: -2973984142882341117
+      Social03_Tip_182: -6792530274224518517
+      Social03_Tip_183: -933866035027701136
+      Social03_Tip_184: -6584750896786727114
+      Social03_Tip_19: 3293346785038133312
+      Social03_Tip_2: 7255190640319242455
+      Social03_Tip_20: -2837508909172221334
+      Social03_Tip_21: -4117626838398566751
+      Social03_Tip_22: 1696425446644324427
+      Social03_Tip_23: 4795481434583013039
+      Social03_Tip_24: -1906819128159760123
+      Social03_Tip_25: 8016335892104558866
+      Social03_Tip_26: 124620824185414001
+      Social03_Tip_27: 9104809638616814275
+      Social03_Tip_28: 6093045194827035742
+      Social03_Tip_29: -1779500648221242032
+      Social03_Tip_3: 3399092113053851756
+      Social03_Tip_30: 3005429071560238790
+      Social03_Tip_31: 6873887842212222405
+      Social03_Tip_32: 2258030351815180200
+      Social03_Tip_33: 4988490826847107303
+      Social03_Tip_34: -2322824960260069177
+      Social03_Tip_35: -852153940210821390
+      Social03_Tip_36: 7067561197256685480
+      Social03_Tip_37: -4148476594566993181
+      Social03_Tip_38: 3301257642421929925
+      Social03_Tip_39: 4936496932499756185
+      Social03_Tip_4: 5246715169487418555
+      Social03_Tip_40: -3814609303099970603
+      Social03_Tip_41: -1051790881858522636
+      Social03_Tip_42: 4831062650123224902
+      Social03_Tip_43: -5866045183277580154
+      Social03_Tip_44: -5932353226153157231
+      Social03_Tip_45: -396595338878770120
+      Social03_Tip_46: -1136419745120909526
+      Social03_Tip_47: 745076044288731519
+      Social03_Tip_48: 6509918606898555728
+      Social03_Tip_49: -8628454381410326945
+      Social03_Tip_5: 7113785068596682581
+      Social03_Tip_50: 5966033951023105513
+      Social03_Tip_51: 2746202589986245762
+      Social03_Tip_52: 4442192934767892516
+      Social03_Tip_53: 7830931285294468681
+      Social03_Tip_54: 4380050866072770945
+      Social03_Tip_55: 3161372233061951840
+      Social03_Tip_56: 5575843866448018795
+      Social03_Tip_57: 2250008562468730403
+      Social03_Tip_58: -5876919614547239128
+      Social03_Tip_59: -3149721860408214096
+      Social03_Tip_6: 1378578437055669312
+      Social03_Tip_60: -2383764312117633821
+      Social03_Tip_61: -2735462064338339403
+      Social03_Tip_62: 2024284352877234003
+      Social03_Tip_63: 2091769106103335051
+      Social03_Tip_64: -7361449778838133090
+      Social03_Tip_65: 1040015712056579719
+      Social03_Tip_66: -4366014126724459186
+      Social03_Tip_67: -5792622244880809383
+      Social03_Tip_68: -5935098104159224920
+      Social03_Tip_69: 9173647166671206408
+      Social03_Tip_7: -4734907585921722174
+      Social03_Tip_70: 8625263706804333814
+      Social03_Tip_71: -1184342271246829101
+      Social03_Tip_72: 3468265879753242341
+      Social03_Tip_73: 1952725945662535399
+      Social03_Tip_74: -3583694305652112303
+      Social03_Tip_75: -2111448983014152094
+      Social03_Tip_76: -5389690071905098139
+      Social03_Tip_77: 1759795306494673606
+      Social03_Tip_78: 6846476286453564556
+      Social03_Tip_79: -4990203048040740590
+      Social03_Tip_8: 4054975243858503632
+      Social03_Tip_80: 8718135126015175277
+      Social03_Tip_81: -4853954899188327901
+      Social03_Tip_82: -8655304519740948466
+      Social03_Tip_83: 4278075565604768819
+      Social03_Tip_84: -5792865925452810018
+      Social03_Tip_85: 8755064569909690437
+      Social03_Tip_86: 1596503591245527708
+      Social03_Tip_87: -5620132610516193310
+      Social03_Tip_88: 6980524084447622278
+      Social03_Tip_89: 4700719838386438718
+      Social03_Tip_9: 2838932895529297562
+      Social03_Tip_90: -3652502982000515204
+      Social03_Tip_91: 8375053590632020692
+      Social03_Tip_92: -6472968147451837828
+      Social03_Tip_93: -8890010906349687782
+      Social03_Tip_94: 5714644773573840422
+      Social03_Tip_95: 6213057878316015838
+      Social03_Tip_96: 8125838163660572328
+      Social03_Tip_97: 8096252824764837670
+      Social03_Tip_98: -7584054898533543644
+      Social03_Tip_99: -448096505849374013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2795 @@
+fileFormatVersion: 2
+guid: acb26925c18860a4c859d115e160608f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1974937948469119351
+    second: Influenciable_Parrafo_0
+  - first:
+      213: -2689453845053024564
+    second: Influenciable_Parrafo_1
+  - first:
+      213: -5109705226471366266
+    second: Influenciable_Parrafo_2
+  - first:
+      213: -4654906879867633752
+    second: Influenciable_Parrafo_3
+  - first:
+      213: 8944719667748061255
+    second: Influenciable_Parrafo_4
+  - first:
+      213: -4657904437947484487
+    second: Influenciable_Parrafo_5
+  - first:
+      213: -5082512125603168832
+    second: Influenciable_Parrafo_6
+  - first:
+      213: -7007009514394626542
+    second: Influenciable_Parrafo_7
+  - first:
+      213: 7013284087460001214
+    second: Influenciable_Parrafo_8
+  - first:
+      213: -6015800687150311405
+    second: Influenciable_Parrafo_9
+  - first:
+      213: 1449860667726696995
+    second: Influenciable_Parrafo_10
+  - first:
+      213: -7442215926643449703
+    second: Influenciable_Parrafo_11
+  - first:
+      213: 2352433830026595946
+    second: Influenciable_Parrafo_12
+  - first:
+      213: -4657733359390151219
+    second: Influenciable_Parrafo_13
+  - first:
+      213: -8257075528190934280
+    second: Influenciable_Parrafo_14
+  - first:
+      213: 5874931658963667907
+    second: Influenciable_Parrafo_15
+  - first:
+      213: 3761263986576137709
+    second: Influenciable_Parrafo_16
+  - first:
+      213: -3540163546780395885
+    second: Influenciable_Parrafo_17
+  - first:
+      213: 6471147309938889413
+    second: Influenciable_Parrafo_18
+  - first:
+      213: 2902573279123155691
+    second: Influenciable_Parrafo_19
+  - first:
+      213: -7262758856906723252
+    second: Influenciable_Parrafo_20
+  - first:
+      213: -6190115126275945363
+    second: Influenciable_Parrafo_21
+  - first:
+      213: 88398261115982687
+    second: Influenciable_Parrafo_22
+  - first:
+      213: -2065867849388631235
+    second: Influenciable_Parrafo_23
+  - first:
+      213: 8874002224391455647
+    second: Influenciable_Parrafo_24
+  - first:
+      213: -8222649851644052537
+    second: Influenciable_Parrafo_25
+  - first:
+      213: 7418181688430755905
+    second: Influenciable_Parrafo_26
+  - first:
+      213: -7720550270932116313
+    second: Influenciable_Parrafo_27
+  - first:
+      213: -365446965843340137
+    second: Influenciable_Parrafo_28
+  - first:
+      213: 5042390457872520094
+    second: Influenciable_Parrafo_29
+  - first:
+      213: 3824334180850914920
+    second: Influenciable_Parrafo_30
+  - first:
+      213: 9088885515111628905
+    second: Influenciable_Parrafo_31
+  - first:
+      213: -5461228686247594291
+    second: Influenciable_Parrafo_32
+  - first:
+      213: 1080244558870011081
+    second: Influenciable_Parrafo_33
+  - first:
+      213: 3807948247293459848
+    second: Influenciable_Parrafo_34
+  - first:
+      213: 8893650909007816875
+    second: Influenciable_Parrafo_35
+  - first:
+      213: -3856533953916082718
+    second: Influenciable_Parrafo_36
+  - first:
+      213: -2229777539180780965
+    second: Influenciable_Parrafo_37
+  - first:
+      213: 6483145673754610479
+    second: Influenciable_Parrafo_38
+  - first:
+      213: 8080470074715242582
+    second: Influenciable_Parrafo_39
+  - first:
+      213: -42855680543513897
+    second: Influenciable_Parrafo_40
+  - first:
+      213: -6054103282176398802
+    second: Influenciable_Parrafo_41
+  - first:
+      213: 4308022824551678810
+    second: Influenciable_Parrafo_42
+  - first:
+      213: -6502043439923518050
+    second: Influenciable_Parrafo_43
+  - first:
+      213: -3921410096837159414
+    second: Influenciable_Parrafo_44
+  - first:
+      213: -477852381070244904
+    second: Influenciable_Parrafo_45
+  - first:
+      213: -3951697097229915104
+    second: Influenciable_Parrafo_46
+  - first:
+      213: -6636326142823971571
+    second: Influenciable_Parrafo_47
+  - first:
+      213: -7221435903166781191
+    second: Influenciable_Parrafo_48
+  - first:
+      213: -3241017214909021888
+    second: Influenciable_Parrafo_49
+  - first:
+      213: 3825672794743852249
+    second: Influenciable_Parrafo_50
+  - first:
+      213: -9066006351930107654
+    second: Influenciable_Parrafo_51
+  - first:
+      213: -7764122803973458790
+    second: Influenciable_Parrafo_52
+  - first:
+      213: -6068763627991221488
+    second: Influenciable_Parrafo_53
+  - first:
+      213: 1896732780845503737
+    second: Influenciable_Parrafo_54
+  - first:
+      213: -4139018406877737455
+    second: Influenciable_Parrafo_55
+  - first:
+      213: -5120655228332470563
+    second: Influenciable_Parrafo_56
+  - first:
+      213: 863054490765291292
+    second: Influenciable_Parrafo_57
+  - first:
+      213: -6031497976837507856
+    second: Influenciable_Parrafo_58
+  - first:
+      213: -8401923246834863829
+    second: Influenciable_Parrafo_59
+  - first:
+      213: 4802307328255114208
+    second: Influenciable_Parrafo_60
+  - first:
+      213: -5728190938511567917
+    second: Influenciable_Parrafo_61
+  - first:
+      213: -1217497711570828380
+    second: Influenciable_Parrafo_62
+  - first:
+      213: -7792115531452821794
+    second: Influenciable_Parrafo_63
+  - first:
+      213: -7562811929237727775
+    second: Influenciable_Parrafo_64
+  - first:
+      213: -6843653640889746844
+    second: Influenciable_Parrafo_65
+  - first:
+      213: -355953613187602358
+    second: Influenciable_Parrafo_66
+  - first:
+      213: -843685408140245670
+    second: Influenciable_Parrafo_67
+  - first:
+      213: 2872053791315536048
+    second: Influenciable_Parrafo_68
+  - first:
+      213: -9081729464223664918
+    second: Influenciable_Parrafo_69
+  - first:
+      213: -9158518142353117513
+    second: Influenciable_Parrafo_70
+  - first:
+      213: -8363040548085916751
+    second: Influenciable_Parrafo_71
+  - first:
+      213: 288509251462901867
+    second: Influenciable_Parrafo_72
+  - first:
+      213: 8801331595531497307
+    second: Influenciable_Parrafo_73
+  - first:
+      213: 4458435840651521492
+    second: Influenciable_Parrafo_74
+  - first:
+      213: 4306755767562469290
+    second: Influenciable_Parrafo_75
+  - first:
+      213: 4241206986663060470
+    second: Influenciable_Parrafo_76
+  - first:
+      213: 5184744841265816137
+    second: Influenciable_Parrafo_77
+  - first:
+      213: 2759090988698940864
+    second: Influenciable_Parrafo_78
+  - first:
+      213: -6099617746802669188
+    second: Influenciable_Parrafo_79
+  - first:
+      213: -8538796908959988894
+    second: Influenciable_Parrafo_80
+  - first:
+      213: -7691262597529449656
+    second: Influenciable_Parrafo_81
+  - first:
+      213: 8929287862818967227
+    second: Influenciable_Parrafo_82
+  - first:
+      213: -5306919581529159570
+    second: Influenciable_Parrafo_83
+  - first:
+      213: -2963798742507265178
+    second: Influenciable_Parrafo_84
+  - first:
+      213: 291956953445300678
+    second: Influenciable_Parrafo_85
+  - first:
+      213: -3862680053770460030
+    second: Influenciable_Parrafo_86
+  - first:
+      213: -3115085519707268855
+    second: Influenciable_Parrafo_87
+  - first:
+      213: 6019858575804731882
+    second: Influenciable_Parrafo_88
+  - first:
+      213: 5088938999712870350
+    second: Influenciable_Parrafo_89
+  - first:
+      213: -7831731426767096234
+    second: Influenciable_Parrafo_90
+  - first:
+      213: 5488922693865954767
+    second: Influenciable_Parrafo_91
+  - first:
+      213: -3683326105992155841
+    second: Influenciable_Parrafo_92
+  - first:
+      213: 5588499654962488755
+    second: Influenciable_Parrafo_93
+  - first:
+      213: -6599184563406707390
+    second: Influenciable_Parrafo_94
+  - first:
+      213: 4040610095489954981
+    second: Influenciable_Parrafo_95
+  - first:
+      213: -5505307652295660533
+    second: Influenciable_Parrafo_96
+  - first:
+      213: 5560852427550423766
+    second: Influenciable_Parrafo_97
+  - first:
+      213: -1283425996353274268
+    second: Influenciable_Parrafo_98
+  - first:
+      213: -8265942612288361883
+    second: Influenciable_Parrafo_99
+  - first:
+      213: 5690460960250390884
+    second: Influenciable_Parrafo_100
+  - first:
+      213: -5367028284201788167
+    second: Influenciable_Parrafo_101
+  - first:
+      213: 5126132529477025760
+    second: Influenciable_Parrafo_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863f08466c9794e0800000000000000
+      internalID: -1974937948469119351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc65ecd2af32daad0800000000000000
+      internalID: -2689453845053024564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 113
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a73d3b2ea619b0800000000000000
+      internalID: -5109705226471366266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb7f20bd2766fb0800000000000000
+      internalID: -4654906879867633752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c29b8527022c70800000000000000
+      internalID: 8944719667748061255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 113
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6bc62a79ccb5fb0800000000000000
+      internalID: -4657904437947484487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdbeca662a4779b0800000000000000
+      internalID: -5082512125603168832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 113
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216d9bca8f912ce90800000000000000
+      internalID: -7007009514394626542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5f3f538b0345160800000000000000
+      internalID: 7013284087460001214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 113
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318dadae525938ca0800000000000000
+      internalID: -6015800687150311405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32219a97890fe1410800000000000000
+      internalID: 1449860667726696995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 113
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a9a69b00f7b890800000000000000
+      internalID: -7442215926643449703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 113
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ec85cca1685a020800000000000000
+      internalID: 2352433830026595946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd2017ff286c5fb0800000000000000
+      internalID: -4657733359390151219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 113
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2cb921e89f86d80800000000000000
+      internalID: -8257075528190934280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 107
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc9349733f78150800000000000000
+      internalID: 5874931658963667907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 113
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1752faa1b23430800000000000000
+      internalID: 3761263986576137709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3961e53c200dedec0800000000000000
+      internalID: -3540163546780395885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 113
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2d12a51322ec950800000000000000
+      internalID: 6471147309938889413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2da4d403084820800000000000000
+      internalID: 2902573279123155691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40b0c4ac4f753b90800000000000000
+      internalID: -7262758856906723252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ccc8bd61b481aa0800000000000000
+      internalID: -6190115126275945363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 113
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53949800cd0a3100800000000000000
+      internalID: 88398261115982687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 113
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b5a4ce2209453e0800000000000000
+      internalID: -2065867849388631235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9301e0b10ac62b70800000000000000
+      internalID: 8874002224391455647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 113
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb7650868743ed80800000000000000
+      internalID: -8222649851644052537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 113
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140093241fca2f660800000000000000
+      internalID: 7418181688430755905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_27
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9b8e0f681bd490800000000000000
+      internalID: -7720550270932116313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 113
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794d9a8bbebadeaf0800000000000000
+      internalID: -365446965843340137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_29
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 113
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e939f4cd76b2af540800000000000000
+      internalID: 5042390457872520094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_30
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866d000eca3c21530800000000000000
+      internalID: 3824334180850914920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_31
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 104
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9600c649835322e70800000000000000
+      internalID: 9088885515111628905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_32
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f907d171d534b0800000000000000
+      internalID: -5461228686247594291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_33
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 113
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccdef1f3bccdfe00800000000000000
+      internalID: 1080244558870011081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d7ffa61cc88d430800000000000000
+      internalID: 3807948247293459848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8adb391689c6b70800000000000000
+      internalID: 8893650909007816875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5699c3dc6da7ac0800000000000000
+      internalID: -3856533953916082718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b522cf8542d3e01e0800000000000000
+      internalID: -2229777539180780965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 60
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b014f14a2c8f950800000000000000
+      internalID: 6483145673754610479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650839588b8932070800000000000000
+      internalID: 8080470074715242582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2a8905cfeb76ff0800000000000000
+      internalID: -42855680543513897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a695014218bfba0800000000000000
+      internalID: -6054103282176398802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 60
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a538dad1feb29cb30800000000000000
+      internalID: 4308022824551678810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952331d0f914c5a0800000000000000
+      internalID: -6502043439923518050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 60
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06146f1b4a5499c0800000000000000
+      internalID: -3921410096837159414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3cb3b8ac35e59f0800000000000000
+      internalID: -477852381070244904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2ba35d60c829c0800000000000000
+      internalID: -3951697097229915104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c65ba88807e3a0800000000000000
+      internalID: -6636326142823971571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8ed7f8e4e48cb90800000000000000
+      internalID: -7221435903166781191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 60
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0410c62c3089503d0800000000000000
+      internalID: -3241017214909021888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 60
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc45953325871530800000000000000
+      internalID: 3825672794743852249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 60
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af855c5b1431f2280800000000000000
+      internalID: -9066006351930107654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94f6a4227b404490800000000000000
+      internalID: -7764122803973458790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_53
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bb5cf42ab67cba0800000000000000
+      internalID: -6068763627991221488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f492243a6c825a10800000000000000
+      internalID: 1896732780845503737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 60
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ecf3b30b04f86c0800000000000000
+      internalID: -4139018406877737455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_56
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde0ff14337cfe8b0800000000000000
+      internalID: -5120655228332470563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1feed79c7f2afb00800000000000000
+      internalID: 863054490765291292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_58
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4fc1bdb80db4ca0800000000000000
+      internalID: -6031497976837507856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_59
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 60
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21bf42825f566b80800000000000000
+      internalID: -8401923246834863829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_60
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 60
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb6e2421935a240800000000000000
+      internalID: 4802307328255114208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_61
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d31860d0b06180b0800000000000000
+      internalID: -5728190938511567917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_62
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 60
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a348fa28449a1fe0800000000000000
+      internalID: -1217497711570828380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_63
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede43f26538dcd390800000000000000
+      internalID: -7792115531452821794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_64
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 60
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5d2beae9e7b0790800000000000000
+      internalID: -7562811929237727775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_65
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a35f8d5457601a0800000000000000
+      internalID: -6843653640889746844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_66
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 60
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48af6123166f0bf0800000000000000
+      internalID: -355953613187602358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_67
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55ce916790aa44f0800000000000000
+      internalID: -843685408140245670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_68
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 60
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b82d27d4b59bd720800000000000000
+      internalID: 2872053791315536048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_69
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 60
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ffba5b2737f180800000000000000
+      internalID: -9081729464223664918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_70
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 60
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be6210064866e080800000000000000
+      internalID: -9158518142353117513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb96294ee280fb80800000000000000
+      internalID: -8363040548085916751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_72
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 54
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603cd7b2adf00400800000000000000
+      internalID: 288509251462901867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fa316647c942a70800000000000000
+      internalID: 8801331595531497307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd67e776cb8fdd30800000000000000
+      internalID: 4458435840651521492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaffceb6d8ba4cb30800000000000000
+      internalID: 4306755767562469290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_76
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e4f2984bcbda30800000000000000
+      internalID: 4241206986663060470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94220b296f9e3f740800000000000000
+      internalID: 5184744841265816137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5b16cc2a24a4620800000000000000
+      internalID: 2759090988698940864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_79
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 7
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c798828f9fdc95ba0800000000000000
+      internalID: -6099617746802669188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2638c38a379108980800000000000000
+      internalID: -8538796908959988894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_81
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b4208ea65234590800000000000000
+      internalID: -7691262597529449656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe088870043beb70800000000000000
+      internalID: 8929287862818967227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_83
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68c36302c80a56b0800000000000000
+      internalID: -5306919581529159570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663ea1f1fb87ed6d0800000000000000
+      internalID: -2963798742507265178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_85
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ffc36d4d3d0400800000000000000
+      internalID: 291956953445300678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_86
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284660ad4f0056ac0800000000000000
+      internalID: -3862680053770460030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_87
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90992e8693ef4c4d0800000000000000
+      internalID: -3115085519707268855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_88
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11ee8ea75da8350800000000000000
+      internalID: 6019858575804731882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6481de0b8f9640800000000000000
+      internalID: 5088938999712870350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_90
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b84bf2c9105390800000000000000
+      internalID: -7831731426767096234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_91
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdd577cb129c2c40800000000000000
+      internalID: 5488922693865954767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_92
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 7
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d2a64fb6232ecc0800000000000000
+      internalID: -3683326105992155841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_93
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 7
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5ae69b3d65e8d40800000000000000
+      internalID: 5588499654962488755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_94
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e6e28a9cfa64a0800000000000000
+      internalID: -6599184563406707390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_95
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 7
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a439894971231830800000000000000
+      internalID: 4040610095489954981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_96
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c6dadcbd73993b0800000000000000
+      internalID: -5505307652295660533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daf288f1dd1c2d40800000000000000
+      internalID: 5560852427550423766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_98
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 7
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e7cdf2bda503ee0800000000000000
+      internalID: -1283425996353274268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_99
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 7
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa9cc2df8794d80800000000000000
+      internalID: -8265942612288361883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_100
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 7
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469e3ff081498fe40800000000000000
+      internalID: 5690460960250390884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_101
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc9da4163c7485b0800000000000000
+      internalID: -5367028284201788167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable_Parrafo_102
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef7d0b406ea32740800000000000000
+      internalID: 5126132529477025760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Influenciable_Parrafo_0: -1974937948469119351
+      Influenciable_Parrafo_1: -2689453845053024564
+      Influenciable_Parrafo_10: 1449860667726696995
+      Influenciable_Parrafo_100: 5690460960250390884
+      Influenciable_Parrafo_101: -5367028284201788167
+      Influenciable_Parrafo_102: 5126132529477025760
+      Influenciable_Parrafo_11: -7442215926643449703
+      Influenciable_Parrafo_12: 2352433830026595946
+      Influenciable_Parrafo_13: -4657733359390151219
+      Influenciable_Parrafo_14: -8257075528190934280
+      Influenciable_Parrafo_15: 5874931658963667907
+      Influenciable_Parrafo_16: 3761263986576137709
+      Influenciable_Parrafo_17: -3540163546780395885
+      Influenciable_Parrafo_18: 6471147309938889413
+      Influenciable_Parrafo_19: 2902573279123155691
+      Influenciable_Parrafo_2: -5109705226471366266
+      Influenciable_Parrafo_20: -7262758856906723252
+      Influenciable_Parrafo_21: -6190115126275945363
+      Influenciable_Parrafo_22: 88398261115982687
+      Influenciable_Parrafo_23: -2065867849388631235
+      Influenciable_Parrafo_24: 8874002224391455647
+      Influenciable_Parrafo_25: -8222649851644052537
+      Influenciable_Parrafo_26: 7418181688430755905
+      Influenciable_Parrafo_27: -7720550270932116313
+      Influenciable_Parrafo_28: -365446965843340137
+      Influenciable_Parrafo_29: 5042390457872520094
+      Influenciable_Parrafo_3: -4654906879867633752
+      Influenciable_Parrafo_30: 3824334180850914920
+      Influenciable_Parrafo_31: 9088885515111628905
+      Influenciable_Parrafo_32: -5461228686247594291
+      Influenciable_Parrafo_33: 1080244558870011081
+      Influenciable_Parrafo_34: 3807948247293459848
+      Influenciable_Parrafo_35: 8893650909007816875
+      Influenciable_Parrafo_36: -3856533953916082718
+      Influenciable_Parrafo_37: -2229777539180780965
+      Influenciable_Parrafo_38: 6483145673754610479
+      Influenciable_Parrafo_39: 8080470074715242582
+      Influenciable_Parrafo_4: 8944719667748061255
+      Influenciable_Parrafo_40: -42855680543513897
+      Influenciable_Parrafo_41: -6054103282176398802
+      Influenciable_Parrafo_42: 4308022824551678810
+      Influenciable_Parrafo_43: -6502043439923518050
+      Influenciable_Parrafo_44: -3921410096837159414
+      Influenciable_Parrafo_45: -477852381070244904
+      Influenciable_Parrafo_46: -3951697097229915104
+      Influenciable_Parrafo_47: -6636326142823971571
+      Influenciable_Parrafo_48: -7221435903166781191
+      Influenciable_Parrafo_49: -3241017214909021888
+      Influenciable_Parrafo_5: -4657904437947484487
+      Influenciable_Parrafo_50: 3825672794743852249
+      Influenciable_Parrafo_51: -9066006351930107654
+      Influenciable_Parrafo_52: -7764122803973458790
+      Influenciable_Parrafo_53: -6068763627991221488
+      Influenciable_Parrafo_54: 1896732780845503737
+      Influenciable_Parrafo_55: -4139018406877737455
+      Influenciable_Parrafo_56: -5120655228332470563
+      Influenciable_Parrafo_57: 863054490765291292
+      Influenciable_Parrafo_58: -6031497976837507856
+      Influenciable_Parrafo_59: -8401923246834863829
+      Influenciable_Parrafo_6: -5082512125603168832
+      Influenciable_Parrafo_60: 4802307328255114208
+      Influenciable_Parrafo_61: -5728190938511567917
+      Influenciable_Parrafo_62: -1217497711570828380
+      Influenciable_Parrafo_63: -7792115531452821794
+      Influenciable_Parrafo_64: -7562811929237727775
+      Influenciable_Parrafo_65: -6843653640889746844
+      Influenciable_Parrafo_66: -355953613187602358
+      Influenciable_Parrafo_67: -843685408140245670
+      Influenciable_Parrafo_68: 2872053791315536048
+      Influenciable_Parrafo_69: -9081729464223664918
+      Influenciable_Parrafo_7: -7007009514394626542
+      Influenciable_Parrafo_70: -9158518142353117513
+      Influenciable_Parrafo_71: -8363040548085916751
+      Influenciable_Parrafo_72: 288509251462901867
+      Influenciable_Parrafo_73: 8801331595531497307
+      Influenciable_Parrafo_74: 4458435840651521492
+      Influenciable_Parrafo_75: 4306755767562469290
+      Influenciable_Parrafo_76: 4241206986663060470
+      Influenciable_Parrafo_77: 5184744841265816137
+      Influenciable_Parrafo_78: 2759090988698940864
+      Influenciable_Parrafo_79: -6099617746802669188
+      Influenciable_Parrafo_8: 7013284087460001214
+      Influenciable_Parrafo_80: -8538796908959988894
+      Influenciable_Parrafo_81: -7691262597529449656
+      Influenciable_Parrafo_82: 8929287862818967227
+      Influenciable_Parrafo_83: -5306919581529159570
+      Influenciable_Parrafo_84: -2963798742507265178
+      Influenciable_Parrafo_85: 291956953445300678
+      Influenciable_Parrafo_86: -3862680053770460030
+      Influenciable_Parrafo_87: -3115085519707268855
+      Influenciable_Parrafo_88: 6019858575804731882
+      Influenciable_Parrafo_89: 5088938999712870350
+      Influenciable_Parrafo_9: -6015800687150311405
+      Influenciable_Parrafo_90: -7831731426767096234
+      Influenciable_Parrafo_91: 5488922693865954767
+      Influenciable_Parrafo_92: -3683326105992155841
+      Influenciable_Parrafo_93: 5588499654962488755
+      Influenciable_Parrafo_94: -6599184563406707390
+      Influenciable_Parrafo_95: 4040610095489954981
+      Influenciable_Parrafo_96: -5505307652295660533
+      Influenciable_Parrafo_97: 5560852427550423766
+      Influenciable_Parrafo_98: -1283425996353274268
+      Influenciable_Parrafo_99: -8265942612288361883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3549 @@
+fileFormatVersion: 2
+guid: 4bad39a98236b0c4d849175d199492bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -144031497046136247
+    second: Foto01_Parrafo_0
+  - first:
+      213: 6241537898365489405
+    second: Foto01_Parrafo_1
+  - first:
+      213: -8606084169560763688
+    second: Foto01_Parrafo_2
+  - first:
+      213: 8885072466120822527
+    second: Foto01_Parrafo_3
+  - first:
+      213: -8589092170509368876
+    second: Foto01_Parrafo_4
+  - first:
+      213: 8514238004255834300
+    second: Foto01_Parrafo_5
+  - first:
+      213: -7583341706875129871
+    second: Foto01_Parrafo_6
+  - first:
+      213: -9190523661030147987
+    second: Foto01_Parrafo_7
+  - first:
+      213: 1244270978811430806
+    second: Foto01_Parrafo_8
+  - first:
+      213: 1751538530819816558
+    second: Foto01_Parrafo_9
+  - first:
+      213: -3674795167690018891
+    second: Foto01_Parrafo_10
+  - first:
+      213: 3619608510653137488
+    second: Foto01_Parrafo_11
+  - first:
+      213: 8108356965316997999
+    second: Foto01_Parrafo_12
+  - first:
+      213: -1606627270090700693
+    second: Foto01_Parrafo_13
+  - first:
+      213: 5577520205667566106
+    second: Foto01_Parrafo_14
+  - first:
+      213: 8055846005004802674
+    second: Foto01_Parrafo_15
+  - first:
+      213: 8802638868489657949
+    second: Foto01_Parrafo_16
+  - first:
+      213: 2172650133827900180
+    second: Foto01_Parrafo_17
+  - first:
+      213: -4757115863849324740
+    second: Foto01_Parrafo_18
+  - first:
+      213: 2338689099591524318
+    second: Foto01_Parrafo_19
+  - first:
+      213: 9195362834235196724
+    second: Foto01_Parrafo_20
+  - first:
+      213: 2041228066701903627
+    second: Foto01_Parrafo_21
+  - first:
+      213: 8342967757766531505
+    second: Foto01_Parrafo_22
+  - first:
+      213: 1893425799039505598
+    second: Foto01_Parrafo_23
+  - first:
+      213: -177423168341397145
+    second: Foto01_Parrafo_24
+  - first:
+      213: 3263749391266931983
+    second: Foto01_Parrafo_25
+  - first:
+      213: 2931159809397125370
+    second: Foto01_Parrafo_26
+  - first:
+      213: 4898606699532868586
+    second: Foto01_Parrafo_27
+  - first:
+      213: 5666252838314019895
+    second: Foto01_Parrafo_28
+  - first:
+      213: 1826141364053092980
+    second: Foto01_Parrafo_29
+  - first:
+      213: -8492831352081138177
+    second: Foto01_Parrafo_30
+  - first:
+      213: -1475448711446211393
+    second: Foto01_Parrafo_31
+  - first:
+      213: -5874857303497007150
+    second: Foto01_Parrafo_32
+  - first:
+      213: -673311531776689710
+    second: Foto01_Parrafo_33
+  - first:
+      213: 5100423928310514994
+    second: Foto01_Parrafo_34
+  - first:
+      213: 3037203846565493101
+    second: Foto01_Parrafo_35
+  - first:
+      213: 6060461372428038493
+    second: Foto01_Parrafo_36
+  - first:
+      213: -7159623154995319169
+    second: Foto01_Parrafo_37
+  - first:
+      213: -8369682379755278219
+    second: Foto01_Parrafo_38
+  - first:
+      213: -8217319702102600384
+    second: Foto01_Parrafo_39
+  - first:
+      213: -1551537032778407166
+    second: Foto01_Parrafo_40
+  - first:
+      213: -5133160541059217433
+    second: Foto01_Parrafo_41
+  - first:
+      213: 5278601869706729163
+    second: Foto01_Parrafo_42
+  - first:
+      213: 4142339512096894005
+    second: Foto01_Parrafo_43
+  - first:
+      213: 6145415633056999390
+    second: Foto01_Parrafo_44
+  - first:
+      213: -2783774972813339937
+    second: Foto01_Parrafo_45
+  - first:
+      213: 7270358418468322886
+    second: Foto01_Parrafo_46
+  - first:
+      213: 2275305012653662602
+    second: Foto01_Parrafo_47
+  - first:
+      213: -3165960809799194905
+    second: Foto01_Parrafo_48
+  - first:
+      213: -1213082861652812517
+    second: Foto01_Parrafo_49
+  - first:
+      213: 969954198149830666
+    second: Foto01_Parrafo_50
+  - first:
+      213: 4357307588388146186
+    second: Foto01_Parrafo_51
+  - first:
+      213: 2807734464820608433
+    second: Foto01_Parrafo_52
+  - first:
+      213: 3559468826215757770
+    second: Foto01_Parrafo_53
+  - first:
+      213: 6839642315563062837
+    second: Foto01_Parrafo_54
+  - first:
+      213: 3977634964071809362
+    second: Foto01_Parrafo_55
+  - first:
+      213: 8162782989068845135
+    second: Foto01_Parrafo_56
+  - first:
+      213: -8531285742758289159
+    second: Foto01_Parrafo_57
+  - first:
+      213: 4380658372165115977
+    second: Foto01_Parrafo_58
+  - first:
+      213: 2701592183675060875
+    second: Foto01_Parrafo_59
+  - first:
+      213: 5887757978092814946
+    second: Foto01_Parrafo_60
+  - first:
+      213: -6650135809745893615
+    second: Foto01_Parrafo_61
+  - first:
+      213: -7265658638439446508
+    second: Foto01_Parrafo_62
+  - first:
+      213: 6878053627472503326
+    second: Foto01_Parrafo_63
+  - first:
+      213: -6229544538367852181
+    second: Foto01_Parrafo_64
+  - first:
+      213: -2586300379960943096
+    second: Foto01_Parrafo_65
+  - first:
+      213: 2011131835345173401
+    second: Foto01_Parrafo_66
+  - first:
+      213: 7263567954800754027
+    second: Foto01_Parrafo_67
+  - first:
+      213: -3839407902022722136
+    second: Foto01_Parrafo_68
+  - first:
+      213: -7207341176112375129
+    second: Foto01_Parrafo_69
+  - first:
+      213: 514499291933416102
+    second: Foto01_Parrafo_70
+  - first:
+      213: 6706300099642083397
+    second: Foto01_Parrafo_71
+  - first:
+      213: -7666637826424629283
+    second: Foto01_Parrafo_72
+  - first:
+      213: 4541165079428098039
+    second: Foto01_Parrafo_73
+  - first:
+      213: 1378200489386071744
+    second: Foto01_Parrafo_74
+  - first:
+      213: -540806840945097365
+    second: Foto01_Parrafo_75
+  - first:
+      213: 5665580525570408524
+    second: Foto01_Parrafo_76
+  - first:
+      213: -742190244853314830
+    second: Foto01_Parrafo_77
+  - first:
+      213: 6138303465590803650
+    second: Foto01_Parrafo_78
+  - first:
+      213: 8476284332908583616
+    second: Foto01_Parrafo_79
+  - first:
+      213: 4655128579151969846
+    second: Foto01_Parrafo_80
+  - first:
+      213: -4513251231665784656
+    second: Foto01_Parrafo_81
+  - first:
+      213: -2262851102614888731
+    second: Foto01_Parrafo_82
+  - first:
+      213: -5810775945886289375
+    second: Foto01_Parrafo_83
+  - first:
+      213: -5861503579997734732
+    second: Foto01_Parrafo_84
+  - first:
+      213: 6652698775136227254
+    second: Foto01_Parrafo_85
+  - first:
+      213: 8224860380788561398
+    second: Foto01_Parrafo_86
+  - first:
+      213: -8803290641043034381
+    second: Foto01_Parrafo_87
+  - first:
+      213: 1443684449799461396
+    second: Foto01_Parrafo_88
+  - first:
+      213: 8988702503253278017
+    second: Foto01_Parrafo_89
+  - first:
+      213: -6316515919935636088
+    second: Foto01_Parrafo_90
+  - first:
+      213: -1740687748459965689
+    second: Foto01_Parrafo_91
+  - first:
+      213: -2991561712046890607
+    second: Foto01_Parrafo_92
+  - first:
+      213: 8169774338741476241
+    second: Foto01_Parrafo_93
+  - first:
+      213: -124703601042259947
+    second: Foto01_Parrafo_94
+  - first:
+      213: -1006683095828619871
+    second: Foto01_Parrafo_95
+  - first:
+      213: -2873113957103891073
+    second: Foto01_Parrafo_96
+  - first:
+      213: 2761402118690775157
+    second: Foto01_Parrafo_97
+  - first:
+      213: 4765221916253062494
+    second: Foto01_Parrafo_98
+  - first:
+      213: -588681965624437453
+    second: Foto01_Parrafo_99
+  - first:
+      213: 2141045343500437556
+    second: Foto01_Parrafo_100
+  - first:
+      213: -5458346116117097233
+    second: Foto01_Parrafo_101
+  - first:
+      213: 4486739875389754334
+    second: Foto01_Parrafo_102
+  - first:
+      213: -5080946481249077029
+    second: Foto01_Parrafo_103
+  - first:
+      213: -1887815571144553223
+    second: Foto01_Parrafo_104
+  - first:
+      213: 6686698352342719090
+    second: Foto01_Parrafo_105
+  - first:
+      213: 1986750829911344948
+    second: Foto01_Parrafo_106
+  - first:
+      213: -7243215873976642703
+    second: Foto01_Parrafo_107
+  - first:
+      213: -4971038966440699223
+    second: Foto01_Parrafo_108
+  - first:
+      213: -7944157965648480395
+    second: Foto01_Parrafo_109
+  - first:
+      213: -2333268398280413933
+    second: Foto01_Parrafo_110
+  - first:
+      213: -5656225429904042500
+    second: Foto01_Parrafo_111
+  - first:
+      213: -8271942878833304860
+    second: Foto01_Parrafo_112
+  - first:
+      213: -5956535112300307250
+    second: Foto01_Parrafo_113
+  - first:
+      213: 5980127059078304970
+    second: Foto01_Parrafo_114
+  - first:
+      213: 4418827986816866869
+    second: Foto01_Parrafo_115
+  - first:
+      213: 3106814526912363738
+    second: Foto01_Parrafo_116
+  - first:
+      213: -5759317409499955493
+    second: Foto01_Parrafo_117
+  - first:
+      213: -656415915894752808
+    second: Foto01_Parrafo_118
+  - first:
+      213: 7637393787453234130
+    second: Foto01_Parrafo_119
+  - first:
+      213: 3019990896134291273
+    second: Foto01_Parrafo_120
+  - first:
+      213: -8383249703519501423
+    second: Foto01_Parrafo_121
+  - first:
+      213: 1893100838044681640
+    second: Foto01_Parrafo_122
+  - first:
+      213: 3334281629301245881
+    second: Foto01_Parrafo_123
+  - first:
+      213: -6866991775234199282
+    second: Foto01_Parrafo_124
+  - first:
+      213: 4572537761580060864
+    second: Foto01_Parrafo_125
+  - first:
+      213: -609439401636737393
+    second: Foto01_Parrafo_126
+  - first:
+      213: -6802422311558687908
+    second: Foto01_Parrafo_127
+  - first:
+      213: 8404324019884264792
+    second: Foto01_Parrafo_128
+  - first:
+      213: -263481565585988562
+    second: Foto01_Parrafo_129
+  - first:
+      213: 2739513072683561789
+    second: Foto01_Parrafo_130
+  - first:
+      213: 6913172788741869543
+    second: Foto01_Parrafo_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Foto01_Parrafo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 219
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ae816dd1c400ef0800000000000000
+      internalID: -144031497046136247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0963446a56e9650800000000000000
+      internalID: 6241537898365489405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2d7367b0c019880800000000000000
+      internalID: -8606084169560763688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe4cb2355e1e4b70800000000000000
+      internalID: 8885072466120822527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 219
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d143b98d2a6dc880800000000000000
+      internalID: -8589092170509368876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ccc0ca56a82670800000000000000
+      internalID: 8514238004255834300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 220
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffad4755ee82c690800000000000000
+      internalID: -7583341706875129871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 219
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b97c7c63b47080800000000000000
+      internalID: -9190523661030147987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6970260ecd9844110800000000000000
+      internalID: 1244270978811430806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cbce38307be4810800000000000000
+      internalID: 1751538530819816558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 219
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa38fc341800dc0800000000000000
+      internalID: -3674795167690018891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 245
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052067f43ce6b3230800000000000000
+      internalID: 3619608510653137488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 220
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63b8c533bba68070800000000000000
+      internalID: 8108356965316997999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 245
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c9c7920d14b9e0800000000000000
+      internalID: -1606627270090700693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 219
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12016a7315576d40800000000000000
+      internalID: 5577520205667566106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 220
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a9f85824d1ccf60800000000000000
+      internalID: 8055846005004802674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_16
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e5f5a9961492a70800000000000000
+      internalID: 8802638868489657949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413540819cdc62e10800000000000000
+      internalID: 2172650133827900180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 219
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa2eb73545bfdb0800000000000000
+      internalID: -4757115863849324740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_19
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf1b3d5851b47020800000000000000
+      internalID: 2338689099591524318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 220
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4350b6357cd7c9f70800000000000000
+      internalID: 9195362834235196724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 211
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07035d9c16e35c10800000000000000
+      internalID: 2041228066701903627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9163609fc28c370800000000000000
+      internalID: 8342967757766531505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_23
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 245
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb45f408bbcc64a10800000000000000
+      internalID: 1893425799039505598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 220
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7613614819aa98df0800000000000000
+      internalID: -177423168341397145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ec5e77ca2b4d20800000000000000
+      internalID: 3263749391266931983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 220
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0740311529da820800000000000000
+      internalID: 2931159809397125370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 220
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb510cd6d85bf340800000000000000
+      internalID: 4898606699532868586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 220
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c81437fe292ae40800000000000000
+      internalID: 5666252838314019895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_29
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 220
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a280235e1c75910800000000000000
+      internalID: 1826141364053092980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 158
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd37e9d1e6632a80800000000000000
+      internalID: -8492831352081138177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d0f5d637268be0800000000000000
+      internalID: -1475448711446211393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 166
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df93f6a860587ea0800000000000000
+      internalID: -5874857303497007150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b64daabae7a6f0800000000000000
+      internalID: -673311531776689710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 158
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c9d22a8858c640800000000000000
+      internalID: 5100423928310514994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d697cf08ec0562a20800000000000000
+      internalID: 3037203846565493101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51bc8e22851b1450800000000000000
+      internalID: 6060461372428038493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea7d08ca8e3ac90800000000000000
+      internalID: -7159623154995319169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 166
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57037d7583ae8db80800000000000000
+      internalID: -8369682379755278219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0451b56a44736fd80800000000000000
+      internalID: -8217319702102600384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20321610a45d77ae0800000000000000
+      internalID: -1551537032778407166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70d1f3fa953c8b0800000000000000
+      internalID: -5133160541059217433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6159aee6c514940800000000000000
+      internalID: 5278601869706729163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 166
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca995d6db8c7930800000000000000
+      internalID: 4142339512096894005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ae7d55f6e84550800000000000000
+      internalID: 6145415633056999390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_45
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd296da496b0e59d0800000000000000
+      internalID: -2783774972813339937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 167
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e339a267085e460800000000000000
+      internalID: 7270358418468322886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8123ea9ad1839f10800000000000000
+      internalID: 2275305012653662602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_48
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e66c1fda6f3014d0800000000000000
+      internalID: -3165960809799194905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_49
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dd11480934a2fe0800000000000000
+      internalID: -1213082861652812517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_50
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a089e154438f57d00800000000000000
+      internalID: 969954198149830666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_51
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 191
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4df66a24487c30800000000000000
+      internalID: 4357307588388146186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_52
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf047ae9317f620800000000000000
+      internalID: 2807734464820608433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_53
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 166
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7baafd906c56130800000000000000
+      internalID: 3559468826215757770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_54
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536ddd1b27a4bee50800000000000000
+      internalID: 6839642315563062837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_55
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2518ca7ece5633730800000000000000
+      internalID: 3977634964071809362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_56
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40cc0a51e7084170800000000000000
+      internalID: 8162782989068845135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_57
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 167
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0a98151d8ca9980800000000000000
+      internalID: -8531285742758289159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9402e3b64993bcc30800000000000000
+      internalID: 4380658372165115977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_59
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828ce307cbfd7520800000000000000
+      internalID: 2701592183675060875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262c1b7bfa485b150800000000000000
+      internalID: 5887757978092814946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117cdf707b8f5b3a0800000000000000
+      internalID: -6650135809745893615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_62
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188194a6f13b2b90800000000000000
+      internalID: -7265658638439446508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e59b2551c37f50800000000000000
+      internalID: 6878053627472503326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_64
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b610c167f363c89a0800000000000000
+      internalID: -6229544538367852181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_65
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e58f9d18d9b1cd0800000000000000
+      internalID: -2586300379960943096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_66
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 114
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b7a32bfb9f8eb10800000000000000
+      internalID: 2011131835345173401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3fc322906dc460800000000000000
+      internalID: 7263567954800754027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad9b1ceadea7bac0800000000000000
+      internalID: -3839407902022722136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa96cee2616afb90800000000000000
+      internalID: -7207341176112375129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 61
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa91ec416ed32700800000000000000
+      internalID: 514499291933416102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548455cb860911d50800000000000000
+      internalID: 6706300099642083397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd713663481aa9590800000000000000
+      internalID: -7666637826424629283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_73
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f768b16495750f30800000000000000
+      internalID: 4541165079428098039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c650270b0a502310800000000000000
+      internalID: 1378200489386071744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_75
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65cd512b0bae78f0800000000000000
+      internalID: -540806840945097365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40cef0787f20ae40800000000000000
+      internalID: 5665580525570408524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa02c397e533b5f0800000000000000
+      internalID: -742190244853314830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 60
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc616da72af2550800000000000000
+      internalID: 6138303465590803650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca993601bfc1a570800000000000000
+      internalID: 8476284332908583616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_80
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 60
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e3f1067c65a9040800000000000000
+      internalID: 4655128579151969846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_81
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 60
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b87772cae5bd51c0800000000000000
+      internalID: -4513251231665784656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed90949ecb890e0800000000000000
+      internalID: -2262851102614888731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 85
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223014601afb5fa0800000000000000
+      internalID: -5810775945886289375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_84
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 60
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8fd80bc81c7aea0800000000000000
+      internalID: -5861503579997734732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_85
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 61
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfcba9d942235c50800000000000000
+      internalID: 6652698775136227254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5161c60f2942270800000000000000
+      internalID: 8224860380788561398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_87
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 85
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feeb16cdcd64d580800000000000000
+      internalID: -8803290641043034381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 60
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a5d0eab5ff80410800000000000000
+      internalID: 1443684449799461396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_89
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d73127d494ebc70800000000000000
+      internalID: 8988702503253278017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_90
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88df226bc3a3758a0800000000000000
+      internalID: -6316515919935636088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_91
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 61
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7035b2027b5d7d7e0800000000000000
+      internalID: -1740687748459965689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_92
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19129cd0976db76d0800000000000000
+      internalID: -2991561712046890607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_93
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b99cbc97ed06170800000000000000
+      internalID: 8169774338741476241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_94
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5100aad4cb6f44ef0800000000000000
+      internalID: -124703601042259947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_95
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad9eb7de0b8702f0800000000000000
+      internalID: -1006683095828619871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_96
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 61
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d0b931416a028d0800000000000000
+      internalID: -2873113957103891073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_97
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 60
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570239ea898725620800000000000000
+      internalID: 2761402118690775157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e558b2ae518712240800000000000000
+      internalID: 4765221916253062494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d6490fd494d7f0800000000000000
+      internalID: -588681965624437453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438095b656586bd10800000000000000
+      internalID: 2141045343500437556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 61
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe415bf702f0044b0800000000000000
+      internalID: -5458346116117097233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_102
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbcf28152a144e30800000000000000
+      internalID: 4486739875389754334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_103
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b066681adc79b0800000000000000
+      internalID: -5080946481249077029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_104
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc4a787db12dc5e0800000000000000
+      internalID: -1887815571144553223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_105
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 7
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ad39b49bcebcc50800000000000000
+      internalID: 6686698352342719090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_106
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43704128a5b529b10800000000000000
+      internalID: 1986750829911344948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_107
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173d620f98dea7b90800000000000000
+      internalID: -7243215873976642703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_108
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa5da0d562530bb0800000000000000
+      internalID: -4971038966440699223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577bee19b6ea0c190800000000000000
+      internalID: -7944157965648480395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_110
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de9d201c09e9fd0800000000000000
+      internalID: -2333268398280413933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_111
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5d90180fc0181b0800000000000000
+      internalID: -5656225429904042500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_112
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea91d047c7243d80800000000000000
+      internalID: -8271942878833304860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_113
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd23bdfd2265da0800000000000000
+      internalID: -5956535112300307250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4501c40edadf250800000000000000
+      internalID: 5980127059078304970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a16cd54a4d25d30800000000000000
+      internalID: 4418827986816866869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_116
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 8
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc72a30a5f9d1b20800000000000000
+      internalID: 3106814526912363738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_117
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde380a845bc210b0800000000000000
+      internalID: -5759317409499955493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_118
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93e2cc331f3e6f0800000000000000
+      internalID: -656415915894752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_119
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbdcee5f297df960800000000000000
+      internalID: 7637393787453234130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_120
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7ffc28b929e920800000000000000
+      internalID: 3019990896134291273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_121
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193425e9fc6b8ab80800000000000000
+      internalID: -8383249703519501423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_122
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c5af9e25a54a10800000000000000
+      internalID: 1893100838044681640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_123
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b78c9fd97fb54e20800000000000000
+      internalID: 3334281629301245881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_124
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f2a10d5b83b0a0800000000000000
+      internalID: -6866991775234199282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_125
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c01a092edae47f30800000000000000
+      internalID: 4572537761580060864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 16
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec059d716da87f0800000000000000
+      internalID: -609439401636737393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_127
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c535a5bc2f0f891a0800000000000000
+      internalID: -6802422311558687908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_128
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d0c760b2822a470800000000000000
+      internalID: 8404324019884264792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_129
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 8
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24226e79ece75cf0800000000000000
+      internalID: -263481565585988562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_130
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 8
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33b7d200a4b40620800000000000000
+      internalID: 2739513072683561789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foto01_Parrafo_131
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef0bd7160680ff50800000000000000
+      internalID: 6913172788741869543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Foto01_Parrafo_0: -144031497046136247
+      Foto01_Parrafo_1: 6241537898365489405
+      Foto01_Parrafo_10: -3674795167690018891
+      Foto01_Parrafo_100: 2141045343500437556
+      Foto01_Parrafo_101: -5458346116117097233
+      Foto01_Parrafo_102: 4486739875389754334
+      Foto01_Parrafo_103: -5080946481249077029
+      Foto01_Parrafo_104: -1887815571144553223
+      Foto01_Parrafo_105: 6686698352342719090
+      Foto01_Parrafo_106: 1986750829911344948
+      Foto01_Parrafo_107: -7243215873976642703
+      Foto01_Parrafo_108: -4971038966440699223
+      Foto01_Parrafo_109: -7944157965648480395
+      Foto01_Parrafo_11: 3619608510653137488
+      Foto01_Parrafo_110: -2333268398280413933
+      Foto01_Parrafo_111: -5656225429904042500
+      Foto01_Parrafo_112: -8271942878833304860
+      Foto01_Parrafo_113: -5956535112300307250
+      Foto01_Parrafo_114: 5980127059078304970
+      Foto01_Parrafo_115: 4418827986816866869
+      Foto01_Parrafo_116: 3106814526912363738
+      Foto01_Parrafo_117: -5759317409499955493
+      Foto01_Parrafo_118: -656415915894752808
+      Foto01_Parrafo_119: 7637393787453234130
+      Foto01_Parrafo_12: 8108356965316997999
+      Foto01_Parrafo_120: 3019990896134291273
+      Foto01_Parrafo_121: -8383249703519501423
+      Foto01_Parrafo_122: 1893100838044681640
+      Foto01_Parrafo_123: 3334281629301245881
+      Foto01_Parrafo_124: -6866991775234199282
+      Foto01_Parrafo_125: 4572537761580060864
+      Foto01_Parrafo_126: -609439401636737393
+      Foto01_Parrafo_127: -6802422311558687908
+      Foto01_Parrafo_128: 8404324019884264792
+      Foto01_Parrafo_129: -263481565585988562
+      Foto01_Parrafo_13: -1606627270090700693
+      Foto01_Parrafo_130: 2739513072683561789
+      Foto01_Parrafo_131: 6913172788741869543
+      Foto01_Parrafo_14: 5577520205667566106
+      Foto01_Parrafo_15: 8055846005004802674
+      Foto01_Parrafo_16: 8802638868489657949
+      Foto01_Parrafo_17: 2172650133827900180
+      Foto01_Parrafo_18: -4757115863849324740
+      Foto01_Parrafo_19: 2338689099591524318
+      Foto01_Parrafo_2: -8606084169560763688
+      Foto01_Parrafo_20: 9195362834235196724
+      Foto01_Parrafo_21: 2041228066701903627
+      Foto01_Parrafo_22: 8342967757766531505
+      Foto01_Parrafo_23: 1893425799039505598
+      Foto01_Parrafo_24: -177423168341397145
+      Foto01_Parrafo_25: 3263749391266931983
+      Foto01_Parrafo_26: 2931159809397125370
+      Foto01_Parrafo_27: 4898606699532868586
+      Foto01_Parrafo_28: 5666252838314019895
+      Foto01_Parrafo_29: 1826141364053092980
+      Foto01_Parrafo_3: 8885072466120822527
+      Foto01_Parrafo_30: -8492831352081138177
+      Foto01_Parrafo_31: -1475448711446211393
+      Foto01_Parrafo_32: -5874857303497007150
+      Foto01_Parrafo_33: -673311531776689710
+      Foto01_Parrafo_34: 5100423928310514994
+      Foto01_Parrafo_35: 3037203846565493101
+      Foto01_Parrafo_36: 6060461372428038493
+      Foto01_Parrafo_37: -7159623154995319169
+      Foto01_Parrafo_38: -8369682379755278219
+      Foto01_Parrafo_39: -8217319702102600384
+      Foto01_Parrafo_4: -8589092170509368876
+      Foto01_Parrafo_40: -1551537032778407166
+      Foto01_Parrafo_41: -5133160541059217433
+      Foto01_Parrafo_42: 5278601869706729163
+      Foto01_Parrafo_43: 4142339512096894005
+      Foto01_Parrafo_44: 6145415633056999390
+      Foto01_Parrafo_45: -2783774972813339937
+      Foto01_Parrafo_46: 7270358418468322886
+      Foto01_Parrafo_47: 2275305012653662602
+      Foto01_Parrafo_48: -3165960809799194905
+      Foto01_Parrafo_49: -1213082861652812517
+      Foto01_Parrafo_5: 8514238004255834300
+      Foto01_Parrafo_50: 969954198149830666
+      Foto01_Parrafo_51: 4357307588388146186
+      Foto01_Parrafo_52: 2807734464820608433
+      Foto01_Parrafo_53: 3559468826215757770
+      Foto01_Parrafo_54: 6839642315563062837
+      Foto01_Parrafo_55: 3977634964071809362
+      Foto01_Parrafo_56: 8162782989068845135
+      Foto01_Parrafo_57: -8531285742758289159
+      Foto01_Parrafo_58: 4380658372165115977
+      Foto01_Parrafo_59: 2701592183675060875
+      Foto01_Parrafo_6: -7583341706875129871
+      Foto01_Parrafo_60: 5887757978092814946
+      Foto01_Parrafo_61: -6650135809745893615
+      Foto01_Parrafo_62: -7265658638439446508
+      Foto01_Parrafo_63: 6878053627472503326
+      Foto01_Parrafo_64: -6229544538367852181
+      Foto01_Parrafo_65: -2586300379960943096
+      Foto01_Parrafo_66: 2011131835345173401
+      Foto01_Parrafo_67: 7263567954800754027
+      Foto01_Parrafo_68: -3839407902022722136
+      Foto01_Parrafo_69: -7207341176112375129
+      Foto01_Parrafo_7: -9190523661030147987
+      Foto01_Parrafo_70: 514499291933416102
+      Foto01_Parrafo_71: 6706300099642083397
+      Foto01_Parrafo_72: -7666637826424629283
+      Foto01_Parrafo_73: 4541165079428098039
+      Foto01_Parrafo_74: 1378200489386071744
+      Foto01_Parrafo_75: -540806840945097365
+      Foto01_Parrafo_76: 5665580525570408524
+      Foto01_Parrafo_77: -742190244853314830
+      Foto01_Parrafo_78: 6138303465590803650
+      Foto01_Parrafo_79: 8476284332908583616
+      Foto01_Parrafo_8: 1244270978811430806
+      Foto01_Parrafo_80: 4655128579151969846
+      Foto01_Parrafo_81: -4513251231665784656
+      Foto01_Parrafo_82: -2262851102614888731
+      Foto01_Parrafo_83: -5810775945886289375
+      Foto01_Parrafo_84: -5861503579997734732
+      Foto01_Parrafo_85: 6652698775136227254
+      Foto01_Parrafo_86: 8224860380788561398
+      Foto01_Parrafo_87: -8803290641043034381
+      Foto01_Parrafo_88: 1443684449799461396
+      Foto01_Parrafo_89: 8988702503253278017
+      Foto01_Parrafo_9: 1751538530819816558
+      Foto01_Parrafo_90: -6316515919935636088
+      Foto01_Parrafo_91: -1740687748459965689
+      Foto01_Parrafo_92: -2991561712046890607
+      Foto01_Parrafo_93: 8169774338741476241
+      Foto01_Parrafo_94: -124703601042259947
+      Foto01_Parrafo_95: -1006683095828619871
+      Foto01_Parrafo_96: -2873113957103891073
+      Foto01_Parrafo_97: 2761402118690775157
+      Foto01_Parrafo_98: 4765221916253062494
+      Foto01_Parrafo_99: -588681965624437453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

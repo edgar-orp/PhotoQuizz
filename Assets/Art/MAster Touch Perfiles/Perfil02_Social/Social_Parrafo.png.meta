@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 7658442662c55774dacb09fac77aa6c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4586130826190561864
+    second: Social_Parrafo_0
+  - first:
+      213: 4559849439859280994
+    second: Social_Parrafo_1
+  - first:
+      213: -3429414053958398819
+    second: Social_Parrafo_2
+  - first:
+      213: 7896776967726736454
+    second: Social_Parrafo_3
+  - first:
+      213: -3221920407135939542
+    second: Social_Parrafo_4
+  - first:
+      213: 5115128624647439678
+    second: Social_Parrafo_5
+  - first:
+      213: 8237811148856172801
+    second: Social_Parrafo_6
+  - first:
+      213: -9068419283391096810
+    second: Social_Parrafo_7
+  - first:
+      213: 5424114241228990393
+    second: Social_Parrafo_8
+  - first:
+      213: 8091305913654708507
+    second: Social_Parrafo_9
+  - first:
+      213: -3867378309086357636
+    second: Social_Parrafo_10
+  - first:
+      213: -8868658748619062597
+    second: Social_Parrafo_11
+  - first:
+      213: 9111498751150715001
+    second: Social_Parrafo_12
+  - first:
+      213: 8661979080169789059
+    second: Social_Parrafo_13
+  - first:
+      213: 8839473600044238793
+    second: Social_Parrafo_14
+  - first:
+      213: 7971537489235222448
+    second: Social_Parrafo_15
+  - first:
+      213: -5348381219631963819
+    second: Social_Parrafo_16
+  - first:
+      213: 7407791915065365552
+    second: Social_Parrafo_17
+  - first:
+      213: -4828049838334217035
+    second: Social_Parrafo_18
+  - first:
+      213: 4591357772012370232
+    second: Social_Parrafo_19
+  - first:
+      213: -7265288639760731130
+    second: Social_Parrafo_20
+  - first:
+      213: 2278967260799044922
+    second: Social_Parrafo_21
+  - first:
+      213: -6475629972174776312
+    second: Social_Parrafo_22
+  - first:
+      213: 3468883127803061923
+    second: Social_Parrafo_23
+  - first:
+      213: 4780739313390545647
+    second: Social_Parrafo_24
+  - first:
+      213: -1222999603056962546
+    second: Social_Parrafo_25
+  - first:
+      213: -568207977981555221
+    second: Social_Parrafo_26
+  - first:
+      213: -4767433969396806578
+    second: Social_Parrafo_27
+  - first:
+      213: -7949666345971993150
+    second: Social_Parrafo_28
+  - first:
+      213: -5475412963770993032
+    second: Social_Parrafo_29
+  - first:
+      213: 632456650303263391
+    second: Social_Parrafo_30
+  - first:
+      213: -8694590647019599537
+    second: Social_Parrafo_31
+  - first:
+      213: 1984117931001837957
+    second: Social_Parrafo_32
+  - first:
+      213: 5114688552325794424
+    second: Social_Parrafo_33
+  - first:
+      213: 4412949562222424662
+    second: Social_Parrafo_34
+  - first:
+      213: 6175179065642087215
+    second: Social_Parrafo_35
+  - first:
+      213: -3474032153309225714
+    second: Social_Parrafo_36
+  - first:
+      213: 68571640017329343
+    second: Social_Parrafo_37
+  - first:
+      213: -3502400660879624110
+    second: Social_Parrafo_38
+  - first:
+      213: 688432405565642092
+    second: Social_Parrafo_39
+  - first:
+      213: -6846230311666120778
+    second: Social_Parrafo_40
+  - first:
+      213: 7007048530698596407
+    second: Social_Parrafo_41
+  - first:
+      213: -1996916558650880359
+    second: Social_Parrafo_42
+  - first:
+      213: 1258301140424345855
+    second: Social_Parrafo_43
+  - first:
+      213: -4208825720331334155
+    second: Social_Parrafo_44
+  - first:
+      213: -959737223196272427
+    second: Social_Parrafo_45
+  - first:
+      213: 7194608209667163660
+    second: Social_Parrafo_46
+  - first:
+      213: -5022313885457193067
+    second: Social_Parrafo_47
+  - first:
+      213: 8220212748199073981
+    second: Social_Parrafo_48
+  - first:
+      213: 970636381681743502
+    second: Social_Parrafo_49
+  - first:
+      213: -3972728833058475957
+    second: Social_Parrafo_50
+  - first:
+      213: -7775519802283280501
+    second: Social_Parrafo_51
+  - first:
+      213: 1794195783816615107
+    second: Social_Parrafo_52
+  - first:
+      213: -7319482247955387977
+    second: Social_Parrafo_53
+  - first:
+      213: 2320766519014359552
+    second: Social_Parrafo_54
+  - first:
+      213: 1224803824312572024
+    second: Social_Parrafo_55
+  - first:
+      213: 8087470369026390466
+    second: Social_Parrafo_56
+  - first:
+      213: -7838387318928427063
+    second: Social_Parrafo_57
+  - first:
+      213: -4517428209774204567
+    second: Social_Parrafo_58
+  - first:
+      213: -6217950482442855185
+    second: Social_Parrafo_59
+  - first:
+      213: -7041082092725020846
+    second: Social_Parrafo_60
+  - first:
+      213: -3975860351648339646
+    second: Social_Parrafo_61
+  - first:
+      213: 8540584801369854618
+    second: Social_Parrafo_62
+  - first:
+      213: -6966678676219237250
+    second: Social_Parrafo_63
+  - first:
+      213: 4037222510601895829
+    second: Social_Parrafo_64
+  - first:
+      213: -3382788597394214105
+    second: Social_Parrafo_65
+  - first:
+      213: 6350165516824328102
+    second: Social_Parrafo_66
+  - first:
+      213: -6630225973123837516
+    second: Social_Parrafo_67
+  - first:
+      213: -4082333509554150170
+    second: Social_Parrafo_68
+  - first:
+      213: -6918382755670526101
+    second: Social_Parrafo_69
+  - first:
+      213: 2590306371935215050
+    second: Social_Parrafo_70
+  - first:
+      213: -2127327612856529586
+    second: Social_Parrafo_71
+  - first:
+      213: -334736713346925958
+    second: Social_Parrafo_72
+  - first:
+      213: -5069767025290405236
+    second: Social_Parrafo_73
+  - first:
+      213: -6467597007046763247
+    second: Social_Parrafo_74
+  - first:
+      213: -605468297114091543
+    second: Social_Parrafo_75
+  - first:
+      213: 7764694823766937290
+    second: Social_Parrafo_76
+  - first:
+      213: 5880915435788468915
+    second: Social_Parrafo_77
+  - first:
+      213: 2995321759163561100
+    second: Social_Parrafo_78
+  - first:
+      213: 391546553882377940
+    second: Social_Parrafo_79
+  - first:
+      213: 2381087391588688639
+    second: Social_Parrafo_80
+  - first:
+      213: -7156750177763265775
+    second: Social_Parrafo_81
+  - first:
+      213: 3806274922392832777
+    second: Social_Parrafo_82
+  - first:
+      213: -3640692482939874561
+    second: Social_Parrafo_83
+  - first:
+      213: 229210752413853464
+    second: Social_Parrafo_84
+  - first:
+      213: 6235350506046159722
+    second: Social_Parrafo_85
+  - first:
+      213: -5461702953113338801
+    second: Social_Parrafo_86
+  - first:
+      213: -1647565747505254940
+    second: Social_Parrafo_87
+  - first:
+      213: 4324093757518873669
+    second: Social_Parrafo_88
+  - first:
+      213: -1966979131760817437
+    second: Social_Parrafo_89
+  - first:
+      213: -4693236111849007700
+    second: Social_Parrafo_90
+  - first:
+      213: 8516409253210501774
+    second: Social_Parrafo_91
+  - first:
+      213: 6596437935042374772
+    second: Social_Parrafo_92
+  - first:
+      213: -3254974014024984979
+    second: Social_Parrafo_93
+  - first:
+      213: 9121128709233041088
+    second: Social_Parrafo_94
+  - first:
+      213: 9105489742853886818
+    second: Social_Parrafo_95
+  - first:
+      213: -4911588333457580916
+    second: Social_Parrafo_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Social_Parrafo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd517bdf4aca50c0800000000000000
+      internalID: -4586130826190561864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c831c08e6d74f30800000000000000
+      internalID: 4559849439859280994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 138
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cc31676164860d0800000000000000
+      internalID: -3429414053958398819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644a6df20dcf69d60800000000000000
+      internalID: 7896776967726736454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 114
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24941ec5707943d0800000000000000
+      internalID: -3221920407135939542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e350b8c02669cf640800000000000000
+      internalID: 5115128624647439678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10123561895925270800000000000000
+      internalID: 8237811148856172801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 114
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618db2355b0862280800000000000000
+      internalID: -9068419283391096810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b767990a23564b40800000000000000
+      internalID: 5424114241228990393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b190860ebd71a4070800000000000000
+      internalID: 8091305913654708507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 114
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c775bda0bef445ac0800000000000000
+      internalID: -3867378309086357636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 114
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb286663bd13ce480800000000000000
+      internalID: -8868658748619062597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970f0c1e6db827e70800000000000000
+      internalID: 9111498751150715001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 114
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386926d8418853870800000000000000
+      internalID: 8661979080169789059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 114
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7841cd76e1caa70800000000000000
+      internalID: 8839473600044238793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 114
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf13978c1790ae60800000000000000
+      internalID: 7971537489235222448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 114
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55167702e9bb6c5b0800000000000000
+      internalID: -5348381219631963819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0345b73af73cdc660800000000000000
+      internalID: 7407791915065365552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4f43c80425ffcb0800000000000000
+      internalID: -4828049838334217035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 114
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b68d4197c7bf30800000000000000
+      internalID: 4591357772012370232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 114
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604716ca9728c2b90800000000000000
+      internalID: -7265288639760731130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 114
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0ca236a480af10800000000000000
+      internalID: 2278967260799044922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 114
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80856a389d0f126a0800000000000000
+      internalID: -6475629972174776312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 114
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a62c0863d2f32030800000000000000
+      internalID: 3468883127803061923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 114
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea636a7319985240800000000000000
+      internalID: 4780739313390545647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_25
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04985b3758070fe0800000000000000
+      internalID: -1222999603056962546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_26
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 114
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedcdd1cad15d18f0800000000000000
+      internalID: -568207977981555221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 114
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c09f3501ca6ddb0800000000000000
+      internalID: -4767433969396806578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_28
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 105
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c53675d39c1da190800000000000000
+      internalID: -7949666345971993150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8767cdf5bec6304b0800000000000000
+      internalID: -5475412963770993032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 114
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92d829f8ffe6c800800000000000000
+      internalID: 632456650303263391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_31
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 132
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4986f85fdb965780800000000000000
+      internalID: -8694590647019599537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_32
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589f8d5feb0098b10800000000000000
+      internalID: 1984117931001837957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 114
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ac22ab3260bf640800000000000000
+      internalID: 5114688552325794424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_34
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 132
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652bbfbfe32fd3d30800000000000000
+      internalID: 4412949562222424662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_35
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 113
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23760884a4a2b550800000000000000
+      internalID: 6175179065642087215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 61
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd7bba922c9cfc0800000000000000
+      internalID: -3474032153309225714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc16e41b8d93f000800000000000000
+      internalID: 68571640017329343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2583d2bc729f46fc0800000000000000
+      internalID: -3502400660879624110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 61
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659b9910adcd8900800000000000000
+      internalID: 688432405565642092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 61
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b701aeedcd4df0a0800000000000000
+      internalID: -6846230311666120778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 52
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730763483890e3160800000000000000
+      internalID: 7007048530698596407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 61
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec48358f68944e0800000000000000
+      internalID: -1996916558650880359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 61
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8467f6832667110800000000000000
+      internalID: 1258301140424345855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 61
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd8f128e4f3795c0800000000000000
+      internalID: -4208825720331334155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d89aa594145ea2f0800000000000000
+      internalID: -959737223196272427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06025b4c0268d360800000000000000
+      internalID: 7194608209667163660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597efca61282d4ab0800000000000000
+      internalID: -5022313885457193067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 61
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db81b8221ff041270800000000000000
+      internalID: 8220212748199073981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_49
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 61
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86f53085a4687d00800000000000000
+      internalID: 970636381681743502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 61
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40f89cbc280ed8c0800000000000000
+      internalID: -3972728833058475957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 61
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b3e0bfedc71490800000000000000
+      internalID: -7775519802283280501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c494ef2f8346e810800000000000000
+      internalID: 1794195783816615107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_53
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 61
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b967defca9fb6a90800000000000000
+      internalID: -7319482247955387977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 61
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00288746ad4053020800000000000000
+      internalID: 2320766519014359552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_55
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 61
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878d0b3c6906ff010800000000000000
+      internalID: 1224803824312572024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_56
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 52
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b05d83777c3070800000000000000
+      internalID: 8087470369026390466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_57
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 61
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c738535344783390800000000000000
+      internalID: -7838387318928427063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_58
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96964124afede41c0800000000000000
+      internalID: -4517428209774204567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_59
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec5607faf665b9a0800000000000000
+      internalID: -6217950482442855185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_60
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 61
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d2c4542d094e90800000000000000
+      internalID: -7041082092725020846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_61
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 61
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249e07f3318e2d8c0800000000000000
+      internalID: -3975860351648339646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9210cb70a0468670800000000000000
+      internalID: 8540584801369854618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_63
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 52
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ce9afa7a2615f90800000000000000
+      internalID: -6966678676219237250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_64
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ff2a7bb78170830800000000000000
+      internalID: 4037222510601895829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_65
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723731681bbed01d0800000000000000
+      internalID: -3382788597394214105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_66
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 61
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7bf3794e1502850800000000000000
+      internalID: 6350165516824328102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_67
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1926b1b94bcf3a0800000000000000
+      internalID: -6630225973123837516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_68
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e95c5d43a857c0800000000000000
+      internalID: -4082333509554150170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67f114f987fcff90800000000000000
+      internalID: -6918382755670526101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd11a6dbed92f320800000000000000
+      internalID: 2590306371935215050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_71
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d8ec2aec63a72e0800000000000000
+      internalID: -2127327612856529586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abca39bb6ca5bf0800000000000000
+      internalID: -334736713346925958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a939350c194a9b0800000000000000
+      internalID: -5069767025290405236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_74
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1994f9ca7e36a0800000000000000
+      internalID: -6467597007046763247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff0cbaac1f897f0800000000000000
+      internalID: -605468297114091543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_76
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 8
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace41f79dccb1cb60800000000000000
+      internalID: 7764694823766937290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b288403e653d9150800000000000000
+      internalID: 5880915435788468915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_78
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8431f22545819920800000000000000
+      internalID: 2995321759163561100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deff29248d0f6500800000000000000
+      internalID: 391546553882377940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff22ecafd525b0120800000000000000
+      internalID: 2381087391588688639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_81
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 8
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f434a1ad1eac90800000000000000
+      internalID: -7156750177763265775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_82
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc3ba10ea92d430800000000000000
+      internalID: 3806274922392832777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_83
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21fe9d979a97dc0800000000000000
+      internalID: -3640692482939874561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817e35407f15e2300800000000000000
+      internalID: 229210752413853464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_85
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bfeeabf3a688650800000000000000
+      internalID: 6235350506046159722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_86
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 8
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3afaf9122434b0800000000000000
+      internalID: -5461702953113338801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_87
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed29db8eaba229e0800000000000000
+      internalID: -1647565747505254940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_88
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 8
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448568cc54420c30800000000000000
+      internalID: 4324093757518873669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_89
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea4ac2b6e2e3b4e0800000000000000
+      internalID: -1966979131760817437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_90
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 8
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca554324f964edeb0800000000000000
+      internalID: -4693236111849007700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_91
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82367b081d503670800000000000000
+      internalID: 8516409253210501774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 8
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cac1d3a514b8b50800000000000000
+      internalID: 6596437935042374772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_93
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 8
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66d9ec316204d2d0800000000000000
+      internalID: -3254974014024984979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_94
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 8
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ced3783c32c49e70800000000000000
+      internalID: 9121128709233041088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_95
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 8
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263d4cc9da23d5e70800000000000000
+      internalID: 9105489742853886818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social_Parrafo_96
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cde45fe6886dbb0800000000000000
+      internalID: -4911588333457580916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Social_Parrafo_0: -4586130826190561864
+      Social_Parrafo_1: 4559849439859280994
+      Social_Parrafo_10: -3867378309086357636
+      Social_Parrafo_11: -8868658748619062597
+      Social_Parrafo_12: 9111498751150715001
+      Social_Parrafo_13: 8661979080169789059
+      Social_Parrafo_14: 8839473600044238793
+      Social_Parrafo_15: 7971537489235222448
+      Social_Parrafo_16: -5348381219631963819
+      Social_Parrafo_17: 7407791915065365552
+      Social_Parrafo_18: -4828049838334217035
+      Social_Parrafo_19: 4591357772012370232
+      Social_Parrafo_2: -3429414053958398819
+      Social_Parrafo_20: -7265288639760731130
+      Social_Parrafo_21: 2278967260799044922
+      Social_Parrafo_22: -6475629972174776312
+      Social_Parrafo_23: 3468883127803061923
+      Social_Parrafo_24: 4780739313390545647
+      Social_Parrafo_25: -1222999603056962546
+      Social_Parrafo_26: -568207977981555221
+      Social_Parrafo_27: -4767433969396806578
+      Social_Parrafo_28: -7949666345971993150
+      Social_Parrafo_29: -5475412963770993032
+      Social_Parrafo_3: 7896776967726736454
+      Social_Parrafo_30: 632456650303263391
+      Social_Parrafo_31: -8694590647019599537
+      Social_Parrafo_32: 1984117931001837957
+      Social_Parrafo_33: 5114688552325794424
+      Social_Parrafo_34: 4412949562222424662
+      Social_Parrafo_35: 6175179065642087215
+      Social_Parrafo_36: -3474032153309225714
+      Social_Parrafo_37: 68571640017329343
+      Social_Parrafo_38: -3502400660879624110
+      Social_Parrafo_39: 688432405565642092
+      Social_Parrafo_4: -3221920407135939542
+      Social_Parrafo_40: -6846230311666120778
+      Social_Parrafo_41: 7007048530698596407
+      Social_Parrafo_42: -1996916558650880359
+      Social_Parrafo_43: 1258301140424345855
+      Social_Parrafo_44: -4208825720331334155
+      Social_Parrafo_45: -959737223196272427
+      Social_Parrafo_46: 7194608209667163660
+      Social_Parrafo_47: -5022313885457193067
+      Social_Parrafo_48: 8220212748199073981
+      Social_Parrafo_49: 970636381681743502
+      Social_Parrafo_5: 5115128624647439678
+      Social_Parrafo_50: -3972728833058475957
+      Social_Parrafo_51: -7775519802283280501
+      Social_Parrafo_52: 1794195783816615107
+      Social_Parrafo_53: -7319482247955387977
+      Social_Parrafo_54: 2320766519014359552
+      Social_Parrafo_55: 1224803824312572024
+      Social_Parrafo_56: 8087470369026390466
+      Social_Parrafo_57: -7838387318928427063
+      Social_Parrafo_58: -4517428209774204567
+      Social_Parrafo_59: -6217950482442855185
+      Social_Parrafo_6: 8237811148856172801
+      Social_Parrafo_60: -7041082092725020846
+      Social_Parrafo_61: -3975860351648339646
+      Social_Parrafo_62: 8540584801369854618
+      Social_Parrafo_63: -6966678676219237250
+      Social_Parrafo_64: 4037222510601895829
+      Social_Parrafo_65: -3382788597394214105
+      Social_Parrafo_66: 6350165516824328102
+      Social_Parrafo_67: -6630225973123837516
+      Social_Parrafo_68: -4082333509554150170
+      Social_Parrafo_69: -6918382755670526101
+      Social_Parrafo_7: -9068419283391096810
+      Social_Parrafo_70: 2590306371935215050
+      Social_Parrafo_71: -2127327612856529586
+      Social_Parrafo_72: -334736713346925958
+      Social_Parrafo_73: -5069767025290405236
+      Social_Parrafo_74: -6467597007046763247
+      Social_Parrafo_75: -605468297114091543
+      Social_Parrafo_76: 7764694823766937290
+      Social_Parrafo_77: 5880915435788468915
+      Social_Parrafo_78: 2995321759163561100
+      Social_Parrafo_79: 391546553882377940
+      Social_Parrafo_8: 5424114241228990393
+      Social_Parrafo_80: 2381087391588688639
+      Social_Parrafo_81: -7156750177763265775
+      Social_Parrafo_82: 3806274922392832777
+      Social_Parrafo_83: -3640692482939874561
+      Social_Parrafo_84: 229210752413853464
+      Social_Parrafo_85: 6235350506046159722
+      Social_Parrafo_86: -5461702953113338801
+      Social_Parrafo_87: -1647565747505254940
+      Social_Parrafo_88: 4324093757518873669
+      Social_Parrafo_89: -1966979131760817437
+      Social_Parrafo_9: 8091305913654708507
+      Social_Parrafo_90: -4693236111849007700
+      Social_Parrafo_91: 8516409253210501774
+      Social_Parrafo_92: 6596437935042374772
+      Social_Parrafo_93: -3254974014024984979
+      Social_Parrafo_94: 9121128709233041088
+      Social_Parrafo_95: 9105489742853886818
+      Social_Parrafo_96: -4911588333457580916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

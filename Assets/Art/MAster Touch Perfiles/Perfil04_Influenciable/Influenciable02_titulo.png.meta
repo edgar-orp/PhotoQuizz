@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: ecfce847850dc0144815c339d0d292ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 939591717486009435
+    second: Influenciable02_titulo_0
+  - first:
+      213: -8530631204580458003
+    second: Influenciable02_titulo_1
+  - first:
+      213: -1423032040430265519
+    second: Influenciable02_titulo_2
+  - first:
+      213: -5447938696292257045
+    second: Influenciable02_titulo_3
+  - first:
+      213: -3337056232106118803
+    second: Influenciable02_titulo_4
+  - first:
+      213: -5451634350445317795
+    second: Influenciable02_titulo_5
+  - first:
+      213: -7233683258544991617
+    second: Influenciable02_titulo_6
+  - first:
+      213: -4161419667967594838
+    second: Influenciable02_titulo_7
+  - first:
+      213: -3051942852600103269
+    second: Influenciable02_titulo_8
+  - first:
+      213: 7188834389268664069
+    second: Influenciable02_titulo_9
+  - first:
+      213: -6174496002989225840
+    second: Influenciable02_titulo_10
+  - first:
+      213: 6610122244432179948
+    second: Influenciable02_titulo_11
+  - first:
+      213: 1347317712080987855
+    second: Influenciable02_titulo_12
+  - first:
+      213: 7928689187114091130
+    second: Influenciable02_titulo_13
+  - first:
+      213: -9213819533512037455
+    second: Influenciable02_titulo_14
+  - first:
+      213: 6245525423851983740
+    second: Influenciable02_titulo_15
+  - first:
+      213: -3425365197507069734
+    second: Influenciable02_titulo_16
+  - first:
+      213: 3942027265646124726
+    second: Influenciable02_titulo_17
+  - first:
+      213: 7731944487058129466
+    second: Influenciable02_titulo_18
+  - first:
+      213: 5676708023297713209
+    second: Influenciable02_titulo_19
+  - first:
+      213: -4811071833082749738
+    second: Influenciable02_titulo_20
+  - first:
+      213: 8230404300561019091
+    second: Influenciable02_titulo_21
+  - first:
+      213: 2675761854625490710
+    second: Influenciable02_titulo_22
+  - first:
+      213: -1475335162537721014
+    second: Influenciable02_titulo_23
+  - first:
+      213: 8947026511249627281
+    second: Influenciable02_titulo_24
+  - first:
+      213: -7207267469970890074
+    second: Influenciable02_titulo_25
+  - first:
+      213: 3078851421454810977
+    second: Influenciable02_titulo_26
+  - first:
+      213: 6866985118487565288
+    second: Influenciable02_titulo_27
+  - first:
+      213: -7038069377851559090
+    second: Influenciable02_titulo_28
+  - first:
+      213: -4919147381376268516
+    second: Influenciable02_titulo_29
+  - first:
+      213: 305359828460791032
+    second: Influenciable02_titulo_30
+  - first:
+      213: 1034259715767953342
+    second: Influenciable02_titulo_31
+  - first:
+      213: -8702302625151300488
+    second: Influenciable02_titulo_32
+  - first:
+      213: 1392553475272481296
+    second: Influenciable02_titulo_33
+  - first:
+      213: -8801469808288125745
+    second: Influenciable02_titulo_34
+  - first:
+      213: -2713771251022971333
+    second: Influenciable02_titulo_35
+  - first:
+      213: -2738940888415001877
+    second: Influenciable02_titulo_36
+  - first:
+      213: 2918187225156018333
+    second: Influenciable02_titulo_37
+  - first:
+      213: 4954580302810492259
+    second: Influenciable02_titulo_38
+  - first:
+      213: -503986642563571399
+    second: Influenciable02_titulo_39
+  - first:
+      213: 3143156580916613605
+    second: Influenciable02_titulo_40
+  - first:
+      213: -5770757317606466099
+    second: Influenciable02_titulo_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Influenciable02_titulo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c17aa50b91a0d00800000000000000
+      internalID: 939591717486009435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18e1ddd1c1d9980800000000000000
+      internalID: -8530631204580458003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 98
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b972616ef504ce0800000000000000
+      internalID: -1423032040430265519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 136
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be23561ce980564b0800000000000000
+      internalID: -5447938696292257045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 97
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61bfc1990560b1d0800000000000000
+      internalID: -3337056232106118803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 98
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b3683177e754b0800000000000000
+      internalID: -5451634350445317795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 97
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725cbce66bcc9b90800000000000000
+      internalID: -7233683258544991617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 97
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaea7713cdaaf36c0800000000000000
+      internalID: -4161419667967594838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 97
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e7afb352255a5d0800000000000000
+      internalID: -3051942852600103269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 97
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f8879f9ced3c360800000000000000
+      internalID: 7188834389268664069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 84
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09802c26998cf4aa0800000000000000
+      internalID: -6174496002989225840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 97
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2b94dc82fdbbb50800000000000000
+      internalID: 6610122244432179948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 97
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6ed2c1252a2b210800000000000000
+      internalID: 1347317712080987855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 98
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728a64cecc580e60800000000000000
+      internalID: 7928689187114091130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_14
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 97
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba57083ffe12080800000000000000
+      internalID: -9213819533512037455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 97
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735e5468409ca650800000000000000
+      internalID: 6245525423851983740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_16
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 98
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8fa905088a670d0800000000000000
+      internalID: -3425365197507069734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 97
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beddbf89e4e4b630800000000000000
+      internalID: 3942027265646124726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_18
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 97
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c32e9b826d4b60800000000000000
+      internalID: 7731944487058129466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342546eed7b7ce40800000000000000
+      internalID: 5676708023297713209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 13
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc173078a3ab3db0800000000000000
+      internalID: -4811071833082749738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 13
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d079c4da15483270800000000000000
+      internalID: 8230404300561019091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 13
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172e70ea37322520800000000000000
+      internalID: 2675761854625490710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43cb408c7e868be0800000000000000
+      internalID: -1475335162537721014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 13
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198590765393a2c70800000000000000
+      internalID: 8947026511249627281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 13
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2282bfb64aafb90800000000000000
+      internalID: -7207267469970890074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 14
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f350c2e074aba20800000000000000
+      internalID: 3078851421454810977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 52
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e35859159e6c4f50800000000000000
+      internalID: 6866985118487565288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 14
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e437a9ca031c35e90800000000000000
+      internalID: -7038069377851559090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 14
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c174647f48dabbbb0800000000000000
+      internalID: -4919147381376268516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 14
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f46418652bdc3400800000000000000
+      internalID: 305359828460791032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb768d35bbd6a5e00800000000000000
+      internalID: 1034259715767953342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_32
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 14
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c48e38ed53b3780800000000000000
+      internalID: -8702302625151300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 13
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a1a58f108535310800000000000000
+      internalID: 1392553475272481296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_34
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc29af67d5ead580800000000000000
+      internalID: -8801469808288125745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 13
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ebb15ec6fb65ad0800000000000000
+      internalID: -2713771251022971333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_36
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 13
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be22b3506c35df9d0800000000000000
+      internalID: -2738940888415001877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 14
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e18fe1db7f7820800000000000000
+      internalID: 2918187225156018333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 13
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36daa20f88432c440800000000000000
+      internalID: 4954580302810492259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 14
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e47e91da7109f0800000000000000
+      internalID: -503986642563571399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 13
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e157f6d14cbe9b20800000000000000
+      internalID: 3143156580916613605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable02_titulo_41
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 14
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd941f5bc62aefa0800000000000000
+      internalID: -5770757317606466099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Influenciable02_titulo_0: 939591717486009435
+      Influenciable02_titulo_1: -8530631204580458003
+      Influenciable02_titulo_10: -6174496002989225840
+      Influenciable02_titulo_11: 6610122244432179948
+      Influenciable02_titulo_12: 1347317712080987855
+      Influenciable02_titulo_13: 7928689187114091130
+      Influenciable02_titulo_14: -9213819533512037455
+      Influenciable02_titulo_15: 6245525423851983740
+      Influenciable02_titulo_16: -3425365197507069734
+      Influenciable02_titulo_17: 3942027265646124726
+      Influenciable02_titulo_18: 7731944487058129466
+      Influenciable02_titulo_19: 5676708023297713209
+      Influenciable02_titulo_2: -1423032040430265519
+      Influenciable02_titulo_20: -4811071833082749738
+      Influenciable02_titulo_21: 8230404300561019091
+      Influenciable02_titulo_22: 2675761854625490710
+      Influenciable02_titulo_23: -1475335162537721014
+      Influenciable02_titulo_24: 8947026511249627281
+      Influenciable02_titulo_25: -7207267469970890074
+      Influenciable02_titulo_26: 3078851421454810977
+      Influenciable02_titulo_27: 6866985118487565288
+      Influenciable02_titulo_28: -7038069377851559090
+      Influenciable02_titulo_29: -4919147381376268516
+      Influenciable02_titulo_3: -5447938696292257045
+      Influenciable02_titulo_30: 305359828460791032
+      Influenciable02_titulo_31: 1034259715767953342
+      Influenciable02_titulo_32: -8702302625151300488
+      Influenciable02_titulo_33: 1392553475272481296
+      Influenciable02_titulo_34: -8801469808288125745
+      Influenciable02_titulo_35: -2713771251022971333
+      Influenciable02_titulo_36: -2738940888415001877
+      Influenciable02_titulo_37: 2918187225156018333
+      Influenciable02_titulo_38: 4954580302810492259
+      Influenciable02_titulo_39: -503986642563571399
+      Influenciable02_titulo_4: -3337056232106118803
+      Influenciable02_titulo_40: 3143156580916613605
+      Influenciable02_titulo_41: -5770757317606466099
+      Influenciable02_titulo_5: -5451634350445317795
+      Influenciable02_titulo_6: -7233683258544991617
+      Influenciable02_titulo_7: -4161419667967594838
+      Influenciable02_titulo_8: -3051942852600103269
+      Influenciable02_titulo_9: 7188834389268664069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

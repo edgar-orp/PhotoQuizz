@@ -1,0 +1,4719 @@
+fileFormatVersion: 2
+guid: c2bef90b6f434194bb8f0737e09a68c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7662439620092262140
+    second: Influenciable03_Diagnostico_0
+  - first:
+      213: -583281381139151277
+    second: Influenciable03_Diagnostico_1
+  - first:
+      213: -4707289397728884484
+    second: Influenciable03_Diagnostico_2
+  - first:
+      213: 3415168286580700583
+    second: Influenciable03_Diagnostico_3
+  - first:
+      213: -7838391361865406256
+    second: Influenciable03_Diagnostico_4
+  - first:
+      213: 5308489180197759519
+    second: Influenciable03_Diagnostico_5
+  - first:
+      213: 3253022296567609875
+    second: Influenciable03_Diagnostico_6
+  - first:
+      213: 6580828008508196152
+    second: Influenciable03_Diagnostico_7
+  - first:
+      213: 8297369111454027348
+    second: Influenciable03_Diagnostico_8
+  - first:
+      213: 3389699429839572276
+    second: Influenciable03_Diagnostico_9
+  - first:
+      213: 8219631444180573420
+    second: Influenciable03_Diagnostico_10
+  - first:
+      213: 7007239691203625462
+    second: Influenciable03_Diagnostico_11
+  - first:
+      213: 8439711214490673899
+    second: Influenciable03_Diagnostico_12
+  - first:
+      213: -3845407597755456021
+    second: Influenciable03_Diagnostico_13
+  - first:
+      213: -8132579739332479405
+    second: Influenciable03_Diagnostico_14
+  - first:
+      213: 2624697252739220432
+    second: Influenciable03_Diagnostico_15
+  - first:
+      213: 7989723386212053152
+    second: Influenciable03_Diagnostico_16
+  - first:
+      213: -5603824205395669157
+    second: Influenciable03_Diagnostico_17
+  - first:
+      213: -502908127681696158
+    second: Influenciable03_Diagnostico_18
+  - first:
+      213: 6807175500700048059
+    second: Influenciable03_Diagnostico_19
+  - first:
+      213: -6740626367693106494
+    second: Influenciable03_Diagnostico_20
+  - first:
+      213: 2608486093733684024
+    second: Influenciable03_Diagnostico_21
+  - first:
+      213: 1454413306879099338
+    second: Influenciable03_Diagnostico_22
+  - first:
+      213: -4413759186881720438
+    second: Influenciable03_Diagnostico_23
+  - first:
+      213: -6242867010480899043
+    second: Influenciable03_Diagnostico_24
+  - first:
+      213: 6767279658736827942
+    second: Influenciable03_Diagnostico_25
+  - first:
+      213: 9112829187579156072
+    second: Influenciable03_Diagnostico_26
+  - first:
+      213: 3779196113694545826
+    second: Influenciable03_Diagnostico_27
+  - first:
+      213: 5857744788773702139
+    second: Influenciable03_Diagnostico_28
+  - first:
+      213: -45838752239698622
+    second: Influenciable03_Diagnostico_29
+  - first:
+      213: -5970729713759415216
+    second: Influenciable03_Diagnostico_30
+  - first:
+      213: 2961042239352828033
+    second: Influenciable03_Diagnostico_31
+  - first:
+      213: -5272537534919469528
+    second: Influenciable03_Diagnostico_32
+  - first:
+      213: 1961638420120113250
+    second: Influenciable03_Diagnostico_33
+  - first:
+      213: 3540388234919558414
+    second: Influenciable03_Diagnostico_34
+  - first:
+      213: 4346827056778540333
+    second: Influenciable03_Diagnostico_35
+  - first:
+      213: -2589091388308989703
+    second: Influenciable03_Diagnostico_36
+  - first:
+      213: -4869690255819377830
+    second: Influenciable03_Diagnostico_37
+  - first:
+      213: 4108123756685541998
+    second: Influenciable03_Diagnostico_38
+  - first:
+      213: -7856225198457382130
+    second: Influenciable03_Diagnostico_39
+  - first:
+      213: -7957992482731004281
+    second: Influenciable03_Diagnostico_40
+  - first:
+      213: 9040661968300902645
+    second: Influenciable03_Diagnostico_41
+  - first:
+      213: -1984076028311616414
+    second: Influenciable03_Diagnostico_42
+  - first:
+      213: -6201857866440777978
+    second: Influenciable03_Diagnostico_43
+  - first:
+      213: -6833343578291654159
+    second: Influenciable03_Diagnostico_44
+  - first:
+      213: 5957944251942971774
+    second: Influenciable03_Diagnostico_45
+  - first:
+      213: 701483606708165949
+    second: Influenciable03_Diagnostico_46
+  - first:
+      213: 4179459784456700871
+    second: Influenciable03_Diagnostico_47
+  - first:
+      213: -5900875389401613867
+    second: Influenciable03_Diagnostico_48
+  - first:
+      213: -2176180174019931220
+    second: Influenciable03_Diagnostico_49
+  - first:
+      213: 2530448729063174685
+    second: Influenciable03_Diagnostico_50
+  - first:
+      213: -404250940161986895
+    second: Influenciable03_Diagnostico_51
+  - first:
+      213: -7590447332382773064
+    second: Influenciable03_Diagnostico_52
+  - first:
+      213: -1942950934801095682
+    second: Influenciable03_Diagnostico_53
+  - first:
+      213: 3337343480325639439
+    second: Influenciable03_Diagnostico_54
+  - first:
+      213: -472750084021805208
+    second: Influenciable03_Diagnostico_55
+  - first:
+      213: 710547288313688130
+    second: Influenciable03_Diagnostico_56
+  - first:
+      213: -6582875818964461753
+    second: Influenciable03_Diagnostico_57
+  - first:
+      213: -4767130337812953195
+    second: Influenciable03_Diagnostico_58
+  - first:
+      213: -8653711486001649969
+    second: Influenciable03_Diagnostico_59
+  - first:
+      213: -7885302256394652761
+    second: Influenciable03_Diagnostico_60
+  - first:
+      213: -6749262046375762482
+    second: Influenciable03_Diagnostico_61
+  - first:
+      213: 5187924270731469790
+    second: Influenciable03_Diagnostico_62
+  - first:
+      213: 3385979668993096239
+    second: Influenciable03_Diagnostico_63
+  - first:
+      213: -8947119566473152980
+    second: Influenciable03_Diagnostico_64
+  - first:
+      213: -3453989898434316023
+    second: Influenciable03_Diagnostico_65
+  - first:
+      213: 2192287365519478217
+    second: Influenciable03_Diagnostico_66
+  - first:
+      213: -6354583132471159732
+    second: Influenciable03_Diagnostico_67
+  - first:
+      213: -7247068025260542257
+    second: Influenciable03_Diagnostico_68
+  - first:
+      213: -5405925676687206827
+    second: Influenciable03_Diagnostico_69
+  - first:
+      213: 6166966410169625892
+    second: Influenciable03_Diagnostico_70
+  - first:
+      213: 7192691218570831883
+    second: Influenciable03_Diagnostico_71
+  - first:
+      213: -2257698170218717263
+    second: Influenciable03_Diagnostico_72
+  - first:
+      213: 7206232561085116056
+    second: Influenciable03_Diagnostico_73
+  - first:
+      213: 3020764943254444908
+    second: Influenciable03_Diagnostico_74
+  - first:
+      213: 4012118747175091629
+    second: Influenciable03_Diagnostico_75
+  - first:
+      213: -5125502428686591924
+    second: Influenciable03_Diagnostico_76
+  - first:
+      213: 3323907827580982353
+    second: Influenciable03_Diagnostico_77
+  - first:
+      213: 6614461537945893136
+    second: Influenciable03_Diagnostico_78
+  - first:
+      213: 3470822996464077378
+    second: Influenciable03_Diagnostico_79
+  - first:
+      213: 7020658283680099518
+    second: Influenciable03_Diagnostico_80
+  - first:
+      213: -4967220378897811811
+    second: Influenciable03_Diagnostico_81
+  - first:
+      213: 72792835580905932
+    second: Influenciable03_Diagnostico_82
+  - first:
+      213: -5462899184050725032
+    second: Influenciable03_Diagnostico_83
+  - first:
+      213: -7261348285824477256
+    second: Influenciable03_Diagnostico_84
+  - first:
+      213: -6140249223145361443
+    second: Influenciable03_Diagnostico_85
+  - first:
+      213: -2819447203496424513
+    second: Influenciable03_Diagnostico_86
+  - first:
+      213: 591648776254818367
+    second: Influenciable03_Diagnostico_87
+  - first:
+      213: 5706265567867834857
+    second: Influenciable03_Diagnostico_88
+  - first:
+      213: 7797496085569549394
+    second: Influenciable03_Diagnostico_89
+  - first:
+      213: -6421811184220714105
+    second: Influenciable03_Diagnostico_90
+  - first:
+      213: 1929722633713383673
+    second: Influenciable03_Diagnostico_91
+  - first:
+      213: -5474470297200112714
+    second: Influenciable03_Diagnostico_92
+  - first:
+      213: -2450704139189598954
+    second: Influenciable03_Diagnostico_93
+  - first:
+      213: 4873754353821462621
+    second: Influenciable03_Diagnostico_94
+  - first:
+      213: 975448175000079740
+    second: Influenciable03_Diagnostico_95
+  - first:
+      213: 1097868321150370390
+    second: Influenciable03_Diagnostico_96
+  - first:
+      213: -4001829685823650677
+    second: Influenciable03_Diagnostico_97
+  - first:
+      213: -8656240672993131720
+    second: Influenciable03_Diagnostico_98
+  - first:
+      213: -8480809499215161166
+    second: Influenciable03_Diagnostico_99
+  - first:
+      213: 2707497881067468324
+    second: Influenciable03_Diagnostico_100
+  - first:
+      213: -4119331683669014706
+    second: Influenciable03_Diagnostico_101
+  - first:
+      213: 2070843623909370547
+    second: Influenciable03_Diagnostico_102
+  - first:
+      213: 3685766512688845836
+    second: Influenciable03_Diagnostico_103
+  - first:
+      213: 7286355234062762279
+    second: Influenciable03_Diagnostico_104
+  - first:
+      213: -3057894306127113306
+    second: Influenciable03_Diagnostico_105
+  - first:
+      213: -1327576011061477254
+    second: Influenciable03_Diagnostico_106
+  - first:
+      213: 3875222386637359860
+    second: Influenciable03_Diagnostico_107
+  - first:
+      213: 5419174005794054153
+    second: Influenciable03_Diagnostico_108
+  - first:
+      213: -4561518648688115185
+    second: Influenciable03_Diagnostico_109
+  - first:
+      213: -4555812621277606158
+    second: Influenciable03_Diagnostico_110
+  - first:
+      213: 4581595462429373881
+    second: Influenciable03_Diagnostico_111
+  - first:
+      213: -2972348416846509298
+    second: Influenciable03_Diagnostico_112
+  - first:
+      213: 3498161647299012498
+    second: Influenciable03_Diagnostico_113
+  - first:
+      213: -4554576667924231011
+    second: Influenciable03_Diagnostico_114
+  - first:
+      213: -474856228708490166
+    second: Influenciable03_Diagnostico_115
+  - first:
+      213: 4484931383296476832
+    second: Influenciable03_Diagnostico_116
+  - first:
+      213: 5837414372858649627
+    second: Influenciable03_Diagnostico_117
+  - first:
+      213: 8419406149979851025
+    second: Influenciable03_Diagnostico_118
+  - first:
+      213: -494628833634223437
+    second: Influenciable03_Diagnostico_119
+  - first:
+      213: -3482133632417740971
+    second: Influenciable03_Diagnostico_120
+  - first:
+      213: 6253571460031451264
+    second: Influenciable03_Diagnostico_121
+  - first:
+      213: 6395587041029202008
+    second: Influenciable03_Diagnostico_122
+  - first:
+      213: -150480847094124630
+    second: Influenciable03_Diagnostico_123
+  - first:
+      213: -2944109806693683486
+    second: Influenciable03_Diagnostico_124
+  - first:
+      213: -263878849248458506
+    second: Influenciable03_Diagnostico_125
+  - first:
+      213: -3074053146835226967
+    second: Influenciable03_Diagnostico_126
+  - first:
+      213: -776853971920496744
+    second: Influenciable03_Diagnostico_127
+  - first:
+      213: 3658309346992488776
+    second: Influenciable03_Diagnostico_128
+  - first:
+      213: 7023455959255413410
+    second: Influenciable03_Diagnostico_129
+  - first:
+      213: -7835798401135112352
+    second: Influenciable03_Diagnostico_130
+  - first:
+      213: 2161120696872175540
+    second: Influenciable03_Diagnostico_131
+  - first:
+      213: -1231908761090094257
+    second: Influenciable03_Diagnostico_132
+  - first:
+      213: -1825334567380436974
+    second: Influenciable03_Diagnostico_133
+  - first:
+      213: -3583870049931776969
+    second: Influenciable03_Diagnostico_134
+  - first:
+      213: 8330397457040905807
+    second: Influenciable03_Diagnostico_135
+  - first:
+      213: -8065417778976404945
+    second: Influenciable03_Diagnostico_136
+  - first:
+      213: 7526820008275766490
+    second: Influenciable03_Diagnostico_137
+  - first:
+      213: -8023957860054632699
+    second: Influenciable03_Diagnostico_138
+  - first:
+      213: 7753445620954981885
+    second: Influenciable03_Diagnostico_139
+  - first:
+      213: 2519334454765177890
+    second: Influenciable03_Diagnostico_140
+  - first:
+      213: -64919691997937957
+    second: Influenciable03_Diagnostico_141
+  - first:
+      213: 8838048382129152419
+    second: Influenciable03_Diagnostico_142
+  - first:
+      213: -2825313305270638319
+    second: Influenciable03_Diagnostico_143
+  - first:
+      213: -3314832031598467000
+    second: Influenciable03_Diagnostico_144
+  - first:
+      213: 7144825666882286067
+    second: Influenciable03_Diagnostico_145
+  - first:
+      213: 2784686712801892844
+    second: Influenciable03_Diagnostico_146
+  - first:
+      213: 6906496668520504256
+    second: Influenciable03_Diagnostico_147
+  - first:
+      213: -2047435001634094858
+    second: Influenciable03_Diagnostico_148
+  - first:
+      213: -4436983366855636077
+    second: Influenciable03_Diagnostico_149
+  - first:
+      213: -4769393739476750284
+    second: Influenciable03_Diagnostico_150
+  - first:
+      213: 1525397144438119298
+    second: Influenciable03_Diagnostico_151
+  - first:
+      213: -4997268902343602924
+    second: Influenciable03_Diagnostico_152
+  - first:
+      213: 7798977672704015906
+    second: Influenciable03_Diagnostico_153
+  - first:
+      213: -4465650930566714207
+    second: Influenciable03_Diagnostico_154
+  - first:
+      213: -3236136238876537020
+    second: Influenciable03_Diagnostico_155
+  - first:
+      213: 615812096839412106
+    second: Influenciable03_Diagnostico_156
+  - first:
+      213: 6091014157264261390
+    second: Influenciable03_Diagnostico_157
+  - first:
+      213: -265838092147800619
+    second: Influenciable03_Diagnostico_158
+  - first:
+      213: -5301145321035203003
+    second: Influenciable03_Diagnostico_159
+  - first:
+      213: -5941956008173362839
+    second: Influenciable03_Diagnostico_160
+  - first:
+      213: 5889196843054411646
+    second: Influenciable03_Diagnostico_161
+  - first:
+      213: 3098610395160002852
+    second: Influenciable03_Diagnostico_162
+  - first:
+      213: 5445362701227480065
+    second: Influenciable03_Diagnostico_163
+  - first:
+      213: -8986016826114874250
+    second: Influenciable03_Diagnostico_164
+  - first:
+      213: 2884773589742676885
+    second: Influenciable03_Diagnostico_165
+  - first:
+      213: -6139289691300468311
+    second: Influenciable03_Diagnostico_166
+  - first:
+      213: -3264410920395413671
+    second: Influenciable03_Diagnostico_167
+  - first:
+      213: 1191608758178665230
+    second: Influenciable03_Diagnostico_168
+  - first:
+      213: 7783850799698628441
+    second: Influenciable03_Diagnostico_169
+  - first:
+      213: 5392790889235526023
+    second: Influenciable03_Diagnostico_170
+  - first:
+      213: -5419952535877363556
+    second: Influenciable03_Diagnostico_171
+  - first:
+      213: -7830394283478326420
+    second: Influenciable03_Diagnostico_172
+  - first:
+      213: 6598281161202623276
+    second: Influenciable03_Diagnostico_173
+  - first:
+      213: 1715273741147325295
+    second: Influenciable03_Diagnostico_174
+  - first:
+      213: 7896162309057747260
+    second: Influenciable03_Diagnostico_175
+  - first:
+      213: -3489700314622050982
+    second: Influenciable03_Diagnostico_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 405
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf67a74bc34765a60800000000000000
+      internalID: 7662439620092262140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 444
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3560a199ca4c7e7f0800000000000000
+      internalID: -583281381139151277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 445
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf84869ab395caeb0800000000000000
+      internalID: -4707289397728884484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 405
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a572d9567d156f20800000000000000
+      internalID: 3415168286580700583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 444
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8a5810690783390800000000000000
+      internalID: -7838391361865406256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 406
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a21b7a8ca8ba940800000000000000
+      internalID: 5308489180197759519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a76512b8e052d20800000000000000
+      internalID: 3253022296567609875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 391
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835821ff43cc35b50800000000000000
+      internalID: 6580828008508196152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 406
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e048ade3d262370800000000000000
+      internalID: 8297369111454027348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 405
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d8eea0ca1aa0f20800000000000000
+      internalID: 3389699429839572276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 405
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec930fbf3ff11270800000000000000
+      internalID: 8219631444180573420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 406
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c53a8f57be3160800000000000000
+      internalID: 7007239691203625462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 405
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e89252a0ef1570800000000000000
+      internalID: 8439711214490673899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a237e92e52aac0800000000000000
+      internalID: -3845407597755456021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 265
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567c89b0d5432f80800000000000000
+      internalID: -8132579739332479405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 264
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30770ce3ccc6420800000000000000
+      internalID: 2624697252739220432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 264
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0fcc0a61331ee60800000000000000
+      internalID: 7989723386212053152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 265
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fc7a553973b32b0800000000000000
+      internalID: -5603824205395669157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 264
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e20eee8bf4509f0800000000000000
+      internalID: -502908127681696158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 265
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbad7fa4d02f77e50800000000000000
+      internalID: 6807175500700048059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2550e280c7472a0800000000000000
+      internalID: -6740626367693106494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833ea8a2844333420800000000000000
+      internalID: 2608486093733684024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 264
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac14121623d1f2410800000000000000
+      internalID: 1454413306879099338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4cc5976d2fb2c0800000000000000
+      internalID: -4413759186881720438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 264
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf744b781ec59a0800000000000000
+      internalID: -6242867010480899043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e3cbabef43aed50800000000000000
+      internalID: 6767279658736827942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 264
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86697704dd5477e70800000000000000
+      internalID: 9112829187579156072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 265
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7dc45a7d6627430800000000000000
+      internalID: 3779196113694545826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 264
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf980c789d3ea4150800000000000000
+      internalID: 5857744788773702139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 256
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3ecfc5e52d5ff0800000000000000
+      internalID: -45838752239698622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 264
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0541089a5f4b32da0800000000000000
+      internalID: -5970729713759415216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_31
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 264
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1807d897a3cb71920800000000000000
+      internalID: 2961042239352828033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 264
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826163e0c0f24d6b0800000000000000
+      internalID: -5272537534919469528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_33
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 264
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2609409ffb3293b10800000000000000
+      internalID: 1961638420120113250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_34
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 264
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d3a55875cf12130800000000000000
+      internalID: 3540388234919558414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 265
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25775b7d28035c30800000000000000
+      internalID: 4346827056778540333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8d1d49913b11cd0800000000000000
+      internalID: -2589091388308989703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 264
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5374b753826b6cb0800000000000000
+      internalID: -4869690255819377830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 265
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c59a7accf20930800000000000000
+      internalID: 4108123756685541998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 265
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b997a5ec419f290800000000000000
+      internalID: -7856225198457382130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_40
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee69d00088f8190800000000000000
+      internalID: -7957992482731004281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 237
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f885f22922e67d70800000000000000
+      internalID: 9040661968300902645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 212
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644e154d552774e0800000000000000
+      internalID: -1984076028311616414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 203
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd55b11239ee9a0800000000000000
+      internalID: -6201857866440777978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 212
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1babb58361b21a0800000000000000
+      internalID: -6833343578291654159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 211
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7924a80bbedea250800000000000000
+      internalID: 5957944251942971774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 237
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d9999af9b2cb900800000000000000
+      internalID: 701483606708165949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 211
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3829db78c600a30800000000000000
+      internalID: 4179459784456700871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 212
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d93fd6f811eb1ea0800000000000000
+      internalID: -5900875389401613867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_49
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca35b4069a7acc1e0800000000000000
+      internalID: -2176180174019931220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12362256b5fd1320800000000000000
+      internalID: 2530448729063174685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bee68769efc36af0800000000000000
+      internalID: -404250940161986895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0730bfd5059a690800000000000000
+      internalID: -7590447332382773064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_53
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 211
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3ea234b604905e0800000000000000
+      internalID: -1942950934801095682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d864e9630a05e20800000000000000
+      internalID: 3337343480325639439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_55
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 212
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f1856ad447079f0800000000000000
+      internalID: -472750084021805208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_56
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 211
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240fd0c7efe5cd900800000000000000
+      internalID: 710547288313688130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 236
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7475d1af15de4a4a0800000000000000
+      internalID: -6582875818964461753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_58
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 211
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597cba01730c7ddb0800000000000000
+      internalID: -4767130337812953195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_59
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 211
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc66728b047d7e780800000000000000
+      internalID: -8653711486001649969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_60
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3b20d3067c19290800000000000000
+      internalID: -7885302256394652761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_61
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 212
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52fbd8dedc552a0800000000000000
+      internalID: -6749262046375762482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_62
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 211
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3a39e23a53ff740800000000000000
+      internalID: 5187924270731469790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_63
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 212
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a370bb19a6dfe20800000000000000
+      internalID: 3385979668993096239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_64
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26bb6d782275d380800000000000000
+      internalID: -8947119566473152980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_65
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f806cc76f010d0800000000000000
+      internalID: -3453989898434316023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_66
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 212
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd8d536eb19c6e10800000000000000
+      internalID: 2192287365519478217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_67
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 237
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441e5d1f4cffc7a0800000000000000
+      internalID: -6354583132471159732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_68
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 211
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f043170e3d6b90800000000000000
+      internalID: -7247068025260542257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_69
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 212
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55655e62d3b4af4b0800000000000000
+      internalID: -5405925676687206827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_70
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 211
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d2deba647759550800000000000000
+      internalID: 6166966410169625892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 212
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086cf50e8291d360800000000000000
+      internalID: 7192691218570831883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_72
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 211
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf501ad97b0ba0e0800000000000000
+      internalID: -2257698170218717263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 212
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee454855ea10460800000000000000
+      internalID: 7206232561085116056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 212
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b52a016b9ebe920800000000000000
+      internalID: 3020764943254444908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_75
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad7e025eb8eda730800000000000000
+      internalID: 4012118747175091629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_76
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 212
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48dbba72be8ed8b0800000000000000
+      internalID: -5125502428686591924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154da11fe84e02e20800000000000000
+      internalID: 3323907827580982353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_78
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019bfbd49b94bcb50800000000000000
+      internalID: 6614461537945893136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 158
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a8f764027da2030800000000000000
+      internalID: 3470822996464077378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce72013836e6160800000000000000
+      internalID: 7020658283680099518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 158
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96f6b20263e01bb0800000000000000
+      internalID: -4967220378897811811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_82
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 158
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc94ef2c2bc920100800000000000000
+      internalID: 72792835580905932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 159
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f92e2c222ef24b0800000000000000
+      internalID: -5462899184050725032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b75a01d4328a3b90800000000000000
+      internalID: -7261348285824477256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_85
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 158
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6d0e2dd379caa0800000000000000
+      internalID: -6140249223145361443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_86
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb80acd4bf4fd8d0800000000000000
+      internalID: -2819447203496424513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_87
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 158
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3886746d65f53800800000000000000
+      internalID: 591648776254818367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_88
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 159
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11ec60d4ab03f40800000000000000
+      internalID: 5706265567867834857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_89
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 184
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2543fdd7065463c60800000000000000
+      internalID: 7797496085569549394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_90
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bc4ed80c421e6a0800000000000000
+      internalID: -6421811184220714105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_91
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f87481e280c7ca10800000000000000
+      internalID: 1929722633713383673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_92
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbc5f90546c604b0800000000000000
+      internalID: -5474470297200112714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_93
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615460ed1995dfdd0800000000000000
+      internalID: -2450704139189598954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_94
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 184
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ba0633cd03a340800000000000000
+      internalID: 4873754353821462621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_95
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dceaf62fc798d00800000000000000
+      internalID: 975448175000079740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_96
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 159
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652825cdb696c3f00800000000000000
+      internalID: 1097868321150370390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_97
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b844ed47a15a678c0800000000000000
+      internalID: -4001829685823650677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_98
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 158
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c4fb78faded780800000000000000
+      internalID: -8656240672993131720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_99
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8958791bc1e4a80800000000000000
+      internalID: -8480809499215161166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_100
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 158
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42636275af6f29520800000000000000
+      internalID: 2707497881067468324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_101
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 158
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4785eaa8a135d6c0800000000000000
+      internalID: -4119331683669014706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_102
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 159
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba208cdd4d1dbc10800000000000000
+      internalID: 2070843623909370547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_103
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 158
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0459d18d19762330800000000000000
+      internalID: 3685766512688845836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_104
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7218e990b755e1560800000000000000
+      internalID: 7286355234062762279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_105
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 158
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a39a9a745d2095d0800000000000000
+      internalID: -3057894306127113306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_106
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 158
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70c958d6a0839de0800000000000000
+      internalID: -1327576011061477254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_107
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 159
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa49259a3e87c530800000000000000
+      internalID: 3875222386637359860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_108
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 159
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900a267db06c43b40800000000000000
+      internalID: 5419174005794054153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_109
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 151
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0200acf4fa32b0c0800000000000000
+      internalID: -4561518648688115185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 106
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fec1850f8086c0c0800000000000000
+      internalID: -4555812621277606158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f4aa7cc8159f30800000000000000
+      internalID: 4581595462429373881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_112
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4b21fcd810c6d0800000000000000
+      internalID: -2972348416846509298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2972722fb77fb8030800000000000000
+      internalID: 3498161647299012498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_114
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0816d6a4eac0c0800000000000000
+      internalID: -4554576667924231011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44e270a6c8f869f0800000000000000
+      internalID: -474856228708490166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_116
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 106
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a64367b45dad3e30800000000000000
+      internalID: 4484931383296476832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_117
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cdff4b179a20150800000000000000
+      internalID: 5837414372858649627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_118
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 106
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119c945194db7d470800000000000000
+      internalID: 8419406149979851025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_119
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baf09b42b9b229f0800000000000000
+      internalID: -494628833634223437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_120
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 105
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557cc4319e9fcafc0800000000000000
+      internalID: -3482133632417740971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 106
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08012bc2c1629c650800000000000000
+      internalID: 6253571460031451264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_122
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85023ae4780b1c850800000000000000
+      internalID: 6395587041029202008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_123
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 105
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf6473877269edf0800000000000000
+      internalID: -150480847094124630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_124
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6748babb6427d0800000000000000
+      internalID: -2944109806693683486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_125
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f88ecea593865cf0800000000000000
+      internalID: -263878849248458506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_126
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 106
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aee63233f4c655d0800000000000000
+      internalID: -3074053146835226967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_127
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d351bd6f0835f0800000000000000
+      internalID: -776853971920496744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_128
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 106
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8418af1f7fce4c230800000000000000
+      internalID: 3658309346992488776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_129
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 106
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2f40babf3587160800000000000000
+      internalID: 7023455959255413410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_130
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f84c8bed6a14390800000000000000
+      internalID: -7835798401135112352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_131
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 106
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b78fcdd2d7ddfd10800000000000000
+      internalID: 2161120696872175540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_132
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b888b328167eee0800000000000000
+      internalID: -1231908761090094257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_133
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2183c0bc1eb1ba6e0800000000000000
+      internalID: -1825334567380436974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_134
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 105
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca7a08d29834ec0800000000000000
+      internalID: -3583870049931776969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_135
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f469db0d9548b9370800000000000000
+      internalID: 8330397457040905807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_136
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 106
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2acdfe2341e11090800000000000000
+      internalID: -8065417778976404945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_137
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc64913be2a47860800000000000000
+      internalID: 7526820008275766490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_138
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5077dbac6dc25a090800000000000000
+      internalID: -8023957860054632699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_139
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5645676b5c99b60800000000000000
+      internalID: 7753445620954981885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_140
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c4eaea65976f220800000000000000
+      internalID: 2519334454765177890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_141
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef88352eb591ff0800000000000000
+      internalID: -64919691997937957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_142
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 52
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a126847d2e07aa70800000000000000
+      internalID: 8838048382129152419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_143
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 44
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119a82c94887ac8d0800000000000000
+      internalID: -2825313305270638319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_144
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ac7a74d95ff1d0800000000000000
+      internalID: -3314832031598467000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_145
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 53
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1bc90d615872360800000000000000
+      internalID: 7144825666882286067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_146
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce99e47bfc135a620800000000000000
+      internalID: 2784686712801892844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_147
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 53
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5599b02ec8df50800000000000000
+      internalID: 6906496668520504256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_148
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f006eab6bc0693e0800000000000000
+      internalID: -2047435001634094858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_149
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 52
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bc040d22bac62c0800000000000000
+      internalID: -4436983366855636077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_150
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430348cc9a5bfcdb0800000000000000
+      internalID: -4769393739476750284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_151
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 44
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b11a7fe9c4b2510800000000000000
+      internalID: 1525397144438119298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_152
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d04b4f86226aab0800000000000000
+      internalID: -4997268902343602924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_153
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb9b06fd88b3c60800000000000000
+      internalID: 7798977672704015906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_154
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 52
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acada08322d602c0800000000000000
+      internalID: -4465650930566714207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_155
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fcefc8c3fe613d0800000000000000
+      internalID: -3236136238876537020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_156
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 53
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a896080e6ddcb8800800000000000000
+      internalID: 615812096839412106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_157
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 53
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019c9dba11a78450800000000000000
+      internalID: 6091014157264261390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_158
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d543c5e9ad8f4cf0800000000000000
+      internalID: -265838092147800619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_159
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 52
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ef8fcca6c8e66b0800000000000000
+      internalID: -5301145321035203003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_160
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 78
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96124dd0e7ee98da0800000000000000
+      internalID: -5941956008173362839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_161
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f2c929351aab150800000000000000
+      internalID: 5889196843054411646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_162
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 53
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42148dcbcb9700b20800000000000000
+      internalID: 3098610395160002852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_163
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10453d7a680d19b40800000000000000
+      internalID: 5445362701227480065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_164
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 52
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6746dbd7e414b4380800000000000000
+      internalID: -8986016826114874250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_165
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 47
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b6a02bb46c80820800000000000000
+      internalID: 2884773589742676885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_166
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 53
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a961d89d8cdccaa0800000000000000
+      internalID: -6139289691300468311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_167
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957ece0409b72b2d0800000000000000
+      internalID: -3264410920395413671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_168
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03db762ad1798010800000000000000
+      internalID: 1191608758178665230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_169
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f4daccf0bc50c60800000000000000
+      internalID: 7783850799698628441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_170
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781b8d4ddba07da40800000000000000
+      internalID: 5392790889235526023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_171
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c985d8f72e578c4b0800000000000000
+      internalID: -5419952535877363556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_172
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63660ae2e9d45390800000000000000
+      internalID: -7830394283478326420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_173
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2362a5c1cdc19b50800000000000000
+      internalID: 6598281161202623276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_174
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6344a13160edc710800000000000000
+      internalID: 1715273741147325295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_175
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c391730d8cdc49d60800000000000000
+      internalID: 7896162309057747260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Influenciable03_Diagnostico_176
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d32669d08129fc0800000000000000
+      internalID: -3489700314622050982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Influenciable03_Diagnostico_0: 7662439620092262140
+      Influenciable03_Diagnostico_1: -583281381139151277
+      Influenciable03_Diagnostico_10: 8219631444180573420
+      Influenciable03_Diagnostico_100: 2707497881067468324
+      Influenciable03_Diagnostico_101: -4119331683669014706
+      Influenciable03_Diagnostico_102: 2070843623909370547
+      Influenciable03_Diagnostico_103: 3685766512688845836
+      Influenciable03_Diagnostico_104: 7286355234062762279
+      Influenciable03_Diagnostico_105: -3057894306127113306
+      Influenciable03_Diagnostico_106: -1327576011061477254
+      Influenciable03_Diagnostico_107: 3875222386637359860
+      Influenciable03_Diagnostico_108: 5419174005794054153
+      Influenciable03_Diagnostico_109: -4561518648688115185
+      Influenciable03_Diagnostico_11: 7007239691203625462
+      Influenciable03_Diagnostico_110: -4555812621277606158
+      Influenciable03_Diagnostico_111: 4581595462429373881
+      Influenciable03_Diagnostico_112: -2972348416846509298
+      Influenciable03_Diagnostico_113: 3498161647299012498
+      Influenciable03_Diagnostico_114: -4554576667924231011
+      Influenciable03_Diagnostico_115: -474856228708490166
+      Influenciable03_Diagnostico_116: 4484931383296476832
+      Influenciable03_Diagnostico_117: 5837414372858649627
+      Influenciable03_Diagnostico_118: 8419406149979851025
+      Influenciable03_Diagnostico_119: -494628833634223437
+      Influenciable03_Diagnostico_12: 8439711214490673899
+      Influenciable03_Diagnostico_120: -3482133632417740971
+      Influenciable03_Diagnostico_121: 6253571460031451264
+      Influenciable03_Diagnostico_122: 6395587041029202008
+      Influenciable03_Diagnostico_123: -150480847094124630
+      Influenciable03_Diagnostico_124: -2944109806693683486
+      Influenciable03_Diagnostico_125: -263878849248458506
+      Influenciable03_Diagnostico_126: -3074053146835226967
+      Influenciable03_Diagnostico_127: -776853971920496744
+      Influenciable03_Diagnostico_128: 3658309346992488776
+      Influenciable03_Diagnostico_129: 7023455959255413410
+      Influenciable03_Diagnostico_13: -3845407597755456021
+      Influenciable03_Diagnostico_130: -7835798401135112352
+      Influenciable03_Diagnostico_131: 2161120696872175540
+      Influenciable03_Diagnostico_132: -1231908761090094257
+      Influenciable03_Diagnostico_133: -1825334567380436974
+      Influenciable03_Diagnostico_134: -3583870049931776969
+      Influenciable03_Diagnostico_135: 8330397457040905807
+      Influenciable03_Diagnostico_136: -8065417778976404945
+      Influenciable03_Diagnostico_137: 7526820008275766490
+      Influenciable03_Diagnostico_138: -8023957860054632699
+      Influenciable03_Diagnostico_139: 7753445620954981885
+      Influenciable03_Diagnostico_14: -8132579739332479405
+      Influenciable03_Diagnostico_140: 2519334454765177890
+      Influenciable03_Diagnostico_141: -64919691997937957
+      Influenciable03_Diagnostico_142: 8838048382129152419
+      Influenciable03_Diagnostico_143: -2825313305270638319
+      Influenciable03_Diagnostico_144: -3314832031598467000
+      Influenciable03_Diagnostico_145: 7144825666882286067
+      Influenciable03_Diagnostico_146: 2784686712801892844
+      Influenciable03_Diagnostico_147: 6906496668520504256
+      Influenciable03_Diagnostico_148: -2047435001634094858
+      Influenciable03_Diagnostico_149: -4436983366855636077
+      Influenciable03_Diagnostico_15: 2624697252739220432
+      Influenciable03_Diagnostico_150: -4769393739476750284
+      Influenciable03_Diagnostico_151: 1525397144438119298
+      Influenciable03_Diagnostico_152: -4997268902343602924
+      Influenciable03_Diagnostico_153: 7798977672704015906
+      Influenciable03_Diagnostico_154: -4465650930566714207
+      Influenciable03_Diagnostico_155: -3236136238876537020
+      Influenciable03_Diagnostico_156: 615812096839412106
+      Influenciable03_Diagnostico_157: 6091014157264261390
+      Influenciable03_Diagnostico_158: -265838092147800619
+      Influenciable03_Diagnostico_159: -5301145321035203003
+      Influenciable03_Diagnostico_16: 7989723386212053152
+      Influenciable03_Diagnostico_160: -5941956008173362839
+      Influenciable03_Diagnostico_161: 5889196843054411646
+      Influenciable03_Diagnostico_162: 3098610395160002852
+      Influenciable03_Diagnostico_163: 5445362701227480065
+      Influenciable03_Diagnostico_164: -8986016826114874250
+      Influenciable03_Diagnostico_165: 2884773589742676885
+      Influenciable03_Diagnostico_166: -6139289691300468311
+      Influenciable03_Diagnostico_167: -3264410920395413671
+      Influenciable03_Diagnostico_168: 1191608758178665230
+      Influenciable03_Diagnostico_169: 7783850799698628441
+      Influenciable03_Diagnostico_17: -5603824205395669157
+      Influenciable03_Diagnostico_170: 5392790889235526023
+      Influenciable03_Diagnostico_171: -5419952535877363556
+      Influenciable03_Diagnostico_172: -7830394283478326420
+      Influenciable03_Diagnostico_173: 6598281161202623276
+      Influenciable03_Diagnostico_174: 1715273741147325295
+      Influenciable03_Diagnostico_175: 7896162309057747260
+      Influenciable03_Diagnostico_176: -3489700314622050982
+      Influenciable03_Diagnostico_18: -502908127681696158
+      Influenciable03_Diagnostico_19: 6807175500700048059
+      Influenciable03_Diagnostico_2: -4707289397728884484
+      Influenciable03_Diagnostico_20: -6740626367693106494
+      Influenciable03_Diagnostico_21: 2608486093733684024
+      Influenciable03_Diagnostico_22: 1454413306879099338
+      Influenciable03_Diagnostico_23: -4413759186881720438
+      Influenciable03_Diagnostico_24: -6242867010480899043
+      Influenciable03_Diagnostico_25: 6767279658736827942
+      Influenciable03_Diagnostico_26: 9112829187579156072
+      Influenciable03_Diagnostico_27: 3779196113694545826
+      Influenciable03_Diagnostico_28: 5857744788773702139
+      Influenciable03_Diagnostico_29: -45838752239698622
+      Influenciable03_Diagnostico_3: 3415168286580700583
+      Influenciable03_Diagnostico_30: -5970729713759415216
+      Influenciable03_Diagnostico_31: 2961042239352828033
+      Influenciable03_Diagnostico_32: -5272537534919469528
+      Influenciable03_Diagnostico_33: 1961638420120113250
+      Influenciable03_Diagnostico_34: 3540388234919558414
+      Influenciable03_Diagnostico_35: 4346827056778540333
+      Influenciable03_Diagnostico_36: -2589091388308989703
+      Influenciable03_Diagnostico_37: -4869690255819377830
+      Influenciable03_Diagnostico_38: 4108123756685541998
+      Influenciable03_Diagnostico_39: -7856225198457382130
+      Influenciable03_Diagnostico_4: -7838391361865406256
+      Influenciable03_Diagnostico_40: -7957992482731004281
+      Influenciable03_Diagnostico_41: 9040661968300902645
+      Influenciable03_Diagnostico_42: -1984076028311616414
+      Influenciable03_Diagnostico_43: -6201857866440777978
+      Influenciable03_Diagnostico_44: -6833343578291654159
+      Influenciable03_Diagnostico_45: 5957944251942971774
+      Influenciable03_Diagnostico_46: 701483606708165949
+      Influenciable03_Diagnostico_47: 4179459784456700871
+      Influenciable03_Diagnostico_48: -5900875389401613867
+      Influenciable03_Diagnostico_49: -2176180174019931220
+      Influenciable03_Diagnostico_5: 5308489180197759519
+      Influenciable03_Diagnostico_50: 2530448729063174685
+      Influenciable03_Diagnostico_51: -404250940161986895
+      Influenciable03_Diagnostico_52: -7590447332382773064
+      Influenciable03_Diagnostico_53: -1942950934801095682
+      Influenciable03_Diagnostico_54: 3337343480325639439
+      Influenciable03_Diagnostico_55: -472750084021805208
+      Influenciable03_Diagnostico_56: 710547288313688130
+      Influenciable03_Diagnostico_57: -6582875818964461753
+      Influenciable03_Diagnostico_58: -4767130337812953195
+      Influenciable03_Diagnostico_59: -8653711486001649969
+      Influenciable03_Diagnostico_6: 3253022296567609875
+      Influenciable03_Diagnostico_60: -7885302256394652761
+      Influenciable03_Diagnostico_61: -6749262046375762482
+      Influenciable03_Diagnostico_62: 5187924270731469790
+      Influenciable03_Diagnostico_63: 3385979668993096239
+      Influenciable03_Diagnostico_64: -8947119566473152980
+      Influenciable03_Diagnostico_65: -3453989898434316023
+      Influenciable03_Diagnostico_66: 2192287365519478217
+      Influenciable03_Diagnostico_67: -6354583132471159732
+      Influenciable03_Diagnostico_68: -7247068025260542257
+      Influenciable03_Diagnostico_69: -5405925676687206827
+      Influenciable03_Diagnostico_7: 6580828008508196152
+      Influenciable03_Diagnostico_70: 6166966410169625892
+      Influenciable03_Diagnostico_71: 7192691218570831883
+      Influenciable03_Diagnostico_72: -2257698170218717263
+      Influenciable03_Diagnostico_73: 7206232561085116056
+      Influenciable03_Diagnostico_74: 3020764943254444908
+      Influenciable03_Diagnostico_75: 4012118747175091629
+      Influenciable03_Diagnostico_76: -5125502428686591924
+      Influenciable03_Diagnostico_77: 3323907827580982353
+      Influenciable03_Diagnostico_78: 6614461537945893136
+      Influenciable03_Diagnostico_79: 3470822996464077378
+      Influenciable03_Diagnostico_8: 8297369111454027348
+      Influenciable03_Diagnostico_80: 7020658283680099518
+      Influenciable03_Diagnostico_81: -4967220378897811811
+      Influenciable03_Diagnostico_82: 72792835580905932
+      Influenciable03_Diagnostico_83: -5462899184050725032
+      Influenciable03_Diagnostico_84: -7261348285824477256
+      Influenciable03_Diagnostico_85: -6140249223145361443
+      Influenciable03_Diagnostico_86: -2819447203496424513
+      Influenciable03_Diagnostico_87: 591648776254818367
+      Influenciable03_Diagnostico_88: 5706265567867834857
+      Influenciable03_Diagnostico_89: 7797496085569549394
+      Influenciable03_Diagnostico_9: 3389699429839572276
+      Influenciable03_Diagnostico_90: -6421811184220714105
+      Influenciable03_Diagnostico_91: 1929722633713383673
+      Influenciable03_Diagnostico_92: -5474470297200112714
+      Influenciable03_Diagnostico_93: -2450704139189598954
+      Influenciable03_Diagnostico_94: 4873754353821462621
+      Influenciable03_Diagnostico_95: 975448175000079740
+      Influenciable03_Diagnostico_96: 1097868321150370390
+      Influenciable03_Diagnostico_97: -4001829685823650677
+      Influenciable03_Diagnostico_98: -8656240672993131720
+      Influenciable03_Diagnostico_99: -8480809499215161166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

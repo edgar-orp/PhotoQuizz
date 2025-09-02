@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 932a84b3a8753f7459f37b125a23013a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1531575027706180372
+    second: Emprendedor_titulo_0
+  - first:
+      213: -8205319306320452179
+    second: Emprendedor_titulo_1
+  - first:
+      213: 7710220907934319120
+    second: Emprendedor_titulo_2
+  - first:
+      213: 8829755606972150194
+    second: Emprendedor_titulo_3
+  - first:
+      213: 7104461572057236321
+    second: Emprendedor_titulo_4
+  - first:
+      213: -4534744927590047137
+    second: Emprendedor_titulo_5
+  - first:
+      213: 7991566441784228973
+    second: Emprendedor_titulo_6
+  - first:
+      213: 1130499793620725850
+    second: Emprendedor_titulo_7
+  - first:
+      213: 7296340017004849203
+    second: Emprendedor_titulo_8
+  - first:
+      213: -2406025016485085346
+    second: Emprendedor_titulo_9
+  - first:
+      213: -6043940669451970251
+    second: Emprendedor_titulo_10
+  - first:
+      213: -492366925815992008
+    second: Emprendedor_titulo_11
+  - first:
+      213: 4533159289911126203
+    second: Emprendedor_titulo_12
+  - first:
+      213: 819363441458080610
+    second: Emprendedor_titulo_13
+  - first:
+      213: -4185943149153501769
+    second: Emprendedor_titulo_14
+  - first:
+      213: -1362971333193376316
+    second: Emprendedor_titulo_15
+  - first:
+      213: -6740383034512638682
+    second: Emprendedor_titulo_16
+  - first:
+      213: 7920957468336269441
+    second: Emprendedor_titulo_17
+  - first:
+      213: -1465043137688184212
+    second: Emprendedor_titulo_18
+  - first:
+      213: 602984681322107920
+    second: Emprendedor_titulo_19
+  - first:
+      213: 4768964013716413266
+    second: Emprendedor_titulo_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emprendedor_titulo_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 119
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecc6be70a0cebae0800000000000000
+      internalID: -1531575027706180372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 126
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56d168099d02e80800000000000000
+      internalID: -8205319306320452179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 110
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0120735b015300b60800000000000000
+      internalID: 7710220907934319120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 132
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1b61741f7998a70800000000000000
+      internalID: 8829755606972150194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 134
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16382e2a82e189260800000000000000
+      internalID: 7104461572057236321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 135
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52adf3b3895111c0800000000000000
+      internalID: -4534744927590047137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 132
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3b71765fb7ee60800000000000000
+      internalID: 7991566441784228973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 129
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a507a69929750bf00800000000000000
+      internalID: 1130499793620725850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 123
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338aa0a769ec14560800000000000000
+      internalID: 7296340017004849203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 119
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ff3b3cef41c9ed0800000000000000
+      internalID: -2406025016485085346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53957c9bbfb9f1ca0800000000000000
+      internalID: -6043940669451970251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 36
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831369fb3e2ca29f0800000000000000
+      internalID: -492366925815992008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb82a614b5409ee30800000000000000
+      internalID: 4533159289911126203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 48
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bec0675b6fe5b00800000000000000
+      internalID: 819363441458080610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 49
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb9b842ea88e5c0800000000000000
+      internalID: -4185943149153501769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 50
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd7f53bc0c51de0800000000000000
+      internalID: -1362971333193376316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 48
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dfdc997595572a0800000000000000
+      internalID: -6740383034512638682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_17
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1882925b9d4eced60800000000000000
+      internalID: 7920957468336269441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_18
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 38
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad875470f1babe0800000000000000
+      internalID: -1465043137688184212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_19
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 31
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d4377f5b3e5800800000000000000
+      internalID: 602984681322107920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_titulo_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 25
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b1030e083ce2240800000000000000
+      internalID: 4768964013716413266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emprendedor_titulo_0: -1531575027706180372
+      Emprendedor_titulo_1: -8205319306320452179
+      Emprendedor_titulo_10: -6043940669451970251
+      Emprendedor_titulo_11: -492366925815992008
+      Emprendedor_titulo_12: 4533159289911126203
+      Emprendedor_titulo_13: 819363441458080610
+      Emprendedor_titulo_14: -4185943149153501769
+      Emprendedor_titulo_15: -1362971333193376316
+      Emprendedor_titulo_16: -6740383034512638682
+      Emprendedor_titulo_17: 7920957468336269441
+      Emprendedor_titulo_18: -1465043137688184212
+      Emprendedor_titulo_19: 602984681322107920
+      Emprendedor_titulo_2: 7710220907934319120
+      Emprendedor_titulo_20: 4768964013716413266
+      Emprendedor_titulo_3: 8829755606972150194
+      Emprendedor_titulo_4: 7104461572057236321
+      Emprendedor_titulo_5: -4534744927590047137
+      Emprendedor_titulo_6: 7991566441784228973
+      Emprendedor_titulo_7: 1130499793620725850
+      Emprendedor_titulo_8: 7296340017004849203
+      Emprendedor_titulo_9: -2406025016485085346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

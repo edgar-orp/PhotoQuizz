@@ -1,0 +1,2977 @@
+fileFormatVersion: 2
+guid: 45dcd49b7f466be478411131451aeaa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4482523832780981689
+    second: Emo03_Diagnostico_0
+  - first:
+      213: 247030674433644125
+    second: Emo03_Diagnostico_1
+  - first:
+      213: 7347299320927376986
+    second: Emo03_Diagnostico_2
+  - first:
+      213: -6000454796684114478
+    second: Emo03_Diagnostico_3
+  - first:
+      213: 6409756297780411254
+    second: Emo03_Diagnostico_4
+  - first:
+      213: -8675395012946744072
+    second: Emo03_Diagnostico_5
+  - first:
+      213: 2024040275532453988
+    second: Emo03_Diagnostico_6
+  - first:
+      213: 4264092645765547547
+    second: Emo03_Diagnostico_7
+  - first:
+      213: -3514692611135249871
+    second: Emo03_Diagnostico_8
+  - first:
+      213: -2459496260557377305
+    second: Emo03_Diagnostico_9
+  - first:
+      213: 7730209525945546658
+    second: Emo03_Diagnostico_10
+  - first:
+      213: -8861675183034777788
+    second: Emo03_Diagnostico_11
+  - first:
+      213: -6589957642313172760
+    second: Emo03_Diagnostico_12
+  - first:
+      213: 257194226527566576
+    second: Emo03_Diagnostico_13
+  - first:
+      213: -3894980653789436580
+    second: Emo03_Diagnostico_14
+  - first:
+      213: 7351293610828745961
+    second: Emo03_Diagnostico_15
+  - first:
+      213: -9194838190122613703
+    second: Emo03_Diagnostico_16
+  - first:
+      213: -2542348892042706589
+    second: Emo03_Diagnostico_17
+  - first:
+      213: -8878665225561567826
+    second: Emo03_Diagnostico_18
+  - first:
+      213: 7573225880638555651
+    second: Emo03_Diagnostico_19
+  - first:
+      213: 7649951510244821923
+    second: Emo03_Diagnostico_20
+  - first:
+      213: -8189357680995128063
+    second: Emo03_Diagnostico_21
+  - first:
+      213: -3060135418355532962
+    second: Emo03_Diagnostico_22
+  - first:
+      213: 8050944144948238963
+    second: Emo03_Diagnostico_23
+  - first:
+      213: 1241031288964225773
+    second: Emo03_Diagnostico_24
+  - first:
+      213: 8482060606211433885
+    second: Emo03_Diagnostico_25
+  - first:
+      213: 692013961148042817
+    second: Emo03_Diagnostico_26
+  - first:
+      213: 4701404185278614956
+    second: Emo03_Diagnostico_27
+  - first:
+      213: 4652660196094864390
+    second: Emo03_Diagnostico_28
+  - first:
+      213: 7078649253478769718
+    second: Emo03_Diagnostico_29
+  - first:
+      213: -7818010078989327186
+    second: Emo03_Diagnostico_30
+  - first:
+      213: -4319965890832307897
+    second: Emo03_Diagnostico_31
+  - first:
+      213: -1974401860487045047
+    second: Emo03_Diagnostico_32
+  - first:
+      213: 7378858642178404211
+    second: Emo03_Diagnostico_33
+  - first:
+      213: 3899059552416914249
+    second: Emo03_Diagnostico_34
+  - first:
+      213: -7589394729395872081
+    second: Emo03_Diagnostico_35
+  - first:
+      213: -6935934937439434232
+    second: Emo03_Diagnostico_36
+  - first:
+      213: -746513749215545452
+    second: Emo03_Diagnostico_37
+  - first:
+      213: -4015158211559387184
+    second: Emo03_Diagnostico_38
+  - first:
+      213: 5362945763110308489
+    second: Emo03_Diagnostico_39
+  - first:
+      213: 7265944491373461052
+    second: Emo03_Diagnostico_40
+  - first:
+      213: 1842276459720089564
+    second: Emo03_Diagnostico_41
+  - first:
+      213: 5985216589443701157
+    second: Emo03_Diagnostico_42
+  - first:
+      213: -9168865597727660917
+    second: Emo03_Diagnostico_43
+  - first:
+      213: -3273222039994986895
+    second: Emo03_Diagnostico_44
+  - first:
+      213: -1949054051690500160
+    second: Emo03_Diagnostico_45
+  - first:
+      213: -838647117282158943
+    second: Emo03_Diagnostico_46
+  - first:
+      213: 216476074633663085
+    second: Emo03_Diagnostico_47
+  - first:
+      213: -6342781009503123698
+    second: Emo03_Diagnostico_48
+  - first:
+      213: -5303364572405766628
+    second: Emo03_Diagnostico_49
+  - first:
+      213: 8946854830837931820
+    second: Emo03_Diagnostico_50
+  - first:
+      213: 1102513892395483231
+    second: Emo03_Diagnostico_51
+  - first:
+      213: 6699130713539132955
+    second: Emo03_Diagnostico_52
+  - first:
+      213: -5866719653191691859
+    second: Emo03_Diagnostico_53
+  - first:
+      213: -3056219433001177317
+    second: Emo03_Diagnostico_54
+  - first:
+      213: -8270296080741817901
+    second: Emo03_Diagnostico_55
+  - first:
+      213: -4466286191319765269
+    second: Emo03_Diagnostico_56
+  - first:
+      213: -8580276205876443220
+    second: Emo03_Diagnostico_57
+  - first:
+      213: 1054036359976240050
+    second: Emo03_Diagnostico_58
+  - first:
+      213: 5202381800119019054
+    second: Emo03_Diagnostico_59
+  - first:
+      213: -1874863672378041006
+    second: Emo03_Diagnostico_60
+  - first:
+      213: 7683701612047543682
+    second: Emo03_Diagnostico_61
+  - first:
+      213: -2846953309680308262
+    second: Emo03_Diagnostico_62
+  - first:
+      213: -4100024365445875019
+    second: Emo03_Diagnostico_63
+  - first:
+      213: 4179660255890256608
+    second: Emo03_Diagnostico_64
+  - first:
+      213: -3172558174348380210
+    second: Emo03_Diagnostico_65
+  - first:
+      213: 3780232554027284027
+    second: Emo03_Diagnostico_66
+  - first:
+      213: 6937140820403003971
+    second: Emo03_Diagnostico_67
+  - first:
+      213: 5674881157294168870
+    second: Emo03_Diagnostico_68
+  - first:
+      213: -249014198952979004
+    second: Emo03_Diagnostico_69
+  - first:
+      213: -2619435003510296392
+    second: Emo03_Diagnostico_70
+  - first:
+      213: 4139419524522329575
+    second: Emo03_Diagnostico_71
+  - first:
+      213: 7349861610392664924
+    second: Emo03_Diagnostico_72
+  - first:
+      213: -2056328478032801347
+    second: Emo03_Diagnostico_73
+  - first:
+      213: 1076119536333577557
+    second: Emo03_Diagnostico_74
+  - first:
+      213: 2163200986831539640
+    second: Emo03_Diagnostico_75
+  - first:
+      213: -6299261003544774802
+    second: Emo03_Diagnostico_76
+  - first:
+      213: -6369868637546842075
+    second: Emo03_Diagnostico_77
+  - first:
+      213: -421458216396614006
+    second: Emo03_Diagnostico_78
+  - first:
+      213: -2747587107528934749
+    second: Emo03_Diagnostico_79
+  - first:
+      213: 2571384790784236714
+    second: Emo03_Diagnostico_80
+  - first:
+      213: -180845866418565132
+    second: Emo03_Diagnostico_81
+  - first:
+      213: 5697465407822002864
+    second: Emo03_Diagnostico_82
+  - first:
+      213: -7047948534446934494
+    second: Emo03_Diagnostico_83
+  - first:
+      213: -663001114553331073
+    second: Emo03_Diagnostico_84
+  - first:
+      213: -3607524559632062974
+    second: Emo03_Diagnostico_85
+  - first:
+      213: 8442043999433804102
+    second: Emo03_Diagnostico_86
+  - first:
+      213: 4605416173752498331
+    second: Emo03_Diagnostico_87
+  - first:
+      213: 1393382612171523191
+    second: Emo03_Diagnostico_88
+  - first:
+      213: 4585711933326104297
+    second: Emo03_Diagnostico_89
+  - first:
+      213: -7412311199888569772
+    second: Emo03_Diagnostico_90
+  - first:
+      213: 7083232853432396903
+    second: Emo03_Diagnostico_91
+  - first:
+      213: -9151068910961963679
+    second: Emo03_Diagnostico_92
+  - first:
+      213: 5695737190675851292
+    second: Emo03_Diagnostico_93
+  - first:
+      213: 2183297343970083998
+    second: Emo03_Diagnostico_94
+  - first:
+      213: 8117892799986557417
+    second: Emo03_Diagnostico_95
+  - first:
+      213: 5844548086024566476
+    second: Emo03_Diagnostico_96
+  - first:
+      213: 2962679920090999995
+    second: Emo03_Diagnostico_97
+  - first:
+      213: 2072920789649792381
+    second: Emo03_Diagnostico_98
+  - first:
+      213: 7976882362536945013
+    second: Emo03_Diagnostico_99
+  - first:
+      213: -4841105223968673056
+    second: Emo03_Diagnostico_100
+  - first:
+      213: 986625988501452837
+    second: Emo03_Diagnostico_101
+  - first:
+      213: 1406055254531437258
+    second: Emo03_Diagnostico_102
+  - first:
+      213: -3913245354471092875
+    second: Emo03_Diagnostico_103
+  - first:
+      213: 2192031078064086681
+    second: Emo03_Diagnostico_104
+  - first:
+      213: -4139590659606186548
+    second: Emo03_Diagnostico_105
+  - first:
+      213: 5442183207617189650
+    second: Emo03_Diagnostico_106
+  - first:
+      213: 5573471988131304027
+    second: Emo03_Diagnostico_107
+  - first:
+      213: -7515036217021885941
+    second: Emo03_Diagnostico_108
+  - first:
+      213: 6100997657168989969
+    second: Emo03_Diagnostico_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5022e2daf153e30800000000000000
+      internalID: 4482523832780981689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561e3ee611ad6300800000000000000
+      internalID: 247030674433644125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 255
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5658520ec9d6f560800000000000000
+      internalID: 7347299320927376986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 241
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5cad8772a1abca0800000000000000
+      internalID: -6000454796684114478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b360a746704f850800000000000000
+      internalID: 6409756297780411254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 255
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc2d1f233eca9780800000000000000
+      internalID: -8675395012946744072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 294
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468123228e5d61c10800000000000000
+      internalID: 2024040275532453988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 255
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1606305ba91d2b30800000000000000
+      internalID: 4264092645765547547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 255
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132e79a11bd493fc0800000000000000
+      internalID: -3514692611135249871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 294
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e073179e2d1eddd0800000000000000
+      internalID: -2459496260557377305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 255
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a733518b98374b60800000000000000
+      internalID: 7730209525945546658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 255
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f31584f51050580800000000000000
+      internalID: -8861675183034777788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 255
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e87d0d7074cb84a0800000000000000
+      internalID: -6589957642313172760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_13
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 255
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faf47e49ccb19300800000000000000
+      internalID: 257194226527566576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55acdb5bbf32f9c0800000000000000
+      internalID: -3894980653789436580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eccb09179a050660800000000000000
+      internalID: 7351293610828745961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 114
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934cb86e16f556080800000000000000
+      internalID: -9194838190122613703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361cfa21723c7bcd0800000000000000
+      internalID: -2542348892042706589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead0aceb405a8c480800000000000000
+      internalID: -8878665225561567826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306814350d0891960800000000000000
+      internalID: 7573225880638555651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 114
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab0b1d0e561a2a60800000000000000
+      internalID: 7649951510244821923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 114
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d2ba5049e895e80800000000000000
+      internalID: -8189357680995128063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 139
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bb350ec073885d0800000000000000
+      internalID: -3060135418355532962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 114
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a962a4b03babf60800000000000000
+      internalID: 8050944144948238963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea9bddc167093110800000000000000
+      internalID: 1241031288964225773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 114
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9521947e2556b570800000000000000
+      internalID: 8482060606211433885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 114
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e07ddf7078a9900800000000000000
+      internalID: 692013961148042817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 114
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0119823ebe3140800000000000000
+      internalID: 4701404185278614956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 139
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c65d82cc1919040800000000000000
+      internalID: 4652660196094864390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 114
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634af23edf96c3260800000000000000
+      internalID: 7078649253478769718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ea673149d08390800000000000000
+      internalID: -7818010078989327186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 114
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e22319e56c04c0800000000000000
+      internalID: -4319965890832307897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940accdf7f38994e0800000000000000
+      internalID: -1974401860487045047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 106
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f6dd617d8f66660800000000000000
+      internalID: 7378858642178404211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b57eb310e3c1630800000000000000
+      internalID: 3899059552416914249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_35
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae132634bd0da690800000000000000
+      internalID: -7589394729395872081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 114
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a83bc2ceb9ebf90800000000000000
+      internalID: -6935934937439434232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 114
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ff0643b9d3a5f0800000000000000
+      internalID: -746513749215545452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_38
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 114
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df820b31ea4748c0800000000000000
+      internalID: -4015158211559387184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_39
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a40e7e1c20d6a40800000000000000
+      internalID: 5362945763110308489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 114
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e750ea402d5d460800000000000000
+      internalID: 7265944491373461052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_41
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf1ea7eda4119910800000000000000
+      internalID: 1842276459720089564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9119de6c2cf0350800000000000000
+      internalID: 5985216589443701157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_43
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 106
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84a42e4155a1c080800000000000000
+      internalID: -9168865597727660917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_44
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e8e1b95ed2392d0800000000000000
+      internalID: -3273222039994986895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_45
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfa3f0aaa193f4e0800000000000000
+      internalID: -1949054051690500160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_46
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6dd72e3e68c54f0800000000000000
+      internalID: -838647117282158943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6219eac7d3110300800000000000000
+      internalID: 216476074633663085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e070970074ae9f7a0800000000000000
+      internalID: -6342781009503123698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 61
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16ec53150aa666b0800000000000000
+      internalID: -5303364572405766628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 61
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f1511f01d992c70800000000000000
+      internalID: 8946854830837931820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_51
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 61
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508a243b8aec4f00800000000000000
+      internalID: 1102513892395483231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 61
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eb864f3e718fc50800000000000000
+      internalID: 6699130713539132955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 61
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d4b20f89359ea0800000000000000
+      internalID: -5866719653191691859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 61
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fa1544e902695d0800000000000000
+      internalID: -3056219433001177317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 61
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1241058810a3d80800000000000000
+      internalID: -8270296080741817901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee27255f509402c0800000000000000
+      internalID: -4466286191319765269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 61
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca78ff1404cbce880800000000000000
+      internalID: -8580276205876443220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 61
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3cab02c70b0ae00800000000000000
+      internalID: 1054036359976240050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_59
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262d0e0fa2923840800000000000000
+      internalID: 5202381800119019054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 61
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d5f956c652bf5e0800000000000000
+      internalID: -1874863672378041006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da03af7edf1aa60800000000000000
+      internalID: 7683701612047543682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_62
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 86
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfe1647c079d78d0800000000000000
+      internalID: -2846953309680308262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 61
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf62fff89c917c0800000000000000
+      internalID: -4100024365445875019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_64
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 61
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23822abd2210a30800000000000000
+      internalID: 4179660255890256608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_65
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f3bc362fc8f3d0800000000000000
+      internalID: -3172558174348380210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_66
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 61
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36f927ba75167430800000000000000
+      internalID: 3780232554027284027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_67
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 61
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342abf452dca54060800000000000000
+      internalID: 6937140820403003971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_68
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b9313885a31ce40800000000000000
+      internalID: 5674881157294168870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_69
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 53
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c51167c7e25b8cf0800000000000000
+      internalID: -249014198952979004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 61
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b07b8f1eb5e5abd0800000000000000
+      internalID: -2619435003510296392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_71
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5487f302c227930800000000000000
+      internalID: 4139419524522329575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_72
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 61
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b3cb38134fff560800000000000000
+      internalID: 7349861610392664924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_73
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 61
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1d555e4247673e0800000000000000
+      internalID: -2056328478032801347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_74
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 61
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d550b44052fee00800000000000000
+      internalID: 1076119536333577557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_75
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 61
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd4edd16db350e10800000000000000
+      internalID: 2163200986831539640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_76
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 61
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e673e300e778498a0800000000000000
+      internalID: -6299261003544774802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_77
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 61
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5287e11293ea997a0800000000000000
+      internalID: -6369868637546842075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_78
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 61
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8692043cfda62af0800000000000000
+      internalID: -421458216396614006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_79
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 61
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa7b42451c9ed9d0800000000000000
+      internalID: -2747587107528934749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_80
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 61
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac598be7d46fa320800000000000000
+      internalID: 2571384790784236714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_81
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 56
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff060584a18d7df0800000000000000
+      internalID: -180845866418565132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba7e491a96711f40800000000000000
+      internalID: 5697465407822002864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2263e094628a03e90800000000000000
+      internalID: -7047948534446934494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725c51cffb8cc6f0800000000000000
+      internalID: -663001114553331073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_85
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 8
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20622a8c68f7fedc0800000000000000
+      internalID: -3607524559632062974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_86
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64948742a4a282570800000000000000
+      internalID: 8442043999433804102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b983b570c99b9ef30800000000000000
+      internalID: 4605416173752498331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77480b27a1a465310800000000000000
+      internalID: 1393382612171523191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 8
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61c2c05b8b3af30800000000000000
+      internalID: 4585711933326104297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_90
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a0efd5c3e222990800000000000000
+      internalID: -7412311199888569772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_91
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce63a60c2bc4260800000000000000
+      internalID: 7083232853432396903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_92
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dcdf65f4fd00180800000000000000
+      internalID: -9151068910961963679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_93
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1827303cc25b0f40800000000000000
+      internalID: 5695737190675851292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e940462ed51ac4e10800000000000000
+      internalID: 2183297343970083998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_95
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 8
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e166ebbd7c88a070800000000000000
+      internalID: 8117892799986557417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_96
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 8
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6fe2cb4810c1150800000000000000
+      internalID: 5844548086024566476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_97
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbce43cb0bd8d1920800000000000000
+      internalID: 2962679920090999995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_98
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1992b97e74cc10800000000000000
+      internalID: 2072920789649792381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_99
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e712de3493be60800000000000000
+      internalID: 7976882362536945013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_100
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23f05b270f0dcb0800000000000000
+      internalID: -4841105223968673056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_101
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283cc2fb1331bd00800000000000000
+      internalID: 986625988501452837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_102
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 8
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2faecedcf438310800000000000000
+      internalID: 1406055254531437258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_103
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 8
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d8dc7551c51b9c0800000000000000
+      internalID: -3913245354471092875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_104
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e50a0d6a8ab6e10800000000000000
+      internalID: 2192031078064086681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_105
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 8
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f5a24a383d86c0800000000000000
+      internalID: -4139590659606186548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_106
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175e9c1bc4868b40800000000000000
+      internalID: 5442183207617189650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_107
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5218226e33f85d40800000000000000
+      internalID: 5573471988131304027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_108
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b021732806a35b790800000000000000
+      internalID: -7515036217021885941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Diagnostico_109
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f4c037b091ba450800000000000000
+      internalID: 6100997657168989969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emo03_Diagnostico_0: 4482523832780981689
+      Emo03_Diagnostico_1: 247030674433644125
+      Emo03_Diagnostico_10: 7730209525945546658
+      Emo03_Diagnostico_100: -4841105223968673056
+      Emo03_Diagnostico_101: 986625988501452837
+      Emo03_Diagnostico_102: 1406055254531437258
+      Emo03_Diagnostico_103: -3913245354471092875
+      Emo03_Diagnostico_104: 2192031078064086681
+      Emo03_Diagnostico_105: -4139590659606186548
+      Emo03_Diagnostico_106: 5442183207617189650
+      Emo03_Diagnostico_107: 5573471988131304027
+      Emo03_Diagnostico_108: -7515036217021885941
+      Emo03_Diagnostico_109: 6100997657168989969
+      Emo03_Diagnostico_11: -8861675183034777788
+      Emo03_Diagnostico_12: -6589957642313172760
+      Emo03_Diagnostico_13: 257194226527566576
+      Emo03_Diagnostico_14: -3894980653789436580
+      Emo03_Diagnostico_15: 7351293610828745961
+      Emo03_Diagnostico_16: -9194838190122613703
+      Emo03_Diagnostico_17: -2542348892042706589
+      Emo03_Diagnostico_18: -8878665225561567826
+      Emo03_Diagnostico_19: 7573225880638555651
+      Emo03_Diagnostico_2: 7347299320927376986
+      Emo03_Diagnostico_20: 7649951510244821923
+      Emo03_Diagnostico_21: -8189357680995128063
+      Emo03_Diagnostico_22: -3060135418355532962
+      Emo03_Diagnostico_23: 8050944144948238963
+      Emo03_Diagnostico_24: 1241031288964225773
+      Emo03_Diagnostico_25: 8482060606211433885
+      Emo03_Diagnostico_26: 692013961148042817
+      Emo03_Diagnostico_27: 4701404185278614956
+      Emo03_Diagnostico_28: 4652660196094864390
+      Emo03_Diagnostico_29: 7078649253478769718
+      Emo03_Diagnostico_3: -6000454796684114478
+      Emo03_Diagnostico_30: -7818010078989327186
+      Emo03_Diagnostico_31: -4319965890832307897
+      Emo03_Diagnostico_32: -1974401860487045047
+      Emo03_Diagnostico_33: 7378858642178404211
+      Emo03_Diagnostico_34: 3899059552416914249
+      Emo03_Diagnostico_35: -7589394729395872081
+      Emo03_Diagnostico_36: -6935934937439434232
+      Emo03_Diagnostico_37: -746513749215545452
+      Emo03_Diagnostico_38: -4015158211559387184
+      Emo03_Diagnostico_39: 5362945763110308489
+      Emo03_Diagnostico_4: 6409756297780411254
+      Emo03_Diagnostico_40: 7265944491373461052
+      Emo03_Diagnostico_41: 1842276459720089564
+      Emo03_Diagnostico_42: 5985216589443701157
+      Emo03_Diagnostico_43: -9168865597727660917
+      Emo03_Diagnostico_44: -3273222039994986895
+      Emo03_Diagnostico_45: -1949054051690500160
+      Emo03_Diagnostico_46: -838647117282158943
+      Emo03_Diagnostico_47: 216476074633663085
+      Emo03_Diagnostico_48: -6342781009503123698
+      Emo03_Diagnostico_49: -5303364572405766628
+      Emo03_Diagnostico_5: -8675395012946744072
+      Emo03_Diagnostico_50: 8946854830837931820
+      Emo03_Diagnostico_51: 1102513892395483231
+      Emo03_Diagnostico_52: 6699130713539132955
+      Emo03_Diagnostico_53: -5866719653191691859
+      Emo03_Diagnostico_54: -3056219433001177317
+      Emo03_Diagnostico_55: -8270296080741817901
+      Emo03_Diagnostico_56: -4466286191319765269
+      Emo03_Diagnostico_57: -8580276205876443220
+      Emo03_Diagnostico_58: 1054036359976240050
+      Emo03_Diagnostico_59: 5202381800119019054
+      Emo03_Diagnostico_6: 2024040275532453988
+      Emo03_Diagnostico_60: -1874863672378041006
+      Emo03_Diagnostico_61: 7683701612047543682
+      Emo03_Diagnostico_62: -2846953309680308262
+      Emo03_Diagnostico_63: -4100024365445875019
+      Emo03_Diagnostico_64: 4179660255890256608
+      Emo03_Diagnostico_65: -3172558174348380210
+      Emo03_Diagnostico_66: 3780232554027284027
+      Emo03_Diagnostico_67: 6937140820403003971
+      Emo03_Diagnostico_68: 5674881157294168870
+      Emo03_Diagnostico_69: -249014198952979004
+      Emo03_Diagnostico_7: 4264092645765547547
+      Emo03_Diagnostico_70: -2619435003510296392
+      Emo03_Diagnostico_71: 4139419524522329575
+      Emo03_Diagnostico_72: 7349861610392664924
+      Emo03_Diagnostico_73: -2056328478032801347
+      Emo03_Diagnostico_74: 1076119536333577557
+      Emo03_Diagnostico_75: 2163200986831539640
+      Emo03_Diagnostico_76: -6299261003544774802
+      Emo03_Diagnostico_77: -6369868637546842075
+      Emo03_Diagnostico_78: -421458216396614006
+      Emo03_Diagnostico_79: -2747587107528934749
+      Emo03_Diagnostico_8: -3514692611135249871
+      Emo03_Diagnostico_80: 2571384790784236714
+      Emo03_Diagnostico_81: -180845866418565132
+      Emo03_Diagnostico_82: 5697465407822002864
+      Emo03_Diagnostico_83: -7047948534446934494
+      Emo03_Diagnostico_84: -663001114553331073
+      Emo03_Diagnostico_85: -3607524559632062974
+      Emo03_Diagnostico_86: 8442043999433804102
+      Emo03_Diagnostico_87: 4605416173752498331
+      Emo03_Diagnostico_88: 1393382612171523191
+      Emo03_Diagnostico_89: 4585711933326104297
+      Emo03_Diagnostico_9: -2459496260557377305
+      Emo03_Diagnostico_90: -7412311199888569772
+      Emo03_Diagnostico_91: 7083232853432396903
+      Emo03_Diagnostico_92: -9151068910961963679
+      Emo03_Diagnostico_93: 5695737190675851292
+      Emo03_Diagnostico_94: 2183297343970083998
+      Emo03_Diagnostico_95: 8117892799986557417
+      Emo03_Diagnostico_96: 5844548086024566476
+      Emo03_Diagnostico_97: 2962679920090999995
+      Emo03_Diagnostico_98: 2072920789649792381
+      Emo03_Diagnostico_99: 7976882362536945013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

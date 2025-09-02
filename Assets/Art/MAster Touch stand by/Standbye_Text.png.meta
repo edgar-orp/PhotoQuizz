@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: f8aff8694f9630c468c41280d2138837
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4415959735523876421
+    second: Standbye_Text_0
+  - first:
+      213: 304398419886535259
+    second: Standbye_Text_1
+  - first:
+      213: -6492975203124028770
+    second: Standbye_Text_2
+  - first:
+      213: 1777262914532094605
+    second: Standbye_Text_3
+  - first:
+      213: 7609420620601473644
+    second: Standbye_Text_4
+  - first:
+      213: -3616976048955907991
+    second: Standbye_Text_5
+  - first:
+      213: -9068806089579969772
+    second: Standbye_Text_6
+  - first:
+      213: 7998862614230550281
+    second: Standbye_Text_7
+  - first:
+      213: 8494296214672294445
+    second: Standbye_Text_8
+  - first:
+      213: -3526950976128649243
+    second: Standbye_Text_9
+  - first:
+      213: -7765170709933125410
+    second: Standbye_Text_10
+  - first:
+      213: -3936830980545953144
+    second: Standbye_Text_11
+  - first:
+      213: 3164802112696471302
+    second: Standbye_Text_12
+  - first:
+      213: -8488066115548008985
+    second: Standbye_Text_13
+  - first:
+      213: -7141702676185008653
+    second: Standbye_Text_14
+  - first:
+      213: -7796406887099511408
+    second: Standbye_Text_15
+  - first:
+      213: 1311491048632201913
+    second: Standbye_Text_16
+  - first:
+      213: 866919383111392563
+    second: Standbye_Text_17
+  - first:
+      213: -3316389282031918406
+    second: Standbye_Text_18
+  - first:
+      213: -7847419713720514928
+    second: Standbye_Text_19
+  - first:
+      213: 2598101719414220910
+    second: Standbye_Text_20
+  - first:
+      213: 1025139472826146959
+    second: Standbye_Text_21
+  - first:
+      213: 3732541899639257405
+    second: Standbye_Text_22
+  - first:
+      213: -1785550239994442347
+    second: Standbye_Text_23
+  - first:
+      213: -4389968276836081452
+    second: Standbye_Text_24
+  - first:
+      213: -2466502707938628180
+    second: Standbye_Text_25
+  - first:
+      213: 7099302861230170097
+    second: Standbye_Text_26
+  - first:
+      213: 9052546631735609752
+    second: Standbye_Text_27
+  - first:
+      213: -8186757842181839104
+    second: Standbye_Text_28
+  - first:
+      213: -887235408272635679
+    second: Standbye_Text_29
+  - first:
+      213: -579234142304915942
+    second: Standbye_Text_30
+  - first:
+      213: 3279954305036609818
+    second: Standbye_Text_31
+  - first:
+      213: 3383170314058726854
+    second: Standbye_Text_32
+  - first:
+      213: 4304084752217409648
+    second: Standbye_Text_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Standbye_Text_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e14529bf3a84d30800000000000000
+      internalID: 4415959735523876421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 137
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52f68700c0793400800000000000000
+      internalID: 304398419886535259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 9
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a5f5a347154e5a0800000000000000
+      internalID: -6492975203124028770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d823925543b1aa810800000000000000
+      internalID: 1777262914532094605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6abb7decb71a9960800000000000000
+      internalID: 7609420620601473644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 102
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96023e0727bedcdc0800000000000000
+      internalID: -3616976048955907991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 102
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413cfadf8e0252280800000000000000
+      internalID: -9068806089579969772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074d58fa2ba10f60800000000000000
+      internalID: 7998862614230550281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22cc7c076dc1e570800000000000000
+      internalID: 8494296214672294445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e772a716c0cd0fc0800000000000000
+      internalID: -3526950976128649243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed01b2681629c3490800000000000000
+      internalID: -7765170709933125410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 102
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8824ec7d4119d59c0800000000000000
+      internalID: -3936830980545953144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 103
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fcdafe0c2abeb20800000000000000
+      internalID: 3164802112696471302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 103
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed2bb0f6d4543a80800000000000000
+      internalID: -8488066115548008985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 102
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5398e114393ec90800000000000000
+      internalID: -7141702676185008653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 103
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d460a4e399dc390800000000000000
+      internalID: -7796406887099511408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_16
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 102
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2b3dff82a533210800000000000000
+      internalID: 1311491048632201913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 102
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d5147f59ae70c00800000000000000
+      internalID: 866919383111392563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 29
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2239bd481d9f1d0800000000000000
+      internalID: -3316389282031918406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 64
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0968a48095d581390800000000000000
+      internalID: -7847419713720514928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 28
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68240c9fbf4e0420800000000000000
+      internalID: 2598101719414220910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 28
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80a80b4be60a3e00800000000000000
+      internalID: 1025139472826146959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d397245f417acc330800000000000000
+      internalID: 3732541899639257405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 28
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d848854837837e0800000000000000
+      internalID: -1785550239994442347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 29
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0a3fb7c13b313c0800000000000000
+      internalID: -4389968276836081452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 28
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad67cfead835cdd0800000000000000
+      internalID: -2466502707938628180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 28
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffd98ca65ac58260800000000000000
+      internalID: 7099302861230170097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 29
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8998249f23b11ad70800000000000000
+      internalID: 9052546631735609752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 28
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007ab9a2e1bc26e80800000000000000
+      internalID: -8186757842181839104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 29
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c2c1d818efa3f0800000000000000
+      internalID: -887235408272635679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 28
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e2322dd9526f7f0800000000000000
+      internalID: -579234142304915942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19683fff0db48d20800000000000000
+      internalID: 3279954305036609818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdfd10d97f63fe20800000000000000
+      internalID: 3383170314058726854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standbye_Text_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0780813374e2bbb30800000000000000
+      internalID: 4304084752217409648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Standbye_Text_0: 4415959735523876421
+      Standbye_Text_1: 304398419886535259
+      Standbye_Text_10: -7765170709933125410
+      Standbye_Text_11: -3936830980545953144
+      Standbye_Text_12: 3164802112696471302
+      Standbye_Text_13: -8488066115548008985
+      Standbye_Text_14: -7141702676185008653
+      Standbye_Text_15: -7796406887099511408
+      Standbye_Text_16: 1311491048632201913
+      Standbye_Text_17: 866919383111392563
+      Standbye_Text_18: -3316389282031918406
+      Standbye_Text_19: -7847419713720514928
+      Standbye_Text_2: -6492975203124028770
+      Standbye_Text_20: 2598101719414220910
+      Standbye_Text_21: 1025139472826146959
+      Standbye_Text_22: 3732541899639257405
+      Standbye_Text_23: -1785550239994442347
+      Standbye_Text_24: -4389968276836081452
+      Standbye_Text_25: -2466502707938628180
+      Standbye_Text_26: 7099302861230170097
+      Standbye_Text_27: 9052546631735609752
+      Standbye_Text_28: -8186757842181839104
+      Standbye_Text_29: -887235408272635679
+      Standbye_Text_3: 1777262914532094605
+      Standbye_Text_30: -579234142304915942
+      Standbye_Text_31: 3279954305036609818
+      Standbye_Text_32: 3383170314058726854
+      Standbye_Text_33: 4304084752217409648
+      Standbye_Text_4: 7609420620601473644
+      Standbye_Text_5: -3616976048955907991
+      Standbye_Text_6: -9068806089579969772
+      Standbye_Text_7: 7998862614230550281
+      Standbye_Text_8: 8494296214672294445
+      Standbye_Text_9: -3526950976128649243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

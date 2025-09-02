@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0ce9f1d47892ffc4c9a1644d8798715c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8113063284752854690
+    second: Emo_titulo_0
+  - first:
+      213: 2789319953158323766
+    second: Emo_titulo_1
+  - first:
+      213: 1350366004683272563
+    second: Emo_titulo_2
+  - first:
+      213: 6266050086205182387
+    second: Emo_titulo_3
+  - first:
+      213: -2465723903218389632
+    second: Emo_titulo_4
+  - first:
+      213: 8314768849371428847
+    second: Emo_titulo_5
+  - first:
+      213: -4968382100875357660
+    second: Emo_titulo_6
+  - first:
+      213: -727201749542584419
+    second: Emo_titulo_7
+  - first:
+      213: -6221679486758198404
+    second: Emo_titulo_8
+  - first:
+      213: 6309137623742265443
+    second: Emo_titulo_9
+  - first:
+      213: -5030832952829096823
+    second: Emo_titulo_10
+  - first:
+      213: 5760735209851635960
+    second: Emo_titulo_11
+  - first:
+      213: -2485494657315267601
+    second: Emo_titulo_12
+  - first:
+      213: 4933952180732546230
+    second: Emo_titulo_13
+  - first:
+      213: 9196730376323846444
+    second: Emo_titulo_14
+  - first:
+      213: 1449222858199968641
+    second: Emo_titulo_15
+  - first:
+      213: 7803734895359663336
+    second: Emo_titulo_16
+  - first:
+      213: 7875313059161650351
+    second: Emo_titulo_17
+  - first:
+      213: 8778117050359243421
+    second: Emo_titulo_18
+  - first:
+      213: -6126117289050104990
+    second: Emo_titulo_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emo_titulo_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 116
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae25f79214679070800000000000000
+      internalID: 8113063284752854690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 122
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e39ec08b7a5b620800000000000000
+      internalID: 2789319953158323766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 107
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f8e90ab67db210800000000000000
+      internalID: 1350366004683272563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 129
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d01dba5b75f650800000000000000
+      internalID: 6266050086205182387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 131
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6a7a8c2df7cdd0800000000000000
+      internalID: -2465723903218389632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 131
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77448073ef36370800000000000000
+      internalID: 8314768849371428847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 129
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4225ae88dc2cc0bb0800000000000000
+      internalID: -4968382100875357660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 125
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fb8769cd578e5f0800000000000000
+      internalID: -727201749542584419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73617d787728a9a0800000000000000
+      internalID: -6221679486758198404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 116
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368b536dd3f8e8750800000000000000
+      internalID: 6309137623742265443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 45
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cca4a7514ee2ab0800000000000000
+      internalID: -5030832952829096823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 47
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8ca44d62e32ff40800000000000000
+      internalID: 5760735209851635960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 96
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb979327cfb18dd0800000000000000
+      internalID: -2485494657315267601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 32
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcc35ffd5be87440800000000000000
+      internalID: 4933952180732546230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21d3d70d8951af70800000000000000
+      internalID: 9196730376323846444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 40
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba26fd28cac1410800000000000000
+      internalID: 1449222858199968641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec9b379a8f6c4c60800000000000000
+      internalID: 7803734895359663336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 44
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4335a808bba4d60800000000000000
+      internalID: 7875313059161650351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 41
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926677e2f222d970800000000000000
+      internalID: 8778117050359243421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo_titulo_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 35
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b1acd78c8abfaa0800000000000000
+      internalID: -6126117289050104990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emo_titulo_0: 8113063284752854690
+      Emo_titulo_1: 2789319953158323766
+      Emo_titulo_10: -5030832952829096823
+      Emo_titulo_11: 5760735209851635960
+      Emo_titulo_12: -2485494657315267601
+      Emo_titulo_13: 4933952180732546230
+      Emo_titulo_14: 9196730376323846444
+      Emo_titulo_15: 1449222858199968641
+      Emo_titulo_16: 7803734895359663336
+      Emo_titulo_17: 7875313059161650351
+      Emo_titulo_18: 8778117050359243421
+      Emo_titulo_19: -6126117289050104990
+      Emo_titulo_2: 1350366004683272563
+      Emo_titulo_3: 6266050086205182387
+      Emo_titulo_4: -2465723903218389632
+      Emo_titulo_5: 8314768849371428847
+      Emo_titulo_6: -4968382100875357660
+      Emo_titulo_7: -727201749542584419
+      Emo_titulo_8: -6221679486758198404
+      Emo_titulo_9: 6309137623742265443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

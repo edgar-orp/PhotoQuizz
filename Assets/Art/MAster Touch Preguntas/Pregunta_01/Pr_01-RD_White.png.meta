@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: a99ca7d108a655b4bba625e9a2b5da71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -216915632185143383
+    second: Pr_01-RD_White_0
+  - first:
+      213: -3317065951036528027
+    second: Pr_01-RD_White_1
+  - first:
+      213: -5008867024909612601
+    second: Pr_01-RD_White_2
+  - first:
+      213: 5764324128058254393
+    second: Pr_01-RD_White_3
+  - first:
+      213: 6781249170391006039
+    second: Pr_01-RD_White_4
+  - first:
+      213: -3121081144495186434
+    second: Pr_01-RD_White_5
+  - first:
+      213: -6932146423919303905
+    second: Pr_01-RD_White_6
+  - first:
+      213: -878196625826979794
+    second: Pr_01-RD_White_7
+  - first:
+      213: -1900082985955815521
+    second: Pr_01-RD_White_8
+  - first:
+      213: -4536340180407584768
+    second: Pr_01-RD_White_9
+  - first:
+      213: 8810205847618424885
+    second: Pr_01-RD_White_10
+  - first:
+      213: -1935176791242845186
+    second: Pr_01-RD_White_11
+  - first:
+      213: -290839038933688474
+    second: Pr_01-RD_White_12
+  - first:
+      213: 1135000279763284364
+    second: Pr_01-RD_White_13
+  - first:
+      213: 6731331955511938929
+    second: Pr_01-RD_White_14
+  - first:
+      213: -5791999937110387574
+    second: Pr_01-RD_White_15
+  - first:
+      213: -2616667349311997783
+    second: Pr_01-RD_White_16
+  - first:
+      213: 1720452637157662921
+    second: Pr_01-RD_White_17
+  - first:
+      213: 6460581927126341867
+    second: Pr_01-RD_White_18
+  - first:
+      213: 8666860008908386914
+    second: Pr_01-RD_White_19
+  - first:
+      213: -2163999065688486443
+    second: Pr_01-RD_White_20
+  - first:
+      213: -5631661341900893838
+    second: Pr_01-RD_White_21
+  - first:
+      213: -1115050988958116646
+    second: Pr_01-RD_White_22
+  - first:
+      213: 7761032361405782064
+    second: Pr_01-RD_White_23
+  - first:
+      213: -8121171237657366103
+    second: Pr_01-RD_White_24
+  - first:
+      213: -3624030165309072242
+    second: Pr_01-RD_White_25
+  - first:
+      213: 7568748439788799228
+    second: Pr_01-RD_White_26
+  - first:
+      213: 6919539353901736212
+    second: Pr_01-RD_White_27
+  - first:
+      213: -5135473046342753438
+    second: Pr_01-RD_White_28
+  - first:
+      213: 7721296290378940158
+    second: Pr_01-RD_White_29
+  - first:
+      213: -6937715249346880111
+    second: Pr_01-RD_White_30
+  - first:
+      213: -633803577237101105
+    second: Pr_01-RD_White_31
+  - first:
+      213: -5053595828274115291
+    second: Pr_01-RD_White_32
+  - first:
+      213: -3484252143870526815
+    second: Pr_01-RD_White_33
+  - first:
+      213: -1802275986801175231
+    second: Pr_01-RD_White_34
+  - first:
+      213: -5111170458348287972
+    second: Pr_01-RD_White_35
+  - first:
+      213: 2892638570515681714
+    second: Pr_01-RD_White_36
+  - first:
+      213: -8253233091028181171
+    second: Pr_01-RD_White_37
+  - first:
+      213: -1820090664752216140
+    second: Pr_01-RD_White_38
+  - first:
+      213: 441582983733685431
+    second: Pr_01-RD_White_39
+  - first:
+      213: 4047312681263599407
+    second: Pr_01-RD_White_40
+  - first:
+      213: -4956137343358535181
+    second: Pr_01-RD_White_41
+  - first:
+      213: 6682071222411602415
+    second: Pr_01-RD_White_42
+  - first:
+      213: -1776330024360503300
+    second: Pr_01-RD_White_43
+  - first:
+      213: -286452298615375325
+    second: Pr_01-RD_White_44
+  - first:
+      213: 6410577604142919187
+    second: Pr_01-RD_White_45
+  - first:
+      213: 4133933473240599621
+    second: Pr_01-RD_White_46
+  - first:
+      213: 4366451487030989244
+    second: Pr_01-RD_White_47
+  - first:
+      213: 7484843629349274275
+    second: Pr_01-RD_White_48
+  - first:
+      213: 1323127291651355865
+    second: Pr_01-RD_White_49
+  - first:
+      213: 6154454900523183303
+    second: Pr_01-RD_White_50
+  - first:
+      213: -4140130886864007680
+    second: Pr_01-RD_White_51
+  - first:
+      213: 5294583743332832877
+    second: Pr_01-RD_White_52
+  - first:
+      213: 1060843203130665636
+    second: Pr_01-RD_White_53
+  - first:
+      213: -5593537047837271992
+    second: Pr_01-RD_White_54
+  - first:
+      213: 5387338485303868769
+    second: Pr_01-RD_White_55
+  - first:
+      213: 5228274439666939283
+    second: Pr_01-RD_White_56
+  - first:
+      213: 4419354005347119779
+    second: Pr_01-RD_White_57
+  - first:
+      213: -5462406394956852030
+    second: Pr_01-RD_White_58
+  - first:
+      213: 7903685738860779790
+    second: Pr_01-RD_White_59
+  - first:
+      213: -3255202163112020621
+    second: Pr_01-RD_White_60
+  - first:
+      213: 6588915652235038500
+    second: Pr_01-RD_White_61
+  - first:
+      213: 2720971221705917114
+    second: Pr_01-RD_White_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pr_01-RD_White_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 124
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af006db16c5dfcf0800000000000000
+      internalID: -216915632185143383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 124
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aace3971a67f1d0800000000000000
+      internalID: -3317065951036528027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9481d9afdec7ab0800000000000000
+      internalID: -5008867024909612601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 124
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342027f04efeff40800000000000000
+      internalID: 5764324128058254393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 125
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b719e1136db1e50800000000000000
+      internalID: 6781249170391006039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 124
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdd13b3c31bfa4d0800000000000000
+      internalID: -3121081144495186434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 125
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13ab473e811ccf90800000000000000
+      internalID: -6932146423919303905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20e2aa52d400d3f0800000000000000
+      internalID: -878196625826979794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 124
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f0752679c81a5e0800000000000000
+      internalID: -1900082985955815521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 125
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087976f3aeab01c0800000000000000
+      internalID: -4536340180407584768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 124
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5309d593a83244a70800000000000000
+      internalID: 8810205847618424885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 124
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d36c16fed425e0800000000000000
+      internalID: -1935176791242845186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f9a8d5f6bb6fbf0800000000000000
+      internalID: -290839038933688474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 116
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81724fadb450cf00800000000000000
+      internalID: 1135000279763284364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 124
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4689dfbe7a6d50800000000000000
+      internalID: 6731331955511938929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 124
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8453799ebeae9fa0800000000000000
+      internalID: -5791999937110387574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a835e4d8eabfabd0800000000000000
+      internalID: -2616667349311997783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_17
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 124
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0aaa2ee8640e710800000000000000
+      internalID: 1720452637157662921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 125
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be89ca8780998a950800000000000000
+      internalID: 6460581927126341867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 116
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262f505524fd64870800000000000000
+      internalID: 8666860008908386914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 125
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd4c5ba05ee7f1e0800000000000000
+      internalID: -2163999065688486443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 124
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27192bce8d158d1b0800000000000000
+      internalID: -5631661341900893838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad414b8880b8680f0800000000000000
+      internalID: -1115050988958116646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 125
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03817ef10d9b4bb60800000000000000
+      internalID: 7761032361405782064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 119
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1305389cdcb4f80800000000000000
+      internalID: -8121171237657366103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 125
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd37df3cbd4bdc0800000000000000
+      internalID: -3624030165309072242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 125
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf447e3ea98990960800000000000000
+      internalID: 7568748439788799228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41126ae8164270060800000000000000
+      internalID: 6919539353901736212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263a52729722bb8b0800000000000000
+      internalID: -5135473046342753438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 72
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efef391211e872b60800000000000000
+      internalID: 7721296290378940158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d5ed10db848bf90800000000000000
+      internalID: -6937715249346880111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 63
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5296921074437f0800000000000000
+      internalID: -633803577237101105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d43598e550ed9b0800000000000000
+      internalID: -5053595828274115291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa34b0b22375afc0800000000000000
+      internalID: -3484252143870526815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 71
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145df73f9870df6e0800000000000000
+      internalID: -1802275986801175231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 72
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c180eab5c897119b0800000000000000
+      internalID: -5111170458348287972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 72
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15e2b3477b42820800000000000000
+      internalID: 2892638570515681714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 71
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f14c03b30a67d80800000000000000
+      internalID: -8253233091028181171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b780740f2dbdb6e0800000000000000
+      internalID: -1820090664752216140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcad445261d02600800000000000000
+      internalID: 441582983733685431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f86a5a071fa2830800000000000000
+      internalID: 4047312681263599407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 72
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f01f4853483bb0800000000000000
+      internalID: -4956137343358535181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 71
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe924b7af5c7bbc50800000000000000
+      internalID: 6682071222411602415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 72
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7912611453957e0800000000000000
+      internalID: -1776330024360503300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_44
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 72
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32abfefe621560cf0800000000000000
+      internalID: -286452298615375325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_45
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 97
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e6304cd52f6f850800000000000000
+      internalID: 6410577604142919187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_46
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 72
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4a95679eae5930800000000000000
+      internalID: 4133933473240599621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb155753e70c89c30800000000000000
+      internalID: 4366451487030989244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a285bedf918fd760800000000000000
+      internalID: 7484843629349274275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f083f241bc5210800000000000000
+      internalID: 1323127291651355865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cca8d3df14096550800000000000000
+      internalID: 6154454900523183303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_51
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 18
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e09dcc4ec4b86c0800000000000000
+      internalID: -4140130886864007680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6659e6dcd32a7940800000000000000
+      internalID: 5294583743332832877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaadfcc54fd8be00800000000000000
+      internalID: 1060843203130665636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8481ca9d0b3cf52b0800000000000000
+      internalID: -5593537047837271992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 19
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16df35d1fcba3ca40800000000000000
+      internalID: 5387338485303868769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953a9cf6ef8e8840800000000000000
+      internalID: 5228274439666939283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 18
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a23a699d03b45d30800000000000000
+      internalID: 4419354005347119779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 19
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c456c92352a134b0800000000000000
+      internalID: -5462406394956852030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 18
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e091e11dd488fad60800000000000000
+      internalID: 7903685738860779790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_60
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 18
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375ff9321e233d2d0800000000000000
+      internalID: -3255202163112020621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 19
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f0b7a40e7807b50800000000000000
+      internalID: 6588915652235038500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pr_01-RD_White_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 19
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab287d9e8e4d2c520800000000000000
+      internalID: 2720971221705917114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pr_01-RD_White_0: -216915632185143383
+      Pr_01-RD_White_1: -3317065951036528027
+      Pr_01-RD_White_10: 8810205847618424885
+      Pr_01-RD_White_11: -1935176791242845186
+      Pr_01-RD_White_12: -290839038933688474
+      Pr_01-RD_White_13: 1135000279763284364
+      Pr_01-RD_White_14: 6731331955511938929
+      Pr_01-RD_White_15: -5791999937110387574
+      Pr_01-RD_White_16: -2616667349311997783
+      Pr_01-RD_White_17: 1720452637157662921
+      Pr_01-RD_White_18: 6460581927126341867
+      Pr_01-RD_White_19: 8666860008908386914
+      Pr_01-RD_White_2: -5008867024909612601
+      Pr_01-RD_White_20: -2163999065688486443
+      Pr_01-RD_White_21: -5631661341900893838
+      Pr_01-RD_White_22: -1115050988958116646
+      Pr_01-RD_White_23: 7761032361405782064
+      Pr_01-RD_White_24: -8121171237657366103
+      Pr_01-RD_White_25: -3624030165309072242
+      Pr_01-RD_White_26: 7568748439788799228
+      Pr_01-RD_White_27: 6919539353901736212
+      Pr_01-RD_White_28: -5135473046342753438
+      Pr_01-RD_White_29: 7721296290378940158
+      Pr_01-RD_White_3: 5764324128058254393
+      Pr_01-RD_White_30: -6937715249346880111
+      Pr_01-RD_White_31: -633803577237101105
+      Pr_01-RD_White_32: -5053595828274115291
+      Pr_01-RD_White_33: -3484252143870526815
+      Pr_01-RD_White_34: -1802275986801175231
+      Pr_01-RD_White_35: -5111170458348287972
+      Pr_01-RD_White_36: 2892638570515681714
+      Pr_01-RD_White_37: -8253233091028181171
+      Pr_01-RD_White_38: -1820090664752216140
+      Pr_01-RD_White_39: 441582983733685431
+      Pr_01-RD_White_4: 6781249170391006039
+      Pr_01-RD_White_40: 4047312681263599407
+      Pr_01-RD_White_41: -4956137343358535181
+      Pr_01-RD_White_42: 6682071222411602415
+      Pr_01-RD_White_43: -1776330024360503300
+      Pr_01-RD_White_44: -286452298615375325
+      Pr_01-RD_White_45: 6410577604142919187
+      Pr_01-RD_White_46: 4133933473240599621
+      Pr_01-RD_White_47: 4366451487030989244
+      Pr_01-RD_White_48: 7484843629349274275
+      Pr_01-RD_White_49: 1323127291651355865
+      Pr_01-RD_White_5: -3121081144495186434
+      Pr_01-RD_White_50: 6154454900523183303
+      Pr_01-RD_White_51: -4140130886864007680
+      Pr_01-RD_White_52: 5294583743332832877
+      Pr_01-RD_White_53: 1060843203130665636
+      Pr_01-RD_White_54: -5593537047837271992
+      Pr_01-RD_White_55: 5387338485303868769
+      Pr_01-RD_White_56: 5228274439666939283
+      Pr_01-RD_White_57: 4419354005347119779
+      Pr_01-RD_White_58: -5462406394956852030
+      Pr_01-RD_White_59: 7903685738860779790
+      Pr_01-RD_White_6: -6932146423919303905
+      Pr_01-RD_White_60: -3255202163112020621
+      Pr_01-RD_White_61: 6588915652235038500
+      Pr_01-RD_White_62: 2720971221705917114
+      Pr_01-RD_White_7: -878196625826979794
+      Pr_01-RD_White_8: -1900082985955815521
+      Pr_01-RD_White_9: -4536340180407584768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

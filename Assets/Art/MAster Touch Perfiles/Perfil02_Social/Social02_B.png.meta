@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: f20d0fff38af16044a48fe9566d56c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7241043234242848473
+    second: Social02_B_0
+  - first:
+      213: -3163001615139387895
+    second: Social02_B_1
+  - first:
+      213: -8005897650839775105
+    second: Social02_B_2
+  - first:
+      213: 6488348718075220417
+    second: Social02_B_3
+  - first:
+      213: -8692272536474691737
+    second: Social02_B_4
+  - first:
+      213: -616654189126797099
+    second: Social02_B_5
+  - first:
+      213: -3719203518584020640
+    second: Social02_B_6
+  - first:
+      213: 6487360449095156916
+    second: Social02_B_7
+  - first:
+      213: -8966190313821829171
+    second: Social02_B_8
+  - first:
+      213: 487552279502067953
+    second: Social02_B_9
+  - first:
+      213: -6671811913903109978
+    second: Social02_B_10
+  - first:
+      213: 799280467675536346
+    second: Social02_B_11
+  - first:
+      213: 8459914304029158889
+    second: Social02_B_12
+  - first:
+      213: -8675270201938531293
+    second: Social02_B_13
+  - first:
+      213: -8237150381282306838
+    second: Social02_B_14
+  - first:
+      213: -3073356340008843952
+    second: Social02_B_15
+  - first:
+      213: -1354510466173127258
+    second: Social02_B_16
+  - first:
+      213: 1242496235316303531
+    second: Social02_B_17
+  - first:
+      213: -4515131563494563614
+    second: Social02_B_18
+  - first:
+      213: -6827758741563724711
+    second: Social02_B_19
+  - first:
+      213: -1556701251561748597
+    second: Social02_B_20
+  - first:
+      213: 191614397184221239
+    second: Social02_B_21
+  - first:
+      213: -4475246833951845178
+    second: Social02_B_22
+  - first:
+      213: -4216488509831006784
+    second: Social02_B_23
+  - first:
+      213: 4950318975855360109
+    second: Social02_B_24
+  - first:
+      213: 7634617216742785936
+    second: Social02_B_25
+  - first:
+      213: 36418748668410726
+    second: Social02_B_26
+  - first:
+      213: -4796485837457680687
+    second: Social02_B_27
+  - first:
+      213: -8348965710237178720
+    second: Social02_B_28
+  - first:
+      213: 6673807302288343202
+    second: Social02_B_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Social02_B_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 73
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72995bb0b85a28b90800000000000000
+      internalID: -7241043234242848473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90641a11ac2ca14d0800000000000000
+      internalID: -3163001615139387895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f789f8de08655e090800000000000000
+      internalID: -8005897650839775105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11cb748ce3b0a50800000000000000
+      internalID: 6488348718075220417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767da848e28de5780800000000000000
+      internalID: -8692272536474691737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d837db38443177f0800000000000000
+      internalID: -616654189126797099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061aa63ea1cb26cc0800000000000000
+      internalID: -3719203518584020640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44c3af4fbb70a50800000000000000
+      internalID: 6487360449095156916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 8
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc70a1c1a61b19380800000000000000
+      internalID: -8966190313821829171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8172d073224c600800000000000000
+      internalID: 487552279502067953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8069fb966f863a0800000000000000
+      internalID: -6671811913903109978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb55bfb95d971b00800000000000000
+      internalID: 799280467675536346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed67e9ac37a76570800000000000000
+      internalID: 8459914304029158889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c2ce207bf3b9780800000000000000
+      internalID: -8675270201938531293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 8
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d13ade53cfad80800000000000000
+      internalID: -8237150381282306838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055049d21be3955d0800000000000000
+      internalID: -3073356340008843952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5b33358efc33de0800000000000000
+      internalID: -1354510466173127258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 8
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d9c43ebb3e3110800000000000000
+      internalID: 1242496235316303531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0a0c3e3c70751c0800000000000000
+      internalID: -4515131563494563614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ca60d799dee31a0800000000000000
+      internalID: -6827758741563724711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87814f957c756ae0800000000000000
+      internalID: -1556701251561748597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730240e6740c8a200800000000000000
+      internalID: 191614397184221239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 7
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4db1427bab4e1c0800000000000000
+      internalID: -4475246833951845178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5b10c4a060c75c0800000000000000
+      internalID: -4216488509831006784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_24
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 8
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68fbb071e013b440800000000000000
+      internalID: 4950318975855360109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0930900a8eb93f960800000000000000
+      internalID: 7634617216742785936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 8
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b7b81b8a2618000800000000000000
+      internalID: 36418748668410726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_27
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d694203b857f6db0800000000000000
+      internalID: -4796485837457680687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_28
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a46567dbe3822c80800000000000000
+      internalID: -8348965710237178720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social02_B_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a00e40d1602e9c50800000000000000
+      internalID: 6673807302288343202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Social02_B_0: -7241043234242848473
+      Social02_B_1: -3163001615139387895
+      Social02_B_10: -6671811913903109978
+      Social02_B_11: 799280467675536346
+      Social02_B_12: 8459914304029158889
+      Social02_B_13: -8675270201938531293
+      Social02_B_14: -8237150381282306838
+      Social02_B_15: -3073356340008843952
+      Social02_B_16: -1354510466173127258
+      Social02_B_17: 1242496235316303531
+      Social02_B_18: -4515131563494563614
+      Social02_B_19: -6827758741563724711
+      Social02_B_2: -8005897650839775105
+      Social02_B_20: -1556701251561748597
+      Social02_B_21: 191614397184221239
+      Social02_B_22: -4475246833951845178
+      Social02_B_23: -4216488509831006784
+      Social02_B_24: 4950318975855360109
+      Social02_B_25: 7634617216742785936
+      Social02_B_26: 36418748668410726
+      Social02_B_27: -4796485837457680687
+      Social02_B_28: -8348965710237178720
+      Social02_B_29: 6673807302288343202
+      Social02_B_3: 6488348718075220417
+      Social02_B_4: -8692272536474691737
+      Social02_B_5: -616654189126797099
+      Social02_B_6: -3719203518584020640
+      Social02_B_7: 6487360449095156916
+      Social02_B_8: -8966190313821829171
+      Social02_B_9: 487552279502067953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

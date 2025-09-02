@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 7d1c471724c393f4dab1f5e9961e7ddd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6186815372784124429
+    second: Emprendedor02_B_0
+  - first:
+      213: -4199196534810210921
+    second: Emprendedor02_B_1
+  - first:
+      213: -8545804851775553415
+    second: Emprendedor02_B_2
+  - first:
+      213: -2707730327975507316
+    second: Emprendedor02_B_3
+  - first:
+      213: -7741402957751799088
+    second: Emprendedor02_B_4
+  - first:
+      213: -1210962302285967845
+    second: Emprendedor02_B_5
+  - first:
+      213: 7858698614673939699
+    second: Emprendedor02_B_6
+  - first:
+      213: 8012052900037388137
+    second: Emprendedor02_B_7
+  - first:
+      213: 6228447749442222172
+    second: Emprendedor02_B_8
+  - first:
+      213: -6632388862272981131
+    second: Emprendedor02_B_9
+  - first:
+      213: -2859334229265828992
+    second: Emprendedor02_B_10
+  - first:
+      213: 5803908667724825494
+    second: Emprendedor02_B_11
+  - first:
+      213: 2271128364269075809
+    second: Emprendedor02_B_12
+  - first:
+      213: 2271188487900910207
+    second: Emprendedor02_B_13
+  - first:
+      213: -4364835899653557332
+    second: Emprendedor02_B_14
+  - first:
+      213: -992998004319059954
+    second: Emprendedor02_B_15
+  - first:
+      213: -4195285687654194261
+    second: Emprendedor02_B_16
+  - first:
+      213: 7593913169464419811
+    second: Emprendedor02_B_17
+  - first:
+      213: 1100774072246385072
+    second: Emprendedor02_B_18
+  - first:
+      213: -342152062804765285
+    second: Emprendedor02_B_19
+  - first:
+      213: -7017562593013908958
+    second: Emprendedor02_B_20
+  - first:
+      213: 3241418332191223773
+    second: Emprendedor02_B_21
+  - first:
+      213: 3893775126752200402
+    second: Emprendedor02_B_22
+  - first:
+      213: -506099564442536557
+    second: Emprendedor02_B_23
+  - first:
+      213: 1828405936367472163
+    second: Emprendedor02_B_24
+  - first:
+      213: -6985042266631484369
+    second: Emprendedor02_B_25
+  - first:
+      213: 8399652404422877279
+    second: Emprendedor02_B_26
+  - first:
+      213: 3000329024272930199
+    second: Emprendedor02_B_27
+  - first:
+      213: 4002834655545229833
+    second: Emprendedor02_B_28
+  - first:
+      213: 1354770932232480322
+    second: Emprendedor02_B_29
+  - first:
+      213: -2703895634797844973
+    second: Emprendedor02_B_30
+  - first:
+      213: -2767937347691639869
+    second: Emprendedor02_B_31
+  - first:
+      213: 6825905204718050417
+    second: Emprendedor02_B_32
+  - first:
+      213: 5787651251160548551
+    second: Emprendedor02_B_33
+  - first:
+      213: 7918910063799862394
+    second: Emprendedor02_B_34
+  - first:
+      213: 5614518005988376958
+    second: Emprendedor02_B_35
+  - first:
+      213: 6471071848100391344
+    second: Emprendedor02_B_36
+  - first:
+      213: -3563757773928819100
+    second: Emprendedor02_B_37
+  - first:
+      213: -3835775804698131131
+    second: Emprendedor02_B_38
+  - first:
+      213: 8910775241050180256
+    second: Emprendedor02_B_39
+  - first:
+      213: -5367982323982334747
+    second: Emprendedor02_B_40
+  - first:
+      213: -2990283027140497556
+    second: Emprendedor02_B_41
+  - first:
+      213: 9177334481283408527
+    second: Emprendedor02_B_42
+  - first:
+      213: -4589865794840610315
+    second: Emprendedor02_B_43
+  - first:
+      213: -6562838797774148750
+    second: Emprendedor02_B_44
+  - first:
+      213: 2222141125153383743
+    second: Emprendedor02_B_45
+  - first:
+      213: 1311126944118217591
+    second: Emprendedor02_B_46
+  - first:
+      213: -219880878791535841
+    second: Emprendedor02_B_47
+  - first:
+      213: 911616176105642735
+    second: Emprendedor02_B_48
+  - first:
+      213: 4138443007338783043
+    second: Emprendedor02_B_49
+  - first:
+      213: -5052703274358905272
+    second: Emprendedor02_B_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emprendedor02_B_0
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 123
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0249b96dcbfbd550800000000000000
+      internalID: 6186815372784124429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0698fff479b5c0800000000000000
+      internalID: -4199196534810210921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970cb12d3c3376980800000000000000
+      internalID: -8545804851775553415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ac775ec953c6ad0800000000000000
+      internalID: -2707730327975507316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2bb009603019490800000000000000
+      internalID: -7741402957751799088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e0bd7b33cc13fe0800000000000000
+      internalID: -1210962302285967845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 76
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc9e7cb0c4bf0d60800000000000000
+      internalID: 7858698614673939699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967ed54b9a7803f60800000000000000
+      internalID: 8012052900037388137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 52
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58b5977a34ef6650800000000000000
+      internalID: 6228447749442222172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 52
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57736fb387505f3a0800000000000000
+      internalID: -6632388862272981131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 52
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083be7afaaa9158d0800000000000000
+      internalID: -2859334229265828992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6938c80de20ab8050800000000000000
+      internalID: 5803908667724825494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d729fd63ba48f10800000000000000
+      internalID: 2271128364269075809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 52
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725a4f75e1e48f10800000000000000
+      internalID: 2271188487900910207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f64a00ecfc63c0800000000000000
+      internalID: -4364835899653557332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0004e183992832f0800000000000000
+      internalID: -992998004319059954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3671805e957c5c0800000000000000
+      internalID: -4195285687654194261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 52
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e566191bcff26960800000000000000
+      internalID: 7593913169464419811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9b432cf2cb64f00800000000000000
+      internalID: 1100774072246385072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 52
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95da5df28e604bf0800000000000000
+      internalID: -342152062804765285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a3656900c9c9e90800000000000000
+      internalID: -7017562593013908958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 52
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf62b2acc4dbfc20800000000000000
+      internalID: 3241418332191223773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 52
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6015109d7790630800000000000000
+      internalID: 3893775126752200402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953c68a029f9f8f0800000000000000
+      internalID: -506099564442536557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_24
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 52
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0666038dcf5910800000000000000
+      internalID: 1828405936367472163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 52
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c475c1115201f90800000000000000
+      internalID: -6985042266631484369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 52
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50a16acb5f819470800000000000000
+      internalID: 8399652404422877279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_27
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7951515e95f43a920800000000000000
+      internalID: 3000329024272930199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 52
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902856a49ecec8730800000000000000
+      internalID: 4002834655545229833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_29
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 52
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246edb72cfc1dc210800000000000000
+      internalID: 1354770932232480322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_30
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 52
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316252afe35d97ad0800000000000000
+      internalID: -2703895634797844973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 52
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8d4eb5af4699d0800000000000000
+      internalID: -2767937347691639869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_32
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 44
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c95b55e9c7abe50800000000000000
+      internalID: 6825905204718050417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_33
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 52
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4054d062ed15050800000000000000
+      internalID: 5787651251160548551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 46
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a748e013fbe95ed60800000000000000
+      internalID: 7918910063799862394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_35
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c8f32166caed40800000000000000
+      internalID: 5614518005988376958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9ed068f8dddc950800000000000000
+      internalID: 6471071848100391344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4669f6baf2dfa8ec0800000000000000
+      internalID: -3563757773928819100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5450eea7a3694cac0800000000000000
+      internalID: -3835775804698131131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa4424dede69ab70800000000000000
+      internalID: 8910775241050180256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4057264881185b0800000000000000
+      internalID: -5367982323982334747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f29651e616086d0800000000000000
+      internalID: -2990283027140497556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8267dd46117c5f70800000000000000
+      internalID: 9177334481283408527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f93fc3b0658d40c0800000000000000
+      internalID: -4589865794840610315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_44
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b258482ec1ce4a0800000000000000
+      internalID: -6562838797774148750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ed857491a6de10800000000000000
+      internalID: 2222141125153383743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_46
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1c9f420f023210800000000000000
+      internalID: 1311126944118217591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_47
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13dab67183d2fcf0800000000000000
+      internalID: -219880878791535841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_48
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead64c0516b6ac00800000000000000
+      internalID: 911616176105642735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_49
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341a0af1df3be6930800000000000000
+      internalID: 4138443007338783043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor02_B_50
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8466260742131e9b0800000000000000
+      internalID: -5052703274358905272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emprendedor02_B_0: 6186815372784124429
+      Emprendedor02_B_1: -4199196534810210921
+      Emprendedor02_B_10: -2859334229265828992
+      Emprendedor02_B_11: 5803908667724825494
+      Emprendedor02_B_12: 2271128364269075809
+      Emprendedor02_B_13: 2271188487900910207
+      Emprendedor02_B_14: -4364835899653557332
+      Emprendedor02_B_15: -992998004319059954
+      Emprendedor02_B_16: -4195285687654194261
+      Emprendedor02_B_17: 7593913169464419811
+      Emprendedor02_B_18: 1100774072246385072
+      Emprendedor02_B_19: -342152062804765285
+      Emprendedor02_B_2: -8545804851775553415
+      Emprendedor02_B_20: -7017562593013908958
+      Emprendedor02_B_21: 3241418332191223773
+      Emprendedor02_B_22: 3893775126752200402
+      Emprendedor02_B_23: -506099564442536557
+      Emprendedor02_B_24: 1828405936367472163
+      Emprendedor02_B_25: -6985042266631484369
+      Emprendedor02_B_26: 8399652404422877279
+      Emprendedor02_B_27: 3000329024272930199
+      Emprendedor02_B_28: 4002834655545229833
+      Emprendedor02_B_29: 1354770932232480322
+      Emprendedor02_B_3: -2707730327975507316
+      Emprendedor02_B_30: -2703895634797844973
+      Emprendedor02_B_31: -2767937347691639869
+      Emprendedor02_B_32: 6825905204718050417
+      Emprendedor02_B_33: 5787651251160548551
+      Emprendedor02_B_34: 7918910063799862394
+      Emprendedor02_B_35: 5614518005988376958
+      Emprendedor02_B_36: 6471071848100391344
+      Emprendedor02_B_37: -3563757773928819100
+      Emprendedor02_B_38: -3835775804698131131
+      Emprendedor02_B_39: 8910775241050180256
+      Emprendedor02_B_4: -7741402957751799088
+      Emprendedor02_B_40: -5367982323982334747
+      Emprendedor02_B_41: -2990283027140497556
+      Emprendedor02_B_42: 9177334481283408527
+      Emprendedor02_B_43: -4589865794840610315
+      Emprendedor02_B_44: -6562838797774148750
+      Emprendedor02_B_45: 2222141125153383743
+      Emprendedor02_B_46: 1311126944118217591
+      Emprendedor02_B_47: -219880878791535841
+      Emprendedor02_B_48: 911616176105642735
+      Emprendedor02_B_49: 4138443007338783043
+      Emprendedor02_B_5: -1210962302285967845
+      Emprendedor02_B_50: -5052703274358905272
+      Emprendedor02_B_6: 7858698614673939699
+      Emprendedor02_B_7: 8012052900037388137
+      Emprendedor02_B_8: 6228447749442222172
+      Emprendedor02_B_9: -6632388862272981131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4381 @@
+fileFormatVersion: 2
+guid: 7784f8769e476184d819aead1da9219e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8883267030202357282
+    second: Emo03_Tip_0
+  - first:
+      213: 2484215437583277136
+    second: Emo03_Tip_1
+  - first:
+      213: -4229047736138718580
+    second: Emo03_Tip_2
+  - first:
+      213: 1280587379302143368
+    second: Emo03_Tip_3
+  - first:
+      213: -6129225099609962965
+    second: Emo03_Tip_4
+  - first:
+      213: 6337185084516358537
+    second: Emo03_Tip_5
+  - first:
+      213: -6132719090387678522
+    second: Emo03_Tip_6
+  - first:
+      213: -3845968839766475367
+    second: Emo03_Tip_7
+  - first:
+      213: 8523997475766966108
+    second: Emo03_Tip_8
+  - first:
+      213: -4010023708927852436
+    second: Emo03_Tip_9
+  - first:
+      213: -1784867448522588107
+    second: Emo03_Tip_10
+  - first:
+      213: 5787120749060781993
+    second: Emo03_Tip_11
+  - first:
+      213: 8723750749796765674
+    second: Emo03_Tip_12
+  - first:
+      213: 362208032051471363
+    second: Emo03_Tip_13
+  - first:
+      213: -6270059306174911411
+    second: Emo03_Tip_14
+  - first:
+      213: 7428302468872318455
+    second: Emo03_Tip_15
+  - first:
+      213: -5674700524333150356
+    second: Emo03_Tip_16
+  - first:
+      213: -3091802239103833484
+    second: Emo03_Tip_17
+  - first:
+      213: -3693828477002027510
+    second: Emo03_Tip_18
+  - first:
+      213: 6113362100580786814
+    second: Emo03_Tip_19
+  - first:
+      213: -942375220419673229
+    second: Emo03_Tip_20
+  - first:
+      213: -2569722137735829810
+    second: Emo03_Tip_21
+  - first:
+      213: 327793584958024013
+    second: Emo03_Tip_22
+  - first:
+      213: -3935743552323993770
+    second: Emo03_Tip_23
+  - first:
+      213: 2490771506144211154
+    second: Emo03_Tip_24
+  - first:
+      213: 2638505909018633167
+    second: Emo03_Tip_25
+  - first:
+      213: 3099671531099006070
+    second: Emo03_Tip_26
+  - first:
+      213: -7026046032308390038
+    second: Emo03_Tip_27
+  - first:
+      213: 4482725162664385245
+    second: Emo03_Tip_28
+  - first:
+      213: -7984883104624210930
+    second: Emo03_Tip_29
+  - first:
+      213: 9037054560966981368
+    second: Emo03_Tip_30
+  - first:
+      213: -9180911846482082170
+    second: Emo03_Tip_31
+  - first:
+      213: 7316106301260743897
+    second: Emo03_Tip_32
+  - first:
+      213: -3183268852447808580
+    second: Emo03_Tip_33
+  - first:
+      213: 1420763367011722498
+    second: Emo03_Tip_34
+  - first:
+      213: 463664360340705594
+    second: Emo03_Tip_35
+  - first:
+      213: 5079865814247094322
+    second: Emo03_Tip_36
+  - first:
+      213: 3529246384895713132
+    second: Emo03_Tip_37
+  - first:
+      213: -3594900039646186134
+    second: Emo03_Tip_38
+  - first:
+      213: -7035251226805256366
+    second: Emo03_Tip_39
+  - first:
+      213: 4099860218408242008
+    second: Emo03_Tip_40
+  - first:
+      213: 1647444802403958874
+    second: Emo03_Tip_41
+  - first:
+      213: -8586856552566115679
+    second: Emo03_Tip_42
+  - first:
+      213: -4682256500924786551
+    second: Emo03_Tip_43
+  - first:
+      213: -5923214853516065522
+    second: Emo03_Tip_44
+  - first:
+      213: -960785964797331761
+    second: Emo03_Tip_45
+  - first:
+      213: -1054510135943903176
+    second: Emo03_Tip_46
+  - first:
+      213: -441788395600574088
+    second: Emo03_Tip_47
+  - first:
+      213: -4710569485875427359
+    second: Emo03_Tip_48
+  - first:
+      213: 3097379473839548318
+    second: Emo03_Tip_49
+  - first:
+      213: 6142062225720435724
+    second: Emo03_Tip_50
+  - first:
+      213: 2749439266998487277
+    second: Emo03_Tip_51
+  - first:
+      213: -1391880806009818629
+    second: Emo03_Tip_52
+  - first:
+      213: -3672444368772181555
+    second: Emo03_Tip_53
+  - first:
+      213: -2416809640214297277
+    second: Emo03_Tip_54
+  - first:
+      213: -1951892426587174126
+    second: Emo03_Tip_55
+  - first:
+      213: 1529607985211624589
+    second: Emo03_Tip_56
+  - first:
+      213: 3010651105184603111
+    second: Emo03_Tip_57
+  - first:
+      213: -5061115785121879184
+    second: Emo03_Tip_58
+  - first:
+      213: 1076882763994039652
+    second: Emo03_Tip_59
+  - first:
+      213: -5478467001022019939
+    second: Emo03_Tip_60
+  - first:
+      213: -5166483035784443080
+    second: Emo03_Tip_61
+  - first:
+      213: -1762283192491439068
+    second: Emo03_Tip_62
+  - first:
+      213: -1031297726883049467
+    second: Emo03_Tip_63
+  - first:
+      213: 1348578117277939475
+    second: Emo03_Tip_64
+  - first:
+      213: 296595101979171906
+    second: Emo03_Tip_65
+  - first:
+      213: 9210975193642293858
+    second: Emo03_Tip_66
+  - first:
+      213: 3954193715476288502
+    second: Emo03_Tip_67
+  - first:
+      213: 2385341218291589552
+    second: Emo03_Tip_68
+  - first:
+      213: -947339966138653227
+    second: Emo03_Tip_69
+  - first:
+      213: 5400486578127563653
+    second: Emo03_Tip_70
+  - first:
+      213: 2851069064835123722
+    second: Emo03_Tip_71
+  - first:
+      213: 5995590494164369037
+    second: Emo03_Tip_72
+  - first:
+      213: 6491465295264975283
+    second: Emo03_Tip_73
+  - first:
+      213: 4366403650198722079
+    second: Emo03_Tip_74
+  - first:
+      213: 8809648063412173440
+    second: Emo03_Tip_75
+  - first:
+      213: 4153036040719566024
+    second: Emo03_Tip_76
+  - first:
+      213: 3118084188564829208
+    second: Emo03_Tip_77
+  - first:
+      213: -4822839023084180120
+    second: Emo03_Tip_78
+  - first:
+      213: -684721971113856606
+    second: Emo03_Tip_79
+  - first:
+      213: 4137874445464217487
+    second: Emo03_Tip_80
+  - first:
+      213: 2948012395376103888
+    second: Emo03_Tip_81
+  - first:
+      213: -4445491960195748428
+    second: Emo03_Tip_82
+  - first:
+      213: -3023349959622804365
+    second: Emo03_Tip_83
+  - first:
+      213: 5400982859651665562
+    second: Emo03_Tip_84
+  - first:
+      213: -7389279622315401991
+    second: Emo03_Tip_85
+  - first:
+      213: -5321516651252927890
+    second: Emo03_Tip_86
+  - first:
+      213: -7858014785255831045
+    second: Emo03_Tip_87
+  - first:
+      213: 5178845429773990252
+    second: Emo03_Tip_88
+  - first:
+      213: 1780008131356268242
+    second: Emo03_Tip_89
+  - first:
+      213: 5364406543955736234
+    second: Emo03_Tip_90
+  - first:
+      213: 3206682078453701669
+    second: Emo03_Tip_91
+  - first:
+      213: 4860391759145102302
+    second: Emo03_Tip_92
+  - first:
+      213: -2505839653398083802
+    second: Emo03_Tip_93
+  - first:
+      213: 5002318054892245913
+    second: Emo03_Tip_94
+  - first:
+      213: 2443035891367544550
+    second: Emo03_Tip_95
+  - first:
+      213: -7849775292264451415
+    second: Emo03_Tip_96
+  - first:
+      213: -298313815180107470
+    second: Emo03_Tip_97
+  - first:
+      213: -7636905564230584977
+    second: Emo03_Tip_98
+  - first:
+      213: 8024020895207313133
+    second: Emo03_Tip_99
+  - first:
+      213: -4478801886916975958
+    second: Emo03_Tip_100
+  - first:
+      213: -5645481095667709163
+    second: Emo03_Tip_101
+  - first:
+      213: 2616540552671930364
+    second: Emo03_Tip_102
+  - first:
+      213: -2047685186832084186
+    second: Emo03_Tip_103
+  - first:
+      213: 6438341050907159315
+    second: Emo03_Tip_104
+  - first:
+      213: 4463211423321132620
+    second: Emo03_Tip_105
+  - first:
+      213: -6350317109965308777
+    second: Emo03_Tip_106
+  - first:
+      213: -5033287064967684359
+    second: Emo03_Tip_107
+  - first:
+      213: 1405528738252169575
+    second: Emo03_Tip_108
+  - first:
+      213: -6096133776029089878
+    second: Emo03_Tip_109
+  - first:
+      213: 7881726361174506685
+    second: Emo03_Tip_110
+  - first:
+      213: -5447175529967527904
+    second: Emo03_Tip_111
+  - first:
+      213: -4835912656142326938
+    second: Emo03_Tip_112
+  - first:
+      213: 7650099412509521401
+    second: Emo03_Tip_113
+  - first:
+      213: 8549133602595460443
+    second: Emo03_Tip_114
+  - first:
+      213: 7581904446333464563
+    second: Emo03_Tip_115
+  - first:
+      213: -8413404837159283804
+    second: Emo03_Tip_116
+  - first:
+      213: -3753735096653801860
+    second: Emo03_Tip_117
+  - first:
+      213: 2740965203025201491
+    second: Emo03_Tip_118
+  - first:
+      213: 3257160438757577465
+    second: Emo03_Tip_119
+  - first:
+      213: 543497440592563034
+    second: Emo03_Tip_120
+  - first:
+      213: -5526341891861966916
+    second: Emo03_Tip_121
+  - first:
+      213: -2899055041781096690
+    second: Emo03_Tip_122
+  - first:
+      213: -4099281502214650235
+    second: Emo03_Tip_123
+  - first:
+      213: -683462426815344644
+    second: Emo03_Tip_124
+  - first:
+      213: -2962516195627779031
+    second: Emo03_Tip_125
+  - first:
+      213: -8026337069344576687
+    second: Emo03_Tip_126
+  - first:
+      213: -4444093569807122835
+    second: Emo03_Tip_127
+  - first:
+      213: -4816835837612245396
+    second: Emo03_Tip_128
+  - first:
+      213: 3445267187234974046
+    second: Emo03_Tip_129
+  - first:
+      213: -7168788197019713003
+    second: Emo03_Tip_130
+  - first:
+      213: 6585123460751032377
+    second: Emo03_Tip_131
+  - first:
+      213: -4462123653162992634
+    second: Emo03_Tip_132
+  - first:
+      213: -4861515394787054171
+    second: Emo03_Tip_133
+  - first:
+      213: 4974475366159253952
+    second: Emo03_Tip_134
+  - first:
+      213: -1482983105731490794
+    second: Emo03_Tip_135
+  - first:
+      213: -2116283185462733737
+    second: Emo03_Tip_136
+  - first:
+      213: 246729730834174264
+    second: Emo03_Tip_137
+  - first:
+      213: -8810323671712703800
+    second: Emo03_Tip_138
+  - first:
+      213: 4592791651178895462
+    second: Emo03_Tip_139
+  - first:
+      213: 325397166968392389
+    second: Emo03_Tip_140
+  - first:
+      213: 5167057817327501407
+    second: Emo03_Tip_141
+  - first:
+      213: -634764339489303003
+    second: Emo03_Tip_142
+  - first:
+      213: 7792198124964534156
+    second: Emo03_Tip_143
+  - first:
+      213: -918445922075226647
+    second: Emo03_Tip_144
+  - first:
+      213: 5767848684227394130
+    second: Emo03_Tip_145
+  - first:
+      213: -8322999937354034453
+    second: Emo03_Tip_146
+  - first:
+      213: 4284824478436584507
+    second: Emo03_Tip_147
+  - first:
+      213: 5066980027873987511
+    second: Emo03_Tip_148
+  - first:
+      213: 5983634167603416724
+    second: Emo03_Tip_149
+  - first:
+      213: -1252268960663745269
+    second: Emo03_Tip_150
+  - first:
+      213: 5687706856817679204
+    second: Emo03_Tip_151
+  - first:
+      213: -1995941568170155293
+    second: Emo03_Tip_152
+  - first:
+      213: 5470905458657801893
+    second: Emo03_Tip_153
+  - first:
+      213: -4085523556178926152
+    second: Emo03_Tip_154
+  - first:
+      213: 7686633981639932616
+    second: Emo03_Tip_155
+  - first:
+      213: -3828297671117070011
+    second: Emo03_Tip_156
+  - first:
+      213: 197562288860068723
+    second: Emo03_Tip_157
+  - first:
+      213: -8814220877204088338
+    second: Emo03_Tip_158
+  - first:
+      213: 5574272563225469214
+    second: Emo03_Tip_159
+  - first:
+      213: 8735569543288789683
+    second: Emo03_Tip_160
+  - first:
+      213: -7854620286633819739
+    second: Emo03_Tip_161
+  - first:
+      213: 3406575264775746931
+    second: Emo03_Tip_162
+  - first:
+      213: 4780361868794932987
+    second: Emo03_Tip_163
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emo03_Tip_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 360
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22696246c44b74b70800000000000000
+      internalID: 8883267030202357282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 399
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c51be47c4b97220800000000000000
+      internalID: 2484215437583277136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 347
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82284d8d776f45c0800000000000000
+      internalID: -4229047736138718580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8851727cf6f85c110800000000000000
+      internalID: 1280587379302143368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 399
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b260755fe3e90faa0800000000000000
+      internalID: -6129225099609962965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 360
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989508e224432f750800000000000000
+      internalID: 6337185084516358537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 360
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca8f26da7434eaa0800000000000000
+      internalID: -6132719090387678522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 360
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d7f7097bf50aac0800000000000000
+      internalID: -3845968839766475367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 360
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c579a69ca825b4670800000000000000
+      internalID: 8523997475766966108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 399
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c600678cea88958c0800000000000000
+      internalID: -4010023708927852436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 360
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53047af1380ea37e0800000000000000
+      internalID: -1784867448522588107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 360
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a77f08e8abff4050800000000000000
+      internalID: 5787120749060781993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 360
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef0fa6261df01970800000000000000
+      internalID: 8723750749796765674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a83d3942d60500800000000000000
+      internalID: 362208032051471363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 360
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cefcef7464cf8a0800000000000000
+      internalID: -6270059306174911411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 360
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdaa451db1a61760800000000000000
+      internalID: 7428302468872318455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 219
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f466060f96f31b0800000000000000
+      internalID: -5674700524333150356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a657e9e36b715d0800000000000000
+      internalID: -3091802239103833484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e62172292ecbcc0800000000000000
+      internalID: -3693828477002027510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e722474c07607d450800000000000000
+      internalID: 6113362100580786814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37341cddab20ce2f0800000000000000
+      internalID: -942375220419673229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 219
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec66cc8a453865cd0800000000000000
+      internalID: -2569722137735829810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49231f578e8c8400800000000000000
+      internalID: 327793584958024013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fb1b4771e6169c0800000000000000
+      internalID: -3935743552323993770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 219
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0f368fc7ff09220800000000000000
+      internalID: 2490771506144211154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 219
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc323d4152bdd9420800000000000000
+      internalID: 2638505909018633167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6742c83b5de340b20800000000000000
+      internalID: 3099671531099006070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 219
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6737b4fb587e7e90800000000000000
+      internalID: -7026046032308390038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 211
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddad052f8c6d53e30800000000000000
+      internalID: 4482725162664385245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c0bdf3f1fff2190800000000000000
+      internalID: -7984883104624210930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_30
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 219
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6b24a2e311a6d70800000000000000
+      internalID: 9037054560966981368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 219
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68682447159d69080800000000000000
+      internalID: -9180911846482082170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4c4a92be7088560800000000000000
+      internalID: 7316106301260743897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3784928d1c2d3d0800000000000000
+      internalID: -3183268852447808580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 219
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052f9831c097b310800000000000000
+      internalID: 1420763367011722498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31dd1577444f6600800000000000000
+      internalID: 463664360340705594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 219
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23839d43b0f4f7640800000000000000
+      internalID: 5079865814247094322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_37
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 219
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f5a8863e66af030800000000000000
+      internalID: 3529246384895713132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65f9d5e5795c1ec0800000000000000
+      internalID: -3594900039646186134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f34a89844cd5e90800000000000000
+      internalID: -7035251226805256366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_40
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 219
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b8afa8521a5e830800000000000000
+      internalID: 4099860218408242008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_41
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 219
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500a5ab156ecd610800000000000000
+      internalID: 1647444802403958874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_42
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 244
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2bf07e57b55d880800000000000000
+      internalID: -8586856552566115679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_43
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 219
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9885d132588450fb0800000000000000
+      internalID: -4682256500924786551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_44
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e058bd729738ccda0800000000000000
+      internalID: -5923214853516065522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_45
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 244
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f217614a9aa2f0800000000000000
+      internalID: -960785964797331761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_46
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 219
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838c30f4e90ad51f0800000000000000
+      internalID: -1054510135943903176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 158
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879865e7bc37ed9f0800000000000000
+      internalID: -441788395600574088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c990a202b0aeb0800000000000000
+      internalID: -4710569485875427359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 166
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97eac8883a1cfa20800000000000000
+      internalID: 3097379473839548318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0469606d0dfc3550800000000000000
+      internalID: 6142062225720435724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 158
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de884f83278f72620800000000000000
+      internalID: 2749439266998487277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1b91c08cb0face0800000000000000
+      internalID: -1391880806009818629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc153f5dd4bd80dc0800000000000000
+      internalID: -3672444368772181555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 166
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3458941ef64c57ed0800000000000000
+      internalID: -2416809640214297277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b0f79fd2c79e4e0800000000000000
+      internalID: -1951892426587174126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 166
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc32cbb524a3510800000000000000
+      internalID: 1529607985211624589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb5a23aa3bf7c920800000000000000
+      internalID: 3010651105184603111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 166
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b20b4220e43c9b0800000000000000
+      internalID: -5061115785121879184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_59
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 158
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650b941b2bd1fe00800000000000000
+      internalID: 1076882763994039652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_60
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 166
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96026ae94398f3b0800000000000000
+      internalID: -5478467001022019939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_61
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b8cf95d07fc48b0800000000000000
+      internalID: -5166483035784443080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_62
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c08edf5cc1b87e0800000000000000
+      internalID: -1762283192491439068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 166
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500d7737e2810b1f0800000000000000
+      internalID: -1031297726883049467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_64
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317773017ac17b210800000000000000
+      internalID: 1348578117277939475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 166
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cd69f7ca7bd1400800000000000000
+      internalID: 296595101979171906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_66
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 166
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26adbf30325f3df70800000000000000
+      internalID: 9210975193642293858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3db08eb3e10e630800000000000000
+      internalID: 3954193715476288502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_68
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 166
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b12e50333f6a1120800000000000000
+      internalID: 2385341218291589552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_69
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d566cce15f5ad2f0800000000000000
+      internalID: -947339966138653227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_70
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 166
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bee870ee162fa40800000000000000
+      internalID: 5400486578127563653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_71
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a4a977538019720800000000000000
+      internalID: 2851069064835123722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_72
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 158
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e3067d9cd943350800000000000000
+      internalID: 5995590494164369037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_73
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b98b04fa41561a50800000000000000
+      internalID: 6491465295264975283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_74
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 166
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1650145cf4989c30800000000000000
+      internalID: 4366403650198722079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_75
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 166
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08af3e7fc38224a70800000000000000
+      internalID: 8809648063412173440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_76
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c40c7a764c82a930800000000000000
+      internalID: 4153036040719566024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8143b279c09a54b20800000000000000
+      internalID: 3118084188564829208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dec240675d11db0800000000000000
+      internalID: -4822839023084180120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_79
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 113
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a17addbef06f76f0800000000000000
+      internalID: -684721971113856606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_80
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87af0f72eeac6930800000000000000
+      internalID: 4137874445464217487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d157d387a179e820800000000000000
+      internalID: 2948012395376103888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_82
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 138
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6dac8d907e42c0800000000000000
+      internalID: -4445491960195748428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_83
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 113
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cbdf8ea37ea06d0800000000000000
+      internalID: -3023349959622804365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 113
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ec2839b4524fa40800000000000000
+      internalID: 5400982859651665562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_85
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc9bd56551047990800000000000000
+      internalID: -7389279622315401991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_86
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 113
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e623ebfdccc2626b0800000000000000
+      internalID: -5321516651252927890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_87
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf90f05bf29b2f290800000000000000
+      internalID: -7858014785255831045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_88
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 105
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69755cca74fed740800000000000000
+      internalID: 5178845429773990252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_89
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 105
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d61ccee6fbd3b810800000000000000
+      internalID: 1780008131356268242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_90
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa633437453327a40800000000000000
+      internalID: 5364406543955736234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_91
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c18d15c5c608c20800000000000000
+      internalID: 3206682078453701669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_92
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb6411bd84937340800000000000000
+      internalID: 4860391759145102302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_93
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 113
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6278e1b9c18793dd0800000000000000
+      internalID: -2505839653398083802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_94
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 113
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993106b74cdcb6540800000000000000
+      internalID: 5002318054892245913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_95
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e60e7e033867e120800000000000000
+      internalID: 2443035891367544550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_96
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 113
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a270f926feff0390800000000000000
+      internalID: -7849775292264451415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_97
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 105
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23129966a2d2cdbf0800000000000000
+      internalID: -298313815180107470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_98
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 138
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f4d4f9d2440690800000000000000
+      internalID: -7636905564230584977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_99
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec429bd7c0b5f60800000000000000
+      internalID: 8024020895207313133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_100
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 113
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2e6fed96918d1c0800000000000000
+      internalID: -4478801886916975958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_101
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0b82cad837a1b0800000000000000
+      internalID: -5645481095667709163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_102
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 113
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf72a6605c1df4420800000000000000
+      internalID: 2616540552671930364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_103
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6235b03fb292593e0800000000000000
+      internalID: -2047685186832084186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be222f215995950800000000000000
+      internalID: 6438341050907159315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e8584742380fd30800000000000000
+      internalID: 4463211423321132620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cbe61eb342fd7a0800000000000000
+      internalID: -6350317109965308777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_107
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 52
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe5808f41c262ab0800000000000000
+      internalID: -5033287064967684359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_108
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761af1dc0f0718310800000000000000
+      internalID: 1405528738252169575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_109
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 60
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf768021ae266ba0800000000000000
+      internalID: -6096133776029089878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 60
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc73a6cd54816d60800000000000000
+      internalID: 7881726361174506685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 85
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028d51347beb764b0800000000000000
+      internalID: -5447175529967527904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66322dd9f0363ecb0800000000000000
+      internalID: -4835912656142326938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_113
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5fd0b32ec9a2a60800000000000000
+      internalID: 7650099412509521401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_114
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55de0067bf94a670800000000000000
+      internalID: 8549133602595460443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_115
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff29ac5ce5583960800000000000000
+      internalID: 7581904446333464563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_116
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3519170e49d3b80800000000000000
+      internalID: -8413404837159283804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_117
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76980751dd08ebc0800000000000000
+      internalID: -3753735096653801860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_118
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590604745dd90620800000000000000
+      internalID: 2740965203025201491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_119
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2d9907922c33d20800000000000000
+      internalID: 3257160438757577465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_120
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8adaea04ea8700800000000000000
+      internalID: 543497440592563034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_121
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0534445d7e43b0800000000000000
+      internalID: -5526341891861966916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_122
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f1552accc74c7d0800000000000000
+      internalID: -2899055041781096690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_123
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5868a22513d6c17c0800000000000000
+      internalID: -4099281502214650235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_124
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 60
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff48504b8ad386f0800000000000000
+      internalID: -683462426815344644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_125
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 60
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cb346573703e6d0800000000000000
+      internalID: -2962516195627779031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_126
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 60
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15baa26f5f8bc9090800000000000000
+      internalID: -8026337069344576687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_127
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e7c0fa1786352c0800000000000000
+      internalID: -4444093569807122835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_128
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 60
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e30cd8359272db0800000000000000
+      internalID: -4816835837612245396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_129
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 60
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e592373c04c00df20800000000000000
+      internalID: 3445267187234974046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_130
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51280aedd19538c90800000000000000
+      internalID: -7168788197019713003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_131
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 60
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9300828e5ee036b50800000000000000
+      internalID: 6585123460751032377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_132
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 85
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf955cd2a5312c0800000000000000
+      internalID: -4462123653162992634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_133
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 60
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adef9f718d688cb0800000000000000
+      internalID: -4861515394787054171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_134
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 60
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c18ad75df2e80540800000000000000
+      internalID: 4974475366159253952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_135
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 85
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c08f6f8b26b6be0800000000000000
+      internalID: -1482983105731490794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_136
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 60
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7549c56c7a371a2e0800000000000000
+      internalID: -2116283185462733737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_137
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83116e9026f8c6300800000000000000
+      internalID: 246729730834174264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_138
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5957bc417bb580800000000000000
+      internalID: -8810323671712703800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_139
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 60
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668d5ef4cafdcbf30800000000000000
+      internalID: 4592791651178895462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_140
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac114dffa048400800000000000000
+      internalID: 325397166968392389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_141
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 7
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5006b765b315b740800000000000000
+      internalID: 5167057817327501407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_142
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52697a4423dd037f0800000000000000
+      internalID: -634764339489303003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_143
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d9f9e8e2732c60800000000000000
+      internalID: 7792198124964534156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_144
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edcc4dcc460143f0800000000000000
+      internalID: -918445922075226647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_145
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 7
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af395a1d38b0050800000000000000
+      internalID: 5767848684227394130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_146
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be21a6477a3ce7c80800000000000000
+      internalID: -8322999937354034453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_147
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c6c124921c67b30800000000000000
+      internalID: 4284824478436584507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_148
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb8d654d77815640800000000000000
+      internalID: 5066980027873987511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_149
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 7
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e44e1a2932a0350800000000000000
+      internalID: 5983634167603416724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_150
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc36cd30c0f9ee0800000000000000
+      internalID: -1252268960663745269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_151
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 7
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bdb23604bceee40800000000000000
+      internalID: 5687706856817679204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_152
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e228ccf7bdfc44e0800000000000000
+      internalID: -1995941568170155293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_153
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 7
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a63b0f478f8ceb40800000000000000
+      internalID: 5470905458657801893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_154
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 7
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5e670c8fd4d47c0800000000000000
+      internalID: -4085523556178926152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_155
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca381a71e86caa60800000000000000
+      internalID: 7686633981639932616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_156
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 7
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ac922d872fdac0800000000000000
+      internalID: -3828297671117070011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_157
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b7480ead1edb200800000000000000
+      internalID: 197562288860068723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_158
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee91b6adfc89da580800000000000000
+      internalID: -8814220877204088338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_159
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 7
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11a24ccc5bcb5d40800000000000000
+      internalID: 5574272563225469214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_160
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba1372773afa3970800000000000000
+      internalID: 8735569543288789683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_161
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 7
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a14d910778cef290800000000000000
+      internalID: -7854620286633819739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_162
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375379d8726964f20800000000000000
+      internalID: 3406575264775746931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emo03_Tip_163
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe285fcac1475240800000000000000
+      internalID: 4780361868794932987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emo03_Tip_0: 8883267030202357282
+      Emo03_Tip_1: 2484215437583277136
+      Emo03_Tip_10: -1784867448522588107
+      Emo03_Tip_100: -4478801886916975958
+      Emo03_Tip_101: -5645481095667709163
+      Emo03_Tip_102: 2616540552671930364
+      Emo03_Tip_103: -2047685186832084186
+      Emo03_Tip_104: 6438341050907159315
+      Emo03_Tip_105: 4463211423321132620
+      Emo03_Tip_106: -6350317109965308777
+      Emo03_Tip_107: -5033287064967684359
+      Emo03_Tip_108: 1405528738252169575
+      Emo03_Tip_109: -6096133776029089878
+      Emo03_Tip_11: 5787120749060781993
+      Emo03_Tip_110: 7881726361174506685
+      Emo03_Tip_111: -5447175529967527904
+      Emo03_Tip_112: -4835912656142326938
+      Emo03_Tip_113: 7650099412509521401
+      Emo03_Tip_114: 8549133602595460443
+      Emo03_Tip_115: 7581904446333464563
+      Emo03_Tip_116: -8413404837159283804
+      Emo03_Tip_117: -3753735096653801860
+      Emo03_Tip_118: 2740965203025201491
+      Emo03_Tip_119: 3257160438757577465
+      Emo03_Tip_12: 8723750749796765674
+      Emo03_Tip_120: 543497440592563034
+      Emo03_Tip_121: -5526341891861966916
+      Emo03_Tip_122: -2899055041781096690
+      Emo03_Tip_123: -4099281502214650235
+      Emo03_Tip_124: -683462426815344644
+      Emo03_Tip_125: -2962516195627779031
+      Emo03_Tip_126: -8026337069344576687
+      Emo03_Tip_127: -4444093569807122835
+      Emo03_Tip_128: -4816835837612245396
+      Emo03_Tip_129: 3445267187234974046
+      Emo03_Tip_13: 362208032051471363
+      Emo03_Tip_130: -7168788197019713003
+      Emo03_Tip_131: 6585123460751032377
+      Emo03_Tip_132: -4462123653162992634
+      Emo03_Tip_133: -4861515394787054171
+      Emo03_Tip_134: 4974475366159253952
+      Emo03_Tip_135: -1482983105731490794
+      Emo03_Tip_136: -2116283185462733737
+      Emo03_Tip_137: 246729730834174264
+      Emo03_Tip_138: -8810323671712703800
+      Emo03_Tip_139: 4592791651178895462
+      Emo03_Tip_14: -6270059306174911411
+      Emo03_Tip_140: 325397166968392389
+      Emo03_Tip_141: 5167057817327501407
+      Emo03_Tip_142: -634764339489303003
+      Emo03_Tip_143: 7792198124964534156
+      Emo03_Tip_144: -918445922075226647
+      Emo03_Tip_145: 5767848684227394130
+      Emo03_Tip_146: -8322999937354034453
+      Emo03_Tip_147: 4284824478436584507
+      Emo03_Tip_148: 5066980027873987511
+      Emo03_Tip_149: 5983634167603416724
+      Emo03_Tip_15: 7428302468872318455
+      Emo03_Tip_150: -1252268960663745269
+      Emo03_Tip_151: 5687706856817679204
+      Emo03_Tip_152: -1995941568170155293
+      Emo03_Tip_153: 5470905458657801893
+      Emo03_Tip_154: -4085523556178926152
+      Emo03_Tip_155: 7686633981639932616
+      Emo03_Tip_156: -3828297671117070011
+      Emo03_Tip_157: 197562288860068723
+      Emo03_Tip_158: -8814220877204088338
+      Emo03_Tip_159: 5574272563225469214
+      Emo03_Tip_16: -5674700524333150356
+      Emo03_Tip_160: 8735569543288789683
+      Emo03_Tip_161: -7854620286633819739
+      Emo03_Tip_162: 3406575264775746931
+      Emo03_Tip_163: 4780361868794932987
+      Emo03_Tip_17: -3091802239103833484
+      Emo03_Tip_18: -3693828477002027510
+      Emo03_Tip_19: 6113362100580786814
+      Emo03_Tip_2: -4229047736138718580
+      Emo03_Tip_20: -942375220419673229
+      Emo03_Tip_21: -2569722137735829810
+      Emo03_Tip_22: 327793584958024013
+      Emo03_Tip_23: -3935743552323993770
+      Emo03_Tip_24: 2490771506144211154
+      Emo03_Tip_25: 2638505909018633167
+      Emo03_Tip_26: 3099671531099006070
+      Emo03_Tip_27: -7026046032308390038
+      Emo03_Tip_28: 4482725162664385245
+      Emo03_Tip_29: -7984883104624210930
+      Emo03_Tip_3: 1280587379302143368
+      Emo03_Tip_30: 9037054560966981368
+      Emo03_Tip_31: -9180911846482082170
+      Emo03_Tip_32: 7316106301260743897
+      Emo03_Tip_33: -3183268852447808580
+      Emo03_Tip_34: 1420763367011722498
+      Emo03_Tip_35: 463664360340705594
+      Emo03_Tip_36: 5079865814247094322
+      Emo03_Tip_37: 3529246384895713132
+      Emo03_Tip_38: -3594900039646186134
+      Emo03_Tip_39: -7035251226805256366
+      Emo03_Tip_4: -6129225099609962965
+      Emo03_Tip_40: 4099860218408242008
+      Emo03_Tip_41: 1647444802403958874
+      Emo03_Tip_42: -8586856552566115679
+      Emo03_Tip_43: -4682256500924786551
+      Emo03_Tip_44: -5923214853516065522
+      Emo03_Tip_45: -960785964797331761
+      Emo03_Tip_46: -1054510135943903176
+      Emo03_Tip_47: -441788395600574088
+      Emo03_Tip_48: -4710569485875427359
+      Emo03_Tip_49: 3097379473839548318
+      Emo03_Tip_5: 6337185084516358537
+      Emo03_Tip_50: 6142062225720435724
+      Emo03_Tip_51: 2749439266998487277
+      Emo03_Tip_52: -1391880806009818629
+      Emo03_Tip_53: -3672444368772181555
+      Emo03_Tip_54: -2416809640214297277
+      Emo03_Tip_55: -1951892426587174126
+      Emo03_Tip_56: 1529607985211624589
+      Emo03_Tip_57: 3010651105184603111
+      Emo03_Tip_58: -5061115785121879184
+      Emo03_Tip_59: 1076882763994039652
+      Emo03_Tip_6: -6132719090387678522
+      Emo03_Tip_60: -5478467001022019939
+      Emo03_Tip_61: -5166483035784443080
+      Emo03_Tip_62: -1762283192491439068
+      Emo03_Tip_63: -1031297726883049467
+      Emo03_Tip_64: 1348578117277939475
+      Emo03_Tip_65: 296595101979171906
+      Emo03_Tip_66: 9210975193642293858
+      Emo03_Tip_67: 3954193715476288502
+      Emo03_Tip_68: 2385341218291589552
+      Emo03_Tip_69: -947339966138653227
+      Emo03_Tip_7: -3845968839766475367
+      Emo03_Tip_70: 5400486578127563653
+      Emo03_Tip_71: 2851069064835123722
+      Emo03_Tip_72: 5995590494164369037
+      Emo03_Tip_73: 6491465295264975283
+      Emo03_Tip_74: 4366403650198722079
+      Emo03_Tip_75: 8809648063412173440
+      Emo03_Tip_76: 4153036040719566024
+      Emo03_Tip_77: 3118084188564829208
+      Emo03_Tip_78: -4822839023084180120
+      Emo03_Tip_79: -684721971113856606
+      Emo03_Tip_8: 8523997475766966108
+      Emo03_Tip_80: 4137874445464217487
+      Emo03_Tip_81: 2948012395376103888
+      Emo03_Tip_82: -4445491960195748428
+      Emo03_Tip_83: -3023349959622804365
+      Emo03_Tip_84: 5400982859651665562
+      Emo03_Tip_85: -7389279622315401991
+      Emo03_Tip_86: -5321516651252927890
+      Emo03_Tip_87: -7858014785255831045
+      Emo03_Tip_88: 5178845429773990252
+      Emo03_Tip_89: 1780008131356268242
+      Emo03_Tip_9: -4010023708927852436
+      Emo03_Tip_90: 5364406543955736234
+      Emo03_Tip_91: 3206682078453701669
+      Emo03_Tip_92: 4860391759145102302
+      Emo03_Tip_93: -2505839653398083802
+      Emo03_Tip_94: 5002318054892245913
+      Emo03_Tip_95: 2443035891367544550
+      Emo03_Tip_96: -7849775292264451415
+      Emo03_Tip_97: -298313815180107470
+      Emo03_Tip_98: -7636905564230584977
+      Emo03_Tip_99: 8024020895207313133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

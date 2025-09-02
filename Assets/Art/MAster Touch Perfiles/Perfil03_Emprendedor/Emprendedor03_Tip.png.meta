@@ -1,0 +1,4901 @@
+fileFormatVersion: 2
+guid: b59c97884085e9c458ffdf1a5b4b35ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5461874405812385829
+    second: Emprendedor03_Tip_0
+  - first:
+      213: 4990822304850527785
+    second: Emprendedor03_Tip_1
+  - first:
+      213: 3023200368502022583
+    second: Emprendedor03_Tip_2
+  - first:
+      213: -1034690852435309913
+    second: Emprendedor03_Tip_3
+  - first:
+      213: -2705972979668494824
+    second: Emprendedor03_Tip_4
+  - first:
+      213: -6977303319853482364
+    second: Emprendedor03_Tip_5
+  - first:
+      213: -7560847672611327883
+    second: Emprendedor03_Tip_6
+  - first:
+      213: 3436340975626543206
+    second: Emprendedor03_Tip_7
+  - first:
+      213: 5752549573650891497
+    second: Emprendedor03_Tip_8
+  - first:
+      213: -1706935887621218402
+    second: Emprendedor03_Tip_9
+  - first:
+      213: -2204252181463040524
+    second: Emprendedor03_Tip_10
+  - first:
+      213: -1226338323432256218
+    second: Emprendedor03_Tip_11
+  - first:
+      213: 6431648187997866196
+    second: Emprendedor03_Tip_12
+  - first:
+      213: 797962995996721448
+    second: Emprendedor03_Tip_13
+  - first:
+      213: 634718168079476835
+    second: Emprendedor03_Tip_14
+  - first:
+      213: -6716501202669767843
+    second: Emprendedor03_Tip_15
+  - first:
+      213: -4464710012615741097
+    second: Emprendedor03_Tip_16
+  - first:
+      213: -3266308186973855211
+    second: Emprendedor03_Tip_17
+  - first:
+      213: -4661037377141858143
+    second: Emprendedor03_Tip_18
+  - first:
+      213: 8416178607555827696
+    second: Emprendedor03_Tip_19
+  - first:
+      213: 4559685524033430117
+    second: Emprendedor03_Tip_20
+  - first:
+      213: -2195462872767934295
+    second: Emprendedor03_Tip_21
+  - first:
+      213: 1797473757168877472
+    second: Emprendedor03_Tip_22
+  - first:
+      213: 1311339575233424823
+    second: Emprendedor03_Tip_23
+  - first:
+      213: -221548041726928599
+    second: Emprendedor03_Tip_24
+  - first:
+      213: 8102984537639196694
+    second: Emprendedor03_Tip_25
+  - first:
+      213: 299058680504942819
+    second: Emprendedor03_Tip_26
+  - first:
+      213: 857052073642160964
+    second: Emprendedor03_Tip_27
+  - first:
+      213: 1447306757959187043
+    second: Emprendedor03_Tip_28
+  - first:
+      213: -6926673179294520000
+    second: Emprendedor03_Tip_29
+  - first:
+      213: 7312409660787001929
+    second: Emprendedor03_Tip_30
+  - first:
+      213: 7653002784356424780
+    second: Emprendedor03_Tip_31
+  - first:
+      213: 715714786623475273
+    second: Emprendedor03_Tip_32
+  - first:
+      213: 5056715061048209405
+    second: Emprendedor03_Tip_33
+  - first:
+      213: -2575016035700511513
+    second: Emprendedor03_Tip_34
+  - first:
+      213: -4460171532886461800
+    second: Emprendedor03_Tip_35
+  - first:
+      213: -2733502495338333589
+    second: Emprendedor03_Tip_36
+  - first:
+      213: 3928328802465004197
+    second: Emprendedor03_Tip_37
+  - first:
+      213: 5539584310406036290
+    second: Emprendedor03_Tip_38
+  - first:
+      213: 5468183815531370857
+    second: Emprendedor03_Tip_39
+  - first:
+      213: -554066432130505790
+    second: Emprendedor03_Tip_40
+  - first:
+      213: 5228597673160343265
+    second: Emprendedor03_Tip_41
+  - first:
+      213: 5242215857241650389
+    second: Emprendedor03_Tip_42
+  - first:
+      213: -6259417307767827709
+    second: Emprendedor03_Tip_43
+  - first:
+      213: -8850264450606869133
+    second: Emprendedor03_Tip_44
+  - first:
+      213: 1801270675216819
+    second: Emprendedor03_Tip_45
+  - first:
+      213: 7273157774894732973
+    second: Emprendedor03_Tip_46
+  - first:
+      213: -1503595294237262973
+    second: Emprendedor03_Tip_47
+  - first:
+      213: -8471449161812072456
+    second: Emprendedor03_Tip_48
+  - first:
+      213: -8395377065851506522
+    second: Emprendedor03_Tip_49
+  - first:
+      213: -6243395741035617775
+    second: Emprendedor03_Tip_50
+  - first:
+      213: -5930964267253264027
+    second: Emprendedor03_Tip_51
+  - first:
+      213: 6583250434610616886
+    second: Emprendedor03_Tip_52
+  - first:
+      213: 3862927634070108804
+    second: Emprendedor03_Tip_53
+  - first:
+      213: -8019895978838142221
+    second: Emprendedor03_Tip_54
+  - first:
+      213: -305542637247467334
+    second: Emprendedor03_Tip_55
+  - first:
+      213: 91834356296231307
+    second: Emprendedor03_Tip_56
+  - first:
+      213: 915974019033358010
+    second: Emprendedor03_Tip_57
+  - first:
+      213: 3215293161411995455
+    second: Emprendedor03_Tip_58
+  - first:
+      213: -3664614956259776301
+    second: Emprendedor03_Tip_59
+  - first:
+      213: -2170098984780927321
+    second: Emprendedor03_Tip_60
+  - first:
+      213: -1512431685220220960
+    second: Emprendedor03_Tip_61
+  - first:
+      213: -599097915795063287
+    second: Emprendedor03_Tip_62
+  - first:
+      213: -1867291995775032810
+    second: Emprendedor03_Tip_63
+  - first:
+      213: -1380092876059044412
+    second: Emprendedor03_Tip_64
+  - first:
+      213: 2950938783013483383
+    second: Emprendedor03_Tip_65
+  - first:
+      213: -4166561831889105749
+    second: Emprendedor03_Tip_66
+  - first:
+      213: 6145842037184719550
+    second: Emprendedor03_Tip_67
+  - first:
+      213: 2499651362689392243
+    second: Emprendedor03_Tip_68
+  - first:
+      213: -7102252743361607340
+    second: Emprendedor03_Tip_69
+  - first:
+      213: -2852815944637491125
+    second: Emprendedor03_Tip_70
+  - first:
+      213: -5038428202468022891
+    second: Emprendedor03_Tip_71
+  - first:
+      213: -9074132962630750249
+    second: Emprendedor03_Tip_72
+  - first:
+      213: -8134325878289702998
+    second: Emprendedor03_Tip_73
+  - first:
+      213: -4946531098224731663
+    second: Emprendedor03_Tip_74
+  - first:
+      213: 6979454844680251781
+    second: Emprendedor03_Tip_75
+  - first:
+      213: -4886774237673721351
+    second: Emprendedor03_Tip_76
+  - first:
+      213: -5731382790490071466
+    second: Emprendedor03_Tip_77
+  - first:
+      213: 7854490175137831352
+    second: Emprendedor03_Tip_78
+  - first:
+      213: -502512593668364221
+    second: Emprendedor03_Tip_79
+  - first:
+      213: -2297003880857330323
+    second: Emprendedor03_Tip_80
+  - first:
+      213: 3760360285043077087
+    second: Emprendedor03_Tip_81
+  - first:
+      213: -4741604584403115878
+    second: Emprendedor03_Tip_82
+  - first:
+      213: -6501801721923527623
+    second: Emprendedor03_Tip_83
+  - first:
+      213: -3376724513100542341
+    second: Emprendedor03_Tip_84
+  - first:
+      213: -4433808567193117758
+    second: Emprendedor03_Tip_85
+  - first:
+      213: 3582820014610643756
+    second: Emprendedor03_Tip_86
+  - first:
+      213: -6416708935446589315
+    second: Emprendedor03_Tip_87
+  - first:
+      213: -1569135285197439611
+    second: Emprendedor03_Tip_88
+  - first:
+      213: 6275499835585304745
+    second: Emprendedor03_Tip_89
+  - first:
+      213: 8745579067270141155
+    second: Emprendedor03_Tip_90
+  - first:
+      213: -5768487712506945644
+    second: Emprendedor03_Tip_91
+  - first:
+      213: -2165726567528822566
+    second: Emprendedor03_Tip_92
+  - first:
+      213: 3597992283019734792
+    second: Emprendedor03_Tip_93
+  - first:
+      213: -56432685638619249
+    second: Emprendedor03_Tip_94
+  - first:
+      213: -2385794003823666469
+    second: Emprendedor03_Tip_95
+  - first:
+      213: -5970304753545172950
+    second: Emprendedor03_Tip_96
+  - first:
+      213: 9069648866362410360
+    second: Emprendedor03_Tip_97
+  - first:
+      213: 3678059214405905909
+    second: Emprendedor03_Tip_98
+  - first:
+      213: -3552188332206579865
+    second: Emprendedor03_Tip_99
+  - first:
+      213: 3345355702065258302
+    second: Emprendedor03_Tip_100
+  - first:
+      213: 4585785644375754918
+    second: Emprendedor03_Tip_101
+  - first:
+      213: -5174772415329127749
+    second: Emprendedor03_Tip_102
+  - first:
+      213: 7476750142850684713
+    second: Emprendedor03_Tip_103
+  - first:
+      213: 3841455793811274510
+    second: Emprendedor03_Tip_104
+  - first:
+      213: -1194203235157271250
+    second: Emprendedor03_Tip_105
+  - first:
+      213: 2414748074994512649
+    second: Emprendedor03_Tip_106
+  - first:
+      213: 8821729483105985691
+    second: Emprendedor03_Tip_107
+  - first:
+      213: -4438999092467931019
+    second: Emprendedor03_Tip_108
+  - first:
+      213: 9135171025973718532
+    second: Emprendedor03_Tip_109
+  - first:
+      213: 9156564881825114060
+    second: Emprendedor03_Tip_110
+  - first:
+      213: 287236355280142281
+    second: Emprendedor03_Tip_111
+  - first:
+      213: -5336326831346810485
+    second: Emprendedor03_Tip_112
+  - first:
+      213: 4005720594360172797
+    second: Emprendedor03_Tip_113
+  - first:
+      213: 6781807807919237141
+    second: Emprendedor03_Tip_114
+  - first:
+      213: 8613204293376159917
+    second: Emprendedor03_Tip_115
+  - first:
+      213: 7998526384805618146
+    second: Emprendedor03_Tip_116
+  - first:
+      213: 8963606177811744986
+    second: Emprendedor03_Tip_117
+  - first:
+      213: -366263910567572749
+    second: Emprendedor03_Tip_118
+  - first:
+      213: 8348808859314249976
+    second: Emprendedor03_Tip_119
+  - first:
+      213: 6268992749331047250
+    second: Emprendedor03_Tip_120
+  - first:
+      213: -939687587486002969
+    second: Emprendedor03_Tip_121
+  - first:
+      213: -7630972401632404323
+    second: Emprendedor03_Tip_122
+  - first:
+      213: -3921115982579243915
+    second: Emprendedor03_Tip_123
+  - first:
+      213: -3033073862291989527
+    second: Emprendedor03_Tip_124
+  - first:
+      213: -8920892265041836744
+    second: Emprendedor03_Tip_125
+  - first:
+      213: -5760719305500514003
+    second: Emprendedor03_Tip_126
+  - first:
+      213: 4501140618984893073
+    second: Emprendedor03_Tip_127
+  - first:
+      213: -1558684579869582512
+    second: Emprendedor03_Tip_128
+  - first:
+      213: -2347471182864842436
+    second: Emprendedor03_Tip_129
+  - first:
+      213: -2366898671898696959
+    second: Emprendedor03_Tip_130
+  - first:
+      213: 4580308926164089748
+    second: Emprendedor03_Tip_131
+  - first:
+      213: 5590573585093681856
+    second: Emprendedor03_Tip_132
+  - first:
+      213: -7457803356802537531
+    second: Emprendedor03_Tip_133
+  - first:
+      213: -121156490521988133
+    second: Emprendedor03_Tip_134
+  - first:
+      213: -7890841359996649945
+    second: Emprendedor03_Tip_135
+  - first:
+      213: -329524332494547318
+    second: Emprendedor03_Tip_136
+  - first:
+      213: 3217047688301046171
+    second: Emprendedor03_Tip_137
+  - first:
+      213: 6203190241021995109
+    second: Emprendedor03_Tip_138
+  - first:
+      213: -7618309005048986026
+    second: Emprendedor03_Tip_139
+  - first:
+      213: 8909725989259457837
+    second: Emprendedor03_Tip_140
+  - first:
+      213: 7141368282621554691
+    second: Emprendedor03_Tip_141
+  - first:
+      213: -656053869696900148
+    second: Emprendedor03_Tip_142
+  - first:
+      213: 1970949732728382706
+    second: Emprendedor03_Tip_143
+  - first:
+      213: -2572303774307387348
+    second: Emprendedor03_Tip_144
+  - first:
+      213: -8330510444667428431
+    second: Emprendedor03_Tip_145
+  - first:
+      213: 2157699913056070715
+    second: Emprendedor03_Tip_146
+  - first:
+      213: -3114892702763464162
+    second: Emprendedor03_Tip_147
+  - first:
+      213: 8959407877672834788
+    second: Emprendedor03_Tip_148
+  - first:
+      213: -1181208096735932863
+    second: Emprendedor03_Tip_149
+  - first:
+      213: -6249827543096858430
+    second: Emprendedor03_Tip_150
+  - first:
+      213: -4539280862223642224
+    second: Emprendedor03_Tip_151
+  - first:
+      213: -1223496083444606223
+    second: Emprendedor03_Tip_152
+  - first:
+      213: -5377549255873976113
+    second: Emprendedor03_Tip_153
+  - first:
+      213: 7009233156050949535
+    second: Emprendedor03_Tip_154
+  - first:
+      213: 1251673727892552841
+    second: Emprendedor03_Tip_155
+  - first:
+      213: 1035854872706833296
+    second: Emprendedor03_Tip_156
+  - first:
+      213: -6476292323336813497
+    second: Emprendedor03_Tip_157
+  - first:
+      213: -1533323972256908188
+    second: Emprendedor03_Tip_158
+  - first:
+      213: -6589426112759519102
+    second: Emprendedor03_Tip_159
+  - first:
+      213: 7930269730333105111
+    second: Emprendedor03_Tip_160
+  - first:
+      213: -7402274218798298603
+    second: Emprendedor03_Tip_161
+  - first:
+      213: 7352173505230711766
+    second: Emprendedor03_Tip_162
+  - first:
+      213: 1360968863627039168
+    second: Emprendedor03_Tip_163
+  - first:
+      213: 7050550928040761094
+    second: Emprendedor03_Tip_164
+  - first:
+      213: -9193821055751080074
+    second: Emprendedor03_Tip_165
+  - first:
+      213: -4193211454127195433
+    second: Emprendedor03_Tip_166
+  - first:
+      213: 1463347048233971338
+    second: Emprendedor03_Tip_167
+  - first:
+      213: -8620804404832342609
+    second: Emprendedor03_Tip_168
+  - first:
+      213: -636307944557354381
+    second: Emprendedor03_Tip_169
+  - first:
+      213: -4744230083381386747
+    second: Emprendedor03_Tip_170
+  - first:
+      213: -8449073463233524382
+    second: Emprendedor03_Tip_171
+  - first:
+      213: 7899496378101829175
+    second: Emprendedor03_Tip_172
+  - first:
+      213: 5298782151857666690
+    second: Emprendedor03_Tip_173
+  - first:
+      213: 5646424694788667513
+    second: Emprendedor03_Tip_174
+  - first:
+      213: -8645678653646800939
+    second: Emprendedor03_Tip_175
+  - first:
+      213: -3610466576921745511
+    second: Emprendedor03_Tip_176
+  - first:
+      213: 4368557994751525325
+    second: Emprendedor03_Tip_177
+  - first:
+      213: 6324377928770367120
+    second: Emprendedor03_Tip_178
+  - first:
+      213: 6296052212214875343
+    second: Emprendedor03_Tip_179
+  - first:
+      213: 2271640500233498701
+    second: Emprendedor03_Tip_180
+  - first:
+      213: -3248695367945186833
+    second: Emprendedor03_Tip_181
+  - first:
+      213: 923816532357325080
+    second: Emprendedor03_Tip_182
+  - first:
+      213: -3840414110226831213
+    second: Emprendedor03_Tip_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 413
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd741c98a268334b0800000000000000
+      internalID: -5461874405812385829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 453
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92646b99176f24540800000000000000
+      internalID: 4990822304850527785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 414
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1a461b7b094f920800000000000000
+      internalID: 3023200368502022583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 453
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa4f38d62a04a1f0800000000000000
+      internalID: -1034690852435309913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 453
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816dd0f69e3727ad0800000000000000
+      internalID: -2705972979668494824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 414
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ebaf11993ab2f90800000000000000
+      internalID: -6977303319853482364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 400
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b921d919721790800000000000000
+      internalID: -7560847672611327883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 414
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e65b29e550bf20800000000000000
+      internalID: 3436340975626543206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 414
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24942eb5925df40800000000000000
+      internalID: 5752549573650891497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 413
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f98fb9adebf48e0800000000000000
+      internalID: -1706935887621218402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 414
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdf380d15ce861e0800000000000000
+      internalID: -2204252181463040524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 413
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d4f51dacb2bfee0800000000000000
+      internalID: -1226338323432256218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_12
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 414
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c5ed53fdc14950800000000000000
+      internalID: 6431648187997866196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 413
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8218a48fd1fe21b00800000000000000
+      internalID: 797962995996721448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 414
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3682ddc9fc8fec800800000000000000
+      internalID: 634718168079476835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 413
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d537261edb13ac2a0800000000000000
+      internalID: -6716501202669767843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 273
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b8e806e92a02c0800000000000000
+      internalID: -4464710012615741097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5122974720ebba2d0800000000000000
+      internalID: -3266308186973855211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 273
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a024a2633ba05fb0800000000000000
+      internalID: -4661037377141858143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 273
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f75b9d4ad54cc470800000000000000
+      internalID: 8416178607555827696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562e08b63d1474f30800000000000000
+      internalID: 4559685524033430117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0db1736262881e0800000000000000
+      internalID: -2195462872767934295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 264
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af3325dbd8e1f810800000000000000
+      internalID: 1797473757168877472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd23b95560d23210800000000000000
+      internalID: 1311339575233424823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 273
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929de28da37ececf0800000000000000
+      internalID: -221548041726928599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 298
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618977a6185937070800000000000000
+      internalID: 8102984537639196694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 273
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e08e721948762400800000000000000
+      internalID: 299058680504942819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 272
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443f373f15cd4eb00800000000000000
+      internalID: 857052073642160964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 273
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36afd2504ddd51410800000000000000
+      internalID: 1447306757959187043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 272
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dace841738fdf90800000000000000
+      internalID: -6926673179294520000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 298
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a085bf7d5ea7560800000000000000
+      internalID: 7312409660787001929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cd3aa2c7de43a60800000000000000
+      internalID: 7653002784356424780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 273
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ecf217ecabee900800000000000000
+      internalID: 715714786623475273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff65207e8f0d2640800000000000000
+      internalID: 5056715061048209405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 264
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ece22dfe84b34cd0800000000000000
+      internalID: -2575016035700511513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_35
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8923ef03f994a12c0800000000000000
+      internalID: -4460171532886461800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_36
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 272
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6af6b496f5a01ad0800000000000000
+      internalID: -2733502495338333589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_37
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 272
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aabcdf8b3a348630800000000000000
+      internalID: 3928328802465004197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_38
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 272
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b3411949e80ec40800000000000000
+      internalID: 5539584310406036290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96999436534e2eb40800000000000000
+      internalID: 5468183815531370857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 273
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a4eaf38f8f48f0800000000000000
+      internalID: -554066432130505790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 273
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eef726a1e5bf8840800000000000000
+      internalID: 5228597673160343265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4fec63c8710c840800000000000000
+      internalID: 5242215857241650389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30311955f151229a0800000000000000
+      internalID: -6259417307767827709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755f457f5b8d2580800000000000000
+      internalID: -8850264450606869133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 220
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b99db20f36660000800000000000000
+      internalID: 1801270675216819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da698ff16727fe460800000000000000
+      internalID: 7273157774894732973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 220
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf909db08222be0800000000000000
+      internalID: -1503595294237262973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f72969fedd5f6a80800000000000000
+      internalID: -8471449161812072456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 220
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0b57a0a01ad7b80800000000000000
+      internalID: -8395377065851506522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 219
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112a26707a00b59a0800000000000000
+      internalID: -6243395741035617775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56195da2c6bf0bda0800000000000000
+      internalID: -5930964267253264027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 211
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ad66604676c5b50800000000000000
+      internalID: 6583250434610616886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48af9cd6730eb9530800000000000000
+      internalID: 3862927634070108804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2d4c5391b93b090800000000000000
+      internalID: -8019895978838142221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_55
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0f02b179e72cbf0800000000000000
+      internalID: -305542637247467334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_56
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 219
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a6394cd2464100800000000000000
+      internalID: 91834356296231307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_57
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe58fb648136bc00800000000000000
+      internalID: 915974019033358010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_58
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 220
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3764be48140f9c20800000000000000
+      internalID: 3215293161411995455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_59
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d86d8dfc1ca42dc0800000000000000
+      internalID: -3664614956259776301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_60
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 219
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae62b4987242e1e0800000000000000
+      internalID: -2170098984780927321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_61
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef376f3563c20be0800000000000000
+      internalID: -1512431685220220960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_62
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 219
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ebb57ae939fa7f0800000000000000
+      internalID: -599097915795063287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_63
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 220
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61226ebb2db0616e0800000000000000
+      internalID: -1867291995775032810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_64
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 211
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5147d57dce8dce0800000000000000
+      internalID: -1380092876059044412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773317b3037d3f820800000000000000
+      internalID: 2950938783013483383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_66
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 220
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac8c8bd6166d26c0800000000000000
+      internalID: -4166561831889105749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_67
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 220
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaee0055ca6a4550800000000000000
+      internalID: 6145842037184719550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_68
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 219
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e1c6fabab80b220800000000000000
+      internalID: 2499651362689392243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_69
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 220
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45943ee52cabf6d90800000000000000
+      internalID: -7102252743361607340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_70
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 220
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48df426303c868d0800000000000000
+      internalID: -2852815944637491125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 219
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595659d9e38e31ab0800000000000000
+      internalID: -5038428202468022891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_72
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 212
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df2bb5b524321280800000000000000
+      internalID: -9074132962630750249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf564116b11d1f80800000000000000
+      internalID: -8134325878289702998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_74
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f954eb8c246a5bb0800000000000000
+      internalID: -4946531098224731663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ab07d3310cd060800000000000000
+      internalID: 6979454844680251781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 167
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f17de9d8b0be2cb0800000000000000
+      internalID: -4886774237673721351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e5d0dd7b90670b0800000000000000
+      internalID: -5731382790490071466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_78
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 166
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9d2ec0331c00d60800000000000000
+      internalID: 7854490175137831352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ac3f5577b609f0800000000000000
+      internalID: -502512593668364221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_80
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1ec1f3276f10e0800000000000000
+      internalID: -2297003880857330323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfaa7981cb7f2430800000000000000
+      internalID: 3760360285043077087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90e949a0cf623eb0800000000000000
+      internalID: -4741604584403115878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c99bc28c5f4c5a0800000000000000
+      internalID: -6501801721923527623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_84
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ec94c22f67321d0800000000000000
+      internalID: -3376724513100542341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_85
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 158
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbde567992f772c0800000000000000
+      internalID: -4433808567193117758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_86
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bf60912dbb8b130800000000000000
+      internalID: 3582820014610643756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_87
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 167
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7091ab683543f6a0800000000000000
+      internalID: -6416708935446589315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_88
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d764195cf493ae0800000000000000
+      internalID: -1569135285197439611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_89
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a89518f9dd071750800000000000000
+      internalID: 6275499835585304745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_90
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49abb53d98e5970800000000000000
+      internalID: 8745579067270141155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_91
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f51dcfcf632ffa0800000000000000
+      internalID: -5768487712506945644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_92
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad881dd492bc1f1e0800000000000000
+      internalID: -2165726567528822566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_93
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fecfd1be2aee130800000000000000
+      internalID: 3597992283019734792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_94
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 167
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fe9ca75c2873ff0800000000000000
+      internalID: -56432685638619249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda55d67ef4f3eed0800000000000000
+      internalID: -2385794003823666469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_96
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a282d1c6577352da0800000000000000
+      internalID: -5970304753545172950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_97
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8754e05479ddddd70800000000000000
+      internalID: 9069648866362410360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_98
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 167
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd24894e571b0330800000000000000
+      internalID: 3678059214405905909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_99
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f1a8b388714bec0800000000000000
+      internalID: -3552188332206579865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_100
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f5dec59471d6e20800000000000000
+      internalID: 3345355702065258302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_101
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 166
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a84a1d3fbbf3af30800000000000000
+      internalID: 4585785644375754918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_102
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 167
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb231d6c7e38f28b0800000000000000
+      internalID: -5174772415329127749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_103
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 166
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92757f234a0c2c760800000000000000
+      internalID: 7476750142850684713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_104
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bbc7a01b79f4530800000000000000
+      internalID: 3841455793811274510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_105
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d14da1c765d6fe0800000000000000
+      internalID: -1194203235157271250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_106
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 166
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9033b109498e28120800000000000000
+      internalID: 2414748074994512649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_107
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 167
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b946f11b9341d6a70800000000000000
+      internalID: 8821729483105985691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_108
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578ea2f18d18562c0800000000000000
+      internalID: -4438999092467931019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eaa9dd5a5a6ce70800000000000000
+      internalID: 9135171025973718532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_110
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 167
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a0081f37a21f70800000000000000
+      internalID: 9156564881825114060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_111
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 167
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cffc0b71f77cf300800000000000000
+      internalID: 287236355280142281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81003c150f81f5b0800000000000000
+      internalID: -5336326831346810485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_113
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df00e4848ad279730800000000000000
+      internalID: 4005720594360172797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5182ffd0542dd1e50800000000000000
+      internalID: 6781807807919237141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_115
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da03e8c8baf388770800000000000000
+      internalID: 8613204293376159917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 138
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1ade47e59700f60800000000000000
+      internalID: 7998526384805618146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_117
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 114
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad847f6d350256c70800000000000000
+      internalID: 8963606177811744986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa0394f9e4caeaf0800000000000000
+      internalID: -366263910567572749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 113
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f06f057c6decd370800000000000000
+      internalID: 8348808859314249976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_120
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2536063e0bfeff650800000000000000
+      internalID: 6268992749331047250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_121
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 113
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e09d0c2e1f85f2f0800000000000000
+      internalID: -939687587486002969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_122
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 105
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c14e50807591690800000000000000
+      internalID: -7630972401632404323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_123
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574e14fe9c56599c0800000000000000
+      internalID: -3921115982579243915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_124
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 114
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5094646b58e5d0800000000000000
+      internalID: -3033073862291989527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_125
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835c6a6ffbf923480800000000000000
+      internalID: -8920892265041836744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_126
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 105
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2928e03050dd00b0800000000000000
+      internalID: -5760719305500514003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_127
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a2dae7b83477e30800000000000000
+      internalID: 4501140618984893073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_128
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9ef302a07e5ae0800000000000000
+      internalID: -1558684579869582512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_129
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 105
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3100e8856b1c6fd0800000000000000
+      internalID: -2347471182864842436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_130
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 114
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1036222c236172fd0800000000000000
+      internalID: -2366898671898696959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_131
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bbf8963b6809f30800000000000000
+      internalID: 4580308926164089748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_132
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e0363e05b59d40800000000000000
+      internalID: 5590573585093681856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_133
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7a1113c5f808890800000000000000
+      internalID: -7457803356802537531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_134
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3343450d0915ef0800000000000000
+      internalID: -121156490521988133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 113
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e707e27991e7290800000000000000
+      internalID: -7890841359996649945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_136
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8690d09d5b4d6bf0800000000000000
+      internalID: -329524332494547318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_137
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 114
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99ecaee3df35ac20800000000000000
+      internalID: 3217047688301046171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_138
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568294688a8261650800000000000000
+      internalID: 6203190241021995109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_139
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 114
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65645ecc254564690800000000000000
+      internalID: -7618309005048986026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_140
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 108
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2530ebd494b5ab70800000000000000
+      internalID: 8909725989259457837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_141
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30036efcd9c3b1360800000000000000
+      internalID: 7141368282621554691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_142
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 60
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3223f3b7a35e6f0800000000000000
+      internalID: -656053869696900148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_143
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f42d61e6583a5b10800000000000000
+      internalID: 1970949732728382706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_144
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 61
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f20e88575d4cd0800000000000000
+      internalID: -2572303774307387348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_145
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 60
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1aae333e4146c80800000000000000
+      internalID: -8330510444667428431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_146
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c299193a0b1fd10800000000000000
+      internalID: 2157699913056070715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_147
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 61
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ac35a179da5c4d0800000000000000
+      internalID: -3114892702763464162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_148
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 60
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6968aeef5365c70800000000000000
+      internalID: 8959407877672834788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_149
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e4d3c8e718b9fe0800000000000000
+      internalID: -1181208096735932863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_150
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 61
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8624a66f62449a0800000000000000
+      internalID: -6249827543096858430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_151
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 60
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0915e6f1b1c3101c0800000000000000
+      internalID: -4539280862223642224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fad3326bc4450fe0800000000000000
+      internalID: -1223496083444606223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_153
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc82779717b1f55b0800000000000000
+      internalID: -5377549255873976113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_154
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 60
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f959e4e3b6cc54160800000000000000
+      internalID: 7009233156050949535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_155
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c79b5bf96de5110800000000000000
+      internalID: 1251673727892552841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_156
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 61
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b5c8eb488106e00800000000000000
+      internalID: 1035854872706833296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_157
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7448bedd1769f16a0800000000000000
+      internalID: -6476292323336813497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_158
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 60
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c390c98f988bae0800000000000000
+      internalID: -1533323972256908188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_159
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288294bdcd7ad84a0800000000000000
+      internalID: -6589426112759519102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_160
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 61
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db9989ad4afd0e60800000000000000
+      internalID: 7930269730333105111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_161
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 60
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ace7221d6d54990800000000000000
+      internalID: -7402274218798298603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_162
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba05a79da280660800000000000000
+      internalID: 7352173505230711766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_163
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 61
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c15bd288f123e210800000000000000
+      internalID: 1360968863627039168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_164
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 61
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079ba0b6b698d160800000000000000
+      internalID: 7050550928040761094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_165
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 61
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6773373f57cf86080800000000000000
+      internalID: -9193821055751080074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_166
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 53
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da36a82668bec5c0800000000000000
+      internalID: -4193211454127195433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_167
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e2a11236ade4410800000000000000
+      internalID: 1463347048233971338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_168
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad68db9110cc5880800000000000000
+      internalID: -8620804404832342609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_169
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37266e4bb416b27f0800000000000000
+      internalID: -636307944557354381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_170
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 8
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502a45b00eb192eb0800000000000000
+      internalID: -4744230083381386747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_171
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d49c6437cdeba80800000000000000
+      internalID: -8449073463233524382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_172
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8e314a16a0ad60800000000000000
+      internalID: 7899496378101829175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_173
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af7affa4e098940800000000000000
+      internalID: 5298782151857666690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_174
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9783fd708512c5e40800000000000000
+      internalID: 5646424694788667513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_175
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 8
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7743f3211640880800000000000000
+      internalID: -8645678653646800939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_176
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997a82107cb05edc0800000000000000
+      internalID: -3610466576921745511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_177
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc18bd1c95c30ac30800000000000000
+      internalID: 4368557994751525325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_178
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 8
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eadadd734b4c750800000000000000
+      internalID: 6324377928770367120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_179
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4416c0122106750800000000000000
+      internalID: 6296052212214875343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_180
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 7
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40fec1dffc768f10800000000000000
+      internalID: 2271640500233498701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_181
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 8
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe19b2276c05ae2d0800000000000000
+      internalID: -3248695367945186833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_182
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 8
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811aac8dd3e02dc00800000000000000
+      internalID: 923816532357325080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor03_Tip_183
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3982881d6bb14bac0800000000000000
+      internalID: -3840414110226831213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emprendedor03_Tip_0: -5461874405812385829
+      Emprendedor03_Tip_1: 4990822304850527785
+      Emprendedor03_Tip_10: -2204252181463040524
+      Emprendedor03_Tip_100: 3345355702065258302
+      Emprendedor03_Tip_101: 4585785644375754918
+      Emprendedor03_Tip_102: -5174772415329127749
+      Emprendedor03_Tip_103: 7476750142850684713
+      Emprendedor03_Tip_104: 3841455793811274510
+      Emprendedor03_Tip_105: -1194203235157271250
+      Emprendedor03_Tip_106: 2414748074994512649
+      Emprendedor03_Tip_107: 8821729483105985691
+      Emprendedor03_Tip_108: -4438999092467931019
+      Emprendedor03_Tip_109: 9135171025973718532
+      Emprendedor03_Tip_11: -1226338323432256218
+      Emprendedor03_Tip_110: 9156564881825114060
+      Emprendedor03_Tip_111: 287236355280142281
+      Emprendedor03_Tip_112: -5336326831346810485
+      Emprendedor03_Tip_113: 4005720594360172797
+      Emprendedor03_Tip_114: 6781807807919237141
+      Emprendedor03_Tip_115: 8613204293376159917
+      Emprendedor03_Tip_116: 7998526384805618146
+      Emprendedor03_Tip_117: 8963606177811744986
+      Emprendedor03_Tip_118: -366263910567572749
+      Emprendedor03_Tip_119: 8348808859314249976
+      Emprendedor03_Tip_12: 6431648187997866196
+      Emprendedor03_Tip_120: 6268992749331047250
+      Emprendedor03_Tip_121: -939687587486002969
+      Emprendedor03_Tip_122: -7630972401632404323
+      Emprendedor03_Tip_123: -3921115982579243915
+      Emprendedor03_Tip_124: -3033073862291989527
+      Emprendedor03_Tip_125: -8920892265041836744
+      Emprendedor03_Tip_126: -5760719305500514003
+      Emprendedor03_Tip_127: 4501140618984893073
+      Emprendedor03_Tip_128: -1558684579869582512
+      Emprendedor03_Tip_129: -2347471182864842436
+      Emprendedor03_Tip_13: 797962995996721448
+      Emprendedor03_Tip_130: -2366898671898696959
+      Emprendedor03_Tip_131: 4580308926164089748
+      Emprendedor03_Tip_132: 5590573585093681856
+      Emprendedor03_Tip_133: -7457803356802537531
+      Emprendedor03_Tip_134: -121156490521988133
+      Emprendedor03_Tip_135: -7890841359996649945
+      Emprendedor03_Tip_136: -329524332494547318
+      Emprendedor03_Tip_137: 3217047688301046171
+      Emprendedor03_Tip_138: 6203190241021995109
+      Emprendedor03_Tip_139: -7618309005048986026
+      Emprendedor03_Tip_14: 634718168079476835
+      Emprendedor03_Tip_140: 8909725989259457837
+      Emprendedor03_Tip_141: 7141368282621554691
+      Emprendedor03_Tip_142: -656053869696900148
+      Emprendedor03_Tip_143: 1970949732728382706
+      Emprendedor03_Tip_144: -2572303774307387348
+      Emprendedor03_Tip_145: -8330510444667428431
+      Emprendedor03_Tip_146: 2157699913056070715
+      Emprendedor03_Tip_147: -3114892702763464162
+      Emprendedor03_Tip_148: 8959407877672834788
+      Emprendedor03_Tip_149: -1181208096735932863
+      Emprendedor03_Tip_15: -6716501202669767843
+      Emprendedor03_Tip_150: -6249827543096858430
+      Emprendedor03_Tip_151: -4539280862223642224
+      Emprendedor03_Tip_152: -1223496083444606223
+      Emprendedor03_Tip_153: -5377549255873976113
+      Emprendedor03_Tip_154: 7009233156050949535
+      Emprendedor03_Tip_155: 1251673727892552841
+      Emprendedor03_Tip_156: 1035854872706833296
+      Emprendedor03_Tip_157: -6476292323336813497
+      Emprendedor03_Tip_158: -1533323972256908188
+      Emprendedor03_Tip_159: -6589426112759519102
+      Emprendedor03_Tip_16: -4464710012615741097
+      Emprendedor03_Tip_160: 7930269730333105111
+      Emprendedor03_Tip_161: -7402274218798298603
+      Emprendedor03_Tip_162: 7352173505230711766
+      Emprendedor03_Tip_163: 1360968863627039168
+      Emprendedor03_Tip_164: 7050550928040761094
+      Emprendedor03_Tip_165: -9193821055751080074
+      Emprendedor03_Tip_166: -4193211454127195433
+      Emprendedor03_Tip_167: 1463347048233971338
+      Emprendedor03_Tip_168: -8620804404832342609
+      Emprendedor03_Tip_169: -636307944557354381
+      Emprendedor03_Tip_17: -3266308186973855211
+      Emprendedor03_Tip_170: -4744230083381386747
+      Emprendedor03_Tip_171: -8449073463233524382
+      Emprendedor03_Tip_172: 7899496378101829175
+      Emprendedor03_Tip_173: 5298782151857666690
+      Emprendedor03_Tip_174: 5646424694788667513
+      Emprendedor03_Tip_175: -8645678653646800939
+      Emprendedor03_Tip_176: -3610466576921745511
+      Emprendedor03_Tip_177: 4368557994751525325
+      Emprendedor03_Tip_178: 6324377928770367120
+      Emprendedor03_Tip_179: 6296052212214875343
+      Emprendedor03_Tip_18: -4661037377141858143
+      Emprendedor03_Tip_180: 2271640500233498701
+      Emprendedor03_Tip_181: -3248695367945186833
+      Emprendedor03_Tip_182: 923816532357325080
+      Emprendedor03_Tip_183: -3840414110226831213
+      Emprendedor03_Tip_19: 8416178607555827696
+      Emprendedor03_Tip_2: 3023200368502022583
+      Emprendedor03_Tip_20: 4559685524033430117
+      Emprendedor03_Tip_21: -2195462872767934295
+      Emprendedor03_Tip_22: 1797473757168877472
+      Emprendedor03_Tip_23: 1311339575233424823
+      Emprendedor03_Tip_24: -221548041726928599
+      Emprendedor03_Tip_25: 8102984537639196694
+      Emprendedor03_Tip_26: 299058680504942819
+      Emprendedor03_Tip_27: 857052073642160964
+      Emprendedor03_Tip_28: 1447306757959187043
+      Emprendedor03_Tip_29: -6926673179294520000
+      Emprendedor03_Tip_3: -1034690852435309913
+      Emprendedor03_Tip_30: 7312409660787001929
+      Emprendedor03_Tip_31: 7653002784356424780
+      Emprendedor03_Tip_32: 715714786623475273
+      Emprendedor03_Tip_33: 5056715061048209405
+      Emprendedor03_Tip_34: -2575016035700511513
+      Emprendedor03_Tip_35: -4460171532886461800
+      Emprendedor03_Tip_36: -2733502495338333589
+      Emprendedor03_Tip_37: 3928328802465004197
+      Emprendedor03_Tip_38: 5539584310406036290
+      Emprendedor03_Tip_39: 5468183815531370857
+      Emprendedor03_Tip_4: -2705972979668494824
+      Emprendedor03_Tip_40: -554066432130505790
+      Emprendedor03_Tip_41: 5228597673160343265
+      Emprendedor03_Tip_42: 5242215857241650389
+      Emprendedor03_Tip_43: -6259417307767827709
+      Emprendedor03_Tip_44: -8850264450606869133
+      Emprendedor03_Tip_45: 1801270675216819
+      Emprendedor03_Tip_46: 7273157774894732973
+      Emprendedor03_Tip_47: -1503595294237262973
+      Emprendedor03_Tip_48: -8471449161812072456
+      Emprendedor03_Tip_49: -8395377065851506522
+      Emprendedor03_Tip_5: -6977303319853482364
+      Emprendedor03_Tip_50: -6243395741035617775
+      Emprendedor03_Tip_51: -5930964267253264027
+      Emprendedor03_Tip_52: 6583250434610616886
+      Emprendedor03_Tip_53: 3862927634070108804
+      Emprendedor03_Tip_54: -8019895978838142221
+      Emprendedor03_Tip_55: -305542637247467334
+      Emprendedor03_Tip_56: 91834356296231307
+      Emprendedor03_Tip_57: 915974019033358010
+      Emprendedor03_Tip_58: 3215293161411995455
+      Emprendedor03_Tip_59: -3664614956259776301
+      Emprendedor03_Tip_6: -7560847672611327883
+      Emprendedor03_Tip_60: -2170098984780927321
+      Emprendedor03_Tip_61: -1512431685220220960
+      Emprendedor03_Tip_62: -599097915795063287
+      Emprendedor03_Tip_63: -1867291995775032810
+      Emprendedor03_Tip_64: -1380092876059044412
+      Emprendedor03_Tip_65: 2950938783013483383
+      Emprendedor03_Tip_66: -4166561831889105749
+      Emprendedor03_Tip_67: 6145842037184719550
+      Emprendedor03_Tip_68: 2499651362689392243
+      Emprendedor03_Tip_69: -7102252743361607340
+      Emprendedor03_Tip_7: 3436340975626543206
+      Emprendedor03_Tip_70: -2852815944637491125
+      Emprendedor03_Tip_71: -5038428202468022891
+      Emprendedor03_Tip_72: -9074132962630750249
+      Emprendedor03_Tip_73: -8134325878289702998
+      Emprendedor03_Tip_74: -4946531098224731663
+      Emprendedor03_Tip_75: 6979454844680251781
+      Emprendedor03_Tip_76: -4886774237673721351
+      Emprendedor03_Tip_77: -5731382790490071466
+      Emprendedor03_Tip_78: 7854490175137831352
+      Emprendedor03_Tip_79: -502512593668364221
+      Emprendedor03_Tip_8: 5752549573650891497
+      Emprendedor03_Tip_80: -2297003880857330323
+      Emprendedor03_Tip_81: 3760360285043077087
+      Emprendedor03_Tip_82: -4741604584403115878
+      Emprendedor03_Tip_83: -6501801721923527623
+      Emprendedor03_Tip_84: -3376724513100542341
+      Emprendedor03_Tip_85: -4433808567193117758
+      Emprendedor03_Tip_86: 3582820014610643756
+      Emprendedor03_Tip_87: -6416708935446589315
+      Emprendedor03_Tip_88: -1569135285197439611
+      Emprendedor03_Tip_89: 6275499835585304745
+      Emprendedor03_Tip_9: -1706935887621218402
+      Emprendedor03_Tip_90: 8745579067270141155
+      Emprendedor03_Tip_91: -5768487712506945644
+      Emprendedor03_Tip_92: -2165726567528822566
+      Emprendedor03_Tip_93: 3597992283019734792
+      Emprendedor03_Tip_94: -56432685638619249
+      Emprendedor03_Tip_95: -2385794003823666469
+      Emprendedor03_Tip_96: -5970304753545172950
+      Emprendedor03_Tip_97: 9069648866362410360
+      Emprendedor03_Tip_98: 3678059214405905909
+      Emprendedor03_Tip_99: -3552188332206579865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

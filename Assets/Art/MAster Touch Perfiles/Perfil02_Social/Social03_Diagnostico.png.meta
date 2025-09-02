@@ -1,0 +1,5083 @@
+fileFormatVersion: 2
+guid: 729dc844568633e499a8350fa3117325
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2619430764768490875
+    second: Social03_Diagnostico_0
+  - first:
+      213: 4068660267120241578
+    second: Social03_Diagnostico_1
+  - first:
+      213: -705458296800910612
+    second: Social03_Diagnostico_2
+  - first:
+      213: 4722704702673433525
+    second: Social03_Diagnostico_3
+  - first:
+      213: -6741391215880255428
+    second: Social03_Diagnostico_4
+  - first:
+      213: -5323893896194566920
+    second: Social03_Diagnostico_5
+  - first:
+      213: -5021224489410268660
+    second: Social03_Diagnostico_6
+  - first:
+      213: -8363716432093535255
+    second: Social03_Diagnostico_7
+  - first:
+      213: -2825885052971826584
+    second: Social03_Diagnostico_8
+  - first:
+      213: -266678763241266855
+    second: Social03_Diagnostico_9
+  - first:
+      213: -5749695535464504392
+    second: Social03_Diagnostico_10
+  - first:
+      213: -6352012975175503340
+    second: Social03_Diagnostico_11
+  - first:
+      213: -1725561600715001917
+    second: Social03_Diagnostico_12
+  - first:
+      213: -209971071789967313
+    second: Social03_Diagnostico_13
+  - first:
+      213: -1708098957094186653
+    second: Social03_Diagnostico_14
+  - first:
+      213: -6117916769685436160
+    second: Social03_Diagnostico_15
+  - first:
+      213: -9087118080777880241
+    second: Social03_Diagnostico_16
+  - first:
+      213: -6269203606782389411
+    second: Social03_Diagnostico_17
+  - first:
+      213: -5789385954421118316
+    second: Social03_Diagnostico_18
+  - first:
+      213: 4051054135053084073
+    second: Social03_Diagnostico_19
+  - first:
+      213: 1399275164911911264
+    second: Social03_Diagnostico_20
+  - first:
+      213: 2760814483567509236
+    second: Social03_Diagnostico_21
+  - first:
+      213: 5272827978786643157
+    second: Social03_Diagnostico_22
+  - first:
+      213: -1000614044630837504
+    second: Social03_Diagnostico_23
+  - first:
+      213: -4754314166239721836
+    second: Social03_Diagnostico_24
+  - first:
+      213: 3186781116026889497
+    second: Social03_Diagnostico_25
+  - first:
+      213: 4835830828746761978
+    second: Social03_Diagnostico_26
+  - first:
+      213: 985191382209792167
+    second: Social03_Diagnostico_27
+  - first:
+      213: -5682669296632220387
+    second: Social03_Diagnostico_28
+  - first:
+      213: 8885821536208969390
+    second: Social03_Diagnostico_29
+  - first:
+      213: -8685301743781225637
+    second: Social03_Diagnostico_30
+  - first:
+      213: 4984426341740692639
+    second: Social03_Diagnostico_31
+  - first:
+      213: 6934678760053230218
+    second: Social03_Diagnostico_32
+  - first:
+      213: 2680896445607441866
+    second: Social03_Diagnostico_33
+  - first:
+      213: 825709431592617074
+    second: Social03_Diagnostico_34
+  - first:
+      213: 9204058919492164164
+    second: Social03_Diagnostico_35
+  - first:
+      213: 1647421465191374376
+    second: Social03_Diagnostico_36
+  - first:
+      213: -750685838274122498
+    second: Social03_Diagnostico_37
+  - first:
+      213: -2212586871933264683
+    second: Social03_Diagnostico_38
+  - first:
+      213: 5909871767875960107
+    second: Social03_Diagnostico_39
+  - first:
+      213: 2690830202448583977
+    second: Social03_Diagnostico_40
+  - first:
+      213: -5482245850745128307
+    second: Social03_Diagnostico_41
+  - first:
+      213: -7738585174283907649
+    second: Social03_Diagnostico_42
+  - first:
+      213: 6764580528367531442
+    second: Social03_Diagnostico_43
+  - first:
+      213: 7774875289096797982
+    second: Social03_Diagnostico_44
+  - first:
+      213: -2297592638265748690
+    second: Social03_Diagnostico_45
+  - first:
+      213: -7198405007360459730
+    second: Social03_Diagnostico_46
+  - first:
+      213: 4819308791425940966
+    second: Social03_Diagnostico_47
+  - first:
+      213: 9154128553575792164
+    second: Social03_Diagnostico_48
+  - first:
+      213: -2109596086606805580
+    second: Social03_Diagnostico_49
+  - first:
+      213: -8709364221480093581
+    second: Social03_Diagnostico_50
+  - first:
+      213: -4167180034407078058
+    second: Social03_Diagnostico_51
+  - first:
+      213: 3787225944553714470
+    second: Social03_Diagnostico_52
+  - first:
+      213: 6311012792269116427
+    second: Social03_Diagnostico_53
+  - first:
+      213: 5492812942920517833
+    second: Social03_Diagnostico_54
+  - first:
+      213: 8195322702833441954
+    second: Social03_Diagnostico_55
+  - first:
+      213: -5183018146930345927
+    second: Social03_Diagnostico_56
+  - first:
+      213: 2715854778515522394
+    second: Social03_Diagnostico_57
+  - first:
+      213: 8311581077617763500
+    second: Social03_Diagnostico_58
+  - first:
+      213: -4338295250718470473
+    second: Social03_Diagnostico_59
+  - first:
+      213: -5447042367200127204
+    second: Social03_Diagnostico_60
+  - first:
+      213: -3938265250298822811
+    second: Social03_Diagnostico_61
+  - first:
+      213: -5567178621343452603
+    second: Social03_Diagnostico_62
+  - first:
+      213: -348448324597120846
+    second: Social03_Diagnostico_63
+  - first:
+      213: -3004191856433952844
+    second: Social03_Diagnostico_64
+  - first:
+      213: -1175749759945257166
+    second: Social03_Diagnostico_65
+  - first:
+      213: 9105217089524829974
+    second: Social03_Diagnostico_66
+  - first:
+      213: -1681164646881816623
+    second: Social03_Diagnostico_67
+  - first:
+      213: 5112690171376082693
+    second: Social03_Diagnostico_68
+  - first:
+      213: 8540179834434502815
+    second: Social03_Diagnostico_69
+  - first:
+      213: 1256387145795727261
+    second: Social03_Diagnostico_70
+  - first:
+      213: -1892692730042973
+    second: Social03_Diagnostico_71
+  - first:
+      213: 5611174493639642803
+    second: Social03_Diagnostico_72
+  - first:
+      213: 4692805668218525932
+    second: Social03_Diagnostico_73
+  - first:
+      213: 7433736974929924778
+    second: Social03_Diagnostico_74
+  - first:
+      213: 94903554694649985
+    second: Social03_Diagnostico_75
+  - first:
+      213: -1777310437141351485
+    second: Social03_Diagnostico_76
+  - first:
+      213: 4454876109090056809
+    second: Social03_Diagnostico_77
+  - first:
+      213: -3582355325547616672
+    second: Social03_Diagnostico_78
+  - first:
+      213: 7329704219388295179
+    second: Social03_Diagnostico_79
+  - first:
+      213: 4790535733633612926
+    second: Social03_Diagnostico_80
+  - first:
+      213: -6038401111703517558
+    second: Social03_Diagnostico_81
+  - first:
+      213: 318312006657396840
+    second: Social03_Diagnostico_82
+  - first:
+      213: 1844482064797273998
+    second: Social03_Diagnostico_83
+  - first:
+      213: -3300870040487640143
+    second: Social03_Diagnostico_84
+  - first:
+      213: 5291406417340751422
+    second: Social03_Diagnostico_85
+  - first:
+      213: -7414819414172417971
+    second: Social03_Diagnostico_86
+  - first:
+      213: 6634793769739540769
+    second: Social03_Diagnostico_87
+  - first:
+      213: 6154652812591342087
+    second: Social03_Diagnostico_88
+  - first:
+      213: 6984595551088917711
+    second: Social03_Diagnostico_89
+  - first:
+      213: 1410970803304787221
+    second: Social03_Diagnostico_90
+  - first:
+      213: 6748153470182114025
+    second: Social03_Diagnostico_91
+  - first:
+      213: -7510931928242173768
+    second: Social03_Diagnostico_92
+  - first:
+      213: 1278088852144383227
+    second: Social03_Diagnostico_93
+  - first:
+      213: 3137660493630685156
+    second: Social03_Diagnostico_94
+  - first:
+      213: -6820616304188127195
+    second: Social03_Diagnostico_95
+  - first:
+      213: -4542105332500565041
+    second: Social03_Diagnostico_96
+  - first:
+      213: -8623682954543606345
+    second: Social03_Diagnostico_97
+  - first:
+      213: -8684017053539354598
+    second: Social03_Diagnostico_98
+  - first:
+      213: 9019668388868132654
+    second: Social03_Diagnostico_99
+  - first:
+      213: -855427128127609772
+    second: Social03_Diagnostico_100
+  - first:
+      213: -460679039228229731
+    second: Social03_Diagnostico_101
+  - first:
+      213: -187871835171550639
+    second: Social03_Diagnostico_102
+  - first:
+      213: 172560057394758668
+    second: Social03_Diagnostico_103
+  - first:
+      213: 1895768631078005
+    second: Social03_Diagnostico_104
+  - first:
+      213: 7530708889784707045
+    second: Social03_Diagnostico_105
+  - first:
+      213: 3664598978720858874
+    second: Social03_Diagnostico_106
+  - first:
+      213: 56032523387705696
+    second: Social03_Diagnostico_107
+  - first:
+      213: -8415336202804106218
+    second: Social03_Diagnostico_108
+  - first:
+      213: -6758438120734475160
+    second: Social03_Diagnostico_109
+  - first:
+      213: -6803113877519835299
+    second: Social03_Diagnostico_110
+  - first:
+      213: -5644053921716460863
+    second: Social03_Diagnostico_111
+  - first:
+      213: 8198149646761372226
+    second: Social03_Diagnostico_112
+  - first:
+      213: -7912381845441327600
+    second: Social03_Diagnostico_113
+  - first:
+      213: 6274817556979643449
+    second: Social03_Diagnostico_114
+  - first:
+      213: -22031453285920203
+    second: Social03_Diagnostico_115
+  - first:
+      213: 6544927279209696185
+    second: Social03_Diagnostico_116
+  - first:
+      213: 3046566520376277169
+    second: Social03_Diagnostico_117
+  - first:
+      213: -3612399188599101978
+    second: Social03_Diagnostico_118
+  - first:
+      213: -8443856144456978416
+    second: Social03_Diagnostico_119
+  - first:
+      213: 2054060517881778833
+    second: Social03_Diagnostico_120
+  - first:
+      213: 2773245339814223636
+    second: Social03_Diagnostico_121
+  - first:
+      213: -5213185171367659503
+    second: Social03_Diagnostico_122
+  - first:
+      213: -912421536331769079
+    second: Social03_Diagnostico_123
+  - first:
+      213: -8055913016065676237
+    second: Social03_Diagnostico_124
+  - first:
+      213: 295924097972142240
+    second: Social03_Diagnostico_125
+  - first:
+      213: 4467910331696054133
+    second: Social03_Diagnostico_126
+  - first:
+      213: -2934675990709155732
+    second: Social03_Diagnostico_127
+  - first:
+      213: -9068723092669415578
+    second: Social03_Diagnostico_128
+  - first:
+      213: 7707868273472652904
+    second: Social03_Diagnostico_129
+  - first:
+      213: 698862141897078340
+    second: Social03_Diagnostico_130
+  - first:
+      213: 1721105961857136247
+    second: Social03_Diagnostico_131
+  - first:
+      213: -8953075226924256506
+    second: Social03_Diagnostico_132
+  - first:
+      213: 447146494651125339
+    second: Social03_Diagnostico_133
+  - first:
+      213: 2763725324166618697
+    second: Social03_Diagnostico_134
+  - first:
+      213: 1464536636907697992
+    second: Social03_Diagnostico_135
+  - first:
+      213: 8839358125924856289
+    second: Social03_Diagnostico_136
+  - first:
+      213: 329381911037162164
+    second: Social03_Diagnostico_137
+  - first:
+      213: 2410795083581473897
+    second: Social03_Diagnostico_138
+  - first:
+      213: 551906239193813928
+    second: Social03_Diagnostico_139
+  - first:
+      213: 3360967699633277452
+    second: Social03_Diagnostico_140
+  - first:
+      213: 8603739301343737096
+    second: Social03_Diagnostico_141
+  - first:
+      213: -6458252955980528638
+    second: Social03_Diagnostico_142
+  - first:
+      213: -7758244345345205721
+    second: Social03_Diagnostico_143
+  - first:
+      213: 1553911044932818081
+    second: Social03_Diagnostico_144
+  - first:
+      213: 8907120604670951286
+    second: Social03_Diagnostico_145
+  - first:
+      213: -4460084995727859656
+    second: Social03_Diagnostico_146
+  - first:
+      213: 5045184388579970144
+    second: Social03_Diagnostico_147
+  - first:
+      213: -7810665761130278355
+    second: Social03_Diagnostico_148
+  - first:
+      213: -2274377323735595097
+    second: Social03_Diagnostico_149
+  - first:
+      213: 7938807706108138092
+    second: Social03_Diagnostico_150
+  - first:
+      213: 5374558472031101435
+    second: Social03_Diagnostico_151
+  - first:
+      213: 3448412762869132674
+    second: Social03_Diagnostico_152
+  - first:
+      213: 3524309396174883248
+    second: Social03_Diagnostico_153
+  - first:
+      213: -9173639892783053802
+    second: Social03_Diagnostico_154
+  - first:
+      213: 3060699844855958642
+    second: Social03_Diagnostico_155
+  - first:
+      213: 4656338742078583953
+    second: Social03_Diagnostico_156
+  - first:
+      213: 2959354707930980677
+    second: Social03_Diagnostico_157
+  - first:
+      213: -7126395173163921543
+    second: Social03_Diagnostico_158
+  - first:
+      213: -7953536855007774747
+    second: Social03_Diagnostico_159
+  - first:
+      213: 7232968958314192807
+    second: Social03_Diagnostico_160
+  - first:
+      213: -607950356624840488
+    second: Social03_Diagnostico_161
+  - first:
+      213: -6456837337524246980
+    second: Social03_Diagnostico_162
+  - first:
+      213: -6018676695426341260
+    second: Social03_Diagnostico_163
+  - first:
+      213: -2600971568031764036
+    second: Social03_Diagnostico_164
+  - first:
+      213: -1478718663596748581
+    second: Social03_Diagnostico_165
+  - first:
+      213: 519285709681190986
+    second: Social03_Diagnostico_166
+  - first:
+      213: 199805562698495038
+    second: Social03_Diagnostico_167
+  - first:
+      213: -363772258265374121
+    second: Social03_Diagnostico_168
+  - first:
+      213: 1689101406653419408
+    second: Social03_Diagnostico_169
+  - first:
+      213: 3065849005986344351
+    second: Social03_Diagnostico_170
+  - first:
+      213: -2812952558963514674
+    second: Social03_Diagnostico_171
+  - first:
+      213: -7342659694306192857
+    second: Social03_Diagnostico_172
+  - first:
+      213: -5999381265730914863
+    second: Social03_Diagnostico_173
+  - first:
+      213: -8869379335211858562
+    second: Social03_Diagnostico_174
+  - first:
+      213: 4658210818658840088
+    second: Social03_Diagnostico_175
+  - first:
+      213: 8888274378375625773
+    second: Social03_Diagnostico_176
+  - first:
+      213: -3358705539452957789
+    second: Social03_Diagnostico_177
+  - first:
+      213: -6183466770019190795
+    second: Social03_Diagnostico_178
+  - first:
+      213: -6296272607015255565
+    second: Social03_Diagnostico_179
+  - first:
+      213: 3273440589908632
+    second: Social03_Diagnostico_180
+  - first:
+      213: 3719152018137940475
+    second: Social03_Diagnostico_181
+  - first:
+      213: 877601343596603088
+    second: Social03_Diagnostico_182
+  - first:
+      213: 4947713502085170981
+    second: Social03_Diagnostico_183
+  - first:
+      213: -8410107885875202107
+    second: Social03_Diagnostico_184
+  - first:
+      213: 513864385642014503
+    second: Social03_Diagnostico_185
+  - first:
+      213: 2273121478891137454
+    second: Social03_Diagnostico_186
+  - first:
+      213: -4078562569466772194
+    second: Social03_Diagnostico_187
+  - first:
+      213: 230969644025086518
+    second: Social03_Diagnostico_188
+  - first:
+      213: 7802164754569046215
+    second: Social03_Diagnostico_189
+  - first:
+      213: -9045309219349554121
+    second: Social03_Diagnostico_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Social03_Diagnostico_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 405
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7571c7f6661a5420800000000000000
+      internalID: 2619430764768490875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 445
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba27dc4f8c67830800000000000000
+      internalID: 4068660267120241578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 445
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2645faa65b536f0800000000000000
+      internalID: -705458296800910612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 405
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3bae5b7ea6a8140800000000000000
+      internalID: 4722704702673433525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 406
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c4851864c172a0800000000000000
+      internalID: -6741391215880255428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 445
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4d37765babd16b0800000000000000
+      internalID: -5323893896194566920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 406
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0275333ee6015ab0800000000000000
+      internalID: -5021224489410268660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3a7f6c73c1eeb80800000000000000
+      internalID: -8363716432093535255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 391
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624789348078c8d0800000000000000
+      internalID: -2825885052971826584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 406
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9512dd7e3119c4cf0800000000000000
+      internalID: -266678763241266855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 405
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b32df9af5af430b0800000000000000
+      internalID: -5749695535464504392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 406
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412fdfd7add19d7a0800000000000000
+      internalID: -6352012975175503340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 405
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfe357ddd29d08e0800000000000000
+      internalID: -1725561600715001917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 405
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28d9d43c68061df0800000000000000
+      internalID: -209971071789967313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 265
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619f256c0d9b48e0800000000000000
+      internalID: -1708098957094186653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0098e71bc1bc81ba0800000000000000
+      internalID: -6117916769685436160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 265
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d743b404214e180800000000000000
+      internalID: -9087118080777880241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 265
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53532909805ff8a0800000000000000
+      internalID: -6269203606782389411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 265
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae71fd528f7afa0800000000000000
+      internalID: -5789385954421118316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a567bdb54c383830800000000000000
+      internalID: 4051054135053084073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 265
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c99b49593b6310800000000000000
+      internalID: 1399275164911911264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 265
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7bc73522605620800000000000000
+      internalID: 2760814483567509236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc915d2c19dc2940800000000000000
+      internalID: 5272827978786643157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 265
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0071380f3da1d12f0800000000000000
+      internalID: -1000614044630837504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4968caa8478450eb0800000000000000
+      internalID: -4754314166239721836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915a4bd6a88b93c20800000000000000
+      internalID: 3186781116026889497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6655574825c1340800000000000000
+      internalID: 4835830828746761978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 265
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a80464a75a1cad00800000000000000
+      internalID: 985191382209792167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15b73ef16a1321b0800000000000000
+      internalID: -5682669296632220387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 265
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae504bab97c05b70800000000000000
+      internalID: 8885821536208969390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd6daa41c977780800000000000000
+      internalID: -8685301743781225637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 265
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94cd84695d3c2540800000000000000
+      internalID: 4984426341740692639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a4b6c379dec3060800000000000000
+      internalID: 6934678760053230218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 257
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5f9000d15743520800000000000000
+      internalID: 2680896445607441866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27484cd6a52857b00800000000000000
+      internalID: 825709431592617074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a981472d26bbf70800000000000000
+      internalID: 9204058919492164164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 265
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed51c1811dcd610800000000000000
+      internalID: 1647421465191374376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_37
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 265
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc21c715370595f0800000000000000
+      internalID: -750685838274122498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 265
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc99b776ff4b41e0800000000000000
+      internalID: -2212586871933264683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_39
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d3b50af05140250800000000000000
+      internalID: 5909871767875960107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_40
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 265
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d17dfffcfb75520800000000000000
+      internalID: 2690830202448583977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_41
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 265
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a3af6e1762be3b0800000000000000
+      internalID: -5482245850745128307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_42
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd04b6e8c50b9490800000000000000
+      internalID: -7738585174283907649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_43
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5fed7762e90ed50800000000000000
+      internalID: 6764580528367531442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_44
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 265
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb393e1e7e5eb60800000000000000
+      internalID: 7774875289096797982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 265
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e231e9d2baf4d10e0800000000000000
+      internalID: -2297592638265748690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 265
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cf2ead8c02a1c90800000000000000
+      internalID: -7198405007360459730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3cdfdfcf91e240800000000000000
+      internalID: 4819308791425940966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e35283b6ff90f70800000000000000
+      internalID: 9154128553575792164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 212
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b54f3e498539b2e0800000000000000
+      internalID: -2109596086606805580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378be2f726f122780800000000000000
+      internalID: -8709364221480093581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657e01e56d33b26c0800000000000000
+      internalID: -4167180034407078058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62374455eedee8430800000000000000
+      internalID: 3787225944553714470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04952882b8359750800000000000000
+      internalID: 6311012792269116427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_54
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 212
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c80278f4446a3c40800000000000000
+      internalID: 5492812942920517833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd41ad392abb170800000000000000
+      internalID: 8195322702833441954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93830d7c4783218b0800000000000000
+      internalID: -5183018146930345927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 212
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5307f62887a0b520800000000000000
+      internalID: 2715854778515522394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4e34514faa85370800000000000000
+      internalID: 8311581077617763500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be492a64774bc3c0800000000000000
+      internalID: -4338295250718470473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_60
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 236
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179882a3d73864b0800000000000000
+      internalID: -5447042367200127204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 212
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f7ca4ee987859c0800000000000000
+      internalID: -3938265250298822811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 212
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542bca14a886db2b0800000000000000
+      internalID: -5567178621343452603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_63
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b00fcd48101a2bf0800000000000000
+      internalID: -348448324597120846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_64
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 212
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b702286c67fe46d0800000000000000
+      internalID: -3004191856433952844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_65
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f46bd92d5eeafe0800000000000000
+      internalID: -1175749759945257166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 204
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f81ff83ba3c5e70800000000000000
+      internalID: 9105217089524829974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_67
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df0aad29ad4ba8e0800000000000000
+      internalID: -1681164646881816623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_68
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 212
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f90876f9ce3f640800000000000000
+      internalID: 5112690171376082693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_69
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904c65cf40d48670800000000000000
+      internalID: 8540179834434502815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_70
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 212
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f6585d3759f6110800000000000000
+      internalID: 1256387145795727261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_71
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 212
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a528222b9649fff0800000000000000
+      internalID: -1892692730042973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_72
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 212
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be8f120975eedd40800000000000000
+      internalID: 5611174493639642803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_73
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 212
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8da1644e1302140800000000000000
+      internalID: 4692805668218525932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_74
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 212
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29260a460f92760800000000000000
+      internalID: 7433736974929924778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_75
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 212
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1881f79b74a215100800000000000000
+      internalID: 94903554694649985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_76
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 206
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c37892f299b557e0800000000000000
+      internalID: -1777310437141351485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aefa0e736e2dd30800000000000000
+      internalID: 4454876109090056809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0666181cfcae84ec0800000000000000
+      internalID: -3582355325547616672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083251372758b560800000000000000
+      internalID: 7329704219388295179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cfb0f4ed66b7240800000000000000
+      internalID: 4790535733633612926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 159
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8686958e2a433ca0800000000000000
+      internalID: -6038401111703517558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605e84651fda6400800000000000000
+      internalID: 318312006657396840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 151
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f02da5aaae89910800000000000000
+      internalID: 1844482064797273998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3410bdf24f032d0800000000000000
+      internalID: -3300870040487640143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 184
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e51dbf91ade6940800000000000000
+      internalID: 5291406417340751422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_86
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 159
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4045983705491990800000000000000
+      internalID: -7414819414172417971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_87
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129dc4be7c5831c50800000000000000
+      internalID: 6634793769739540769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 159
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702ad52df18b96550800000000000000
+      internalID: 6154652812591342087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 184
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccbd62d5a44ee060800000000000000
+      internalID: 6984595551088917711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_90
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 159
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ded6f4876c49310800000000000000
+      internalID: 1410970803304787221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 159
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24600f3d146ad50800000000000000
+      internalID: 6748153470182114025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_92
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 159
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b84cf4b43fc3c790800000000000000
+      internalID: -7510931928242173768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 177
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e3771a0facb110800000000000000
+      internalID: 1278088852144383227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_94
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 177
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef32ac48953b8b20800000000000000
+      internalID: 3137660493630685156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_95
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 159
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52801a7cb9d4851a0800000000000000
+      internalID: -6820616304188127195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_96
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 159
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc375e3e34337f0c0800000000000000
+      internalID: -4542105332500565041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_97
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 177
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b556d60b06825880800000000000000
+      internalID: -8623682954543606345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_98
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a183a5cef7c2c7780800000000000000
+      internalID: -8684017053539354598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_99
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 159
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f0e468c9c4c2d70800000000000000
+      internalID: 9019668388868132654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_100
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 151
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a8b82f89e024f0800000000000000
+      internalID: -855427128127609772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_101
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d974557cad65b99f0800000000000000
+      internalID: -460679039228229731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_102
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 159
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a8c41bf8b846df0800000000000000
+      internalID: -187871835171550639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_103
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 159
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c048f6b357e056200800000000000000
+      internalID: 172560057394758668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_104
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 159
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ce4d7013cb60000800000000000000
+      internalID: 1895768631078005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_105
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 159
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e76e7af5d3728860800000000000000
+      internalID: 7530708889784707045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_106
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 159
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af28ae2fa554bd230800000000000000
+      internalID: 3664598978720858874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_107
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 159
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069946c784117c000800000000000000
+      internalID: 56032523387705696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_108
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 184
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c60665f48b63b80800000000000000
+      internalID: -8415336202804106218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_109
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 159
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb92146543532a0800000000000000
+      internalID: -6758438120734475160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_110
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 159
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f56eb09fb7691a0800000000000000
+      internalID: -6803113877519835299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_111
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 159
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a0f69cda4ca1b0800000000000000
+      internalID: -5644053921716460863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_112
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aa4b60bada5c170800000000000000
+      internalID: 8198149646761372226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_113
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 153
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e483712a2913290800000000000000
+      internalID: -7912381845441327600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_114
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934f72a9251a41750800000000000000
+      internalID: 6274817556979643449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_115
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 106
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d10d828ab1bff0800000000000000
+      internalID: -22031453285920203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_116
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 106
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbce061fa044da50800000000000000
+      internalID: 6544927279209696185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 106
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b830afdb14974a20800000000000000
+      internalID: 3046566520376277169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_118
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 106
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e524a8c31e2eddc0800000000000000
+      internalID: -3612399188599101978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_119
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0107427f29561da80800000000000000
+      internalID: -8443856144456978416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_120
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 106
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1929f7b782d718c10800000000000000
+      internalID: 2054060517881778833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_121
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 106
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f52aa71fb8c7620800000000000000
+      internalID: 2773245339814223636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_122
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 124
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118fb4015bb07a7b0800000000000000
+      internalID: -5213185171367659503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_123
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 124
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b5789627d6653f0800000000000000
+      internalID: -912421536331769079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_124
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 106
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ca5ff3bc5a33090800000000000000
+      internalID: -8055913016065676237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_125
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 106
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a08b1436655b1400800000000000000
+      internalID: 295924097972142240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_126
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f7a0156c4310e30800000000000000
+      internalID: 4467910331696054133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_127
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 106
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c9ea2cbfe547d0800000000000000
+      internalID: -2934675990709155732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_128
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 106
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fbe07356c652280800000000000000
+      internalID: -9068723092669415578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_129
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 106
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86647df4b59d7fa60800000000000000
+      internalID: 7707868273472652904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_130
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 106
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4467eb25a6bd2b900800000000000000
+      internalID: 698862141897078340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_131
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 106
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7763d45e0c892e710800000000000000
+      internalID: 1721105961857136247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_132
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 106
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60374db348940c380800000000000000
+      internalID: -8953075226924256506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_133
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ecd382e55943600800000000000000
+      internalID: 447146494651125339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_134
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ed3bb1a89ba5620800000000000000
+      internalID: 2763725324166618697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_135
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 106
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847bd63df44135410800000000000000
+      internalID: 1464536636907697992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_136
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 106
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1b632f165bbaa70800000000000000
+      internalID: 8839358125924856289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_137
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 106
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23fca5a13329400800000000000000
+      internalID: 329381911037162164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_138
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 106
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c1270b5dd47120800000000000000
+      internalID: 2410795083581473897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_139
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 106
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31878ecc3c8a700800000000000000
+      internalID: 551906239193813928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_140
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 105
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a043ec05e84ae20800000000000000
+      internalID: 3360967699633277452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_141
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80539ac5f4f966770800000000000000
+      internalID: 8603739301343737096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2040a21672daf56a0800000000000000
+      internalID: -6458252955980528638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_143
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 53
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a14037fdd255490800000000000000
+      internalID: -7758244345345205721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_144
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 53
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4d6c5ccd9909510800000000000000
+      internalID: 1553911044932818081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_145
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 53
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f79fc7ff27c9b70800000000000000
+      internalID: 8907120604670951286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_146
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 53
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8306791b3589a12c0800000000000000
+      internalID: -4460084995727859656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_147
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 53
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc7ab8878140640800000000000000
+      internalID: 5045184388579970144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_148
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 53
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2216887fd0fa9390800000000000000
+      internalID: -7810665761130278355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_149
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 53
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7498dcfd9cf60e0800000000000000
+      internalID: -2274377323735595097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_150
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 53
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6295be0c8f4c2e60800000000000000
+      internalID: 7938807706108138092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_151
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 53
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1eaf56474469a40800000000000000
+      internalID: 5374558472031101435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_152
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 53
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28decb923293bdf20800000000000000
+      internalID: 3448412762869132674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 53
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9439529bcd8e030800000000000000
+      internalID: 3524309396174883248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 53
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614405d1f1fa0b080800000000000000
+      internalID: -9173639892783053802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_155
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 53
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c8bb8ea4ac97a20800000000000000
+      internalID: 3060699844855958642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_156
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 53
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194bb736a63ae9040800000000000000
+      internalID: 4656338742078583953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_157
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 53
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5412b927d6db11920800000000000000
+      internalID: 2959354707930980677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_158
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 53
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f8186e855f91d90800000000000000
+      internalID: -7126395173163921543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_159
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 53
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7b849be5c5f9190800000000000000
+      internalID: -7953536855007774747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_160
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 53
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af9eb712faa06460800000000000000
+      internalID: 7232968958314192807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_161
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 53
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8ed482f502097f0800000000000000
+      internalID: -607950356624840488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_162
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 53
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36636cb6a4b466a0800000000000000
+      internalID: -6456837337524246980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_163
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 53
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476e03f0f6d597ca0800000000000000
+      internalID: -6018676695426341260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_164
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 53
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb17390b32e77ebd0800000000000000
+      internalID: -2600971568031764036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 53
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd05395c5398a7be0800000000000000
+      internalID: -1478718663596748581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_166
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 45
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48eb760a9fd43700800000000000000
+      internalID: 519285709681190986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_167
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 53
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e347ac4c91ad5c200800000000000000
+      internalID: 199805562698495038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_168
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 53
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75263f6fe0f93faf0800000000000000
+      internalID: -363772258265374121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_169
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f8035b7c4e07710800000000000000
+      internalID: 1689101406653419408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_170
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 53
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9decc86d651c8a20800000000000000
+      internalID: 3065849005986344351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_171
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 53
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec224f02d8266f8d0800000000000000
+      internalID: -2812952558963514674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_172
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 53
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7221d4e39e1a91a90800000000000000
+      internalID: -7342659694306192857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_173
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 53
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5b9ff568aedbca0800000000000000
+      internalID: -5999381265730914863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_174
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c1829c72a9e480800000000000000
+      internalID: -8869379335211858562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_175
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eaa0f2f0a45a040800000000000000
+      internalID: 4658210818658840088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_176
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf84d747e795b70800000000000000
+      internalID: 8888274378375625773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_177
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab05c76b1b7361d0800000000000000
+      internalID: -3358705539452957789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_178
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7f29cebb9ef2aa0800000000000000
+      internalID: -6183466770019190795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_179
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f145d94c652f98a0800000000000000
+      internalID: -6296272607015255565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_180
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0e874d21ab0000800000000000000
+      internalID: 3273440589908632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_181
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf10aca3e051d9330800000000000000
+      internalID: 3719152018137940475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_182
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d62b73b5cddd2c00800000000000000
+      internalID: 877601343596603088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_183
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527c03e473fc9a440800000000000000
+      internalID: 4947713502085170981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_184
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c772bbbf6b494b80800000000000000
+      internalID: -8410107885875202107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_185
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727aae8afec912700800000000000000
+      internalID: 513864385642014503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_186
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ed9801ffbb8f10800000000000000
+      internalID: 2273121478891137454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_187
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e158ab4c3f80667c0800000000000000
+      internalID: -4078562569466772194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_188
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328302eaa1943300800000000000000
+      internalID: 230969644025086518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_189
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c82923b18bd64c60800000000000000
+      internalID: 7802164754569046215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Social03_Diagnostico_190
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9a19603b987280800000000000000
+      internalID: -9045309219349554121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Social03_Diagnostico_0: 2619430764768490875
+      Social03_Diagnostico_1: 4068660267120241578
+      Social03_Diagnostico_10: -5749695535464504392
+      Social03_Diagnostico_100: -855427128127609772
+      Social03_Diagnostico_101: -460679039228229731
+      Social03_Diagnostico_102: -187871835171550639
+      Social03_Diagnostico_103: 172560057394758668
+      Social03_Diagnostico_104: 1895768631078005
+      Social03_Diagnostico_105: 7530708889784707045
+      Social03_Diagnostico_106: 3664598978720858874
+      Social03_Diagnostico_107: 56032523387705696
+      Social03_Diagnostico_108: -8415336202804106218
+      Social03_Diagnostico_109: -6758438120734475160
+      Social03_Diagnostico_11: -6352012975175503340
+      Social03_Diagnostico_110: -6803113877519835299
+      Social03_Diagnostico_111: -5644053921716460863
+      Social03_Diagnostico_112: 8198149646761372226
+      Social03_Diagnostico_113: -7912381845441327600
+      Social03_Diagnostico_114: 6274817556979643449
+      Social03_Diagnostico_115: -22031453285920203
+      Social03_Diagnostico_116: 6544927279209696185
+      Social03_Diagnostico_117: 3046566520376277169
+      Social03_Diagnostico_118: -3612399188599101978
+      Social03_Diagnostico_119: -8443856144456978416
+      Social03_Diagnostico_12: -1725561600715001917
+      Social03_Diagnostico_120: 2054060517881778833
+      Social03_Diagnostico_121: 2773245339814223636
+      Social03_Diagnostico_122: -5213185171367659503
+      Social03_Diagnostico_123: -912421536331769079
+      Social03_Diagnostico_124: -8055913016065676237
+      Social03_Diagnostico_125: 295924097972142240
+      Social03_Diagnostico_126: 4467910331696054133
+      Social03_Diagnostico_127: -2934675990709155732
+      Social03_Diagnostico_128: -9068723092669415578
+      Social03_Diagnostico_129: 7707868273472652904
+      Social03_Diagnostico_13: -209971071789967313
+      Social03_Diagnostico_130: 698862141897078340
+      Social03_Diagnostico_131: 1721105961857136247
+      Social03_Diagnostico_132: -8953075226924256506
+      Social03_Diagnostico_133: 447146494651125339
+      Social03_Diagnostico_134: 2763725324166618697
+      Social03_Diagnostico_135: 1464536636907697992
+      Social03_Diagnostico_136: 8839358125924856289
+      Social03_Diagnostico_137: 329381911037162164
+      Social03_Diagnostico_138: 2410795083581473897
+      Social03_Diagnostico_139: 551906239193813928
+      Social03_Diagnostico_14: -1708098957094186653
+      Social03_Diagnostico_140: 3360967699633277452
+      Social03_Diagnostico_141: 8603739301343737096
+      Social03_Diagnostico_142: -6458252955980528638
+      Social03_Diagnostico_143: -7758244345345205721
+      Social03_Diagnostico_144: 1553911044932818081
+      Social03_Diagnostico_145: 8907120604670951286
+      Social03_Diagnostico_146: -4460084995727859656
+      Social03_Diagnostico_147: 5045184388579970144
+      Social03_Diagnostico_148: -7810665761130278355
+      Social03_Diagnostico_149: -2274377323735595097
+      Social03_Diagnostico_15: -6117916769685436160
+      Social03_Diagnostico_150: 7938807706108138092
+      Social03_Diagnostico_151: 5374558472031101435
+      Social03_Diagnostico_152: 3448412762869132674
+      Social03_Diagnostico_153: 3524309396174883248
+      Social03_Diagnostico_154: -9173639892783053802
+      Social03_Diagnostico_155: 3060699844855958642
+      Social03_Diagnostico_156: 4656338742078583953
+      Social03_Diagnostico_157: 2959354707930980677
+      Social03_Diagnostico_158: -7126395173163921543
+      Social03_Diagnostico_159: -7953536855007774747
+      Social03_Diagnostico_16: -9087118080777880241
+      Social03_Diagnostico_160: 7232968958314192807
+      Social03_Diagnostico_161: -607950356624840488
+      Social03_Diagnostico_162: -6456837337524246980
+      Social03_Diagnostico_163: -6018676695426341260
+      Social03_Diagnostico_164: -2600971568031764036
+      Social03_Diagnostico_165: -1478718663596748581
+      Social03_Diagnostico_166: 519285709681190986
+      Social03_Diagnostico_167: 199805562698495038
+      Social03_Diagnostico_168: -363772258265374121
+      Social03_Diagnostico_169: 1689101406653419408
+      Social03_Diagnostico_17: -6269203606782389411
+      Social03_Diagnostico_170: 3065849005986344351
+      Social03_Diagnostico_171: -2812952558963514674
+      Social03_Diagnostico_172: -7342659694306192857
+      Social03_Diagnostico_173: -5999381265730914863
+      Social03_Diagnostico_174: -8869379335211858562
+      Social03_Diagnostico_175: 4658210818658840088
+      Social03_Diagnostico_176: 8888274378375625773
+      Social03_Diagnostico_177: -3358705539452957789
+      Social03_Diagnostico_178: -6183466770019190795
+      Social03_Diagnostico_179: -6296272607015255565
+      Social03_Diagnostico_18: -5789385954421118316
+      Social03_Diagnostico_180: 3273440589908632
+      Social03_Diagnostico_181: 3719152018137940475
+      Social03_Diagnostico_182: 877601343596603088
+      Social03_Diagnostico_183: 4947713502085170981
+      Social03_Diagnostico_184: -8410107885875202107
+      Social03_Diagnostico_185: 513864385642014503
+      Social03_Diagnostico_186: 2273121478891137454
+      Social03_Diagnostico_187: -4078562569466772194
+      Social03_Diagnostico_188: 230969644025086518
+      Social03_Diagnostico_189: 7802164754569046215
+      Social03_Diagnostico_19: 4051054135053084073
+      Social03_Diagnostico_190: -9045309219349554121
+      Social03_Diagnostico_2: -705458296800910612
+      Social03_Diagnostico_20: 1399275164911911264
+      Social03_Diagnostico_21: 2760814483567509236
+      Social03_Diagnostico_22: 5272827978786643157
+      Social03_Diagnostico_23: -1000614044630837504
+      Social03_Diagnostico_24: -4754314166239721836
+      Social03_Diagnostico_25: 3186781116026889497
+      Social03_Diagnostico_26: 4835830828746761978
+      Social03_Diagnostico_27: 985191382209792167
+      Social03_Diagnostico_28: -5682669296632220387
+      Social03_Diagnostico_29: 8885821536208969390
+      Social03_Diagnostico_3: 4722704702673433525
+      Social03_Diagnostico_30: -8685301743781225637
+      Social03_Diagnostico_31: 4984426341740692639
+      Social03_Diagnostico_32: 6934678760053230218
+      Social03_Diagnostico_33: 2680896445607441866
+      Social03_Diagnostico_34: 825709431592617074
+      Social03_Diagnostico_35: 9204058919492164164
+      Social03_Diagnostico_36: 1647421465191374376
+      Social03_Diagnostico_37: -750685838274122498
+      Social03_Diagnostico_38: -2212586871933264683
+      Social03_Diagnostico_39: 5909871767875960107
+      Social03_Diagnostico_4: -6741391215880255428
+      Social03_Diagnostico_40: 2690830202448583977
+      Social03_Diagnostico_41: -5482245850745128307
+      Social03_Diagnostico_42: -7738585174283907649
+      Social03_Diagnostico_43: 6764580528367531442
+      Social03_Diagnostico_44: 7774875289096797982
+      Social03_Diagnostico_45: -2297592638265748690
+      Social03_Diagnostico_46: -7198405007360459730
+      Social03_Diagnostico_47: 4819308791425940966
+      Social03_Diagnostico_48: 9154128553575792164
+      Social03_Diagnostico_49: -2109596086606805580
+      Social03_Diagnostico_5: -5323893896194566920
+      Social03_Diagnostico_50: -8709364221480093581
+      Social03_Diagnostico_51: -4167180034407078058
+      Social03_Diagnostico_52: 3787225944553714470
+      Social03_Diagnostico_53: 6311012792269116427
+      Social03_Diagnostico_54: 5492812942920517833
+      Social03_Diagnostico_55: 8195322702833441954
+      Social03_Diagnostico_56: -5183018146930345927
+      Social03_Diagnostico_57: 2715854778515522394
+      Social03_Diagnostico_58: 8311581077617763500
+      Social03_Diagnostico_59: -4338295250718470473
+      Social03_Diagnostico_6: -5021224489410268660
+      Social03_Diagnostico_60: -5447042367200127204
+      Social03_Diagnostico_61: -3938265250298822811
+      Social03_Diagnostico_62: -5567178621343452603
+      Social03_Diagnostico_63: -348448324597120846
+      Social03_Diagnostico_64: -3004191856433952844
+      Social03_Diagnostico_65: -1175749759945257166
+      Social03_Diagnostico_66: 9105217089524829974
+      Social03_Diagnostico_67: -1681164646881816623
+      Social03_Diagnostico_68: 5112690171376082693
+      Social03_Diagnostico_69: 8540179834434502815
+      Social03_Diagnostico_7: -8363716432093535255
+      Social03_Diagnostico_70: 1256387145795727261
+      Social03_Diagnostico_71: -1892692730042973
+      Social03_Diagnostico_72: 5611174493639642803
+      Social03_Diagnostico_73: 4692805668218525932
+      Social03_Diagnostico_74: 7433736974929924778
+      Social03_Diagnostico_75: 94903554694649985
+      Social03_Diagnostico_76: -1777310437141351485
+      Social03_Diagnostico_77: 4454876109090056809
+      Social03_Diagnostico_78: -3582355325547616672
+      Social03_Diagnostico_79: 7329704219388295179
+      Social03_Diagnostico_8: -2825885052971826584
+      Social03_Diagnostico_80: 4790535733633612926
+      Social03_Diagnostico_81: -6038401111703517558
+      Social03_Diagnostico_82: 318312006657396840
+      Social03_Diagnostico_83: 1844482064797273998
+      Social03_Diagnostico_84: -3300870040487640143
+      Social03_Diagnostico_85: 5291406417340751422
+      Social03_Diagnostico_86: -7414819414172417971
+      Social03_Diagnostico_87: 6634793769739540769
+      Social03_Diagnostico_88: 6154652812591342087
+      Social03_Diagnostico_89: 6984595551088917711
+      Social03_Diagnostico_9: -266678763241266855
+      Social03_Diagnostico_90: 1410970803304787221
+      Social03_Diagnostico_91: 6748153470182114025
+      Social03_Diagnostico_92: -7510931928242173768
+      Social03_Diagnostico_93: 1278088852144383227
+      Social03_Diagnostico_94: 3137660493630685156
+      Social03_Diagnostico_95: -6820616304188127195
+      Social03_Diagnostico_96: -4542105332500565041
+      Social03_Diagnostico_97: -8623682954543606345
+      Social03_Diagnostico_98: -8684017053539354598
+      Social03_Diagnostico_99: 9019668388868132654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

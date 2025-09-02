@@ -1,0 +1,6383 @@
+fileFormatVersion: 2
+guid: 2f5a6b3260b803f4fb59ababe36a6589
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7647868983026758738
+    second: Inicio_Text_0
+  - first:
+      213: 95015737528414940
+    second: Inicio_Text_1
+  - first:
+      213: 592993573371002300
+    second: Inicio_Text_2
+  - first:
+      213: -5031548373220448291
+    second: Inicio_Text_3
+  - first:
+      213: -8512210695072538899
+    second: Inicio_Text_4
+  - first:
+      213: 1753363637698095327
+    second: Inicio_Text_5
+  - first:
+      213: 706464472915283248
+    second: Inicio_Text_6
+  - first:
+      213: 116845228698232075
+    second: Inicio_Text_7
+  - first:
+      213: 1752771424890455035
+    second: Inicio_Text_8
+  - first:
+      213: 620459325725717339
+    second: Inicio_Text_9
+  - first:
+      213: 2615198810891363702
+    second: Inicio_Text_10
+  - first:
+      213: 7270254526027436034
+    second: Inicio_Text_11
+  - first:
+      213: -2613056708749849880
+    second: Inicio_Text_12
+  - first:
+      213: 6128339813664890608
+    second: Inicio_Text_13
+  - first:
+      213: -9002370155715527517
+    second: Inicio_Text_14
+  - first:
+      213: 5764505178978401375
+    second: Inicio_Text_15
+  - first:
+      213: -264032052120910892
+    second: Inicio_Text_16
+  - first:
+      213: 5038848333456262274
+    second: Inicio_Text_17
+  - first:
+      213: -2719214144062908848
+    second: Inicio_Text_18
+  - first:
+      213: -4904514051144820284
+    second: Inicio_Text_19
+  - first:
+      213: -7365729326332492575
+    second: Inicio_Text_20
+  - first:
+      213: 6756013063209366612
+    second: Inicio_Text_21
+  - first:
+      213: -4768948699803344498
+    second: Inicio_Text_22
+  - first:
+      213: 5532909926500143141
+    second: Inicio_Text_23
+  - first:
+      213: -5436672811490792378
+    second: Inicio_Text_24
+  - first:
+      213: 1460165450900393134
+    second: Inicio_Text_25
+  - first:
+      213: -3652430886701102354
+    second: Inicio_Text_26
+  - first:
+      213: -977248883933808608
+    second: Inicio_Text_27
+  - first:
+      213: 6864099257952966127
+    second: Inicio_Text_28
+  - first:
+      213: 2750906487063990456
+    second: Inicio_Text_29
+  - first:
+      213: -3220707826304982434
+    second: Inicio_Text_30
+  - first:
+      213: 3508299321201433555
+    second: Inicio_Text_31
+  - first:
+      213: -291326890037728729
+    second: Inicio_Text_32
+  - first:
+      213: 2947550067498400700
+    second: Inicio_Text_33
+  - first:
+      213: -325044811552484508
+    second: Inicio_Text_34
+  - first:
+      213: -5508185878860447374
+    second: Inicio_Text_35
+  - first:
+      213: -3176675638825646050
+    second: Inicio_Text_36
+  - first:
+      213: 575453999195858200
+    second: Inicio_Text_37
+  - first:
+      213: 1767674207275721901
+    second: Inicio_Text_38
+  - first:
+      213: -3929975248668108015
+    second: Inicio_Text_39
+  - first:
+      213: -3228379132470402633
+    second: Inicio_Text_40
+  - first:
+      213: 33420670412831785
+    second: Inicio_Text_41
+  - first:
+      213: 6872019368246622935
+    second: Inicio_Text_42
+  - first:
+      213: 7073010825811615355
+    second: Inicio_Text_43
+  - first:
+      213: 9155308934461912985
+    second: Inicio_Text_44
+  - first:
+      213: 2883892751676205658
+    second: Inicio_Text_45
+  - first:
+      213: -5123010499405074873
+    second: Inicio_Text_46
+  - first:
+      213: -5190041669499925435
+    second: Inicio_Text_47
+  - first:
+      213: 5988233501621837145
+    second: Inicio_Text_48
+  - first:
+      213: -1005803185894901184
+    second: Inicio_Text_49
+  - first:
+      213: 8904177468014535829
+    second: Inicio_Text_50
+  - first:
+      213: 8607393433084133879
+    second: Inicio_Text_51
+  - first:
+      213: -2617734735106386435
+    second: Inicio_Text_52
+  - first:
+      213: 6389574543161321635
+    second: Inicio_Text_53
+  - first:
+      213: 2266817369658440035
+    second: Inicio_Text_54
+  - first:
+      213: -869749623728647100
+    second: Inicio_Text_55
+  - first:
+      213: 2553094279675606419
+    second: Inicio_Text_56
+  - first:
+      213: -2428058250101882090
+    second: Inicio_Text_57
+  - first:
+      213: 6609955830248835566
+    second: Inicio_Text_58
+  - first:
+      213: 2093786395722138843
+    second: Inicio_Text_59
+  - first:
+      213: 1515562045498383355
+    second: Inicio_Text_60
+  - first:
+      213: -8486439521565791223
+    second: Inicio_Text_61
+  - first:
+      213: -6156597371424832670
+    second: Inicio_Text_62
+  - first:
+      213: 262514878500305775
+    second: Inicio_Text_63
+  - first:
+      213: 4492938134698550657
+    second: Inicio_Text_64
+  - first:
+      213: -2197738066112330060
+    second: Inicio_Text_65
+  - first:
+      213: -3757624058897092764
+    second: Inicio_Text_66
+  - first:
+      213: -4314026107844349846
+    second: Inicio_Text_67
+  - first:
+      213: 290376999370500154
+    second: Inicio_Text_68
+  - first:
+      213: -5163761105975278807
+    second: Inicio_Text_69
+  - first:
+      213: 6290756042592904869
+    second: Inicio_Text_70
+  - first:
+      213: -909152708380005950
+    second: Inicio_Text_71
+  - first:
+      213: 1783385462210867388
+    second: Inicio_Text_72
+  - first:
+      213: 8205986536284068328
+    second: Inicio_Text_73
+  - first:
+      213: 1125871702306276427
+    second: Inicio_Text_74
+  - first:
+      213: 1976364949149914417
+    second: Inicio_Text_75
+  - first:
+      213: 4188935029971067641
+    second: Inicio_Text_76
+  - first:
+      213: -1674341417065148361
+    second: Inicio_Text_77
+  - first:
+      213: -4455004025665354114
+    second: Inicio_Text_78
+  - first:
+      213: -8296687657764487283
+    second: Inicio_Text_79
+  - first:
+      213: -4917347901029884105
+    second: Inicio_Text_80
+  - first:
+      213: -6408316450018527604
+    second: Inicio_Text_81
+  - first:
+      213: -1884161185481414256
+    second: Inicio_Text_82
+  - first:
+      213: -4068345888303346787
+    second: Inicio_Text_83
+  - first:
+      213: -7471736224291622702
+    second: Inicio_Text_84
+  - first:
+      213: -431720908949474431
+    second: Inicio_Text_85
+  - first:
+      213: 5056731696149881060
+    second: Inicio_Text_86
+  - first:
+      213: -3573407374606152809
+    second: Inicio_Text_87
+  - first:
+      213: 4939312732023005605
+    second: Inicio_Text_88
+  - first:
+      213: 4884918144584532575
+    second: Inicio_Text_89
+  - first:
+      213: 3665054549201866451
+    second: Inicio_Text_90
+  - first:
+      213: -413431045145652359
+    second: Inicio_Text_91
+  - first:
+      213: -404984498845552947
+    second: Inicio_Text_92
+  - first:
+      213: 279286566820378475
+    second: Inicio_Text_93
+  - first:
+      213: -2566683462436493015
+    second: Inicio_Text_94
+  - first:
+      213: 3164831252778057584
+    second: Inicio_Text_95
+  - first:
+      213: -8330594712126237289
+    second: Inicio_Text_96
+  - first:
+      213: -2379553802507115213
+    second: Inicio_Text_97
+  - first:
+      213: 6714499981170092401
+    second: Inicio_Text_98
+  - first:
+      213: 8655017091735837557
+    second: Inicio_Text_99
+  - first:
+      213: -5030489545367351068
+    second: Inicio_Text_100
+  - first:
+      213: -3375673233137997748
+    second: Inicio_Text_101
+  - first:
+      213: -8183487160852905794
+    second: Inicio_Text_102
+  - first:
+      213: 8963490086552333753
+    second: Inicio_Text_103
+  - first:
+      213: -1646601328231544610
+    second: Inicio_Text_104
+  - first:
+      213: 4328238329899259748
+    second: Inicio_Text_105
+  - first:
+      213: -858977718372604593
+    second: Inicio_Text_106
+  - first:
+      213: -4495970570077539187
+    second: Inicio_Text_107
+  - first:
+      213: 2530916726375807833
+    second: Inicio_Text_108
+  - first:
+      213: 526712857769842722
+    second: Inicio_Text_109
+  - first:
+      213: 3475820882728990477
+    second: Inicio_Text_110
+  - first:
+      213: -6856626999574275839
+    second: Inicio_Text_111
+  - first:
+      213: 3562500652936055120
+    second: Inicio_Text_112
+  - first:
+      213: 1888641804249487063
+    second: Inicio_Text_113
+  - first:
+      213: 6450971536204940336
+    second: Inicio_Text_114
+  - first:
+      213: 3838694937108738373
+    second: Inicio_Text_115
+  - first:
+      213: -8364954460599044468
+    second: Inicio_Text_116
+  - first:
+      213: 4892187656180407616
+    second: Inicio_Text_117
+  - first:
+      213: 8551460760257525167
+    second: Inicio_Text_118
+  - first:
+      213: 1723546554310476745
+    second: Inicio_Text_119
+  - first:
+      213: -4459683476438626226
+    second: Inicio_Text_120
+  - first:
+      213: -8440372584703549185
+    second: Inicio_Text_121
+  - first:
+      213: 7950939736503922460
+    second: Inicio_Text_122
+  - first:
+      213: 369545133782806319
+    second: Inicio_Text_123
+  - first:
+      213: 6236821908533141486
+    second: Inicio_Text_124
+  - first:
+      213: -1303600958535084660
+    second: Inicio_Text_125
+  - first:
+      213: 6171714976971166602
+    second: Inicio_Text_126
+  - first:
+      213: -5828758074535270406
+    second: Inicio_Text_127
+  - first:
+      213: 1031686640132708914
+    second: Inicio_Text_128
+  - first:
+      213: 3203014690795310262
+    second: Inicio_Text_129
+  - first:
+      213: -5057982618260312504
+    second: Inicio_Text_130
+  - first:
+      213: 236047848847452641
+    second: Inicio_Text_131
+  - first:
+      213: 6540359772479383433
+    second: Inicio_Text_132
+  - first:
+      213: 7660776264383467813
+    second: Inicio_Text_133
+  - first:
+      213: -8972990147069539474
+    second: Inicio_Text_134
+  - first:
+      213: -3450692803400650561
+    second: Inicio_Text_135
+  - first:
+      213: -6270797035772178113
+    second: Inicio_Text_136
+  - first:
+      213: 4178062047099240121
+    second: Inicio_Text_137
+  - first:
+      213: -987346880314223175
+    second: Inicio_Text_138
+  - first:
+      213: 2798764142145381779
+    second: Inicio_Text_139
+  - first:
+      213: 3810844679014534848
+    second: Inicio_Text_140
+  - first:
+      213: -3088543916672089500
+    second: Inicio_Text_141
+  - first:
+      213: -63472712461189847
+    second: Inicio_Text_142
+  - first:
+      213: -4056001377974169551
+    second: Inicio_Text_143
+  - first:
+      213: 4826218063014700682
+    second: Inicio_Text_144
+  - first:
+      213: -5513113709803234277
+    second: Inicio_Text_145
+  - first:
+      213: -6472143464130081344
+    second: Inicio_Text_146
+  - first:
+      213: 2495444879710054495
+    second: Inicio_Text_147
+  - first:
+      213: 3321168841272665841
+    second: Inicio_Text_148
+  - first:
+      213: 1486526293494301795
+    second: Inicio_Text_149
+  - first:
+      213: 4162128495922241494
+    second: Inicio_Text_150
+  - first:
+      213: -1560293283620938949
+    second: Inicio_Text_151
+  - first:
+      213: 3252604732270326912
+    second: Inicio_Text_152
+  - first:
+      213: -1575761549819250961
+    second: Inicio_Text_153
+  - first:
+      213: -971499670633900612
+    second: Inicio_Text_154
+  - first:
+      213: 4445427508273455334
+    second: Inicio_Text_155
+  - first:
+      213: 6774477811568953693
+    second: Inicio_Text_156
+  - first:
+      213: -4763646767597118580
+    second: Inicio_Text_157
+  - first:
+      213: 7799713409169418044
+    second: Inicio_Text_158
+  - first:
+      213: -7450965503081621752
+    second: Inicio_Text_159
+  - first:
+      213: 5160789289091592833
+    second: Inicio_Text_160
+  - first:
+      213: -3902931884449320006
+    second: Inicio_Text_161
+  - first:
+      213: 3137811148200810999
+    second: Inicio_Text_162
+  - first:
+      213: 7869775657720928493
+    second: Inicio_Text_163
+  - first:
+      213: 6606369004337299313
+    second: Inicio_Text_164
+  - first:
+      213: 166583915888495590
+    second: Inicio_Text_165
+  - first:
+      213: -3103114115694910012
+    second: Inicio_Text_166
+  - first:
+      213: -925703230671912875
+    second: Inicio_Text_167
+  - first:
+      213: 1533500996568680333
+    second: Inicio_Text_168
+  - first:
+      213: -6508812095997222195
+    second: Inicio_Text_169
+  - first:
+      213: -4739339210095389692
+    second: Inicio_Text_170
+  - first:
+      213: 5885705033459287651
+    second: Inicio_Text_171
+  - first:
+      213: -1162152870972015019
+    second: Inicio_Text_172
+  - first:
+      213: -8354891712976901652
+    second: Inicio_Text_173
+  - first:
+      213: -1498021955108239949
+    second: Inicio_Text_174
+  - first:
+      213: -6928512022584030389
+    second: Inicio_Text_175
+  - first:
+      213: -7687393376925064410
+    second: Inicio_Text_176
+  - first:
+      213: 8505490481167951953
+    second: Inicio_Text_177
+  - first:
+      213: -466481575966822631
+    second: Inicio_Text_178
+  - first:
+      213: -6646349372003191000
+    second: Inicio_Text_179
+  - first:
+      213: -905318363884664452
+    second: Inicio_Text_180
+  - first:
+      213: 201864513374831005
+    second: Inicio_Text_181
+  - first:
+      213: 7178746289578725513
+    second: Inicio_Text_182
+  - first:
+      213: -6897605107134462185
+    second: Inicio_Text_183
+  - first:
+      213: 5198174944354020380
+    second: Inicio_Text_184
+  - first:
+      213: 4410324391584600714
+    second: Inicio_Text_185
+  - first:
+      213: 270510023980793273
+    second: Inicio_Text_186
+  - first:
+      213: -4387226543114501314
+    second: Inicio_Text_187
+  - first:
+      213: -4156046012963597062
+    second: Inicio_Text_188
+  - first:
+      213: 8221366906578363760
+    second: Inicio_Text_189
+  - first:
+      213: 951191649727372911
+    second: Inicio_Text_190
+  - first:
+      213: -230734122178071479
+    second: Inicio_Text_191
+  - first:
+      213: -2584734812332147487
+    second: Inicio_Text_192
+  - first:
+      213: 495519501139328490
+    second: Inicio_Text_193
+  - first:
+      213: 4951218032376912720
+    second: Inicio_Text_194
+  - first:
+      213: 5289243292590215055
+    second: Inicio_Text_195
+  - first:
+      213: 2481441266873766238
+    second: Inicio_Text_196
+  - first:
+      213: 2410023277314720994
+    second: Inicio_Text_197
+  - first:
+      213: -2530603130721350423
+    second: Inicio_Text_198
+  - first:
+      213: 1568052174427775712
+    second: Inicio_Text_199
+  - first:
+      213: 6159759250454193101
+    second: Inicio_Text_200
+  - first:
+      213: 2333892061700721784
+    second: Inicio_Text_201
+  - first:
+      213: -2699112648066428062
+    second: Inicio_Text_202
+  - first:
+      213: -107830721078264633
+    second: Inicio_Text_203
+  - first:
+      213: 4335848766377350801
+    second: Inicio_Text_204
+  - first:
+      213: -1478800156338789396
+    second: Inicio_Text_205
+  - first:
+      213: 5513586077397941009
+    second: Inicio_Text_206
+  - first:
+      213: 8720407178800929806
+    second: Inicio_Text_207
+  - first:
+      213: -1133774995803388733
+    second: Inicio_Text_208
+  - first:
+      213: 4623416020122812496
+    second: Inicio_Text_209
+  - first:
+      213: 5067639209110435889
+    second: Inicio_Text_210
+  - first:
+      213: -2712754549816018496
+    second: Inicio_Text_211
+  - first:
+      213: 3050692365348670420
+    second: Inicio_Text_212
+  - first:
+      213: -6810737501825082331
+    second: Inicio_Text_213
+  - first:
+      213: -3142860151934891398
+    second: Inicio_Text_214
+  - first:
+      213: 2698078193258994549
+    second: Inicio_Text_215
+  - first:
+      213: 1175367141740631268
+    second: Inicio_Text_216
+  - first:
+      213: -6872716643338064787
+    second: Inicio_Text_217
+  - first:
+      213: 6093119115797058827
+    second: Inicio_Text_218
+  - first:
+      213: 8463035450964727139
+    second: Inicio_Text_219
+  - first:
+      213: 1638433765706851103
+    second: Inicio_Text_220
+  - first:
+      213: -858221430880320521
+    second: Inicio_Text_221
+  - first:
+      213: -6513719014597537533
+    second: Inicio_Text_222
+  - first:
+      213: -6425661287093685475
+    second: Inicio_Text_223
+  - first:
+      213: 1078649643772099374
+    second: Inicio_Text_224
+  - first:
+      213: 3768086690567475127
+    second: Inicio_Text_225
+  - first:
+      213: 7227072911275074949
+    second: Inicio_Text_226
+  - first:
+      213: 5891783409294286719
+    second: Inicio_Text_227
+  - first:
+      213: 5492381932589140538
+    second: Inicio_Text_228
+  - first:
+      213: 8026011358283554160
+    second: Inicio_Text_229
+  - first:
+      213: 7395302990364756576
+    second: Inicio_Text_230
+  - first:
+      213: 711409627329540429
+    second: Inicio_Text_231
+  - first:
+      213: 7893522203198181919
+    second: Inicio_Text_232
+  - first:
+      213: 5351252919697564787
+    second: Inicio_Text_233
+  - first:
+      213: 2866068244971773664
+    second: Inicio_Text_234
+  - first:
+      213: -6782450425860089333
+    second: Inicio_Text_235
+  - first:
+      213: 4334122798812378844
+    second: Inicio_Text_236
+  - first:
+      213: 3354529471274807484
+    second: Inicio_Text_237
+  - first:
+      213: 2224051308112636000
+    second: Inicio_Text_238
+  - first:
+      213: -1280800732640930325
+    second: Inicio_Text_239
+  - first:
+      213: 5599284634739336053
+    second: Inicio_Text_240
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inicio_Text_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 534
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab46f91eaf4dd590800000000000000
+      internalID: -7647868983026758738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 534
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2f3735f40915100800000000000000
+      internalID: 95015737528414940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 534
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd3ede538cba3800800000000000000
+      internalID: 592993573371002300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 534
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd72000b9695c2ab0800000000000000
+      internalID: -5031548373220448291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 534
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee9be2f87d8ed980800000000000000
+      internalID: -8512210695072538899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 534
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e41350f2355810800000000000000
+      internalID: 1753363637698095327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 559
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d8c82f1bdddc900800000000000000
+      internalID: 706464472915283248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 534
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e14ecd1e1f9100800000000000000
+      internalID: 116845228698232075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 534
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf30d090358135810800000000000000
+      internalID: 1752771424890455035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 534
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b57b28705c9800800000000000000
+      internalID: 620459325725717339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 534
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675243c667d0b4420800000000000000
+      internalID: 2615198810891363702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 534
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2009a82d8f125e460800000000000000
+      internalID: 7270254526027436034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 559
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea830994ce8cbbd0800000000000000
+      internalID: -2613056708749849880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 534
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe1168579c3c0550800000000000000
+      internalID: 6128339813664890608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 534
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac7ffb3a08211380800000000000000
+      internalID: -9002370155715527517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 534
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c38ea2be2afff40800000000000000
+      internalID: 5764505178978401375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 534
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3040c5f38f55cf0800000000000000
+      internalID: -264032052120910892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 534
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284cab0ccd59de540800000000000000
+      internalID: 5038848333456262274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 525
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05699ea9429634ad0800000000000000
+      internalID: -2719214144062908848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 534
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9d999a47aafebb0800000000000000
+      internalID: -4904514051144820284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 534
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e44648f33ca7c990800000000000000
+      internalID: -7365729326332492575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 534
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4543e7a061e22cd50800000000000000
+      internalID: 6756013063209366612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 534
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81292cac6a41ddb0800000000000000
+      internalID: -4768948699803344498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 534
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52016477348d8cc40800000000000000
+      internalID: 5532909926500143141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_24
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 534
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c2117f1ee0d84b0800000000000000
+      internalID: -5436672811490792378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 525
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac4736cdbc834410800000000000000
+      internalID: 1460165450900393134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 559
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea048fb575ff4dc0800000000000000
+      internalID: -3652430886701102354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 534
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0287af7515d1072f0800000000000000
+      internalID: -977248883933808608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 534
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe51f4558ed224f50800000000000000
+      internalID: 6864099257952966127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 534
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b054c300ee2d2620800000000000000
+      internalID: 2750906487063990456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_30
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 534
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5265c7cb4fbd43d0800000000000000
+      internalID: -3220707826304982434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 534
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db94f515abffa030800000000000000
+      internalID: 3508299321201433555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_32
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 534
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a28cdacbff4fbf0800000000000000
+      internalID: -291326890037728729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 481
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbbbea6b2dc7e820800000000000000
+      internalID: 2947550067498400700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 481
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463945f47753d7bf0800000000000000
+      internalID: -325044811552484508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 481
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27143b5702efe83b0800000000000000
+      internalID: -5508185878860447374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 481
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180925565e2ae3d0800000000000000
+      internalID: -3176675638825646050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 506
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a5a60d5c6cf700800000000000000
+      internalID: 575453999195858200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 481
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da42a43735a088810800000000000000
+      internalID: 1767674207275721901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 481
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b5f0f455ce579c0800000000000000
+      internalID: -3929975248668108015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 506
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b161d0a84e7233d0800000000000000
+      internalID: -3228379132470402633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 481
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbc143cebb67000800000000000000
+      internalID: 33420670412831785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 481
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dab1f5b4315e5f50800000000000000
+      internalID: 6872019368246622935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 481
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5ef42fd1682260800000000000000
+      internalID: 7073010825811615355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_44
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 481
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ff8f08f03e0f70800000000000000
+      internalID: 9155308934461912985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 481
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aebf99d25a50820800000000000000
+      internalID: 2883892751676205658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 481
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e2d5af71967e8b0800000000000000
+      internalID: -5123010499405074873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 481
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4bff799449f7b0800000000000000
+      internalID: -5190041669499925435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 481
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d534884aa7a1350800000000000000
+      internalID: 5988233501621837145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_49
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 481
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a37c6d45baa02f0800000000000000
+      internalID: -1005803185894901184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 481
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942b061b3ef19b70800000000000000
+      internalID: 8904177468014535829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 481
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1820539ba937770800000000000000
+      internalID: 8607393433084133879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 481
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df558c5b020fbabd0800000000000000
+      internalID: -2617734735106386435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_53
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 481
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8620f81345ca850800000000000000
+      internalID: 6389574543161321635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_54
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 481
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3693d29336a557f10800000000000000
+      internalID: 2266817369658440035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_55
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 481
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444df1a43570ee3f0800000000000000
+      internalID: -869749623728647100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_56
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 481
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395752278b96e6320800000000000000
+      internalID: 2553094279675606419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_57
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 481
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61388bcc2edcd4ed0800000000000000
+      internalID: -2428058250101882090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_58
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 481
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9010b7ec74bbb50800000000000000
+      internalID: 6609955830248835566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_59
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 481
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4409032af9e0d10800000000000000
+      internalID: 2093786395722138843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_60
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 481
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbdefc86ab580510800000000000000
+      internalID: 1515562045498383355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_61
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 481
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c2c3dd73c1a3a80800000000000000
+      internalID: -8486439521565791223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_62
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 475
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2638e1b4f4f5f8aa0800000000000000
+      internalID: -6156597371424832670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 428
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bf34124e3a4a300800000000000000
+      internalID: 262514878500305775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 428
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185638ccd6f1a5e30800000000000000
+      internalID: 4492938134698550657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_65
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 428
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6450c7fd01081e0800000000000000
+      internalID: -2197738066112330060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_66
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 428
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f2af1c3dc3adbc0800000000000000
+      internalID: -3757624058897092764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 428
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603d229c108124c0800000000000000
+      internalID: -4314026107844349846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 428
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382c6aa750a70400800000000000000
+      internalID: 290376999370500154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_69
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 428
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9238d5502a2a658b0800000000000000
+      internalID: -5163761105975278807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_70
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 428
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a664677a414d4750800000000000000
+      internalID: 6290756042592904869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_71
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 428
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9ec6abd6a0263f0800000000000000
+      internalID: -909152708380005950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_72
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 453
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0bcac01abdfb810800000000000000
+      internalID: 1783385462210867388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_73
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 428
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e999de074581e170800000000000000
+      internalID: 8205986536284068328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 428
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4441ae1956ef9f00800000000000000
+      internalID: 1125871702306276427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 428
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1351d9433757d6b10800000000000000
+      internalID: 1976364949149914417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_76
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 428
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2ad904736122a30800000000000000
+      internalID: 4188935029971067641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_77
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 428
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309b1b2a5b83c8e0800000000000000
+      internalID: -1674341417065148361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_78
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 428
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7608493175ac22c0800000000000000
+      internalID: -4455004025665354114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_79
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 420
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7492788e3cdc80800000000000000
+      internalID: -8296687657764487283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_80
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 428
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fd912232212cbb0800000000000000
+      internalID: -4917347901029884105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_81
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 428
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c867a5434261117a0800000000000000
+      internalID: -6408316450018527604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_82
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 428
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0992dcf626d1ad5e0800000000000000
+      internalID: -1884161185481414256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_83
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 428
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b024838f45a87c0800000000000000
+      internalID: -4068345888303346787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_84
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 428
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0fdafad7f0f4890800000000000000
+      internalID: -7471736224291622702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_85
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 428
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18335f3ee18320af0800000000000000
+      internalID: -431720908949474431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_86
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 428
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e8799fae1d2640800000000000000
+      internalID: 5056731696149881060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_87
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 428
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc6deece4b86ec0800000000000000
+      internalID: -3573407374606152809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_88
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 428
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1abca92c6fb8440800000000000000
+      internalID: 4939312732023005605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_89
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5242dccb27bac340800000000000000
+      internalID: 4884918144584532575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 375
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de4b97b1b3ecd230800000000000000
+      internalID: 3665054549201866451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 375
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97399f6a7a2334af0800000000000000
+      internalID: -413431045145652359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 375
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce65c67eb4316af0800000000000000
+      internalID: -404984498845552947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67fddd17a930e300800000000000000
+      internalID: 279286566820378475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 375
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9296a926dfe416cd0800000000000000
+      internalID: -2566683462436493015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_95
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff3e3a14dbbeb20800000000000000
+      internalID: 3164831252778057584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 375
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795d7f72f38c36c80800000000000000
+      internalID: -8330594712126237289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_97
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33522ad8c602afed0800000000000000
+      internalID: -2379553802507115213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_98
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 375
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179a20e6822be2d50800000000000000
+      internalID: 6714499981170092401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_99
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b59dd403ccc1870800000000000000
+      internalID: 8655017091735837557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_100
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 375
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e01012496c103ab0800000000000000
+      internalID: -5030489545367351068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_101
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 375
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48e30d54133721d0800000000000000
+      internalID: -3375673233137997748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_102
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 375
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0846109c96e6e80800000000000000
+      internalID: -8183487160852905794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_103
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdefac3eb6b46c70800000000000000
+      internalID: 8963490086552333753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_104
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 375
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed88218e0d81629e0800000000000000
+      internalID: -1646601328231544610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_105
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46710ec34ddf01c30800000000000000
+      internalID: 4328238329899259748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_106
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 399
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45ec62f05c4414f0800000000000000
+      internalID: -858977718372604593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_107
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 375
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84fae1569a1b91c0800000000000000
+      internalID: -4495970570077539187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_108
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b79bf6a5f9f1320800000000000000
+      internalID: 2530916726375807833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_109
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 375
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2289002bd824f4700800000000000000
+      internalID: 526712857769842722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_110
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 375
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0732f95da89c3030800000000000000
+      internalID: 3475820882728990477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_111
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 375
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109d505621e58d0a0800000000000000
+      internalID: -6856626999574275839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_112
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 375
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059c95a087b807130800000000000000
+      internalID: 3562500652936055120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_113
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 375
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65e3ae6bdc53a10800000000000000
+      internalID: 1888641804249487063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_114
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 375
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034c6a7fe64768950800000000000000
+      internalID: 6450971536204940336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_115
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 400
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541f47ff4b8c54530800000000000000
+      internalID: 3838694937108738373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_116
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 375
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86bcadcc36b9eb80800000000000000
+      internalID: -8364954460599044468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_117
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 375
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1f2dd0ca84e340800000000000000
+      internalID: 4892187656180407616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa577ddf044eca670800000000000000
+      internalID: 8551460760257525167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_119
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 375
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3468b95744be710800000000000000
+      internalID: 1723546554310476745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_120
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 375
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e405230b1850c12c0800000000000000
+      internalID: -4459683476438626226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_121
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 375
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0accc6ad5cdda80800000000000000
+      internalID: -8440372584703549185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_122
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 375
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1faad08099675e60800000000000000
+      internalID: 7950939736503922460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_123
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 374
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f299b5753e02500800000000000000
+      internalID: 369545133782806319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_124
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefdd715b74ad8650800000000000000
+      internalID: 6236821908533141486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_125
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 269
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8558a1c5dda8ede0800000000000000
+      internalID: -1303600958535084660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_126
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a831359821656a550800000000000000
+      internalID: 6171714976971166602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_127
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 269
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a2adc9671c1fa0800000000000000
+      internalID: -5828758074535270406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_128
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 269
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a50a87889415e00800000000000000
+      internalID: 1031686640132708914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_129
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 269
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc463714e4637c20800000000000000
+      internalID: 3203014690795310262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_130
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6e766b9f6ec9b0800000000000000
+      internalID: -5057982618260312504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_131
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 269
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e92c84944c964300800000000000000
+      internalID: 236047848847452641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 294
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98763ed8f8604ca50800000000000000
+      internalID: 6540359772479383433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_133
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 269
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52112568c6b805a60800000000000000
+      internalID: 7660776264383467813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_134
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 269
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b07de8009897380800000000000000
+      internalID: -8972990147069539474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_135
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 269
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0be488d2dac10d0800000000000000
+      internalID: -3450692803400650561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_136
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f311a30f157a9f8a0800000000000000
+      internalID: -6270797035772178113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_137
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 269
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be34e6ab457bf930800000000000000
+      internalID: 4178062047099240121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_138
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 294
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5d7c85e3d3c42f0800000000000000
+      internalID: -987346880314223175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_139
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 269
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3952da6a82537d620800000000000000
+      internalID: 2798764142145381779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_140
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce49da7b07d2e430800000000000000
+      internalID: 3810844679014534848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_141
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 269
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462019deba94325d0800000000000000
+      internalID: -3088543916672089500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_142
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92df1d087ef7e1ff0800000000000000
+      internalID: -63472712461189847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_143
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 269
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130da518c3036b7c0800000000000000
+      internalID: -4056001377974169551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_144
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 269
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86a09602cb2af240800000000000000
+      internalID: 4826218063014700682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_145
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c97d86a4c7d73b0800000000000000
+      internalID: -5513113709803234277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_146
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 269
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd092d6fc35e26a0800000000000000
+      internalID: -6472143464130081344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_147
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f586fab85e991a220800000000000000
+      internalID: 2495444879710054495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_148
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6272ff679271e20800000000000000
+      internalID: 3321168841272665841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_149
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3648109b9c331a410800000000000000
+      internalID: 1486526293494301795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_150
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 269
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfd9fca0d9d2c930800000000000000
+      internalID: 4162128495922241494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_151
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 269
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b985c7689b85ae0800000000000000
+      internalID: -1560293283620938949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 207
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843abd55c2932d20800000000000000
+      internalID: 3252604732270326912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_153
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 216
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6fd4c1835c12ae0800000000000000
+      internalID: -1575761549819250961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_154
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 216
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51570623a8482f0800000000000000
+      internalID: -971499670633900612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_155
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 207
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0a36114c451bd30800000000000000
+      internalID: 4445427508273455334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_156
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5945594da7c30e50800000000000000
+      internalID: 6774477811568953693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_157
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b9fe5f08024edb0800000000000000
+      internalID: -4763646767597118580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_158
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 216
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e46f55062e3c60800000000000000
+      internalID: 7799713409169418044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80751231a5ad89890800000000000000
+      internalID: -7450965503081621752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_160
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 216
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182f1f0f38ece9740800000000000000
+      internalID: 5160789289091592833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_161
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 207
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33ad4312006d9c0800000000000000
+      internalID: -3902931884449320006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_162
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 216
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f915cc4d9ebb8b20800000000000000
+      internalID: 3137811148200810999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_163
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 216
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8d87cc34f073d60800000000000000
+      internalID: 7869775657720928493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_164
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 216
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ffcae7b998eab50800000000000000
+      internalID: 6606369004337299313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_165
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 216
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebc3db5033df4200800000000000000
+      internalID: 166583915888495590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_166
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 216
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5218c17268fe4d0800000000000000
+      internalID: -3103114115694910012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_167
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 216
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5508e58f0dd3723f0800000000000000
+      internalID: -925703230671912875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_168
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d870f231807184510800000000000000
+      internalID: 1533500996568680333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_169
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 241
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e15442ed0ca5a0800000000000000
+      internalID: -6508812095997222195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_170
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 216
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041f28391c7a3eb0800000000000000
+      internalID: -4739339210095389692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_171
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 216
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c11c4b893ea150800000000000000
+      internalID: 5885705033459287651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_172
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 216
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e33070f143fdfe0800000000000000
+      internalID: -1162152870972015019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_173
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 216
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9282fc0467d0c80800000000000000
+      internalID: -8354891712976901652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_174
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 216
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5890cf7f4f53be0800000000000000
+      internalID: -1498021955108239949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_175
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 216
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b0bd7360bf8df90800000000000000
+      internalID: -6928512022584030389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_176
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 216
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e0b70474e05590800000000000000
+      internalID: -7687393376925064410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_177
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 154
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586b725782990670800000000000000
+      internalID: 8505490481167951953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_178
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 163
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fab3a6a79b689f0800000000000000
+      internalID: -466481575966822631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_179
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 163
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827fb94c57c63c3a0800000000000000
+      internalID: -6646349372003191000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_180
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 163
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c794400aeb9af63f0800000000000000
+      internalID: -905318363884664452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_181
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 163
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91c67494ba2dc200800000000000000
+      internalID: 201864513374831005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_182
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 163
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9805efa37b700a360800000000000000
+      internalID: 7178746289578725513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_183
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 163
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717845c33b8c640a0800000000000000
+      internalID: -6897605107134462185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_184
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 163
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cae8e1290a32840800000000000000
+      internalID: 5198174944354020380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_185
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 188
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8214a0daae943d30800000000000000
+      internalID: 4410324391584600714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_186
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 163
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdbe8ffe6b01c300800000000000000
+      internalID: 270510023980793273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_187
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 163
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ce7c14b07d13c0800000000000000
+      internalID: -4387226543114501314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_188
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 163
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4502fbb22c256c0800000000000000
+      internalID: -4156046012963597062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_189
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 163
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07561c294a9281270800000000000000
+      internalID: 8221366906578363760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_190
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 163
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e515b04cf433d00800000000000000
+      internalID: 951191649727372911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_191
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 188
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b302d9844cccf0800000000000000
+      internalID: -230734122178071479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_192
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 163
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec3b58f16d212cd0800000000000000
+      internalID: -2584734812332147487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_193
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 163
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed30b46c5070e600800000000000000
+      internalID: 495519501139328490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_194
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 163
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9559519246b440800000000000000
+      internalID: 4951218032376912720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_195
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 163
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f057140ca276940800000000000000
+      internalID: 5289243292590215055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_196
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 163
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51910b5fa9df6220800000000000000
+      internalID: 2481441266873766238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_197
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 188
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e444c0e66f127120800000000000000
+      internalID: 2410023277314720994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_198
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 163
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecccdd3cdd71ecd0800000000000000
+      internalID: -2530603130721350423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_199
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 163
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2eb0e0527d2c510800000000000000
+      internalID: 1568052174427775712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_200
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 163
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3af39076cdb7550800000000000000
+      internalID: 6159759250454193101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_201
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 163
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c86c1f676a36020800000000000000
+      internalID: 2333892061700721784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_202
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 162
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639c3bd853da8ad0800000000000000
+      internalID: -2699112648066428062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_203
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc714ec788e08ef0800000000000000
+      internalID: -107830721078264633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_204
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 57
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196dcbf0b770c2c30800000000000000
+      internalID: 4335848766377350801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_205
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 57
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce362a3c71f3a7be0800000000000000
+      internalID: -1478800156338789396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_206
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bf7dd3351348c40800000000000000
+      internalID: 5513586077397941009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_207
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 81
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c123d502c150970800000000000000
+      internalID: 8720407178800929806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 57
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c44be7f5a50440f0800000000000000
+      internalID: -1133774995803388733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_209
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504548df5ca92040800000000000000
+      internalID: 4623416020122812496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_210
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 57
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1387edcd20fd35640800000000000000
+      internalID: 5067639209110435889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_211
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 57
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c934671c1c5a5ad0800000000000000
+      internalID: -2712754549816018496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_212
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 49
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db8a930b8c365a20800000000000000
+      internalID: 3050692365348670420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_213
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 48
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd841b3566b71a0800000000000000
+      internalID: -6810737501825082331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_214
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac039e7515264d0800000000000000
+      internalID: -3142860151934891398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_215
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 57
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b1e6d52df717520800000000000000
+      internalID: 2698078193258994549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_216
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 57
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4dd14203ebf4010800000000000000
+      internalID: 1175367141740631268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_217
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 81
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c6be740a43f90a0800000000000000
+      internalID: -6872716643338064787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_218
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 57
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d9379d8b1f8450800000000000000
+      internalID: 6093119115797058827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_219
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 57
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3655a4057edb27570800000000000000
+      internalID: 8463035450964727139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_220
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1366f044d2ecb610800000000000000
+      internalID: 1638433765706851103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_221
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 57
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f340c9d72cf614f0800000000000000
+      internalID: -858221430880320521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_222
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d430411f9a95a0800000000000000
+      internalID: -6513719014597537533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_223
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d133dcf9a1773d6a0800000000000000
+      internalID: -6425661287093685475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_224
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 57
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b3326d22228fe00800000000000000
+      internalID: 1078649643772099374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_225
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 57
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfc62281eeea4430800000000000000
+      internalID: 3768086690567475127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_226
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 82
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585266aa588bb4460800000000000000
+      internalID: 7227072911275074949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_227
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 57
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f96847bc1d3c150800000000000000
+      internalID: 5891783409294286719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_228
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3acfbe844cd83c40800000000000000
+      internalID: 5492381932589140538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_229
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 57
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dddb58ece126f60800000000000000
+      internalID: 8026011358283554160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_230
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 57
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a431343e461a660800000000000000
+      internalID: 7395302990364756576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_231
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4135ce694f6fd900800000000000000
+      internalID: 711409627329540429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_232
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 57
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1259444f9c6b8d60800000000000000
+      internalID: 7893522203198181919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_233
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 57
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37468d5ad28734a40800000000000000
+      internalID: 5351252919697564787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_234
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eed19b32e156c720800000000000000
+      internalID: 2866068244971773664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_235
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 57
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a99ebc545efd1a0800000000000000
+      internalID: -6782450425860089333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_236
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 57
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6322ce8b5e52c30800000000000000
+      internalID: 4334122798812378844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_237
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0f9e3f7cead8e20800000000000000
+      internalID: 3354529471274807484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_238
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 57
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068eb4691ea6dde10800000000000000
+      internalID: 2224051308112636000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_239
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be590e6058ea93ee0800000000000000
+      internalID: -1280800732640930325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inicio_Text_240
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 56
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e0f185b7a4bd40800000000000000
+      internalID: 5599284634739336053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inicio_Text_0: -7647868983026758738
+      Inicio_Text_1: 95015737528414940
+      Inicio_Text_10: 2615198810891363702
+      Inicio_Text_100: -5030489545367351068
+      Inicio_Text_101: -3375673233137997748
+      Inicio_Text_102: -8183487160852905794
+      Inicio_Text_103: 8963490086552333753
+      Inicio_Text_104: -1646601328231544610
+      Inicio_Text_105: 4328238329899259748
+      Inicio_Text_106: -858977718372604593
+      Inicio_Text_107: -4495970570077539187
+      Inicio_Text_108: 2530916726375807833
+      Inicio_Text_109: 526712857769842722
+      Inicio_Text_11: 7270254526027436034
+      Inicio_Text_110: 3475820882728990477
+      Inicio_Text_111: -6856626999574275839
+      Inicio_Text_112: 3562500652936055120
+      Inicio_Text_113: 1888641804249487063
+      Inicio_Text_114: 6450971536204940336
+      Inicio_Text_115: 3838694937108738373
+      Inicio_Text_116: -8364954460599044468
+      Inicio_Text_117: 4892187656180407616
+      Inicio_Text_118: 8551460760257525167
+      Inicio_Text_119: 1723546554310476745
+      Inicio_Text_12: -2613056708749849880
+      Inicio_Text_120: -4459683476438626226
+      Inicio_Text_121: -8440372584703549185
+      Inicio_Text_122: 7950939736503922460
+      Inicio_Text_123: 369545133782806319
+      Inicio_Text_124: 6236821908533141486
+      Inicio_Text_125: -1303600958535084660
+      Inicio_Text_126: 6171714976971166602
+      Inicio_Text_127: -5828758074535270406
+      Inicio_Text_128: 1031686640132708914
+      Inicio_Text_129: 3203014690795310262
+      Inicio_Text_13: 6128339813664890608
+      Inicio_Text_130: -5057982618260312504
+      Inicio_Text_131: 236047848847452641
+      Inicio_Text_132: 6540359772479383433
+      Inicio_Text_133: 7660776264383467813
+      Inicio_Text_134: -8972990147069539474
+      Inicio_Text_135: -3450692803400650561
+      Inicio_Text_136: -6270797035772178113
+      Inicio_Text_137: 4178062047099240121
+      Inicio_Text_138: -987346880314223175
+      Inicio_Text_139: 2798764142145381779
+      Inicio_Text_14: -9002370155715527517
+      Inicio_Text_140: 3810844679014534848
+      Inicio_Text_141: -3088543916672089500
+      Inicio_Text_142: -63472712461189847
+      Inicio_Text_143: -4056001377974169551
+      Inicio_Text_144: 4826218063014700682
+      Inicio_Text_145: -5513113709803234277
+      Inicio_Text_146: -6472143464130081344
+      Inicio_Text_147: 2495444879710054495
+      Inicio_Text_148: 3321168841272665841
+      Inicio_Text_149: 1486526293494301795
+      Inicio_Text_15: 5764505178978401375
+      Inicio_Text_150: 4162128495922241494
+      Inicio_Text_151: -1560293283620938949
+      Inicio_Text_152: 3252604732270326912
+      Inicio_Text_153: -1575761549819250961
+      Inicio_Text_154: -971499670633900612
+      Inicio_Text_155: 4445427508273455334
+      Inicio_Text_156: 6774477811568953693
+      Inicio_Text_157: -4763646767597118580
+      Inicio_Text_158: 7799713409169418044
+      Inicio_Text_159: -7450965503081621752
+      Inicio_Text_16: -264032052120910892
+      Inicio_Text_160: 5160789289091592833
+      Inicio_Text_161: -3902931884449320006
+      Inicio_Text_162: 3137811148200810999
+      Inicio_Text_163: 7869775657720928493
+      Inicio_Text_164: 6606369004337299313
+      Inicio_Text_165: 166583915888495590
+      Inicio_Text_166: -3103114115694910012
+      Inicio_Text_167: -925703230671912875
+      Inicio_Text_168: 1533500996568680333
+      Inicio_Text_169: -6508812095997222195
+      Inicio_Text_17: 5038848333456262274
+      Inicio_Text_170: -4739339210095389692
+      Inicio_Text_171: 5885705033459287651
+      Inicio_Text_172: -1162152870972015019
+      Inicio_Text_173: -8354891712976901652
+      Inicio_Text_174: -1498021955108239949
+      Inicio_Text_175: -6928512022584030389
+      Inicio_Text_176: -7687393376925064410
+      Inicio_Text_177: 8505490481167951953
+      Inicio_Text_178: -466481575966822631
+      Inicio_Text_179: -6646349372003191000
+      Inicio_Text_18: -2719214144062908848
+      Inicio_Text_180: -905318363884664452
+      Inicio_Text_181: 201864513374831005
+      Inicio_Text_182: 7178746289578725513
+      Inicio_Text_183: -6897605107134462185
+      Inicio_Text_184: 5198174944354020380
+      Inicio_Text_185: 4410324391584600714
+      Inicio_Text_186: 270510023980793273
+      Inicio_Text_187: -4387226543114501314
+      Inicio_Text_188: -4156046012963597062
+      Inicio_Text_189: 8221366906578363760
+      Inicio_Text_19: -4904514051144820284
+      Inicio_Text_190: 951191649727372911
+      Inicio_Text_191: -230734122178071479
+      Inicio_Text_192: -2584734812332147487
+      Inicio_Text_193: 495519501139328490
+      Inicio_Text_194: 4951218032376912720
+      Inicio_Text_195: 5289243292590215055
+      Inicio_Text_196: 2481441266873766238
+      Inicio_Text_197: 2410023277314720994
+      Inicio_Text_198: -2530603130721350423
+      Inicio_Text_199: 1568052174427775712
+      Inicio_Text_2: 592993573371002300
+      Inicio_Text_20: -7365729326332492575
+      Inicio_Text_200: 6159759250454193101
+      Inicio_Text_201: 2333892061700721784
+      Inicio_Text_202: -2699112648066428062
+      Inicio_Text_203: -107830721078264633
+      Inicio_Text_204: 4335848766377350801
+      Inicio_Text_205: -1478800156338789396
+      Inicio_Text_206: 5513586077397941009
+      Inicio_Text_207: 8720407178800929806
+      Inicio_Text_208: -1133774995803388733
+      Inicio_Text_209: 4623416020122812496
+      Inicio_Text_21: 6756013063209366612
+      Inicio_Text_210: 5067639209110435889
+      Inicio_Text_211: -2712754549816018496
+      Inicio_Text_212: 3050692365348670420
+      Inicio_Text_213: -6810737501825082331
+      Inicio_Text_214: -3142860151934891398
+      Inicio_Text_215: 2698078193258994549
+      Inicio_Text_216: 1175367141740631268
+      Inicio_Text_217: -6872716643338064787
+      Inicio_Text_218: 6093119115797058827
+      Inicio_Text_219: 8463035450964727139
+      Inicio_Text_22: -4768948699803344498
+      Inicio_Text_220: 1638433765706851103
+      Inicio_Text_221: -858221430880320521
+      Inicio_Text_222: -6513719014597537533
+      Inicio_Text_223: -6425661287093685475
+      Inicio_Text_224: 1078649643772099374
+      Inicio_Text_225: 3768086690567475127
+      Inicio_Text_226: 7227072911275074949
+      Inicio_Text_227: 5891783409294286719
+      Inicio_Text_228: 5492381932589140538
+      Inicio_Text_229: 8026011358283554160
+      Inicio_Text_23: 5532909926500143141
+      Inicio_Text_230: 7395302990364756576
+      Inicio_Text_231: 711409627329540429
+      Inicio_Text_232: 7893522203198181919
+      Inicio_Text_233: 5351252919697564787
+      Inicio_Text_234: 2866068244971773664
+      Inicio_Text_235: -6782450425860089333
+      Inicio_Text_236: 4334122798812378844
+      Inicio_Text_237: 3354529471274807484
+      Inicio_Text_238: 2224051308112636000
+      Inicio_Text_239: -1280800732640930325
+      Inicio_Text_24: -5436672811490792378
+      Inicio_Text_240: 5599284634739336053
+      Inicio_Text_25: 1460165450900393134
+      Inicio_Text_26: -3652430886701102354
+      Inicio_Text_27: -977248883933808608
+      Inicio_Text_28: 6864099257952966127
+      Inicio_Text_29: 2750906487063990456
+      Inicio_Text_3: -5031548373220448291
+      Inicio_Text_30: -3220707826304982434
+      Inicio_Text_31: 3508299321201433555
+      Inicio_Text_32: -291326890037728729
+      Inicio_Text_33: 2947550067498400700
+      Inicio_Text_34: -325044811552484508
+      Inicio_Text_35: -5508185878860447374
+      Inicio_Text_36: -3176675638825646050
+      Inicio_Text_37: 575453999195858200
+      Inicio_Text_38: 1767674207275721901
+      Inicio_Text_39: -3929975248668108015
+      Inicio_Text_4: -8512210695072538899
+      Inicio_Text_40: -3228379132470402633
+      Inicio_Text_41: 33420670412831785
+      Inicio_Text_42: 6872019368246622935
+      Inicio_Text_43: 7073010825811615355
+      Inicio_Text_44: 9155308934461912985
+      Inicio_Text_45: 2883892751676205658
+      Inicio_Text_46: -5123010499405074873
+      Inicio_Text_47: -5190041669499925435
+      Inicio_Text_48: 5988233501621837145
+      Inicio_Text_49: -1005803185894901184
+      Inicio_Text_5: 1753363637698095327
+      Inicio_Text_50: 8904177468014535829
+      Inicio_Text_51: 8607393433084133879
+      Inicio_Text_52: -2617734735106386435
+      Inicio_Text_53: 6389574543161321635
+      Inicio_Text_54: 2266817369658440035
+      Inicio_Text_55: -869749623728647100
+      Inicio_Text_56: 2553094279675606419
+      Inicio_Text_57: -2428058250101882090
+      Inicio_Text_58: 6609955830248835566
+      Inicio_Text_59: 2093786395722138843
+      Inicio_Text_6: 706464472915283248
+      Inicio_Text_60: 1515562045498383355
+      Inicio_Text_61: -8486439521565791223
+      Inicio_Text_62: -6156597371424832670
+      Inicio_Text_63: 262514878500305775
+      Inicio_Text_64: 4492938134698550657
+      Inicio_Text_65: -2197738066112330060
+      Inicio_Text_66: -3757624058897092764
+      Inicio_Text_67: -4314026107844349846
+      Inicio_Text_68: 290376999370500154
+      Inicio_Text_69: -5163761105975278807
+      Inicio_Text_7: 116845228698232075
+      Inicio_Text_70: 6290756042592904869
+      Inicio_Text_71: -909152708380005950
+      Inicio_Text_72: 1783385462210867388
+      Inicio_Text_73: 8205986536284068328
+      Inicio_Text_74: 1125871702306276427
+      Inicio_Text_75: 1976364949149914417
+      Inicio_Text_76: 4188935029971067641
+      Inicio_Text_77: -1674341417065148361
+      Inicio_Text_78: -4455004025665354114
+      Inicio_Text_79: -8296687657764487283
+      Inicio_Text_8: 1752771424890455035
+      Inicio_Text_80: -4917347901029884105
+      Inicio_Text_81: -6408316450018527604
+      Inicio_Text_82: -1884161185481414256
+      Inicio_Text_83: -4068345888303346787
+      Inicio_Text_84: -7471736224291622702
+      Inicio_Text_85: -431720908949474431
+      Inicio_Text_86: 5056731696149881060
+      Inicio_Text_87: -3573407374606152809
+      Inicio_Text_88: 4939312732023005605
+      Inicio_Text_89: 4884918144584532575
+      Inicio_Text_9: 620459325725717339
+      Inicio_Text_90: 3665054549201866451
+      Inicio_Text_91: -413431045145652359
+      Inicio_Text_92: -404984498845552947
+      Inicio_Text_93: 279286566820378475
+      Inicio_Text_94: -2566683462436493015
+      Inicio_Text_95: 3164831252778057584
+      Inicio_Text_96: -8330594712126237289
+      Inicio_Text_97: -2379553802507115213
+      Inicio_Text_98: 6714499981170092401
+      Inicio_Text_99: 8655017091735837557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: d31d01823ee28564cbedc60fab00e5e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2329278692775143825
+    second: Emprendedor_Parrafo_0
+  - first:
+      213: -3955784089668275554
+    second: Emprendedor_Parrafo_1
+  - first:
+      213: 7652322331180138867
+    second: Emprendedor_Parrafo_2
+  - first:
+      213: -8303400867111209051
+    second: Emprendedor_Parrafo_3
+  - first:
+      213: -1858043781281840123
+    second: Emprendedor_Parrafo_4
+  - first:
+      213: -906718565789815146
+    second: Emprendedor_Parrafo_5
+  - first:
+      213: -6827557243124651420
+    second: Emprendedor_Parrafo_6
+  - first:
+      213: 6074805518150552710
+    second: Emprendedor_Parrafo_7
+  - first:
+      213: -684601423190252812
+    second: Emprendedor_Parrafo_8
+  - first:
+      213: 5846282689827215691
+    second: Emprendedor_Parrafo_9
+  - first:
+      213: -2078405399212562244
+    second: Emprendedor_Parrafo_10
+  - first:
+      213: -1238941208899676281
+    second: Emprendedor_Parrafo_11
+  - first:
+      213: -8484847567384925966
+    second: Emprendedor_Parrafo_12
+  - first:
+      213: -1394937075237660411
+    second: Emprendedor_Parrafo_13
+  - first:
+      213: 5048410708838387313
+    second: Emprendedor_Parrafo_14
+  - first:
+      213: -5914289336234078702
+    second: Emprendedor_Parrafo_15
+  - first:
+      213: -151487545657390176
+    second: Emprendedor_Parrafo_16
+  - first:
+      213: 7728124825560049278
+    second: Emprendedor_Parrafo_17
+  - first:
+      213: -5266415317151644027
+    second: Emprendedor_Parrafo_18
+  - first:
+      213: -5826182462708860992
+    second: Emprendedor_Parrafo_19
+  - first:
+      213: -6476985589044951567
+    second: Emprendedor_Parrafo_20
+  - first:
+      213: 5279238425507447411
+    second: Emprendedor_Parrafo_21
+  - first:
+      213: -581427960185317474
+    second: Emprendedor_Parrafo_22
+  - first:
+      213: 7520816438726174085
+    second: Emprendedor_Parrafo_23
+  - first:
+      213: -7074208643512866345
+    second: Emprendedor_Parrafo_24
+  - first:
+      213: -140135942179710921
+    second: Emprendedor_Parrafo_25
+  - first:
+      213: -3336731221910062525
+    second: Emprendedor_Parrafo_26
+  - first:
+      213: -938716790911552535
+    second: Emprendedor_Parrafo_27
+  - first:
+      213: 1056516804140875278
+    second: Emprendedor_Parrafo_28
+  - first:
+      213: 3541514419832444652
+    second: Emprendedor_Parrafo_29
+  - first:
+      213: -548496574537590790
+    second: Emprendedor_Parrafo_30
+  - first:
+      213: -1906326077250454298
+    second: Emprendedor_Parrafo_31
+  - first:
+      213: 2305238621454081053
+    second: Emprendedor_Parrafo_32
+  - first:
+      213: -576306985341148535
+    second: Emprendedor_Parrafo_33
+  - first:
+      213: -3248950649994958601
+    second: Emprendedor_Parrafo_34
+  - first:
+      213: -3302932878390173151
+    second: Emprendedor_Parrafo_35
+  - first:
+      213: 3308687669647222976
+    second: Emprendedor_Parrafo_36
+  - first:
+      213: 625796225966875014
+    second: Emprendedor_Parrafo_37
+  - first:
+      213: 8213923088077698357
+    second: Emprendedor_Parrafo_38
+  - first:
+      213: 3869513491033528465
+    second: Emprendedor_Parrafo_39
+  - first:
+      213: -4098896931350352795
+    second: Emprendedor_Parrafo_40
+  - first:
+      213: -166842140730458792
+    second: Emprendedor_Parrafo_41
+  - first:
+      213: -7006788530725228884
+    second: Emprendedor_Parrafo_42
+  - first:
+      213: 4905272407846345102
+    second: Emprendedor_Parrafo_43
+  - first:
+      213: -4354791316353126770
+    second: Emprendedor_Parrafo_44
+  - first:
+      213: -293652808453894060
+    second: Emprendedor_Parrafo_45
+  - first:
+      213: 5246927396156759081
+    second: Emprendedor_Parrafo_46
+  - first:
+      213: 2331730385704990140
+    second: Emprendedor_Parrafo_47
+  - first:
+      213: -5323065637089076659
+    second: Emprendedor_Parrafo_48
+  - first:
+      213: 2417883062973858005
+    second: Emprendedor_Parrafo_49
+  - first:
+      213: -7144657947287101418
+    second: Emprendedor_Parrafo_50
+  - first:
+      213: 7601629806060837221
+    second: Emprendedor_Parrafo_51
+  - first:
+      213: -7561330974437395441
+    second: Emprendedor_Parrafo_52
+  - first:
+      213: 2764339915411051690
+    second: Emprendedor_Parrafo_53
+  - first:
+      213: 3962524112892469873
+    second: Emprendedor_Parrafo_54
+  - first:
+      213: -2734508452113668859
+    second: Emprendedor_Parrafo_55
+  - first:
+      213: 4805989117149928810
+    second: Emprendedor_Parrafo_56
+  - first:
+      213: -3955721154369833436
+    second: Emprendedor_Parrafo_57
+  - first:
+      213: -8865055201527500170
+    second: Emprendedor_Parrafo_58
+  - first:
+      213: -2966842331259113757
+    second: Emprendedor_Parrafo_59
+  - first:
+      213: -3275466681378674178
+    second: Emprendedor_Parrafo_60
+  - first:
+      213: -9046317666499055102
+    second: Emprendedor_Parrafo_61
+  - first:
+      213: 2620311610175872591
+    second: Emprendedor_Parrafo_62
+  - first:
+      213: -3033189076512964435
+    second: Emprendedor_Parrafo_63
+  - first:
+      213: 7200618569025113971
+    second: Emprendedor_Parrafo_64
+  - first:
+      213: -3010979445800637634
+    second: Emprendedor_Parrafo_65
+  - first:
+      213: 4823062533591034031
+    second: Emprendedor_Parrafo_66
+  - first:
+      213: -1518982045658966250
+    second: Emprendedor_Parrafo_67
+  - first:
+      213: 1044705414244772186
+    second: Emprendedor_Parrafo_68
+  - first:
+      213: 418794931971093453
+    second: Emprendedor_Parrafo_69
+  - first:
+      213: 6128842008608121364
+    second: Emprendedor_Parrafo_70
+  - first:
+      213: 5822306649079611319
+    second: Emprendedor_Parrafo_71
+  - first:
+      213: 2773097609326281444
+    second: Emprendedor_Parrafo_72
+  - first:
+      213: -2059390789642956917
+    second: Emprendedor_Parrafo_73
+  - first:
+      213: -4002556741463213423
+    second: Emprendedor_Parrafo_74
+  - first:
+      213: -6618715838640731874
+    second: Emprendedor_Parrafo_75
+  - first:
+      213: -8921015401330018887
+    second: Emprendedor_Parrafo_76
+  - first:
+      213: 5341739529772826952
+    second: Emprendedor_Parrafo_77
+  - first:
+      213: 7792630345475965348
+    second: Emprendedor_Parrafo_78
+  - first:
+      213: 3135032561484246965
+    second: Emprendedor_Parrafo_79
+  - first:
+      213: -8974148478910991421
+    second: Emprendedor_Parrafo_80
+  - first:
+      213: 5706381610642069996
+    second: Emprendedor_Parrafo_81
+  - first:
+      213: 2022615336943905656
+    second: Emprendedor_Parrafo_82
+  - first:
+      213: -5100394804261296094
+    second: Emprendedor_Parrafo_83
+  - first:
+      213: -3394167283603615414
+    second: Emprendedor_Parrafo_84
+  - first:
+      213: 5034425790955851808
+    second: Emprendedor_Parrafo_85
+  - first:
+      213: -3936721688578147271
+    second: Emprendedor_Parrafo_86
+  - first:
+      213: 9076002783502929902
+    second: Emprendedor_Parrafo_87
+  - first:
+      213: 8130788309465854629
+    second: Emprendedor_Parrafo_88
+  - first:
+      213: -4692854214276470399
+    second: Emprendedor_Parrafo_89
+  - first:
+      213: -4789098773470221435
+    second: Emprendedor_Parrafo_90
+  - first:
+      213: 479913989573472880
+    second: Emprendedor_Parrafo_91
+  - first:
+      213: -6543309645463349974
+    second: Emprendedor_Parrafo_92
+  - first:
+      213: -6223210881431280735
+    second: Emprendedor_Parrafo_93
+  - first:
+      213: 258100731104620287
+    second: Emprendedor_Parrafo_94
+  - first:
+      213: 5778458406888478699
+    second: Emprendedor_Parrafo_95
+  - first:
+      213: -2576449301154051427
+    second: Emprendedor_Parrafo_96
+  - first:
+      213: -5668148972752613137
+    second: Emprendedor_Parrafo_97
+  - first:
+      213: 2544744301307971342
+    second: Emprendedor_Parrafo_98
+  - first:
+      213: 7473298850832070600
+    second: Emprendedor_Parrafo_99
+  - first:
+      213: -1126849018674652698
+    second: Emprendedor_Parrafo_100
+  - first:
+      213: -4189937420103008806
+    second: Emprendedor_Parrafo_101
+  - first:
+      213: -7660051344802613418
+    second: Emprendedor_Parrafo_102
+  - first:
+      213: -4799838258569146754
+    second: Emprendedor_Parrafo_103
+  - first:
+      213: -2037817244781464833
+    second: Emprendedor_Parrafo_104
+  - first:
+      213: 8203419267312470265
+    second: Emprendedor_Parrafo_105
+  - first:
+      213: 8682420428408378812
+    second: Emprendedor_Parrafo_106
+  - first:
+      213: -1584432158037953745
+    second: Emprendedor_Parrafo_107
+  - first:
+      213: -787508484504586364
+    second: Emprendedor_Parrafo_108
+  - first:
+      213: 4790100040013646764
+    second: Emprendedor_Parrafo_109
+  - first:
+      213: 7848343077033656182
+    second: Emprendedor_Parrafo_110
+  - first:
+      213: -821184075835375646
+    second: Emprendedor_Parrafo_111
+  - first:
+      213: 1687912741232486648
+    second: Emprendedor_Parrafo_112
+  - first:
+      213: 8412034846145027979
+    second: Emprendedor_Parrafo_113
+  - first:
+      213: -8699899294276650593
+    second: Emprendedor_Parrafo_114
+  - first:
+      213: 1811548586958505354
+    second: Emprendedor_Parrafo_115
+  - first:
+      213: 8829228193037738675
+    second: Emprendedor_Parrafo_116
+  - first:
+      213: -3221820608447415280
+    second: Emprendedor_Parrafo_117
+  - first:
+      213: 5821593326772694703
+    second: Emprendedor_Parrafo_118
+  - first:
+      213: 2574872833279830455
+    second: Emprendedor_Parrafo_119
+  - first:
+      213: 212274502943381896
+    second: Emprendedor_Parrafo_120
+  - first:
+      213: -4067630308903325045
+    second: Emprendedor_Parrafo_121
+  - first:
+      213: 1456733898479999399
+    second: Emprendedor_Parrafo_122
+  - first:
+      213: 380065549889630998
+    second: Emprendedor_Parrafo_123
+  - first:
+      213: 2013020078267341741
+    second: Emprendedor_Parrafo_124
+  - first:
+      213: -3804501699642131567
+    second: Emprendedor_Parrafo_125
+  - first:
+      213: 2741622805764023873
+    second: Emprendedor_Parrafo_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199afb941a2435020800000000000000
+      internalID: 2329278692775143825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 158
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e923e2f345b3a19c0800000000000000
+      internalID: -3955784089668275554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37108c0dd92823a60800000000000000
+      internalID: 7652322331180138867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 158
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a77a2897e464cc80800000000000000
+      internalID: -8303400867111209051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50482977607e636e0800000000000000
+      internalID: -1858043781281840123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 158
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ea8d6b440ba63f0800000000000000
+      internalID: -906718565789815146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ae8ef7cd4af31a0800000000000000
+      internalID: -6827557243124651420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 158
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c42fcde6b0e4450800000000000000
+      internalID: 6074805518150552710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 158
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2a40ef1aecf76f0800000000000000
+      internalID: -684601423190252812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 158
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b499aa7a12b222150800000000000000
+      internalID: 5846282689827215691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 159
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb86ea02d450823e0800000000000000
+      internalID: -2078405399212562244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78711f1e8856ecee0800000000000000
+      internalID: -1238941208899676281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f82fa49714cf3a80800000000000000
+      internalID: -8484847567384925966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 158
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509df6aee1034ace0800000000000000
+      internalID: -1394937075237660411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e0794cace8f0640800000000000000
+      internalID: 5048410708838387313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 149
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e03e61f293ceda0800000000000000
+      internalID: -5914289336234078702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 158
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab023d31eec5edf0800000000000000
+      internalID: -151487545657390176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_17
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 158
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76626f5590df3b60800000000000000
+      internalID: 7728124825560049278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 158
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860085fb2fe9e6b0800000000000000
+      internalID: -5266415317151644027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7b0a92bed352fa0800000000000000
+      internalID: -5826182462708860992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_20
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 158
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5c6ad5cef1d16a0800000000000000
+      internalID: -6476985589044951567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_21
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 158
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c6fc906f934940800000000000000
+      internalID: 5279238425507447411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_22
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 182
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e979caac95a5ee7f0800000000000000
+      internalID: -581427960185317474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 159
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585213b34be4f5860800000000000000
+      internalID: 7520816438726174085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_24
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 158
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ea6038bc53dd90800000000000000
+      internalID: -7074208643512866345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_25
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 158
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7381d126a132e0ef0800000000000000
+      internalID: -140135942179710921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_26
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 158
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a7817e1ac81b1d0800000000000000
+      internalID: -3336731221910062525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_27
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 159
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3b50d5d0209f2f0800000000000000
+      internalID: -938716790911552535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_28
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 158
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e3c0a8f6089ae00800000000000000
+      internalID: 1056516804140875278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 153
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65901e99cf52130800000000000000
+      internalID: 3541514419832444652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af71b2285495368f0800000000000000
+      internalID: -548496574537590790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3c6b688e5b85e0800000000000000
+      internalID: -1906326077250454298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1842005addff10800000000000000
+      internalID: 2305238621454081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 105
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9822a29a9db8008f0800000000000000
+      internalID: -576306985341148535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a646f89869e2d0800000000000000
+      internalID: -3248950649994958601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122689afb00a922d0800000000000000
+      internalID: -3302932878390173151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8a906c7e1daed20800000000000000
+      internalID: 3308687669647222976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68129861a564fa800800000000000000
+      internalID: 625796225966875014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53530458787bdf170800000000000000
+      internalID: 8213923088077698357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_39
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 105
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19892aeb40643b530800000000000000
+      internalID: 3869513491033528465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c6ce335facd17c0800000000000000
+      internalID: -4098896931350352795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85df13cf4f14fadf0800000000000000
+      internalID: -166842140730458792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_42
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 106
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae67d174f2e2ce90800000000000000
+      internalID: -7006788530725228884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89d4340447031440800000000000000
+      internalID: 4905272407846345102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_44
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ee0d5de5ca093c0800000000000000
+      internalID: -4354791316353126770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 105
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505fc8935cbcebf0800000000000000
+      internalID: -293652808453894060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c503adaa4d0d840800000000000000
+      internalID: 5246927396156759081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_47
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53ee78e68fb5020800000000000000
+      internalID: 2331730385704990140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_48
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a9731810ca026b0800000000000000
+      internalID: -5323065637089076659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_49
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 105
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d08df4d5db0e8120800000000000000
+      internalID: 2417883062973858005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_50
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 105
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610e742737319dc90800000000000000
+      internalID: -7144657947287101418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_51
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 106
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5691740980a6e7960800000000000000
+      internalID: 7601629806060837221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_52
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0430875a81c01790800000000000000
+      internalID: -7561330974437395441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_53
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 106
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa45288c188ec5620800000000000000
+      internalID: 2764339915411051690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_54
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17220e2bfa6bdf630800000000000000
+      internalID: 3962524112892469873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_55
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50526740d031d0ad0800000000000000
+      internalID: -2734508452113668859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 105
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d5d1a83ad42b240800000000000000
+      internalID: 4805989117149928810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 106
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b94381947a19c0800000000000000
+      internalID: -3955721154369833436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 106
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67279b6634ff8f480800000000000000
+      internalID: -8865055201527500170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_59
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 106
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee65b46e98a3d6d0800000000000000
+      internalID: -2966842331259113757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 106
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ebce48643b82d0800000000000000
+      internalID: -3275466681378674178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 98
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202bbf20306057280800000000000000
+      internalID: -9046317666499055102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_62
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 106
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e5d55c6873d5420800000000000000
+      internalID: 2620311610175872591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_63
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 106
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da089ddfa92f7e5d0800000000000000
+      internalID: -3033189076512964435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_64
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 106
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fc2d1207cbde360800000000000000
+      internalID: 7200618569025113971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 105
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bec0b952ad636d0800000000000000
+      internalID: -3010979445800637634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_66
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 106
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8603412d5fee240800000000000000
+      internalID: 4823062533591034031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171d4c90ed7beae0800000000000000
+      internalID: -1518982045658966250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59acf60a0a8f7e00800000000000000
+      internalID: 1044705414244772186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3fed195cbdfc500800000000000000
+      internalID: 418794931971093453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4122497b5550e0550800000000000000
+      internalID: 6128842008608121364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_71
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bff8c7ac0dfcc050800000000000000
+      internalID: 5822306649079611319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 53
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2c06b45950c7620800000000000000
+      internalID: 2773097609326281444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_73
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fce99ecf29b63e0800000000000000
+      internalID: -2059390789642956917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 43
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a7dbf99df0478c0800000000000000
+      internalID: -4002556741463213423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_75
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19419023099524a0800000000000000
+      internalID: -6618715838640731874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 52
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b57fef02cf223480800000000000000
+      internalID: -8921015401330018887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 44
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84185c2fccba12a40800000000000000
+      internalID: 5341739529772826952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_78
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a14608130cf42c60800000000000000
+      internalID: 7792630345475965348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf2d8a218fd18b20800000000000000
+      internalID: 3135032561484246965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_80
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 52
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3f5e8618b657380800000000000000
+      internalID: -8974148478910991421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_81
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 78
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9542757d3213f40800000000000000
+      internalID: 5706381610642069996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_82
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b6cc3cee5c11c10800000000000000
+      internalID: 2022615336943905656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_83
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 53
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e1c5d2f1c739b0800000000000000
+      internalID: -5100394804261296094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_84
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41dd80b6de75e0d0800000000000000
+      internalID: -3394167283603615414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_85
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 44
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0201df5559fddd540800000000000000
+      internalID: 5034425790955851808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_86
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c39bc5b74fd59c0800000000000000
+      internalID: -3936721688578147271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_87
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 52
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef0623e17074fd70800000000000000
+      internalID: 9076002783502929902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_88
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27c9183ec56d070800000000000000
+      internalID: 8130788309465854629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_89
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 52
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1892b57b4f1afdeb0800000000000000
+      internalID: -4692854214276470399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_90
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 52
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b6c0d0a04b98db0800000000000000
+      internalID: -4789098773470221435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_91
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07274471b3ff8a600800000000000000
+      internalID: 479913989573472880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2515ce9b8e7135a0800000000000000
+      internalID: -6543309645463349974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 53
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a361f1eca6b2a9a0800000000000000
+      internalID: -6223210881431280735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_94
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 52
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe62c95f35f49300800000000000000
+      internalID: 258100731104620287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_95
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 45
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be715f33e45313050800000000000000
+      internalID: 5778458406888478699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_96
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 53
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac8eed20d9e3cd0800000000000000
+      internalID: -2576449301154051427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_97
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 53
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0d5195a80b651b0800000000000000
+      internalID: -5668148972752613137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_98
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 52
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0749ab957fb05320800000000000000
+      internalID: 2544744301307971342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_99
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73e28a5bd76b760800000000000000
+      internalID: 7473298850832070600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_100
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9566ea9c0ac50f0800000000000000
+      internalID: -1126849018674652698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb4ab9d1a5ad5c0800000000000000
+      internalID: -4189937420103008806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_102
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65779c7f2e702b590800000000000000
+      internalID: -7660051344802613418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_103
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e08a2d88c836db0800000000000000
+      internalID: -4799838258569146754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_104
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b2af330838b3e0800000000000000
+      internalID: -2037817244781464833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_105
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f841cb2c5668d170800000000000000
+      internalID: 8203419267312470265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_106
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb550e1d0672e7870800000000000000
+      internalID: 8682420428408378812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233171d857f20ae0800000000000000
+      internalID: -1584432158037953745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_108
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4877f7ba4353215f0800000000000000
+      internalID: -787508484504586364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_109
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab099b7b9ad97240800000000000000
+      internalID: 4790100040013646764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_110
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fbcfd327aeaec60800000000000000
+      internalID: 7848343077033656182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_111
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efff901f619a94f0800000000000000
+      internalID: -821184075835375646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_112
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8a409f1bbac6710800000000000000
+      internalID: 1687912741232486648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_113
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f9eaaaf1d8db470800000000000000
+      internalID: 8412034846145027979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_114
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99f7f69fafb34780800000000000000
+      internalID: -8699899294276650593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_115
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c50387d9e32910800000000000000
+      internalID: 1811548586958505354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_116
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2e0e62348b78a70800000000000000
+      internalID: 8829228193037738675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_117
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c757ff93bc943d0800000000000000
+      internalID: -3221820608447415280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_118
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae221d59447ac050800000000000000
+      internalID: 5821593326772694703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9a2791339cbb320800000000000000
+      internalID: 2574872833279830455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_120
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88910d6298622f200800000000000000
+      internalID: 212274502943381896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_121
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82743809cfdc87c0800000000000000
+      internalID: -4067630308903325045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a99b2733cb573410800000000000000
+      internalID: 1456733898479999399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_123
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613f88c9a93464500800000000000000
+      internalID: 380065549889630998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_124
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab9ad2881fafeb10800000000000000
+      internalID: 2013020078267341741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_125
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bf57d7cd1b33bc0800000000000000
+      internalID: -3804501699642131567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emprendedor_Parrafo_126
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146aca58a633c0620800000000000000
+      internalID: 2741622805764023873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emprendedor_Parrafo_0: 2329278692775143825
+      Emprendedor_Parrafo_1: -3955784089668275554
+      Emprendedor_Parrafo_10: -2078405399212562244
+      Emprendedor_Parrafo_100: -1126849018674652698
+      Emprendedor_Parrafo_101: -4189937420103008806
+      Emprendedor_Parrafo_102: -7660051344802613418
+      Emprendedor_Parrafo_103: -4799838258569146754
+      Emprendedor_Parrafo_104: -2037817244781464833
+      Emprendedor_Parrafo_105: 8203419267312470265
+      Emprendedor_Parrafo_106: 8682420428408378812
+      Emprendedor_Parrafo_107: -1584432158037953745
+      Emprendedor_Parrafo_108: -787508484504586364
+      Emprendedor_Parrafo_109: 4790100040013646764
+      Emprendedor_Parrafo_11: -1238941208899676281
+      Emprendedor_Parrafo_110: 7848343077033656182
+      Emprendedor_Parrafo_111: -821184075835375646
+      Emprendedor_Parrafo_112: 1687912741232486648
+      Emprendedor_Parrafo_113: 8412034846145027979
+      Emprendedor_Parrafo_114: -8699899294276650593
+      Emprendedor_Parrafo_115: 1811548586958505354
+      Emprendedor_Parrafo_116: 8829228193037738675
+      Emprendedor_Parrafo_117: -3221820608447415280
+      Emprendedor_Parrafo_118: 5821593326772694703
+      Emprendedor_Parrafo_119: 2574872833279830455
+      Emprendedor_Parrafo_12: -8484847567384925966
+      Emprendedor_Parrafo_120: 212274502943381896
+      Emprendedor_Parrafo_121: -4067630308903325045
+      Emprendedor_Parrafo_122: 1456733898479999399
+      Emprendedor_Parrafo_123: 380065549889630998
+      Emprendedor_Parrafo_124: 2013020078267341741
+      Emprendedor_Parrafo_125: -3804501699642131567
+      Emprendedor_Parrafo_126: 2741622805764023873
+      Emprendedor_Parrafo_13: -1394937075237660411
+      Emprendedor_Parrafo_14: 5048410708838387313
+      Emprendedor_Parrafo_15: -5914289336234078702
+      Emprendedor_Parrafo_16: -151487545657390176
+      Emprendedor_Parrafo_17: 7728124825560049278
+      Emprendedor_Parrafo_18: -5266415317151644027
+      Emprendedor_Parrafo_19: -5826182462708860992
+      Emprendedor_Parrafo_2: 7652322331180138867
+      Emprendedor_Parrafo_20: -6476985589044951567
+      Emprendedor_Parrafo_21: 5279238425507447411
+      Emprendedor_Parrafo_22: -581427960185317474
+      Emprendedor_Parrafo_23: 7520816438726174085
+      Emprendedor_Parrafo_24: -7074208643512866345
+      Emprendedor_Parrafo_25: -140135942179710921
+      Emprendedor_Parrafo_26: -3336731221910062525
+      Emprendedor_Parrafo_27: -938716790911552535
+      Emprendedor_Parrafo_28: 1056516804140875278
+      Emprendedor_Parrafo_29: 3541514419832444652
+      Emprendedor_Parrafo_3: -8303400867111209051
+      Emprendedor_Parrafo_30: -548496574537590790
+      Emprendedor_Parrafo_31: -1906326077250454298
+      Emprendedor_Parrafo_32: 2305238621454081053
+      Emprendedor_Parrafo_33: -576306985341148535
+      Emprendedor_Parrafo_34: -3248950649994958601
+      Emprendedor_Parrafo_35: -3302932878390173151
+      Emprendedor_Parrafo_36: 3308687669647222976
+      Emprendedor_Parrafo_37: 625796225966875014
+      Emprendedor_Parrafo_38: 8213923088077698357
+      Emprendedor_Parrafo_39: 3869513491033528465
+      Emprendedor_Parrafo_4: -1858043781281840123
+      Emprendedor_Parrafo_40: -4098896931350352795
+      Emprendedor_Parrafo_41: -166842140730458792
+      Emprendedor_Parrafo_42: -7006788530725228884
+      Emprendedor_Parrafo_43: 4905272407846345102
+      Emprendedor_Parrafo_44: -4354791316353126770
+      Emprendedor_Parrafo_45: -293652808453894060
+      Emprendedor_Parrafo_46: 5246927396156759081
+      Emprendedor_Parrafo_47: 2331730385704990140
+      Emprendedor_Parrafo_48: -5323065637089076659
+      Emprendedor_Parrafo_49: 2417883062973858005
+      Emprendedor_Parrafo_5: -906718565789815146
+      Emprendedor_Parrafo_50: -7144657947287101418
+      Emprendedor_Parrafo_51: 7601629806060837221
+      Emprendedor_Parrafo_52: -7561330974437395441
+      Emprendedor_Parrafo_53: 2764339915411051690
+      Emprendedor_Parrafo_54: 3962524112892469873
+      Emprendedor_Parrafo_55: -2734508452113668859
+      Emprendedor_Parrafo_56: 4805989117149928810
+      Emprendedor_Parrafo_57: -3955721154369833436
+      Emprendedor_Parrafo_58: -8865055201527500170
+      Emprendedor_Parrafo_59: -2966842331259113757
+      Emprendedor_Parrafo_6: -6827557243124651420
+      Emprendedor_Parrafo_60: -3275466681378674178
+      Emprendedor_Parrafo_61: -9046317666499055102
+      Emprendedor_Parrafo_62: 2620311610175872591
+      Emprendedor_Parrafo_63: -3033189076512964435
+      Emprendedor_Parrafo_64: 7200618569025113971
+      Emprendedor_Parrafo_65: -3010979445800637634
+      Emprendedor_Parrafo_66: 4823062533591034031
+      Emprendedor_Parrafo_67: -1518982045658966250
+      Emprendedor_Parrafo_68: 1044705414244772186
+      Emprendedor_Parrafo_69: 418794931971093453
+      Emprendedor_Parrafo_7: 6074805518150552710
+      Emprendedor_Parrafo_70: 6128842008608121364
+      Emprendedor_Parrafo_71: 5822306649079611319
+      Emprendedor_Parrafo_72: 2773097609326281444
+      Emprendedor_Parrafo_73: -2059390789642956917
+      Emprendedor_Parrafo_74: -4002556741463213423
+      Emprendedor_Parrafo_75: -6618715838640731874
+      Emprendedor_Parrafo_76: -8921015401330018887
+      Emprendedor_Parrafo_77: 5341739529772826952
+      Emprendedor_Parrafo_78: 7792630345475965348
+      Emprendedor_Parrafo_79: 3135032561484246965
+      Emprendedor_Parrafo_8: -684601423190252812
+      Emprendedor_Parrafo_80: -8974148478910991421
+      Emprendedor_Parrafo_81: 5706381610642069996
+      Emprendedor_Parrafo_82: 2022615336943905656
+      Emprendedor_Parrafo_83: -5100394804261296094
+      Emprendedor_Parrafo_84: -3394167283603615414
+      Emprendedor_Parrafo_85: 5034425790955851808
+      Emprendedor_Parrafo_86: -3936721688578147271
+      Emprendedor_Parrafo_87: 9076002783502929902
+      Emprendedor_Parrafo_88: 8130788309465854629
+      Emprendedor_Parrafo_89: -4692854214276470399
+      Emprendedor_Parrafo_9: 5846282689827215691
+      Emprendedor_Parrafo_90: -4789098773470221435
+      Emprendedor_Parrafo_91: 479913989573472880
+      Emprendedor_Parrafo_92: -6543309645463349974
+      Emprendedor_Parrafo_93: -6223210881431280735
+      Emprendedor_Parrafo_94: 258100731104620287
+      Emprendedor_Parrafo_95: 5778458406888478699
+      Emprendedor_Parrafo_96: -2576449301154051427
+      Emprendedor_Parrafo_97: -5668148972752613137
+      Emprendedor_Parrafo_98: 2544744301307971342
+      Emprendedor_Parrafo_99: 7473298850832070600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
