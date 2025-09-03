@@ -1,4 +1,5 @@
 ﻿using dev.xrlab.photoquizz.Camera;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -9,57 +10,93 @@ namespace dev.xrlab.photoquizz.Core
         [SerializeField] private AppState state = AppState.Boot;
         public AppState State => state;
 
+        [Header("Camera")]
+        [SerializeField] private CameraManager CameraManager;
+
+        [Header("Photo Sequence")]
+        [SerializeField] private PhotoSequenceController PhotoSequence;
+
         // --- UI: Photo ---
         [Header("Photo Panel")]
         [SerializeField] private GameObject PhotoPanel;
 
         [Header("Photo Sections (01..04)")]
-        [SerializeField] private GameObject Section01;
-        [SerializeField] private GameObject Section02;
-        [SerializeField] private GameObject Section03;
-        [SerializeField] private GameObject Section04;
+        [SerializeField] private GameObject Section01; // Intro
+        [SerializeField] private GameObject Section02; // Preview + Countdown
+        [SerializeField] private GameObject Section03; // Review
+        [SerializeField] private GameObject Section04; // Ready
 
-        [Header("Camera")]
-        [SerializeField] private CameraManager CameraManager;
+        [Header("UI Elements (Section02)")]
+        [SerializeField] private GameObject TakePhotoButton;
+        [SerializeField] private GameObject CircleTimer;
+
+        [Header("Review (Section03)")]
+        [SerializeField] private Image ReviewImage1;
+        [SerializeField] private Image ReviewImage2;
+        [SerializeField] private Image ReviewImage3;
+        [SerializeField] private Image ReviewImage4;
 
         private void Awake()
         {
             SetState(AppState.Boot);
+
+            if (PhotoSequence != null)
+                PhotoSequence.OnSequenceCompleted += OnPhotosCaptured;
         }
 
         private void Start()
         {
-            OnEnterPhoto();
+            OnEnterPhotoIntro();
         }
 
         // ===== Transiciones enfocadas en Photo =====
 
-        public void OnEnterPhoto()
+        public void OnEnterPhotoIntro()
         {
-            SetState(AppState.Photo);
+            SetState(AppState.Home);
 
-            // Activar panel principal
             if (PhotoPanel) PhotoPanel.SetActive(true);
-
-            // Mostrar solo la sección 01
             ShowPhotoSection(1);
         }
 
         public void OnStartCamera()
         {
+            SetState(AppState.Preview);
+
             ShowPhotoSection(2);
             if (CameraManager) CameraManager.StartPreview();
+
+            if (TakePhotoButton) TakePhotoButton.SetActive(true);
+            if (CircleTimer) CircleTimer.SetActive(false);
         }
 
         public void OnStartPhotoSequence()
         {
-            ShowPhotoSection(3);
+            SetState(AppState.Capturing);
+
+            // Seguimos en Section02 y alternamos elementos
+            ShowPhotoSection(2);
+            if (TakePhotoButton) TakePhotoButton.SetActive(false);
+            if (CircleTimer) CircleTimer.SetActive(true);
+
+            if (PhotoSequence) PhotoSequence.StartPhotoSequence();
+        }
+        private void OnPhotosCaptured(List<Texture2D> photos)
+        {
+            Debug.Log($"[AppController] Secuencia terminada con {photos.Count} fotos");
+
+            AssignToImage(ReviewImage1, photos, 0);
+            AssignToImage(ReviewImage2, photos, 1);
+            AssignToImage(ReviewImage3, photos, 2);
+            AssignToImage(ReviewImage4, photos, 3);
+
+            OnReviewPhotos();
         }
 
-        public void CancelToPhoto()
+        public void OnReviewPhotos()
         {
-            SetState(AppState.Photo);
-            ShowPhotoSection(1);
+            SetState(AppState.Review);
+            ShowPhotoSection(3);
         }
 
         // ===== Helpers =====
@@ -82,7 +119,22 @@ namespace dev.xrlab.photoquizz.Core
 
         private void OnStateChanged(AppState newState)
         {
-            // Por ahora no hacemos más; más adelante puedes notificar a un ScreenManager
+            // Hook para sincronizar efectos globales si los necesitas después
+        }
+
+        private static void AssignToImage(Image target, System.Collections.Generic.List<Texture2D> list, int index)
+        {
+            if (!target) return;
+            if (list == null || index >= list.Count || list[index] == null)
+            {
+                target.sprite = null;
+                return;
+            }
+
+            var tex = list[index];
+            var sp = Sprite.Create(tex, new Rect(0, 0, tex.width, tex.height), new Vector2(0.5f, 0.5f), 100f);
+            target.sprite = sp;
+            target.preserveAspect = true;
         }
     }
 }
