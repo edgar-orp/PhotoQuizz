@@ -1,5 +1,7 @@
 ﻿using dev.xrlab.photoquizz.Camera;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -36,6 +38,13 @@ namespace dev.xrlab.photoquizz.Core
         [SerializeField] private Image ReviewImage3;
         [SerializeField] private Image ReviewImage4;
 
+        // --- Snapshot ---
+        [Header("Snapshot")]
+        [SerializeField] private UISnapshot Snapshot;                 // script con CaptureRectToPng(...)
+        [SerializeField] private RectTransform PhotoRef;              // contenedor a capturar (Photo_Ref)
+        [SerializeField] private UnityEngine.Camera UICamera = null;  // si tu Canvas es Overlay, deja null
+
+
         private void Awake()
         {
             SetState(AppState.Boot);
@@ -48,6 +57,13 @@ namespace dev.xrlab.photoquizz.Core
         {
             OnEnterPhotoIntro();
         }
+
+        private void OnDestroy()
+        {
+            if (PhotoSequence != null)
+                PhotoSequence.OnSequenceCompleted -= OnPhotosCaptured;
+        }
+
 
         // ===== Transiciones enfocadas en Photo =====
 
@@ -97,6 +113,16 @@ namespace dev.xrlab.photoquizz.Core
         {
             SetState(AppState.Review);
             ShowPhotoSection(3);
+
+            if (Snapshot != null && PhotoRef != null)
+            {
+                string pictures = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures);
+                string dir = Path.Combine(pictures, "xrlab.dev");
+                string stamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+                string path = Path.Combine(dir, $"photo_{stamp}.png");
+
+                StartCoroutine(Snapshot.CaptureRectToPng(PhotoRef, path, UICamera));
+            }
         }
 
         // ===== Helpers =====
