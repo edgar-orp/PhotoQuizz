@@ -7,26 +7,26 @@ namespace dev.xrlab.photoquizz.Printing
 {
     public enum FitMode { FitToPage, FitToWidth, FitToHeight, Stretch }
 
+    /// <summary>
+    /// Imprime imágenes respetando la configuración actual del driver de Windows.
+    /// - No llama a SetPrinterSettings: usa tamaño/medio/calidad/ orientación del driver.
+    /// - Inicia StartDocument() antes de consultar GetPageSize() para asegurar contexto.
+    /// - Fit proporcional + centrado dentro del área imprimible (mm).
+    /// - Fallback si el driver devuelve 0x0 mm.
+    /// </summary>
     public class ImagePrinter : MonoBehaviour
     {
         [Header("Printer (opcional)")]
-        [Tooltip("Si lo dejas vacío usa la impresora por defecto del sistema.")]
+        [Tooltip("Si lo dejas vacío usa la impresora por defecto de Windows.")]
         [SerializeField] private string overridePrinterName = "";
-
-        [Header("Página")]
-        [Tooltip("Usar tamaño personalizado (mm). Si es false, se usará el tamaño que reporte el driver.")]
-        [SerializeField] private bool useCustom46 = true;     // 4x6" (10x15 cm)
-        [SerializeField] private float paperWidthMm = 101.6f;
-        [SerializeField] private float paperHeightMm = 152.4f;
-        [SerializeField] private int dpi = 300;
-        [SerializeField] private int copies = 1;
-
-        [Header("Márgenes (mm)")]
-        [SerializeField] private float marginMm = 0f; // deja 0 si quieres intentar borderless
 
         [Header("Ajuste de imagen")]
         [SerializeField] private FitMode fitMode = FitMode.FitToPage;
         [SerializeField] private bool centerImage = true;
+
+        [Header("Márgenes (mm)")]
+        [Tooltip("0 si usas borderless en el driver. Aumenta si el modelo tiene margen mínimo.")]
+        [SerializeField] private float marginMm = 0f;
 
         private Printer printer;
 
@@ -36,12 +36,14 @@ namespace dev.xrlab.photoquizz.Printing
         }
 
         /// <summary>
-        /// Imprime un archivo de imagen (PNG/JPG). Devuelve true si el envío fue OK.
+        /// Imprime un archivo (PNG/JPG) usando la configuración actual del driver de Windows.
+        /// Devuelve true si el envío fue OK; si no, 'error' trae el detalle del driver/plugin.
         /// </summary>
         public bool PrintFile(string filePath, out string error)
         {
             error = null;
 
+            // Validación de ruta
             if (string.IsNullOrEmpty(filePath) || !File.Exists(filePath))
             {
                 error = "Archivo no encontrado: " + filePath;
@@ -50,118 +52,94 @@ namespace dev.xrlab.photoquizz.Printing
 
             try
             {
-                // (0) Selección de impresora (si se especifica)
+                // (0) Seleccionar impresora (opcional). No cambiamos settings del driver.
                 if (!string.IsNullOrWhiteSpace(overridePrinterName))
-                    printer.SelectPrinter(overridePrinterName);
+                    printer.SelectPrinter(overridePrinterName); // si no, usa predeterminada. 
 
-                // (1) Configurar impresora (tamaño, dpi, color, copias, dúplex).
-                //     El manual permite dos overloads: con PaperFormat o con ancho/alto custom (mm). 
-                if (useCustom46)
+                int status = 0;
+                float pageW = 0f, pageH = 0f;
+
+                try
                 {
-                    printer.SetPrinterSettings(
-                        Orientation.Portrait,
-                        paperWidthMm,
-                        paperHeightMm,
-                        dpi,
-                        ColorMode.Color,
-                        copies,
-                        DuplexMode.Default
-                    );
-                }
-                else
-                {
-                    // Si no usamos custom, solo fijamos orientación/dpi/copias y dejamos que el driver decida el tamaño.
-                    printer.SetPrinterSettings(
-                        Orientation.Portrait,
-                        PaperFormat.A4,     // valor de cortesía; el driver puede tener otro por defecto
-                        dpi,
-                        ColorMode.Color,
-                        copies,
-                        DuplexMode.Default
-                    );
-                }
+                    // (A) Abrir documento primero para asegurar contexto del driver. 
+                    printer.StartDocument();
 
-                // (2) Tamaño REAL aceptado por el driver (mm). Si no aceptó el custom, aquí sabremos lo que realmente se usará. 
-                float pageW = 0f, pageH = 0f; // algunas versiones del plugin reportan float
-                printer.GetPageSize(ref pageW, ref pageH);
+                    // (B) Tamaño real (mm) reportado por el driver. Si no hay contexto, algunos devuelven 0x0. 
+                    printer.GetPageSize(ref pageW, ref pageH);
 
-                // Determinar tamaño "en uso": respeta el custom si lo aceptó, si no, cae a lo reportado
-                float useW = (useCustom46 ? paperWidthMm : pageW);
-                float useH = (useCustom46 ? paperHeightMm : pageH);
-                if (Mathf.Abs(pageW - useW) > 1f || Mathf.Abs(pageH - useH) > 1f)
-                {
-                    useW = pageW;
-                    useH = pageH;
-                }
+                    // (C) Fallback defensivo si el driver sigue mudo (0x0).
+                    if (pageW <= 0f || pageH <= 0f)
+                    {
+                        // Fallback 4x6 (puedes cambiar por Carta: 215.9 x 279.4)
+                        pageW = 101.6f;   // 4"
+                        pageH = 152.4f;   // 6"
+                        Debug.LogWarning("[Print] GetPageSize devolvió 0x0; usando fallback 4x6 mm.");
+                    }
 
-                // (3) Área imprimible (restando márgenes)
-                float maxW = Mathf.Max(1f, useW - marginMm * 2f);
-                float maxH = Mathf.Max(1f, useH - marginMm * 2f);
+                    // (D) Área imprimible (restando márgenes)
+                    float maxW = Mathf.Max(1f, pageW - marginMm * 2f);
+                    float maxH = Mathf.Max(1f, pageH - marginMm * 2f);
 
-                // (4) Leer tamaño del PNG para conocer su relación de aspecto
-                int imgWpx, imgHpx;
-                {
-                    byte[] bytes = File.ReadAllBytes(filePath);
-                    var tmp = new Texture2D(2, 2, TextureFormat.RGBA32, false);
-                    tmp.LoadImage(bytes, false);
-                    imgWpx = tmp.width; imgHpx = tmp.height;
-                    Destroy(tmp);
-                }
-                float imgAR = Mathf.Max(0.0001f, (float)imgWpx / imgHpx);
+                    // (E) Tamaño de la imagen para obtener la relación de aspecto
+                    int imgWpx, imgHpx;
+                    {
+                        byte[] bytes = File.ReadAllBytes(filePath);
+                        var tmp = new Texture2D(2, 2, TextureFormat.RGBA32, false);
+                        tmp.LoadImage(bytes, false);
+                        imgWpx = tmp.width; imgHpx = tmp.height;
+                        Destroy(tmp);
+                    }
+                    float imgAR = Mathf.Max(0.0001f, (float)imgWpx / imgHpx);
 
-                // (5) Calcular tamaño objetivo según FitMode (en mm)
-                float targetW = maxW, targetH = maxH;
+                    // (F) Calcular tamaño objetivo según FitMode (en mm)
+                    float targetW = maxW, targetH = maxH;
+                    switch (fitMode)
+                    {
+                        case FitMode.Stretch:
+                            targetW = maxW; targetH = maxH; // llena todo, puede deformar
+                            break;
 
-                switch (fitMode)
-                {
-                    case FitMode.Stretch:
-                        targetW = maxW; targetH = maxH; // llena todo, puede deformar
-                        break;
-
-                    case FitMode.FitToWidth:
-                        targetW = maxW;
-                        targetH = targetW / imgAR;
-                        if (targetH > maxH) { targetH = maxH; targetW = targetH * imgAR; }
-                        break;
-
-                    case FitMode.FitToHeight:
-                        targetH = maxH;
-                        targetW = targetH * imgAR;
-                        if (targetW > maxW) { targetW = maxW; targetH = targetW / imgAR; }
-                        break;
-
-                    case FitMode.FitToPage:
-                    default:
-                        if (maxW / maxH > imgAR)
-                        {
-                            targetH = maxH;
-                            targetW = targetH * imgAR;
-                        }
-                        else
-                        {
+                        case FitMode.FitToWidth:
                             targetW = maxW;
                             targetH = targetW / imgAR;
-                        }
-                        break;
-                }
+                            if (targetH > maxH) { targetH = maxH; targetW = targetH * imgAR; }
+                            break;
 
-                // (6) Posición (origen top-left). Centrar opcional.
-                float left = marginMm;
-                float top = marginMm;
-                if (centerImage)
+                        case FitMode.FitToHeight:
+                            targetH = maxH;
+                            targetW = targetH * imgAR;
+                            if (targetW > maxW) { targetW = maxW; targetH = targetW / imgAR; }
+                            break;
+
+                        case FitMode.FitToPage:
+                        default:
+                            if (maxW / maxH > imgAR) { targetH = maxH; targetW = targetH * imgAR; }
+                            else { targetW = maxW; targetH = targetW / imgAR; }
+                            break;
+                    }
+
+                    // (G) Posición: origen top-left en mm; centrado opcional
+                    float left = marginMm;
+                    float top = marginMm;
+                    if (centerImage)
+                    {
+                        left += (maxW - targetW) * 0.5f;
+                        top += (maxH - targetH) * 0.5f;
+                    }
+
+                    // (H) Imprimir desde disco (en mm), dentro de StartDocument/EndDocument
+                    printer.SetPrintPosition(left, top); // mueve el cursor (mm). 
+                    status = printer.PrintImageFromFile(filePath, targetW, targetH); // tamaño en mm. 
+                }
+                finally
                 {
-                    left += (maxW - targetW) * 0.5f;
-                    top += (maxH - targetH) * 0.5f;
+                    // Cerrar documento siempre, incluso si hubo excepción. 
+                    try { printer.EndDocument(); } catch { /* asegurar cierre */ }
                 }
-
-                // (7) Imprimir: siempre entre StartDocument() y EndDocument() en mm.  
-                printer.StartDocument();
-                printer.SetPrintPosition(left, top);
-                int status = printer.PrintImageFromFile(filePath, targetW, targetH);
-                printer.EndDocument();
 
                 if (status < 0)
                 {
+                    // Mensaje del sistema/driver (GDI status) expuesto por el plugin. 
                     error = printer.GetLastGdiStatus();
                     return false;
                 }

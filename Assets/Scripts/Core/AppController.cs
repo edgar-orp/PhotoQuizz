@@ -207,6 +207,7 @@ namespace dev.xrlab.photoquizz.Core
             {
                 Debug.LogError("[Print] Falló la impresión: " + err);
                 SetState(AppState.Error);
+                //Arreglar aqui
             }
         }
 

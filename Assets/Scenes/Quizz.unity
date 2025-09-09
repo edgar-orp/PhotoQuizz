@@ -1014,6 +1014,9 @@ MonoBehaviour:
   UICamera: {fileID: 0}
   ReadyDelaySeconds: 3
   ImagePrinter: {fileID: 1185181434}
+  AutoRestartEnabled: 1
+  AutoRestartDelaySeconds: 5
+  UseHardRestartIfStuck: 0
 --- !u!1 &593239274
 GameObject:
   m_ObjectHideFlags: 0
@@ -2207,12 +2210,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::dev.xrlab.photoquizz.Printing.ImagePrinter
   overridePrinterName: 
-  useCustom46: 1
-  paperWidthMm: 101.6
-  paperHeightMm: 152.4
-  dpi: 300
-  copies: 1
-  marginMm: 4
+  fitMode: 0
+  centerImage: 1
+  marginMm: 0
 --- !u!1 &1206988856
 GameObject:
   m_ObjectHideFlags: 0
