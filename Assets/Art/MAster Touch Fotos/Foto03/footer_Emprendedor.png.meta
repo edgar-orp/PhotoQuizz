@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 001af3d182276a4408eb6524e2a3c636
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8072676895753923944
+    second: footer_Emprendedor_0
+  - first:
+      213: 6084112019509606961
+    second: footer_Emprendedor_1
+  - first:
+      213: -6893566706513805768
+    second: footer_Emprendedor_2
+  - first:
+      213: 3629030095746361563
+    second: footer_Emprendedor_3
+  - first:
+      213: 6742964089005065943
+    second: footer_Emprendedor_4
+  - first:
+      213: -3818604147178126340
+    second: footer_Emprendedor_5
+  - first:
+      213: -1025601871511820953
+    second: footer_Emprendedor_6
+  - first:
+      213: -7474997112963498049
+    second: footer_Emprendedor_7
+  - first:
+      213: -7164076861494426744
+    second: footer_Emprendedor_8
+  - first:
+      213: 4516406893964433435
+    second: footer_Emprendedor_9
+  - first:
+      213: -5801541570040026559
+    second: footer_Emprendedor_10
+  - first:
+      213: -1356627248365871931
+    second: footer_Emprendedor_11
+  - first:
+      213: -7068806531468058765
+    second: footer_Emprendedor_12
+  - first:
+      213: -8443079223374764490
+    second: footer_Emprendedor_13
+  - first:
+      213: -1907359939626559704
+    second: footer_Emprendedor_14
+  - first:
+      213: -279720054593552364
+    second: footer_Emprendedor_15
+  - first:
+      213: -6450708732622888005
+    second: footer_Emprendedor_16
+  - first:
+      213: 5149736707536892899
+    second: footer_Emprendedor_17
+  - first:
+      213: -6384343492089322454
+    second: footer_Emprendedor_18
+  - first:
+      213: -855669679466717309
+    second: footer_Emprendedor_19
+  - first:
+      213: -1604114517363746419
+    second: footer_Emprendedor_20
+  - first:
+      213: 7617994653806681728
+    second: footer_Emprendedor_21
+  - first:
+      213: 3311315958183036401
+    second: footer_Emprendedor_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: footer_Emprendedor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d6ae5add8e70070800000000000000
+      internalID: 8072676895753923944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13afd8095ab1f6450800000000000000
+      internalID: 6084112019509606961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 68
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef8c6aa912550a0800000000000000
+      internalID: -6893566706513805768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 58
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e92805a7ec5230800000000000000
+      internalID: 3629030095746361563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 73
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6cc5afc12d39d50800000000000000
+      internalID: 6742964089005065943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 74
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34d9d82c7910bc0800000000000000
+      internalID: -3818604147178126340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 74
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ef8f188454c1f0800000000000000
+      internalID: -1025601871511820953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 73
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7db0eab9734890800000000000000
+      internalID: -7474997112963498049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 71
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88387072d06149c90800000000000000
+      internalID: -7164076861494426744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 68
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1810ef14208dae30800000000000000
+      internalID: 4516406893964433435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 65
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a2a101ea8cc7fa0800000000000000
+      internalID: -5801541570040026559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc598094ba4c2de0800000000000000
+      internalID: -1356627248365871931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f92e969ed86ed90800000000000000
+      internalID: -7068806531468058765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63624400e2824da80800000000000000
+      internalID: -8443079223374764490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8279fb39d32b785e0800000000000000
+      internalID: -1907359939626559704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 15
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4100665a71c3e1cf0800000000000000
+      internalID: -279720054593552364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 15
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a082c59a7a76a0800000000000000
+      internalID: -6450708732622888005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 16
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3b683404a877740800000000000000
+      internalID: 5149736707536892899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 15
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2460fd6b614667a0800000000000000
+      internalID: -6384343492089322454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 13
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f5056c5fc0024f0800000000000000
+      internalID: -855669679466717309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 9
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899c7d685a0db9e0800000000000000
+      internalID: -1604114517363746419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ed8f896cd88b960800000000000000
+      internalID: 7617994653806681728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Emprendedor_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f50592e15824fd20800000000000000
+      internalID: 3311315958183036401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      footer_Emprendedor_0: 8072676895753923944
+      footer_Emprendedor_1: 6084112019509606961
+      footer_Emprendedor_10: -5801541570040026559
+      footer_Emprendedor_11: -1356627248365871931
+      footer_Emprendedor_12: -7068806531468058765
+      footer_Emprendedor_13: -8443079223374764490
+      footer_Emprendedor_14: -1907359939626559704
+      footer_Emprendedor_15: -279720054593552364
+      footer_Emprendedor_16: -6450708732622888005
+      footer_Emprendedor_17: 5149736707536892899
+      footer_Emprendedor_18: -6384343492089322454
+      footer_Emprendedor_19: -855669679466717309
+      footer_Emprendedor_2: -6893566706513805768
+      footer_Emprendedor_20: -1604114517363746419
+      footer_Emprendedor_21: 7617994653806681728
+      footer_Emprendedor_22: 3311315958183036401
+      footer_Emprendedor_3: 3629030095746361563
+      footer_Emprendedor_4: 6742964089005065943
+      footer_Emprendedor_5: -3818604147178126340
+      footer_Emprendedor_6: -1025601871511820953
+      footer_Emprendedor_7: -7474997112963498049
+      footer_Emprendedor_8: -7164076861494426744
+      footer_Emprendedor_9: 4516406893964433435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

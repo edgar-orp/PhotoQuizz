@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: dbebb332fab3b91479d4468b746e23e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7622120537639663753
+    second: footer_Influenciable_0
+  - first:
+      213: 2682348333080420089
+    second: footer_Influenciable_1
+  - first:
+      213: -3313073026998234364
+    second: footer_Influenciable_2
+  - first:
+      213: 1722903933717679333
+    second: footer_Influenciable_3
+  - first:
+      213: 5674133552137519691
+    second: footer_Influenciable_4
+  - first:
+      213: -358351562012360257
+    second: footer_Influenciable_5
+  - first:
+      213: -8187265345666838233
+    second: footer_Influenciable_6
+  - first:
+      213: -5527949714467739499
+    second: footer_Influenciable_7
+  - first:
+      213: 3654368809489569694
+    second: footer_Influenciable_8
+  - first:
+      213: -286524839275596280
+    second: footer_Influenciable_9
+  - first:
+      213: -8702969850973659078
+    second: footer_Influenciable_10
+  - first:
+      213: -418808947293536316
+    second: footer_Influenciable_11
+  - first:
+      213: 3493054380950750604
+    second: footer_Influenciable_12
+  - first:
+      213: -6403652037004351068
+    second: footer_Influenciable_13
+  - first:
+      213: 4802750924243716983
+    second: footer_Influenciable_14
+  - first:
+      213: 3368447340488315654
+    second: footer_Influenciable_15
+  - first:
+      213: -4503579018031316931
+    second: footer_Influenciable_16
+  - first:
+      213: 9066460834931994801
+    second: footer_Influenciable_17
+  - first:
+      213: -2671203887293656566
+    second: footer_Influenciable_18
+  - first:
+      213: 1872166432103430362
+    second: footer_Influenciable_19
+  - first:
+      213: -6187977952064908213
+    second: footer_Influenciable_20
+  - first:
+      213: 6219073319537953274
+    second: footer_Influenciable_21
+  - first:
+      213: -2847705463149628299
+    second: footer_Influenciable_22
+  - first:
+      213: 3734629556337958329
+    second: footer_Influenciable_23
+  - first:
+      213: -6734905645616222974
+    second: footer_Influenciable_24
+  - first:
+      213: 5239236273188081795
+    second: footer_Influenciable_25
+  - first:
+      213: -246814400082793882
+    second: footer_Influenciable_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: footer_Influenciable_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988b839ce3637c960800000000000000
+      internalID: 7622120537639663753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 61
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe9e15e89d993520800000000000000
+      internalID: 2682348333080420089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 65
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40397d6a2a99502d0800000000000000
+      internalID: -3313073026998234364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec8d57dffbf8e710800000000000000
+      internalID: 1722903933717679333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 71
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42484f17629ebe40800000000000000
+      internalID: 5674133552137519691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 72
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb10c892721e60bf0800000000000000
+      internalID: -358351562012360257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 72
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72199adcb8df06e80800000000000000
+      internalID: -8187265345666838233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 71
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598ade4e507c843b0800000000000000
+      internalID: -5527949714467739499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 68
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9794ef021de6b230800000000000000
+      internalID: 3654368809489569694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 65
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806f6af3d2f060cf0800000000000000
+      internalID: -286524839275596280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 63
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30e7c5e707d83780800000000000000
+      internalID: -8702969850973659078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 5
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf30db3b77103af0800000000000000
+      internalID: -418808947293536316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 7
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8501b5d372d97030800000000000000
+      internalID: 3493054380950750604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9262d7668a127a0800000000000000
+      internalID: -6403652037004351068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bc930058cc6a240800000000000000
+      internalID: 4802750924243716983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 14
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6035a6662012fbe20800000000000000
+      internalID: 3368447340488315654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 14
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30475c7eb21081c0800000000000000
+      internalID: -4503579018031316931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 48
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0fc1cd71a82dd70800000000000000
+      internalID: 9066460834931994801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 14
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a021837973afdead0800000000000000
+      internalID: -2671203887293656566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad87fe963754bf910800000000000000
+      internalID: 1872166432103430362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 8
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44d83186d2ef1aa0800000000000000
+      internalID: -6187977952064908213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 6
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94b2beb369e4650800000000000000
+      internalID: 6219073319537953274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 33
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f60418faea78d0800000000000000
+      internalID: -2847705463149628299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd2396bc114d330800000000000000
+      internalID: 3734629556337958329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20da5459ffec882a0800000000000000
+      internalID: -6734905645616222974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 11
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38097bdb1a185b840800000000000000
+      internalID: 5239236273188081795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Influenciable_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2d9d5c93239cf0800000000000000
+      internalID: -246814400082793882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      footer_Influenciable_0: 7622120537639663753
+      footer_Influenciable_1: 2682348333080420089
+      footer_Influenciable_10: -8702969850973659078
+      footer_Influenciable_11: -418808947293536316
+      footer_Influenciable_12: 3493054380950750604
+      footer_Influenciable_13: -6403652037004351068
+      footer_Influenciable_14: 4802750924243716983
+      footer_Influenciable_15: 3368447340488315654
+      footer_Influenciable_16: -4503579018031316931
+      footer_Influenciable_17: 9066460834931994801
+      footer_Influenciable_18: -2671203887293656566
+      footer_Influenciable_19: 1872166432103430362
+      footer_Influenciable_2: -3313073026998234364
+      footer_Influenciable_20: -6187977952064908213
+      footer_Influenciable_21: 6219073319537953274
+      footer_Influenciable_22: -2847705463149628299
+      footer_Influenciable_23: 3734629556337958329
+      footer_Influenciable_24: -6734905645616222974
+      footer_Influenciable_25: 5239236273188081795
+      footer_Influenciable_26: -246814400082793882
+      footer_Influenciable_3: 1722903933717679333
+      footer_Influenciable_4: 5674133552137519691
+      footer_Influenciable_5: -358351562012360257
+      footer_Influenciable_6: -8187265345666838233
+      footer_Influenciable_7: -5527949714467739499
+      footer_Influenciable_8: 3654368809489569694
+      footer_Influenciable_9: -286524839275596280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

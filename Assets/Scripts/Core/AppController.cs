@@ -58,6 +58,16 @@ namespace dev.xrlab.photoquizz.Core
         [SerializeField] private Image ReviewImage3;
         [SerializeField] private Image ReviewImage4;
 
+        // --- Photo: Profile badge ---
+        [Header("Photo: Profile Badge")]
+        [SerializeField] private Image Profile_Logo; // Image dentro del área capturable (Photo_Ref)
+        [SerializeField] private Sprite Sprite_Emocional;
+        [SerializeField] private Sprite Sprite_Social;
+        [SerializeField] private Sprite Sprite_Emprendedor;
+        [SerializeField] private Sprite Sprite_Influenciable;
+
+        private ProfileId lastProfile = ProfileId.Undefined;
+
         // --- Snapshot ---
         [Header("Snapshot")]
         [SerializeField] private UISnapshot Snapshot;                 // script con CaptureRectToPng(...)
@@ -81,6 +91,9 @@ namespace dev.xrlab.photoquizz.Core
         [SerializeField] private bool UseHardRestartIfStuck = false; // opcional: fallback a recargar escena
 
         private Coroutine autoRestartRoutine;
+
+        [Header("Testing")]
+        [SerializeField] private bool SkipPrintForTesting = false;
 
         private void Awake()
         {
@@ -145,6 +158,8 @@ namespace dev.xrlab.photoquizz.Core
             Debug.Log("[App] Perfil final: " + perfil);
             SetState(AppState.Result);
 
+            lastProfile = perfil;
+
             if (QuizzPanel) QuizzPanel.SetActive(false);
 
             if (ProfileManager) ProfileManager.Begin(perfil);
@@ -200,6 +215,8 @@ namespace dev.xrlab.photoquizz.Core
             SetState(AppState.Review);
             ShowPhotoSection(3);
 
+            UpdateProfileLogo();
+
             // Guardar PNG del área Photo_Ref
             if (Snapshot != null && PhotoRef != null)
             {
@@ -236,6 +253,14 @@ namespace dev.xrlab.photoquizz.Core
         // ===== Print =====
         private void StartPrint()
         {
+            // --- MODO TEST: omitir impresión real y continuar el flujo ---
+            if (SkipPrintForTesting)
+            {
+                Debug.Log("[Print] TEST MODE: omitiendo impresión y continuando como si hubiera impreso.");
+                OnPrintCompleted();
+                return;
+            }
+
             string pngToPrint = lastSnapshotPath;
 
             if (string.IsNullOrEmpty(pngToPrint) || !File.Exists(pngToPrint))
@@ -320,47 +345,59 @@ namespace dev.xrlab.photoquizz.Core
                 StopCoroutine(readyDelayRoutine);
                 readyDelayRoutine = null;
             }
+            if (autoRestartRoutine != null)
+            {
+                StopCoroutine(autoRestartRoutine);
+                autoRestartRoutine = null;
+            }
 
             // 2) Detener secuencia y limpiar sus dígitos/countdown
             if (PhotoSequence != null)
             {
-                PhotoSequence.StopSequence(); // apaga digit3/2/1 y corta coroutine interna
+                PhotoSequence.StopSequence();
                 if (PhotoSequence.Captured != null)
                 {
-                    // Liberar las texturas capturadas (evita leak entre sesiones)
                     foreach (var tex in PhotoSequence.Captured)
-                    {
                         if (tex != null) Destroy(tex);
-                    }
                     PhotoSequence.Captured.Clear();
                 }
             }
 
-            // 3) Limpiar las sprites del Review para no retener texturas
+            // 3) Limpiar las sprites del Review
             ClearImage(ReviewImage1);
             ClearImage(ReviewImage2);
             ClearImage(ReviewImage3);
             ClearImage(ReviewImage4);
 
-            // 4) Detener preview de cámara (si quieres volver directo a Preview, puedes relanzarla luego)
+            // 4) Detener preview de cámara
             if (CameraManager != null)
                 CameraManager.StopPreview();
 
-            // 5) Resetear controles visibles en Section02 por si estaban activos
+            // 5) Resetear controles visibles en Section02
             if (TakePhotoButton) TakePhotoButton.SetActive(true);
             if (CircleTimer) CircleTimer.SetActive(false);
 
-            // 6) Olvidar el último snapshot si lo guardabas
+            // 6) Olvidar el último snapshot y el logo de perfil
             lastSnapshotPath = null;
+            if (Profile_Logo)
+            {
+                Profile_Logo.sprite = null;
+                Profile_Logo.enabled = false;
+            }
 
-            // 7) Volver a Intro (Section01) y estado Home
-            ShowPhotoSection(1);
-            SetState(AppState.Home);
+            // 7) Ocultar paneles que no son de inicio
+            if (PhotoPanel) PhotoPanel.SetActive(false);
+            if (QuizzPanel) QuizzPanel.SetActive(false);
+            if (ProfileManager) ProfileManager.ResetResults();
 
             // 8) Opcional: liberar memoria no referenciada
             Resources.UnloadUnusedAssets();
             System.GC.Collect();
+
+            // 9) Volver al flujo principal de inicio
+            ActivateStart();  // <-- aquí regresas a StartPanel + pantalla 01
         }
+
 
         public void HardRestartScene()
         {
@@ -418,6 +455,25 @@ namespace dev.xrlab.photoquizz.Core
                 // CUIDADO: solo destruye la texture si sabes que fue creada en runtime (tus fotos lo son)
                 if (tex != null) Destroy(tex);
             }
+        }
+
+        private void UpdateProfileLogo()
+        {
+            if (!Profile_Logo) return;
+
+            Sprite s = null;
+            switch (lastProfile)
+            {
+                case ProfileId.Emocional: s = Sprite_Emocional; break;
+                case ProfileId.Social: s = Sprite_Social; break;
+                case ProfileId.Emprendedor: s = Sprite_Emprendedor; break;
+                case ProfileId.Influenciable: s = Sprite_Influenciable; break;
+                default: s = null; break;
+            }
+
+            Profile_Logo.sprite = s;
+            // Mostrar sólo si hay sprite asignado
+            Profile_Logo.enabled = (s != null);
         }
     }
 }

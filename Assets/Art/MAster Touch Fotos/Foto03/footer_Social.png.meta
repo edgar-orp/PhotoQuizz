@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: c47891de0ea77d447aff37174684dbf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1757412865963725977
+    second: footer_Social_0
+  - first:
+      213: -2858907253721063019
+    second: footer_Social_1
+  - first:
+      213: 334387579882426543
+    second: footer_Social_2
+  - first:
+      213: -8713589640563279456
+    second: footer_Social_3
+  - first:
+      213: 3178522609760040312
+    second: footer_Social_4
+  - first:
+      213: -1693272379907313481
+    second: footer_Social_5
+  - first:
+      213: -8138836621742928702
+    second: footer_Social_6
+  - first:
+      213: -2726821806531833359
+    second: footer_Social_7
+  - first:
+      213: 7919228972988422304
+    second: footer_Social_8
+  - first:
+      213: 6592473789173466903
+    second: footer_Social_9
+  - first:
+      213: -7431056242206889266
+    second: footer_Social_10
+  - first:
+      213: -4122903100857737383
+    second: footer_Social_11
+  - first:
+      213: -3351335016199709713
+    second: footer_Social_12
+  - first:
+      213: -2765335150252480138
+    second: footer_Social_13
+  - first:
+      213: 7294973979992708613
+    second: footer_Social_14
+  - first:
+      213: 5064298358573858411
+    second: footer_Social_15
+  - first:
+      213: -322483529725810152
+    second: footer_Social_16
+  - first:
+      213: 2795846148290585804
+    second: footer_Social_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: footer_Social_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994187fb0b5936810800000000000000
+      internalID: 1757412865963725977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 53
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5912b28fffe1358d0800000000000000
+      internalID: -2858907253721063019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 57
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d1347bbbf3a400800000000000000
+      internalID: 334387579882426543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b3b3736c131780800000000000000
+      internalID: -8713589640563279456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 62
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8757b4919716c1c20800000000000000
+      internalID: 3178522609760040312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f4a7edb94088e0800000000000000
+      internalID: -1693272379907313481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 63
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8214c63b0d0f80800000000000000
+      internalID: -8138836621742928702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 63
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f191e7a302682ad0800000000000000
+      internalID: -2726821806531833359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 60
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d4f50bc0c6ed60800000000000000
+      internalID: 7919228972988422304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 57
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71702ca9bfb2d7b50800000000000000
+      internalID: 6592473789173466903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 54
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca2f4918b59fd890800000000000000
+      internalID: -7431056242206889266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f940e497188c6c0800000000000000
+      internalID: -4122903100857737383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb96141f8aad71d0800000000000000
+      internalID: -3351335016199709713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ac4c055e8f99d0800000000000000
+      internalID: -2765335150252480138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 40
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506de233f24fc3560800000000000000
+      internalID: 7294973979992708613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e736b7680084640800000000000000
+      internalID: 5064298358573858411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a67c430fe468bf0800000000000000
+      internalID: -322483529725810152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footer_Social_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc421834247dcc620800000000000000
+      internalID: 2795846148290585804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      footer_Social_0: 1757412865963725977
+      footer_Social_1: -2858907253721063019
+      footer_Social_10: -7431056242206889266
+      footer_Social_11: -4122903100857737383
+      footer_Social_12: -3351335016199709713
+      footer_Social_13: -2765335150252480138
+      footer_Social_14: 7294973979992708613
+      footer_Social_15: 5064298358573858411
+      footer_Social_16: -322483529725810152
+      footer_Social_17: 2795846148290585804
+      footer_Social_2: 334387579882426543
+      footer_Social_3: -8713589640563279456
+      footer_Social_4: 3178522609760040312
+      footer_Social_5: -1693272379907313481
+      footer_Social_6: -8138836621742928702
+      footer_Social_7: -2726821806531833359
+      footer_Social_8: 7919228972988422304
+      footer_Social_9: 6592473789173466903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

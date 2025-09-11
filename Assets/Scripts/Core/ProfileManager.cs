@@ -129,5 +129,27 @@ namespace dev.xrlab.photoquizz.Core
                 default: return null;
             }
         }
+
+        public void ResetResults()
+        {
+            if (delayRoutine != null) { StopCoroutine(delayRoutine); delayRoutine = null; }
+            currentProfile = ProfileId.Undefined;
+            currentStep = -1;
+
+            // Apaga todo
+            if (ResultsStandby) ResultsStandby.SetActive(false);
+            HideArray(EmocionalSteps);
+            HideArray(SocialSteps);
+            HideArray(EmprendedorSteps);
+            HideArray(InfluenciableSteps);
+
+            if (Perfil_Emocional) Perfil_Emocional.SetActive(false);
+            if (Perfil_Social) Perfil_Social.SetActive(false);
+            if (Perfil_Emprendedor) Perfil_Emprendedor.SetActive(false);
+            if (Perfil_Influenciable) Perfil_Influenciable.SetActive(false);
+
+            if (ResultsPanel) ResultsPanel.SetActive(false);
+        }
+
     }
 }
