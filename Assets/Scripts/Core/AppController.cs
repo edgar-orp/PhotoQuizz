@@ -14,11 +14,21 @@ namespace dev.xrlab.photoquizz.Core
         [SerializeField] private AppState state = AppState.Boot;
         public AppState State => state;
 
+        [Header("Quizz Manager")]
+        [SerializeField] private QuizManager QuizManager;
+
         [Header("Camera")]
         [SerializeField] private CameraManager CameraManager;
 
         [Header("Photo Sequence")]
         [SerializeField] private PhotoSequenceController PhotoSequence;
+
+        // --- Start / Quiz Panels ---
+        [Header("Start / Quiz")]
+        [SerializeField] private GameObject StartPanel;      // Panel raíz de arranque
+        [SerializeField] private GameObject StartScreen01;   // Primera pantalla (01)
+        [SerializeField] private GameObject StartScreen02;   // Segunda pantalla (02)
+        [SerializeField] private GameObject QuizzPanel;      // Panel donde inician las preguntas
 
         // --- UI: Photo ---
         [Header("Photo Panel")]
@@ -68,19 +78,64 @@ namespace dev.xrlab.photoquizz.Core
         {
             SetState(AppState.Boot);
 
-            if (PhotoSequence != null)
-                PhotoSequence.OnSequenceCompleted += OnPhotosCaptured;
+            if (PhotoSequence) PhotoSequence.OnSequenceCompleted += OnPhotosCaptured;
+            if (QuizManager) QuizManager.QuizCompleted += OnQuizCompleted;
         }
 
         private void OnDestroy()
         {
-            if (PhotoSequence != null)
-                PhotoSequence.OnSequenceCompleted -= OnPhotosCaptured;
+            if (PhotoSequence) PhotoSequence.OnSequenceCompleted -= OnPhotosCaptured;
+            if (QuizManager) QuizManager.QuizCompleted -= OnQuizCompleted;
         }
 
         private void Start()
         {
-            OnEnterPhotoIntro();
+            ActivateStart();
+        }
+
+        // ====== Start / Quiz Flow ======
+        public void ActivateStart()
+        {
+            // Estado de inicio
+            SetState(AppState.Home);
+
+            // Activar StartPanel y mostrar 01; ocultar lo demás
+            if (StartPanel) StartPanel.SetActive(true);
+            ShowStartScreen(1);
+
+            if (QuizzPanel) QuizzPanel.SetActive(false);
+
+            // Si quieres ocultar el panel de fotos al arranque:
+            if (PhotoPanel) PhotoPanel.SetActive(false);
+        }
+
+        public void OnStartScreen01_Next()
+        {
+            // Botón de la pantalla 01 que envía a la 02
+            ShowStartScreen(2);
+        }
+
+        private void ShowStartScreen(int index)
+        {
+            if (StartScreen01) StartScreen01.SetActive(index == 1);
+            if (StartScreen02) StartScreen02.SetActive(index == 2);
+        }
+
+        public void OnStartScreen02_BeginQuiz()
+        {
+            if (StartPanel) StartPanel.SetActive(false);
+            if (QuizzPanel) QuizzPanel.SetActive(true);
+
+            SetState(AppState.Quiz);
+
+            // Aquí decides cuál mostrar
+            if (QuizManager) QuizManager.ShowQuestion(1);
+        }
+
+        private void OnQuizCompleted(ProfileId perfil)
+        {
+            Debug.Log("[App] Perfil final: " + perfil);
+            // Aquí decides el siguiente paso
         }
 
         // ===== Transiciones enfocadas en Photo =====
