@@ -3753,7 +3753,7 @@ MonoBehaviour:
   AutoRestartEnabled: 1
   AutoRestartDelaySeconds: 5
   UseHardRestartIfStuck: 0
-  SkipPrintForTesting: 1
+  SkipPrintForTesting: 0
 --- !u!1 &534666520
 GameObject:
   m_ObjectHideFlags: 0
