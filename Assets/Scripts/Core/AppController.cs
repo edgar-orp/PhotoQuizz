@@ -23,12 +23,20 @@ namespace dev.xrlab.photoquizz.Core
         [Header("Photo Sequence")]
         [SerializeField] private PhotoSequenceController PhotoSequence;
 
-        // --- Start / Quiz Panels ---
+        // --- Start ---
         [Header("Start / Quiz")]
         [SerializeField] private GameObject StartPanel;      // Panel raíz de arranque
         [SerializeField] private GameObject StartScreen01;   // Primera pantalla (01)
         [SerializeField] private GameObject StartScreen02;   // Segunda pantalla (02)
+
+        // --- Quiz Panel ---
+
         [SerializeField] private GameObject QuizzPanel;      // Panel donde inician las preguntas
+
+        // --- Results Profiles ---
+
+        [Header("Results/Profile")]
+        [SerializeField] private ProfileManager ProfileManager;
 
         // --- UI: Photo ---
         [Header("Photo Panel")]
@@ -135,7 +143,11 @@ namespace dev.xrlab.photoquizz.Core
         private void OnQuizCompleted(ProfileId perfil)
         {
             Debug.Log("[App] Perfil final: " + perfil);
-            // Aquí decides el siguiente paso
+            SetState(AppState.Result);
+
+            if (QuizzPanel) QuizzPanel.SetActive(false);
+
+            if (ProfileManager) ProfileManager.Begin(perfil);
         }
 
         // ===== Transiciones enfocadas en Photo =====
@@ -358,6 +370,7 @@ namespace dev.xrlab.photoquizz.Core
         }
 
         // ===== Helpers =====
+
 
         private void ShowPhotoSection(int index)
         {

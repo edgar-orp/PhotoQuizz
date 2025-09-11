@@ -714,6 +714,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 531043658}
+  - {fileID: 562616620}
   - {fileID: 2143307121}
   - {fileID: 1776645788}
   - {fileID: 1185181433}
@@ -1698,7 +1699,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 236132885}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &236132885
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1827,7 +1840,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &262005942
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2422,7 +2435,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 318267190}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &318267190
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3238,7 +3263,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 489937432}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &489937432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3691,6 +3728,7 @@ MonoBehaviour:
   StartScreen01: {fileID: 678280466}
   StartScreen02: {fileID: 1123709227}
   QuizzPanel: {fileID: 612800066}
+  ProfileManager: {fileID: 562616621}
   PhotoPanel: {fileID: 1739139189}
   Section01: {fileID: 925604191}
   Section02: {fileID: 674222429}
@@ -3785,6 +3823,73 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534666520}
   m_CullTransparentMesh: 1
+--- !u!1 &562616619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 562616620}
+  - component: {fileID: 562616621}
+  m_Layer: 0
+  m_Name: ProfileManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &562616620
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562616619}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 96388401}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &562616621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562616619}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33fdbb8b4ddf64540b4e4250fe1c73fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::dev.xrlab.photoquizz.Core.ProfileManager
+  ResultsPanel: {fileID: 976269160}
+  ResultsStandby: {fileID: 1813367310}
+  Perfil_Emocional: {fileID: 1741565827}
+  Perfil_Social: {fileID: 262005941}
+  Perfil_Emprendedor: {fileID: 1317741701}
+  Perfil_Influenciable: {fileID: 1845075518}
+  EmocionalSteps:
+  - {fileID: 1150131011}
+  - {fileID: 1845881799}
+  - {fileID: 1413044245}
+  SocialSteps:
+  - {fileID: 1306543628}
+  - {fileID: 1994126519}
+  - {fileID: 671533231}
+  EmprendedorSteps:
+  - {fileID: 1338138737}
+  - {fileID: 783501686}
+  - {fileID: 1809866439}
+  InfluenciableSteps:
+  - {fileID: 274528321}
+  - {fileID: 1465805426}
+  - {fileID: 367247216}
+  ResultsDelaySeconds: 3
 --- !u!1 &566058364
 GameObject:
   m_ObjectHideFlags: 0
@@ -4727,7 +4832,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 682927393}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &682927393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5892,7 +6009,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 873922369}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 531043659}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.AppController, Assembly-CSharp
+        m_MethodName: OnEnterPhotoIntro
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &873922369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6424,7 +6553,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 938232446}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &938232446
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8218,7 +8359,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1184851479}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 531043659}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.AppController, Assembly-CSharp
+        m_MethodName: OnEnterPhotoIntro
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1184851479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8396,7 +8549,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1317741702
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8501,7 +8654,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1333981089}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 531043659}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.AppController, Assembly-CSharp
+        m_MethodName: OnEnterPhotoIntro
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1333981089
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9774,7 +9939,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1545165386}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1545165386
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9970,7 +10147,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1546403086}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1546403086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11073,7 +11262,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1741565828
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11421,7 +11610,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1845075519
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12632,7 +12821,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2070093735}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 562616621}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.ProfileManager, Assembly-CSharp
+        m_MethodName: OnNextStep
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2070093735
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13055,7 +13256,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2113315567}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 531043659}
+        m_TargetAssemblyTypeName: dev.xrlab.photoquizz.Core.AppController, Assembly-CSharp
+        m_MethodName: OnEnterPhotoIntro
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2113315567
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13366,7 +13579,6 @@ MonoBehaviour:
   Question_01: {fileID: 835093169}
   Question_02: {fileID: 60545421}
   Question_03: {fileID: 1475627850}
-  profileRules: {fileID: 11400000, guid: 11973bee777a51846b35544612f3362b, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
