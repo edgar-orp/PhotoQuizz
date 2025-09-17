@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: ffcfae844c103f74ea74fca9a8a7d8f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5034884985463859841
+    second: Texto Solo inicio_0
+  - first:
+      213: -8134134254560459453
+    second: Texto Solo inicio_1
+  - first:
+      213: 6242634220792781742
+    second: Texto Solo inicio_2
+  - first:
+      213: -8722536622017767364
+    second: Texto Solo inicio_3
+  - first:
+      213: -3403840874387705161
+    second: Texto Solo inicio_4
+  - first:
+      213: 4003292368512060114
+    second: Texto Solo inicio_5
+  - first:
+      213: -3399995652076941603
+    second: Texto Solo inicio_6
+  - first:
+      213: 4377613989350101118
+    second: Texto Solo inicio_7
+  - first:
+      213: 2608411522161245660
+    second: Texto Solo inicio_8
+  - first:
+      213: -7449621215442575118
+    second: Texto Solo inicio_9
+  - first:
+      213: 1717277608144586437
+    second: Texto Solo inicio_10
+  - first:
+      213: 6862460308037059732
+    second: Texto Solo inicio_11
+  - first:
+      213: 1154492608079596380
+    second: Texto Solo inicio_12
+  - first:
+      213: 3678849798734222258
+    second: Texto Solo inicio_13
+  - first:
+      213: 5475309642233532502
+    second: Texto Solo inicio_14
+  - first:
+      213: -7636301414109904240
+    second: Texto Solo inicio_15
+  - first:
+      213: -209105686851992038
+    second: Texto Solo inicio_16
+  - first:
+      213: -4424494234198737711
+    second: Texto Solo inicio_17
+  - first:
+      213: 6465920465024473574
+    second: Texto Solo inicio_18
+  - first:
+      213: 7704811078583790534
+    second: Texto Solo inicio_19
+  - first:
+      213: 1227351591616258452
+    second: Texto Solo inicio_20
+  - first:
+      213: 5234316806834708133
+    second: Texto Solo inicio_21
+  - first:
+      213: 1359283571940163091
+    second: Texto Solo inicio_22
+  - first:
+      213: 8136970859547601776
+    second: Texto Solo inicio_23
+  - first:
+      213: 4024921304897892980
+    second: Texto Solo inicio_24
+  - first:
+      213: -3147147760877427975
+    second: Texto Solo inicio_25
+  - first:
+      213: 8779866266849192854
+    second: Texto Solo inicio_26
+  - first:
+      213: 3642503003006531106
+    second: Texto Solo inicio_27
+  - first:
+      213: -6125897302182652507
+    second: Texto Solo inicio_28
+  - first:
+      213: -3697927198522811930
+    second: Texto Solo inicio_29
+  - first:
+      213: -4224569787572960582
+    second: Texto Solo inicio_30
+  - first:
+      213: -7334544022915754607
+    second: Texto Solo inicio_31
+  - first:
+      213: -7084511162469938793
+    second: Texto Solo inicio_32
+  - first:
+      213: -7333181417411008629
+    second: Texto Solo inicio_33
+  - first:
+      213: 7740100402038839222
+    second: Texto Solo inicio_34
+  - first:
+      213: 1133640760584811573
+    second: Texto Solo inicio_35
+  - first:
+      213: -961581843034916448
+    second: Texto Solo inicio_36
+  - first:
+      213: 7345961734383708004
+    second: Texto Solo inicio_37
+  - first:
+      213: 389293826201125459
+    second: Texto Solo inicio_38
+  - first:
+      213: -7294409435616649040
+    second: Texto Solo inicio_39
+  - first:
+      213: -5711374277566015946
+    second: Texto Solo inicio_40
+  - first:
+      213: 32554968634061928
+    second: Texto Solo inicio_41
+  - first:
+      213: 3309097230019263666
+    second: Texto Solo inicio_42
+  - first:
+      213: -707808045022418072
+    second: Texto Solo inicio_43
+  - first:
+      213: -4648069322706445718
+    second: Texto Solo inicio_44
+  - first:
+      213: 7430502244765411610
+    second: Texto Solo inicio_45
+  - first:
+      213: -2513649424598807305
+    second: Texto Solo inicio_46
+  - first:
+      213: -6880524977822965763
+    second: Texto Solo inicio_47
+  - first:
+      213: -8313983427945152211
+    second: Texto Solo inicio_48
+  - first:
+      213: -4434718234723115924
+    second: Texto Solo inicio_49
+  - first:
+      213: 4591498100763064953
+    second: Texto Solo inicio_50
+  - first:
+      213: 1681954482768673656
+    second: Texto Solo inicio_51
+  - first:
+      213: -6265932906615912320
+    second: Texto Solo inicio_52
+  - first:
+      213: -4883344478904581845
+    second: Texto Solo inicio_53
+  - first:
+      213: -9049956097733566151
+    second: Texto Solo inicio_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Texto Solo inicio_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 368
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a6583e7318fd540800000000000000
+      internalID: 5034884985463859841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 333
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3454691fdffbd1f80800000000000000
+      internalID: -8134134254560459453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 333
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab1d09bfba42a650800000000000000
+      internalID: 6242634220792781742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 334
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389b40082353f680800000000000000
+      internalID: -8722536622017767364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 333
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b27a2252c023c0d0800000000000000
+      internalID: -3403840874387705161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 382
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da8135e23d8e8730800000000000000
+      internalID: 4003292368512060114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 331
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddec418e7f9c0d0d0800000000000000
+      internalID: -3399995652076941603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 311
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705efecab860cc30800000000000000
+      internalID: 4377613989350101118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 321
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf47e9570f23420800000000000000
+      internalID: 2608411522161245660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 324
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0e45e69f0ad9890800000000000000
+      internalID: -7449621215442575118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 329
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6c036d2eef4d710800000000000000
+      internalID: 1717277608144586437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 327
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49444c19a4b5c3f50800000000000000
+      internalID: 6862460308037059732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 316
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b066809e4950010800000000000000
+      internalID: 1154492608079596380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_13
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 312
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3129b8666ed0330800000000000000
+      internalID: 3678849798734222258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 249
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d9943c153cfb40800000000000000
+      internalID: 5475309642233532502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 252
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928a2e9258660690800000000000000
+      internalID: -7636301414109904240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 302
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a164ca65c7b191df0800000000000000
+      internalID: -209105686851992038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 254
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcf1db9fe90992c0800000000000000
+      internalID: -4424494234198737711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 252
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e956bfa7609bb950800000000000000
+      internalID: 6465920465024473574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 286
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb2b78aadcfcea60800000000000000
+      internalID: 7704811078583790534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4912cc015cd680110800000000000000
+      internalID: 1227351591616258452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 238
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae5d39376704a840800000000000000
+      internalID: 5234316806834708133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 244
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7486f4352dd210800000000000000
+      internalID: 1359283571940163091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 251
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b2a0f92e35ce070800000000000000
+      internalID: 8136970859547601776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 250
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47237531a946bd730800000000000000
+      internalID: 4024921304897892980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 246
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f22c3929c51354d0800000000000000
+      internalID: -3147147760877427975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 243
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b2bfa1ad958d970800000000000000
+      internalID: 8779866266849192854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_27
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 238
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2267f73be25cc8230800000000000000
+      internalID: 3642503003006531106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 231
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a511ec2cd07cfaa0800000000000000
+      internalID: -6125897302182652507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 87
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9dace2ec25eacc0800000000000000
+      internalID: -3697927198522811930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 87
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2cdd239205f55c0800000000000000
+      internalID: -4224569787572960582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 87
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19554ac3217763a90800000000000000
+      internalID: -7334544022915754607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 72
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79980b112a2cead90800000000000000
+      internalID: -7084511162469938793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 87
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a8bd8a5e4b3a90800000000000000
+      internalID: -7333181417411008629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 87
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7126d8e4c5a6b60800000000000000
+      internalID: 7740100402038839222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 87
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534bf85f3408bbf00800000000000000
+      internalID: 1133640760584811573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 87
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9307f8866c7a2f0800000000000000
+      internalID: -961581843034916448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 87
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467ad8fd64912f560800000000000000
+      internalID: 7345961734383708004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_38
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 86
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35288ff1cac076500800000000000000
+      internalID: 389293826201125459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0efc7044d05ca90800000000000000
+      internalID: -7294409435616649040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 12
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636df5eca5f1db0b0800000000000000
+      internalID: -5711374277566015946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647b1d4298a37000800000000000000
+      internalID: 32554968634061928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf68af5664ced20800000000000000
+      internalID: 3309097230019263666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_43
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 12
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b664b455c5d26f0800000000000000
+      internalID: -707808045022418072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a11b8d39dbe7fb0800000000000000
+      internalID: -4648069322706445718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192cf15c627e1760800000000000000
+      internalID: 7430502244765411610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 12
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc4cec8a29bd1dd0800000000000000
+      internalID: -2513649424598807305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd8acbcf67380a0800000000000000
+      internalID: -6880524977822965763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 11
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2148d42f1cce9c80800000000000000
+      internalID: -8313983427945152211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_49
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c916cf247b472c0800000000000000
+      internalID: -4434718234723115924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_50
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 12
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97afcd2223748bf30800000000000000
+      internalID: 4591498100763064953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 11
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b7dc1d0b0875710800000000000000
+      internalID: 1681954482768673656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_52
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0884ab2483fea09a0800000000000000
+      internalID: -6265932906615912320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_53
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21070bc110ea3cb0800000000000000
+      internalID: -4883344478904581845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texto Solo inicio_54
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e5b9b0e8186280800000000000000
+      internalID: -9049956097733566151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Texto Solo inicio_0: 5034884985463859841
+      Texto Solo inicio_1: -8134134254560459453
+      Texto Solo inicio_10: 1717277608144586437
+      Texto Solo inicio_11: 6862460308037059732
+      Texto Solo inicio_12: 1154492608079596380
+      Texto Solo inicio_13: 3678849798734222258
+      Texto Solo inicio_14: 5475309642233532502
+      Texto Solo inicio_15: -7636301414109904240
+      Texto Solo inicio_16: -209105686851992038
+      Texto Solo inicio_17: -4424494234198737711
+      Texto Solo inicio_18: 6465920465024473574
+      Texto Solo inicio_19: 7704811078583790534
+      Texto Solo inicio_2: 6242634220792781742
+      Texto Solo inicio_20: 1227351591616258452
+      Texto Solo inicio_21: 5234316806834708133
+      Texto Solo inicio_22: 1359283571940163091
+      Texto Solo inicio_23: 8136970859547601776
+      Texto Solo inicio_24: 4024921304897892980
+      Texto Solo inicio_25: -3147147760877427975
+      Texto Solo inicio_26: 8779866266849192854
+      Texto Solo inicio_27: 3642503003006531106
+      Texto Solo inicio_28: -6125897302182652507
+      Texto Solo inicio_29: -3697927198522811930
+      Texto Solo inicio_3: -8722536622017767364
+      Texto Solo inicio_30: -4224569787572960582
+      Texto Solo inicio_31: -7334544022915754607
+      Texto Solo inicio_32: -7084511162469938793
+      Texto Solo inicio_33: -7333181417411008629
+      Texto Solo inicio_34: 7740100402038839222
+      Texto Solo inicio_35: 1133640760584811573
+      Texto Solo inicio_36: -961581843034916448
+      Texto Solo inicio_37: 7345961734383708004
+      Texto Solo inicio_38: 389293826201125459
+      Texto Solo inicio_39: -7294409435616649040
+      Texto Solo inicio_4: -3403840874387705161
+      Texto Solo inicio_40: -5711374277566015946
+      Texto Solo inicio_41: 32554968634061928
+      Texto Solo inicio_42: 3309097230019263666
+      Texto Solo inicio_43: -707808045022418072
+      Texto Solo inicio_44: -4648069322706445718
+      Texto Solo inicio_45: 7430502244765411610
+      Texto Solo inicio_46: -2513649424598807305
+      Texto Solo inicio_47: -6880524977822965763
+      Texto Solo inicio_48: -8313983427945152211
+      Texto Solo inicio_49: -4434718234723115924
+      Texto Solo inicio_5: 4003292368512060114
+      Texto Solo inicio_50: 4591498100763064953
+      Texto Solo inicio_51: 1681954482768673656
+      Texto Solo inicio_52: -6265932906615912320
+      Texto Solo inicio_53: -4883344478904581845
+      Texto Solo inicio_54: -9049956097733566151
+      Texto Solo inicio_6: -3399995652076941603
+      Texto Solo inicio_7: 4377613989350101118
+      Texto Solo inicio_8: 2608411522161245660
+      Texto Solo inicio_9: -7449621215442575118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
