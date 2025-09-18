@@ -1,7 +1,9 @@
+using dev.xrlab.photoquizz.Audio;
+using dev.xrlab.photoquizz.Camera;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using dev.xrlab.photoquizz.Camera;
+using UnityEngine.UI;
 
 namespace dev.xrlab.photoquizz.Core
 {
@@ -22,10 +24,27 @@ namespace dev.xrlab.photoquizz.Core
         [SerializeField] private int countdownFrom = 3;   // 3 -> 2 -> 1
         [SerializeField] private float delayBetweenPhotos = 0.3f;
 
+        [SerializeField] private Image flashOverlay;      // arrástralo desde el Canvas
+        [SerializeField, Range(0f, 1f)] private float flashAlpha = 1f;
+        [SerializeField] private float flashDuration = 0.08f; // 80 ms
+        [SerializeField] private float flashFadeOut = 0.10f;  // 100 ms de desvanecido
+
         // Resultado en memoria (temporal)
         public List<Texture2D> Captured;
 
         private Coroutine running;
+
+        private void Awake()
+        {
+            if (flashOverlay != null)
+            {
+                var c = flashOverlay.color;
+                c.a = 0f;
+                flashOverlay.color = c;
+                flashOverlay.enabled = false;
+                flashOverlay.raycastTarget = false;
+            }
+        }
 
         public void StartPhotoSequence()
         {
@@ -67,6 +86,9 @@ namespace dev.xrlab.photoquizz.Core
                 var photo = cameraManager.CapturePhoto();
                 if (photo != null) Captured.Add(photo);
 
+                SoundManager.Instance.Play("CameraShooting");
+                yield return StartCoroutine(FlashOnce()); // flash visual
+
                 if (i < photosToTake - 1)
                     yield return new WaitForSeconds(delayBetweenPhotos);
             }
@@ -89,6 +111,36 @@ namespace dev.xrlab.photoquizz.Core
             if (digit3) digit3.SetActive(false);
             if (digit2) digit2.SetActive(false);
             if (digit1) digit1.SetActive(false);
+        }
+
+        private IEnumerator FlashOnce()
+        {
+            if (flashOverlay == null) yield break;
+
+            flashOverlay.enabled = true;
+
+            // subir alpha instantáneo
+            var c = flashOverlay.color;
+            c.a = flashAlpha;
+            flashOverlay.color = c;
+
+            // mantener un instante
+            yield return new WaitForSeconds(flashDuration);
+
+            // desvanecer
+            float t = 0f;
+            while (t < flashFadeOut)
+            {
+                t += Time.deltaTime;
+                c.a = Mathf.Lerp(flashAlpha, 0f, t / flashFadeOut);
+                flashOverlay.color = c;
+                yield return null;
+            }
+
+            // apagar
+            c.a = 0f;
+            flashOverlay.color = c;
+            flashOverlay.enabled = false;
         }
     }
 }

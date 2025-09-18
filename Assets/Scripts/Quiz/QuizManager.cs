@@ -1,3 +1,4 @@
+using dev.xrlab.photoquizz.Audio;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
@@ -34,6 +35,8 @@ namespace dev.xrlab.photoquizz.Core
                 var perfil = ComputeProfileFromClientRules();
                 QuizCompleted?.Invoke(perfil);   // <-- notifica a AppManager
             }
+
+            SoundManager.Instance.Play("ButtonQuestion");
         }
 
 

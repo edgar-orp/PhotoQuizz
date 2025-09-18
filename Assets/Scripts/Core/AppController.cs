@@ -6,6 +6,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using dev.xrlab.photoquizz.Audio;
 
 namespace dev.xrlab.photoquizz.Core
 {
@@ -84,6 +85,10 @@ namespace dev.xrlab.photoquizz.Core
         private Coroutine readyDelayRoutine;
         private string lastSnapshotPath = null;
 
+        // --- Coroutines manejadas ---
+        private Coroutine snapshotRoutine;
+        private int generation = 0;
+
         // --- Auto Restart ---
         [Header("Auto Restart")]
         [SerializeField] private bool AutoRestartEnabled = true;
@@ -128,12 +133,16 @@ namespace dev.xrlab.photoquizz.Core
 
             // Si quieres ocultar el panel de fotos al arranque:
             if (PhotoPanel) PhotoPanel.SetActive(false);
+
+            SoundManager.Instance.Play("LoadApp");
         }
 
         public void OnStartScreen01_Next()
         {
             // Botón de la pantalla 01 que envía a la 02
             ShowStartScreen(2);
+
+            SoundManager.Instance.Play("ButtonNext");
         }
 
         private void ShowStartScreen(int index)
@@ -151,6 +160,8 @@ namespace dev.xrlab.photoquizz.Core
 
             // Aquí decides cuál mostrar
             if (QuizManager) QuizManager.ShowQuestion(1);
+
+            SoundManager.Instance.Play("ButtonNext");
         }
 
         private void OnQuizCompleted(ProfileId perfil)
@@ -173,6 +184,8 @@ namespace dev.xrlab.photoquizz.Core
 
             if (PhotoPanel) PhotoPanel.SetActive(true);
             ShowPhotoSection(1);
+
+            SoundManager.Instance.Play("ButtonNext");
         }
 
         public void OnStartCamera()
@@ -184,6 +197,8 @@ namespace dev.xrlab.photoquizz.Core
 
             if (TakePhotoButton) TakePhotoButton.SetActive(true);
             if (CircleTimer) CircleTimer.SetActive(false);
+
+            SoundManager.Instance.Play("ButtonNext");
         }
 
         public void OnStartPhotoSequence()
@@ -196,6 +211,8 @@ namespace dev.xrlab.photoquizz.Core
             if (CircleTimer) CircleTimer.SetActive(true);
 
             if (PhotoSequence) PhotoSequence.StartPhotoSequence();
+
+            SoundManager.Instance.Play("ButtonNext");
         }
 
         private void OnPhotosCaptured(List<Texture2D> photos)
@@ -217,6 +234,8 @@ namespace dev.xrlab.photoquizz.Core
 
             UpdateProfileLogo();
 
+            SoundManager.Instance.Play("CameraComplete");
+
             // Guardar PNG del área Photo_Ref
             if (Snapshot != null && PhotoRef != null)
             {
@@ -228,16 +247,18 @@ namespace dev.xrlab.photoquizz.Core
                 // Guardamos la referencia del último snapshot para imprimirla
                 lastSnapshotPath = path;
 
-                StartCoroutine(Snapshot.CaptureRectToPng(PhotoRef, path, UICamera));
+                if (snapshotRoutine != null) { StopCoroutine(snapshotRoutine); snapshotRoutine = null; }
+                snapshotRoutine = StartCoroutine(Snapshot.CaptureRectToPng(PhotoRef, path, UICamera));
             }
 
             if (readyDelayRoutine != null) StopCoroutine(readyDelayRoutine);
-            readyDelayRoutine = StartCoroutine(GoToReadyAfterDelay());
+            readyDelayRoutine = StartCoroutine(GoToReadyAfterDelay(generation));
         }
 
-        private System.Collections.IEnumerator GoToReadyAfterDelay()
+        private System.Collections.IEnumerator GoToReadyAfterDelay(int genAtStart)
         {
             yield return new WaitForSeconds(ReadyDelaySeconds);
+            if (genAtStart != generation) yield break; // hubo reset; no continúes
             OnEnterReadyAndPrint();
         }
 
@@ -350,6 +371,16 @@ namespace dev.xrlab.photoquizz.Core
                 StopCoroutine(autoRestartRoutine);
                 autoRestartRoutine = null;
             }
+
+            // NUEVO: cancelar snapshot en curso
+            if (snapshotRoutine != null)
+            {
+                StopCoroutine(snapshotRoutine);
+                snapshotRoutine = null;
+            }
+
+            // NUEVO: invalida coroutines anteriores
+            generation++;
 
             // 2) Detener secuencia y limpiar sus dígitos/countdown
             if (PhotoSequence != null)

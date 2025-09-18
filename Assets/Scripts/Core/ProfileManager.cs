@@ -1,3 +1,4 @@
+using dev.xrlab.photoquizz.Audio;
 using System.Collections;
 using UnityEngine;
 
@@ -46,6 +47,8 @@ namespace dev.xrlab.photoquizz.Core
         public void OnNextStep()
         {
             if (currentProfile == ProfileId.Undefined) return;
+
+            SoundManager.Instance.Play("ButtonNext");
 
             // primera vez: salir de Standby y mostrar paso 0
             if (currentStep < 0)
