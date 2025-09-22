@@ -4256,7 +4256,7 @@ MonoBehaviour:
   - {fileID: 274528321}
   - {fileID: 1465805426}
   - {fileID: 367247216}
-  ResultsDelaySeconds: 3
+  ResultsDelaySeconds: 6
 --- !u!1 &566058364
 GameObject:
   m_ObjectHideFlags: 0
