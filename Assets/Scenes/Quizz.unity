@@ -4047,6 +4047,7 @@ GameObject:
   m_Component:
   - component: {fileID: 531043658}
   - component: {fileID: 531043659}
+  - component: {fileID: 531043660}
   m_Layer: 0
   m_Name: AppController
   m_TagString: Untagged
@@ -4115,6 +4116,19 @@ MonoBehaviour:
   AutoRestartDelaySeconds: 5
   UseHardRestartIfStuck: 0
   SkipPrintForTesting: 0
+--- !u!114 &531043660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531043657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d748cd0c482c2544b7cdf8ba8bb4570, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::dev.xrlab.photoquizz.Core.HardResetHotkey
+  appController: {fileID: 531043659}
 --- !u!1 &534666520
 GameObject:
   m_ObjectHideFlags: 0
