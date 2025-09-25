@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement; // <-- NUEVO
 
 namespace dev.xrlab.photoquizz.Audio
 {
@@ -37,7 +38,49 @@ namespace dev.xrlab.photoquizz.Audio
             Instance = this;
             DontDestroyOnLoad(gameObject);
 
-            // Mapear claves → clips
+            Rebuild(); // <-- asegura mapa + AudioSource listos
+
+            // Re-inicializa cada vez que cargues escena (incluye tu CTRL+R)
+            SceneManager.sceneLoaded += OnSceneLoaded; // <-- NUEVO
+        }
+
+        private void OnDestroy()
+        {
+            if (Instance == this)
+            {
+                SceneManager.sceneLoaded -= OnSceneLoaded; // <-- NUEVO
+                Instance = null;
+            }
+        }
+
+        private void OnSceneLoaded(Scene s, LoadSceneMode mode) // <-- NUEVO
+        {
+            // Por si algo se perdió al recargar la escena
+            Rebuild();
+        }
+
+        private void OnEnable() // <-- opcional pero útil en editor
+        {
+            // Si vuelves desde un dominio recargado en editor, repón dependencias
+            if (Instance == this && (sfxSource == null || _map.Count == 0))
+                Rebuild();
+        }
+
+        // --- Núcleo de “auto-sanación” ---
+        private void Rebuild() // <-- NUEVO
+        {
+            // Asegura AudioSource
+            if (sfxSource == null)
+            {
+                sfxSource = GetComponent<AudioSource>();
+                if (sfxSource == null)
+                    sfxSource = gameObject.AddComponent<AudioSource>();
+                sfxSource.playOnAwake = false;
+                sfxSource.loop = false;
+                sfxSource.spatialBlend = 0f; // 2D
+            }
+
+            // Reconstruye el mapa de clips (por si se perdió referencia)
             _map.Clear();
             foreach (var nc in clips)
             {
@@ -45,30 +88,17 @@ namespace dev.xrlab.photoquizz.Audio
                     _map[nc.key] = nc.clip;
             }
 
-            if (sfxSource == null)
-            {
-                // Crear uno simple si no se asignó
-                sfxSource = gameObject.AddComponent<AudioSource>();
-                sfxSource.playOnAwake = false;
-                sfxSource.loop = false;
-                sfxSource.spatialBlend = 0f; // 2D
-            }
+            // Asegura que el audio global no esté pausado
+            AudioListener.pause = false;
         }
 
-        public void SetMuted(bool value)
-        {
-            muted = value;
-        }
+        public void SetMuted(bool value) => muted = value;
+        public void SetVolume(float value01) => masterVolume = Mathf.Clamp01(value01);
 
-        public void SetVolume(float value01)
-        {
-            masterVolume = Mathf.Clamp01(value01);
-        }
-
-        /// <summary> Reproduce un clip registrado por clave. </summary>
         public void Play(string key, float volume01 = 1f, float pitch = 1f)
         {
-            if (muted || sfxSource == null || string.IsNullOrWhiteSpace(key)) return;
+            if (muted || string.IsNullOrWhiteSpace(key)) return;
+            if (sfxSource == null || _map.Count == 0) Rebuild(); // <-- NUEVO safeguard
 
             if (_map.TryGetValue(key, out var clip) && clip != null)
             {
@@ -85,10 +115,10 @@ namespace dev.xrlab.photoquizz.Audio
 #endif
         }
 
-        /// <summary> Reproduce un AudioClip directo (sin registrarlo). </summary>
         public void PlayClip(AudioClip clip, float volume01 = 1f, float pitch = 1f)
         {
-            if (muted || sfxSource == null || clip == null) return;
+            if (muted || clip == null) return;
+            if (sfxSource == null) Rebuild(); // <-- NUEVO safeguard
 
             var prevPitch = sfxSource.pitch;
             sfxSource.pitch = pitch;
