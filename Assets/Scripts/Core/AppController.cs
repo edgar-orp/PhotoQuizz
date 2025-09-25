@@ -320,7 +320,31 @@ namespace dev.xrlab.photoquizz.Core
             {
                 Debug.LogError("[Print] Falló la impresión: " + err);
                 SetState(AppState.Error);
-                //Arreglar aqui
+
+                try
+                {
+                    string failedDir = Path.Combine(
+                        Environment.GetFolderPath(Environment.SpecialFolder.MyPictures),
+                        "xrlab.dev", "failed");
+
+                    if (!Directory.Exists(failedDir))
+                        Directory.CreateDirectory(failedDir);
+
+                    string fileName = Path.GetFileName(pngToPrint);
+                    string destPath = Path.Combine(failedDir, fileName);
+
+                    // Mover archivo
+                    File.Move(pngToPrint, destPath);
+
+                    Debug.Log("[Print] Foto movida a carpeta de fallidos: " + destPath);
+                }
+                catch (Exception ex)
+                {
+                    Debug.LogError("[Print] No se pudo mover el archivo fallido: " + ex.Message);
+                }
+
+                // Y seguimos el flujo normal:
+                OnPrintCompleted();
             }
         }
 
